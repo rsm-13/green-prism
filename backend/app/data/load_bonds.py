@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 import pandas as pd
 
-DATA_DIR = Path(__file__).resolve().parents[2] / "data"
+DATA_DIR = Path(__file__).resolve().parents[3] / "data"
 BONDS_CSV = DATA_DIR / "bonds.csv"
 
 
