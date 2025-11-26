@@ -10,7 +10,8 @@
   "dependencies": {
     "lightweight-charts": "^5.0.9",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.9.6"
   },
   "devDependencies": {
     "@types/react": "^19.2.7",
