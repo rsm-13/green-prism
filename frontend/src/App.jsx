@@ -2,6 +2,21 @@ import React, { useEffect, useState } from "react";
 import { analyzeText, fetchBonds, fetchBondDetail } from "./api";
 import Chart from "./components/Chart";
 
+// Time range options (label -> days)
+const RANGE_LABELS = ["3M", "6M", "1Y", "3Y"];
+const RANGE_DAYS = {
+  "3M": 90,
+  "6M": 180,
+  "1Y": 365,
+  "3Y": 365 * 3,
+};
+
+// ETF options
+const ETF_OPTIONS = [
+  { id: "grnb", label: "GRNB – VanEck Green Bond ETF" },
+  { id: "bgrn", label: "BGRN – iShares USD Green Bond ETF" },
+];
+
 export default function App() {
   const [bonds, setBonds] = useState([]);
   const [selectedBondId, setSelectedBondId] = useState(null);
@@ -12,6 +27,9 @@ export default function App() {
   const [analysis, setAnalysis] = useState(null);
   const [loading, setLoading] = useState(false);
 
+  // market-related state
+  const [selectedEtf, setSelectedEtf] = useState("grnb");
+  const [selectedRange, setSelectedRange] = useState("1Y");
   const [prices, setPrices] = useState([]);
 
   // Load sample bonds on mount
@@ -30,19 +48,24 @@ export default function App() {
       .catch(console.error);
   }, [selectedBondId]);
 
-  // Load market prices once on mount
+  // Load market prices whenever ETF or range changes
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/api/market/grnb")
+    const days = RANGE_DAYS[selectedRange] || 365;
+    fetch(
+      `http://127.0.0.1:8000/api/market/${selectedEtf}?days=${encodeURIComponent(
+        days
+      )}`
+    )
       .then((res) => res.json())
       .then((data) => {
-        console.log("Market prices:", data);
-        setPrices(data || []);
+        console.log("Market data", selectedEtf, selectedRange, data);
+        setPrices(Array.isArray(data) ? data : []);
       })
       .catch((err) => {
         console.error("Market API error:", err);
         setPrices([]);
       });
-  }, []);
+  }, [selectedEtf, selectedRange]);
 
   async function handleAnalyze() {
     setLoading(true);
@@ -62,6 +85,24 @@ export default function App() {
     }
   }
 
+  // Compute simple return metrics from prices
+  let periodReturn = null;
+  let annualizedReturn = null;
+  const daysForRange = RANGE_DAYS[selectedRange] || 365;
+
+  if (prices.length > 1) {
+    const first = prices[0].value;
+    const last = prices[prices.length - 1].value;
+    if (first > 0) {
+      const ratio = last / first;
+      periodReturn = (ratio - 1) * 100;
+      const years = daysForRange / 365;
+      if (years > 0) {
+        annualizedReturn = (Math.pow(ratio, 1 / years) - 1) * 100;
+      }
+    }
+  }
+
   return (
     <div
       style={{
@@ -74,8 +115,8 @@ export default function App() {
       <h1>Green Prism MVP</h1>
       <p style={{ maxWidth: 700 }}>
         Green bond transparency &amp; impact predictor — select a sample bond or
-        paste disclosure text to analyze it. Below, see how the green bond
-        market proxy (GRNB ETF) has been performing.
+        paste disclosure text to analyze it. Below, compare green bond ETF
+        performance over various time horizons.
       </p>
 
       {/* ---------- TOP GRID: BONDS + ANALYZER ---------- */}
@@ -222,12 +263,92 @@ export default function App() {
 
       {/* ---------- BOTTOM SECTION: MARKET CHART ---------- */}
       <section style={{ marginTop: "2.5rem" }}>
-        <h2>Green Bond Market Proxy (GRNB ETF)</h2>
-        <p style={{ maxWidth: 700 }}>
-          GRNB is a green bond ETF used as a proxy for the overall green bond
-          market. This chart shows its recent price history.
-        </p>
+        <h2>Green Bond ETFs – Market View</h2>
 
+        {/* ETF + Range controls */}
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.75rem",
+            marginTop: "0.75rem",
+            marginBottom: "0.75rem",
+            alignItems: "center",
+          }}
+        >
+          <div>
+            <strong>ETF:</strong>{" "}
+            {ETF_OPTIONS.map((etf) => (
+              <button
+                key={etf.id}
+                onClick={() => setSelectedEtf(etf.id)}
+                style={{
+                  marginLeft: "0.5rem",
+                  padding: "0.25rem 0.6rem",
+                  borderRadius: 999,
+                  border:
+                    selectedEtf === etf.id
+                      ? "1px solid #2962FF"
+                      : "1px solid #ccc",
+                  backgroundColor:
+                    selectedEtf === etf.id ? "#e3f2fd" : "#fff",
+                  cursor: "pointer",
+                  fontSize: 12,
+                }}
+              >
+                {etf.label}
+              </button>
+            ))}
+          </div>
+
+          <div>
+            <strong>Range:</strong>{" "}
+            {RANGE_LABELS.map((label) => (
+              <button
+                key={label}
+                onClick={() => setSelectedRange(label)}
+                style={{
+                  marginLeft: "0.5rem",
+                  padding: "0.25rem 0.6rem",
+                  borderRadius: 999,
+                  border:
+                    selectedRange === label
+                      ? "1px solid #2962FF"
+                      : "1px solid #ccc",
+                  backgroundColor:
+                    selectedRange === label ? "#e3f2fd" : "#fff",
+                  cursor: "pointer",
+                  fontSize: 12,
+                }}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* Metrics */}
+        <div style={{ marginBottom: "1rem" }}>
+          {periodReturn !== null && (
+            <p style={{ margin: 0 }}>
+              <strong>Price return ({selectedRange}):</strong>{" "}
+              {periodReturn.toFixed(2)}%
+            </p>
+          )}
+          {annualizedReturn !== null && (
+            <p style={{ margin: 0 }}>
+              <strong>Annualized return (price-only proxy):</strong>{" "}
+              {annualizedReturn.toFixed(2)}%
+            </p>
+          )}
+          {periodReturn === null && (
+            <p style={{ margin: 0 }}>
+              Not enough data yet for return calculations.
+            </p>
+          )}
+        </div>
+
+        {/* Chart */}
         {prices.length > 0 ? (
           <div style={{ marginTop: "1rem" }}>
             <Chart data={prices} height={420} />
