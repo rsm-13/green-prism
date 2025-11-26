@@ -1,0 +1,3 @@
+bond_id,issuer_name,currency,use_of_proceeds,claimed_impact_co2_tons
+sample-1,Sample Green Issuer,USD,"Renewable energy projects including solar and wind farms",50000
+sample-2,Climate Transport Corp,EUR,"Low-carbon public transportation infrastructure",75000
