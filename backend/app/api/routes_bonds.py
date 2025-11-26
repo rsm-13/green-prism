@@ -22,7 +22,14 @@ def get_bond_detail(bond_id: str):
     disclosure_text = str(bond.get("use_of_proceeds") or "")
     claimed = bond.get("claimed_impact_co2_tons")
 
-    scores = score_disclosure(disclosure_text, claimed_impact_co2_tons=claimed)
+    scores = score_disclosure(
+        disclosure_text,
+        claimed_impact_co2_tons=claimed,
+        external_review=bond.get("external_review"),
+        reporting_practices=bond.get("reporting_practices"),
+        certification=bond.get("certification"),
+    )
+
 
     return {
         "bond": bond,
