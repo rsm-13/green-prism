@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { analyzeText, fetchBonds, fetchBondDetail } from "./api";
 import Chart from "./components/Chart";
+import { useTheme } from "./ThemeContext";
 
 // Time range options (label -> days)
 const RANGE_LABELS = ["3M", "6M", "1Y", "3Y"];
@@ -18,6 +19,8 @@ const ETF_OPTIONS = [
 ];
 
 export default function App() {
+  const { theme, toggleTheme } = useTheme();
+
   const [bonds, setBonds] = useState([]);
   const [selectedBondId, setSelectedBondId] = useState(null);
   const [bondDetail, setBondDetail] = useState(null);
@@ -103,6 +106,11 @@ export default function App() {
     }
   }
 
+  const bgColor = theme === "dark" ? "#020617" : "#ffffff";
+  const textColor = theme === "dark" ? "#e5e7eb" : "#111827";
+  const cardBg = theme === "dark" ? "#0b1120" : "#ffffff";
+  const cardBorder = theme === "dark" ? "#1f2937" : "#dddddd";
+
   return (
     <div
       style={{
@@ -110,14 +118,44 @@ export default function App() {
         padding: "1.5rem",
         maxWidth: 1200,
         margin: "0 auto",
+        minHeight: "100vh",
+        backgroundColor: bgColor,
+        color: textColor,
+        transition: "background-color 0.25s ease, color 0.25s ease",
       }}
     >
-      <h1>Green Prism MVP</h1>
-      <p style={{ maxWidth: 700 }}>
-        Green bond transparency &amp; impact predictor — select a sample bond or
-        paste disclosure text to analyze it. Below, compare green bond ETF
-        performance over various time horizons.
-      </p>
+      {/* Top bar: title + theme toggle */}
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          marginBottom: "1rem",
+        }}
+      >
+        <div>
+          <h1 style={{ marginBottom: 4 }}>Green Prism MVP</h1>
+          <p style={{ maxWidth: 700, marginTop: 0 }}>
+            Green bond transparency &amp; impact predictor — select a sample
+            bond or paste disclosure text to analyze it. Below, compare green
+            bond ETF performance over various time horizons.
+          </p>
+        </div>
+        <button
+          onClick={toggleTheme}
+          style={{
+            padding: "0.4rem 0.8rem",
+            borderRadius: 999,
+            border: "1px solid #4b5563",
+            backgroundColor: theme === "dark" ? "#111827" : "#f9fafb",
+            color: textColor,
+            cursor: "pointer",
+            fontSize: 13,
+          }}
+        >
+          {theme === "dark" ? "☀️ Light mode" : "🌙 Dark mode"}
+        </button>
+      </div>
 
       {/* ---------- TOP GRID: BONDS + ANALYZER ---------- */}
       <div
@@ -139,10 +177,14 @@ export default function App() {
                   padding: "0.75rem",
                   marginBottom: "0.5rem",
                   borderRadius: 8,
-                  border: "1px solid #ddd",
+                  border: `1px solid ${cardBorder}`,
                   cursor: "pointer",
                   backgroundColor:
-                    selectedBondId === b.bond_id ? "#eef" : "#fff",
+                    selectedBondId === b.bond_id
+                      ? theme === "dark"
+                        ? "#1e293b"
+                        : "#eef"
+                      : cardBg,
                 }}
                 onClick={() => setSelectedBondId(b.bond_id)}
               >
@@ -159,7 +201,8 @@ export default function App() {
                 marginTop: "1rem",
                 padding: "1rem",
                 borderRadius: 8,
-                border: "1px solid #ddd",
+                border: `1px solid ${cardBorder}`,
+                backgroundColor: cardBg,
               }}
             >
               <h3>{bondDetail.bond.issuer_name}</h3>
@@ -194,7 +237,15 @@ export default function App() {
         <div>
           <h2>Analyze Disclosure Text</h2>
           <textarea
-            style={{ width: "100%", minHeight: 160, padding: "0.5rem" }}
+            style={{
+              width: "100%",
+              minHeight: 160,
+              padding: "0.5rem",
+              borderRadius: 8,
+              border: `1px solid ${cardBorder}`,
+              backgroundColor: theme === "dark" ? "#020617" : "#ffffff",
+              color: textColor,
+            }}
             placeholder="Paste disclosure text here..."
             value={text}
             onChange={(e) => setText(e.target.value)}
@@ -215,11 +266,30 @@ export default function App() {
                 type="number"
                 value={claimed}
                 onChange={(e) => setClaimed(e.target.value)}
-                style={{ width: 160 }}
+                style={{
+                  width: 160,
+                  borderRadius: 6,
+                  border: `1px solid ${cardBorder}`,
+                  padding: "0.25rem",
+                  backgroundColor: theme === "dark" ? "#020617" : "#ffffff",
+                  color: textColor,
+                }}
               />
             </label>
 
-            <button onClick={handleAnalyze} disabled={loading || !text}>
+            <button
+              onClick={handleAnalyze}
+              disabled={loading || !text}
+              style={{
+                padding: "0.5rem 1rem",
+                borderRadius: 999,
+                border: "none",
+                backgroundColor: "#2962FF",
+                color: "#ffffff",
+                cursor: loading || !text ? "not-allowed" : "pointer",
+                opacity: loading || !text ? 0.6 : 1,
+              }}
+            >
               {loading ? "Analyzing..." : "Run Analysis"}
             </button>
           </div>
@@ -231,7 +301,8 @@ export default function App() {
                 marginTop: "1rem",
                 padding: "1rem",
                 borderRadius: 8,
-                border: "1px solid #ddd",
+                border: `1px solid ${cardBorder}`,
+                backgroundColor: cardBg,
               }}
             >
               <h3>Analysis Results</h3>
@@ -289,9 +360,14 @@ export default function App() {
                   border:
                     selectedEtf === etf.id
                       ? "1px solid #2962FF"
-                      : "1px solid #ccc",
+                      : `1px solid ${cardBorder}`,
                   backgroundColor:
-                    selectedEtf === etf.id ? "#e3f2fd" : "#fff",
+                    selectedEtf === etf.id
+                      ? "#e3f2fd"
+                      : theme === "dark"
+                      ? "#020617"
+                      : "#ffffff",
+                  color: textColor,
                   cursor: "pointer",
                   fontSize: 12,
                 }}
@@ -314,9 +390,14 @@ export default function App() {
                   border:
                     selectedRange === label
                       ? "1px solid #2962FF"
-                      : "1px solid #ccc",
+                      : `1px solid ${cardBorder}`,
                   backgroundColor:
-                    selectedRange === label ? "#e3f2fd" : "#fff",
+                    selectedRange === label
+                      ? "#e3f2fd"
+                      : theme === "dark"
+                      ? "#020617"
+                      : "#ffffff",
+                  color: textColor,
                   cursor: "pointer",
                   fontSize: 12,
                 }}
