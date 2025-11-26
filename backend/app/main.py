@@ -7,8 +7,11 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes_analyze import router as analyze_router
 from app.api.routes_bonds import router as bonds_router
+from app.api.routes_market import router as market_router
 
 app = FastAPI(title="Green Prism API", debug=True)
+
+app.include_router(market_router, prefix="/api")
 
 # CORS for local dev (React on Vite)
 app.add_middleware(
