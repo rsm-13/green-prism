@@ -14,9 +14,10 @@ const RANGE_DAYS = {
 
 // ETF options
 const ETF_OPTIONS = [
-  { id: "grnb", label: "GRNB – VanEck Green Bond ETF" },
-  { id: "bgrn", label: "BGRN – iShares USD Green Bond ETF" },
+  { id: "SP_GB_INDEX", label: "S&P Green Bond Index" },
+  { id: "ISHARES_GB_INDEX_IE", label: "iShares Green Bond Index Fund (IE)" },
 ];
+
 
 export default function App() {
   const { theme, toggleTheme } = useTheme();
@@ -34,6 +35,8 @@ export default function App() {
   const [selectedEtf, setSelectedEtf] = useState("grnb");
   const [selectedRange, setSelectedRange] = useState("1Y");
   const [prices, setPrices] = useState([]);
+  const [yieldInfo, setYieldInfo] = useState(null);
+
 
   // Load sample bonds on mount
   useEffect(() => {
@@ -69,6 +72,28 @@ export default function App() {
         setPrices([]);
       });
   }, [selectedEtf, selectedRange]);
+
+  useEffect(() => {
+    const days = RANGE_DAYS[selectedRange] || 365;
+    fetch(
+      `http://127.0.0.1:8000/api/market/series/${selectedEtf}?days=${encodeURIComponent(
+        days
+      )}`
+    )
+      .then((res) => {
+        if (!res.ok) throw new Error("summary fetch failed");
+        return res.json();
+      })
+      .then((data) => {
+        console.log("Market summary", data);
+        setYieldInfo(data.latest || null);
+      })
+      .catch((err) => {
+        console.error("Market summary error:", err);
+        setYieldInfo(null);
+      });
+  }, [selectedEtf, selectedRange]);
+
 
   async function handleAnalyze() {
     setLoading(true);
@@ -427,7 +452,32 @@ export default function App() {
               Not enough data yet for return calculations.
             </p>
           )}
+
+          {/* NEW: yields from backend summary */}
+          {yieldInfo && (
+            <>
+              {yieldInfo.price != null && (
+                <p style={{ margin: 0 }}>
+                  <strong>Latest price:</strong> {yieldInfo.price.toFixed(2)}{" "}
+                  (as of {yieldInfo.date})
+                </p>
+              )}
+              {yieldInfo.yield_to_maturity != null && (
+                <p style={{ margin: 0 }}>
+                  <strong>Yield to maturity:</strong>{" "}
+                  {yieldInfo.yield_to_maturity.toFixed(2)}%
+                </p>
+              )}
+              {yieldInfo.yield_to_worst != null && (
+                <p style={{ margin: 0 }}>
+                  <strong>Yield to worst:</strong>{" "}
+                  {yieldInfo.yield_to_worst.toFixed(2)}%
+                </p>
+              )}
+            </>
+          )}
         </div>
+
 
         {/* Chart */}
         {prices.length > 0 ? (
