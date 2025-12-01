@@ -1,0 +1,428 @@
+Kestrel Verifiers  |  kestrelverifiers.com 
+Post-Issuance Verification Report 
+ISSUER 
+California Educational Facilities Authority  
+FRAMEWORK 
+Stanford University Series V-2 Green Bond Framework (March 31, 2021) 
+STANDARD AND SECTOR CRITERIA 
+ 
+ Low Carbon Buildings  
+ 
+TYPE OF ENGAGEMENT 
+Post-Issuance Verification 
+ENGAGEMENT PERIOD 
+February 2023 
+BONDS ISSUED UNDER FRAMEWORK 
+Revenue Bonds (Stanford University) Series V-2 (Sustainability Bonds – Climate Bond Certified)  
+PAR 
+$300,400,000 
+SCOPE AND OBJECTIVES 
+In April 2021, the California Educational Facilities Authority  issued a series of Certified Climate Bonds on 
+behalf of Stanford University ( “Stanford” or the “University” ). The Revenue Bonds (Stanford University) 
+Series V -2 (Sustainability Bonds – Climate Bond Certified) (“Series V -2 Bonds” ) financed capital 
+improvements which supported the University’s emission reduction goals. The bonds received Pre-Issuance 
+Certification by the Climate Bonds Initiative (“CBI”) Standard Board in 2021 under the Low Carbon Buildings 
+Sector Criteria. The Climate Bonds Standard (Version 3.0) and Certification Scheme requires a Post-Issuance 
+Verification Report within 24 months of issuance. Stanford  engaged Kestrel Verifiers in February 2023 to 
+review the Nominated Projects and Assets financed by the designated bonds, and provide an assessment 
+as to whether the projects conform with the Climate Bonds Standard Post-Issuance Requirements. In our 
+opinion, the Series V-2 Bonds are aligned with the internationally accepted Climate Bonds Standard and the 
+Low Carbon Buildings Sector Criteria. 
+This Post -Issuance Verification Report reflects Kestrel Verifiers’ view of the University’s projects and 
+financing, allocation and oversight, and conformance of the Series V-2 Bonds with the Climate Bonds 
+Standard (Version 3.0) and Low Carbon Buildings  Sector Criteria. In our opinion, the Series V -2 Bonds 
+continue to be aligned with the Climate Bonds Standard, the Low Carbon Buildings Sector Criteria, and the 
+University’s goal of net zero greenhouse gas emissions for Scope 1 and 2 by 2030. 
+CONFORMANCE WITH CLIMATE BONDS STANDARD AND SECTOR CRITERIA 
+In March 2021, Stanford engaged Kestrel Verifiers to provide an independent verification on the alignment 
+of the Series V-2 Bonds with the Climate Bonds Standard (Version 3.0) and Certification Scheme, and the 
+Low Carbon Buildings Sector Criteria. CBI administers the Standard and Sector Criteria. 
+Kestrel Verifiers is a Climate Bonds Initiative Approved Verifier. The Kestrel Verification Team included 
+environmental scientists, social scientists and financial professionals. We performed a Reasonable Assurance 
+engagement to independently verify that the bonds met, in all material respects, relevant criteria. 
+
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  2 
+Prior to bond issuance , Kestrel Verifiers reviewed Stanford’s bond disclosure, Green Bond Framework, 
+disclosures and documentation on the allocation and uses of bond proceeds, as well as relevant plans and 
+alignment to Stanford ’s overarching climate action objectives. We examined public and non -public 
+information and interviewed key staff at Stanford. Our goal was to understand the actual use of proceeds, 
+execution of procedures for managing proceeds, ongoing reporting practices, and plans for future reporting 
+on the Series V-2 Bonds.  
+Assurance Approach 
+Post-issuance, Kestrel Verifiers’ responsibility  was to conduct a Reasonable Assurance engagement to 
+determine whether the Series V-2 Bonds met requirements of the Climate Bonds Standard and were used 
+as intended. Our Reasonable Assurance engagement was conducted in accordance with the Climate Bonds 
+Standard (Version 3.0) and the International Standard on Assurance Engagements (ISAE) 3000 (Revised), 
+Assurance Engagements Other than Audits or Reviews of Historical Financial Information. Information 
+relating to this engagement and the Verifier’s and Issuer’s Responsibilities, and Independence and Quality 
+Control, are available in Appendix A and B. 
+Kestrel Verifiers has relied on information provided by the University. There are inherent limitations in 
+performing assurance, and fraud, error or non-compliance may occur and not be detected. Kestrel Verifiers 
+is not responsible or liable for any opinions, findings or conclusions within the information provided by the 
+University that are incorrect. Our assurance is limited to University policies and procedures in place as of 
+February 2023. The distribution and use of this verification report are at the sole discretion of the University. 
+Kestrel Verifiers does not accept or assume any responsibility for distribution to any other person or 
+organization. 
+Use of Proceeds and Conformance with Sector Criteria 
+The California Educational Facilities Authority issued the Series V-2 Bonds in the amount of $300,400,000 
+to finance and refinance capital improvement projects on the Stanford University campus. These projects 
+support the continued growth of the University and enable the University to reach the goal of zero 
+greenhouse gas emissions by 2030.  
+Updates to Nominated Project List  
+Since the issuance of the Series V-2 Bonds, the University has experienced some project scheduling delays. 
+As a result, and to manage cash flow for high priority capital projects, the University has removed certain 
+projects from the original list of projects nominated to receive bond proceeds (Appendix C) and replaced 
+these with other projects. Kestrel has reviewed the updated project list (Appendix D) and has determined 
+that all Series V-2 Bond projects, including the substituted projects, continue to be aligned with the Climate 
+Bonds Standard (Version 3.0) and Low Carbon Buildings Criteria (Version 1.0). 
+The Series V-2 Bond proceeds will no longer finance the following projects, which have been removed from 
+the original list of nominated projects: 
+ Neuro/ChEM-H Research Complex, which was completed in 2019 and intended to be refinanced 
+using Series V-2 Bond proceeds 
+ Minor residential building renovations and additions  
+New eligible projects are as follows: 
+ Undergraduate, graduate, staff and faculty housing construction and renovations, which will meet 
+green building standards 
+ Safety and communications system upgrades 
+ Infrastructure improvements which contribute to the transition to a net zero campus 
+ Utility upgrades to support increased electrification of the campus 
+All bond proceeds are expected to be spent on or before year 2024. 
+Progress of Stanford University Capital Projects 
+As of February 2023, in addition to the original refinancing of $124,115,000, approximately $189,800,000 of 
+bond proceeds have been spent on eligible projects. The University expects to spend approximately 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  3 
+$110,000,000 through the end of 2024 on remaining projects, of which approximately $61,100,000 will utilize 
+proceeds from the Series V-2 Bonds. See Appendix D for more details. 
+High-impact projects that have been completed or are near completion include: 
+ Construction of Green Buildings: Several of the bond -financed projects comply with robust green 
+building standards, including the Santa Clara County Green Building Ordinance and California’s 
+CALGreen Tier 1 energy efficient building standards. Facilities with completed construction include 
+the Center for Academic Medicine, Escondido Village Graduate Residences, and Middle Plaza Faculty 
+and Staff housing. 
+ Stanford Energy System Innovations (“SESI”): A portion of the Series V-2 Bond proceeds financed 
+the Chiller Plant Expansion . This is a component of the SESI initiative to replace the natural gas 
+cogeneration plant with a more effi cient Central Energy Facility that incorporates  energy sourced 
+from heat recovery systems and a renewable energy portfolio . The project expands chilled water 
+capacity with the addition of four new 3,000- ton chillers at the Central Energy Facility  and 
+incorporates redundancy into the system. This project supports planned campus growth and aims 
+to reduce the number of curtailment days during heat waves , thereby improving resilience. The 
+Chiller Plant Expansion is expected to be completed in December 2023. 
+Reporting Status 
+The University has provided information on the impacts of the Nominated Projects and Assets through an 
+annual update report on its Department of Sustainability and Energy Management  website sustainability-
+year-in-review.stanford.edu/2021/. Stanford has also posted daily updates on the Chiller Plant’s water 
+capacity and curtailment status on the University website. In addition, Stanford has posted regular Audited 
+Comprehensive Annual Financial Reports on the Electronic Municipal Market Access system . In 2022, 
+Stanford renewed a Platinum rating through the Sustainability Tracking, Assessment & Rating System 
+(STARS), administered by the Association for the Advancement of Sustainability in Higher Education 
+(AASHE). 
+BASIS FOR QUALIFICATION AND CONCLUSIONS 
+Based on the Reasonable Assurance procedures we have conducted, in our opinion, the Series V-2 Bonds 
+continue to conform, in all material respects, with the post -issuance requirements of the Climate Bonds 
+Standard, and bond-financed activities remain aligned with the Low Carbon Buildings Sector Criteria.  
+ 
+Sincerely, 
+ 
+Melissa Sherwood, Senior Verifier  
+Kestrel Verifiers 
+Hood River, Oregon, United States  
+February 28, 2023 
+ 
+© 2023 Kestrel 360, Inc. 
+ABOUT KESTREL VERIFIERS 
+For 20 years Kestrel has been a trusted consultant in sustainable finance. 
+Kestrel Verifiers, a division of Kestrel 360, Inc. is a Climate Bonds Initiative 
+Approved Verifier qualified to verify transactions in all asset classes 
+worldwide. Kestrel is a US-based certified Women’s Business Enterprise. 
+For more information, visit www.kestrelverifiers.com  
+ 
+
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  4 
+DISCLAIMER 
+This Post-Issuance Verification Report ( “Opinion”) aims to explain how and why the discussed financing 
+meets the CBI Climate Bonds Standard based on the information that was provided by the Stanford or made 
+publicly available by the Stanford and relied upon by Kestrel only during the time of this engagement 
+(February 2023), and only for purposes of providing this Opinion.  
+We have relied on information obtained from sources believed to be reliable, and assumed the information 
+to be accurate and complete. However, Kestrel Verifiers can make no warranty, express or implied, nor can 
+we guarantee the accuracy, comprehensive nature, merchantability, or fitness for a particular purpose of 
+the information we were provided or obtained. 
+By providing this Opinion, Kestrel Verifiers is neither addressing nor certifying the credit risk, liquidity risk, 
+market value risk or price volatility of the projects financed by the Climate Bonds. It was beyond Kestrel 
+Verifiers’ scope of work to review for regulatory compliance, and no surveys or site visits were conducted 
+by us. Furthermore, we are not responsible for surveillance, monitoring, or implementation of the project, 
+or use of proceeds. 
+The Opinion delivered by Kes trel Verifiers is for informational purposes only, is current as of the date of 
+issuance, and does not address financial performance of the Climate Bonds or the effectiveness of allocation 
+of its proceeds. This Opinion does not make any assessment of the c reditworthiness of the Stanford, nor 
+its ability to pay principal and interest when due. This Opinion does not address the suitability of a Bond as 
+an investment, and contains no offer, solicitation, endorsement of the Bonds nor any recommendation to 
+buy, sell or hold the Bonds. Kestrel Verifiers accepts no liability for direct, indirect, special, punitive, 
+consequential or any other damages (including lost profits), for any consequences when third parties use 
+this Opinion either to make investment decisions or to undertake any other business transactions.  
+This Opinion may not be altered without the written consent of Kestrel Verifiers. Kestrel Verifiers reserves 
+the right to revoke or withdraw this Opinion at any time. Kestrel Verifiers certifies that there is no affiliation, 
+involvement, financial or non- financial interest in the Stanford or the projects discussed. We are 
+100% independent. Language in the offering disclosure supersedes any language included in this Opinion.  
+ 
+ 
+ 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  5 
+Appendix A.  
+ASSURANCE PROCEDURES  
+ 
+ 
+REQUIREMENT ASSURANCE PROCEDURES 
+5. Use of Proceeds 
+5.1 Proceed Allocation Confirm allocation of the Net Proceeds of the bond to Nominated Projects. 
+5.2 Eligibility Criteria Confirm alignment of Nominated Projects with Sector Criteria and overarching 
+climate objective of the bond. 
+5.3 Allocation Timeline Confirm allocation within 24 months of issuance or disclose timeline for 
+allocation to Nominated Projects. 
+5.4 Multiple Nominations for 
+Certified Debt 
+Instruments (5.4.1-
+5.4.2) 
+Review Nominated Projects for previous nominations to other Certified Climate 
+Debt Instruments, green bonds, or other designated instruments, including  
+whether certain portions are being financed by separately designated Certified 
+Debt Instruments and/or whether Nominated Projects have been refinanced by 
+other Certified Debt Instruments or bonds under assessment have refinanced 
+existing Certified Debt Instruments. 
+5.5 Refinancing If applicable, confirm appropriate tracking of Net Proceeds for refinancing  or 
+refunding. 
+5.6 Proceed Management Confirm procedures for appropriate tracking of allocation of proceeds and 
+tracking unallocated funds. 
+5.7 Valuation Review Net Proceeds of the bond to ensure they are not greater than the value 
+of the Nominated Projects.  
+5.8 Nominated Project 
+Modifications (5.8.1) 
+Confirm modifications or alterations to the Nominated Projects and determine 
+requirement to engage a Verifier to perform a Pre-Issuance or Post-Issuance 
+Verification as a result of the change. 
+6. Process for Project Evaluation and Selection 
+6.1 Decision-making Process 
+for Determining Eligibility 
+(6.1.1-6.1.5) 
+Review continued documentation of decision -making process used to 
+determine eligibility, including conformance with climate -related objectives, 
+and review of alignment of the Nominated Projects with Sector Criteria. 
+7. Management of Proceeds 
+7.1 Proceeds Held in 
+Subaccount 
+Confirm the allocation of proceeds toa subaccount, sub-portfolio, or alternative 
+accounting to appropriately track allocation of proceeds to Nominated Projects.  
+7.2 Earmarking of Proceeds Review and confirm the earmarking process to track flow of funds and uses of 
+proceeds. 
+7.3 Temporary Investment 
+Instruments (7.3.1-
+7.3.3) 
+Review management of unallocated proceeds, including temporary 
+investments, and confirm non-contamination of proceeds.  
+8. Reporting 
+8.1 Reporting Approach 
+(8.1.2-8.1.3) 
+Confirm disclosure and execution of procedures to provide Update Reports 
+and/or procedures to undertake periodic Assurance Engagements during term 
+of the bond to reaffirm conformance with the Climate Bonds Standard. Confirm 
+availability of the Update Reports for investors and reporting in case of material 
+developments. 
+ 
+ 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  6 
+Appendix B.  
+RESPONSIBILITIES AND QUALITY CONTROL   
+ 
+Verifier’s Responsibilities 
+Kestrel Verifiers’ responsibilities for confirming alignment of the Series V -2 Bonds with the Climate Bonds 
+Post-Issuance Verification Requirements include:  
+ Assess and certify the University’s internal processes and controls, including selection process f or 
+projects and assets, internal tracking of proceeds, and the allocation system for funds; 
+ Assess policies and procedures established by the University for reporting;  
+ Assess the readiness of the University to meet and continue to meet the Climate Bonds S tandard 
+(Version 3.0) and Low Carbon Buildings Sector Criteria; and 
+ Express a Reasonable Assurance conclusion. 
+Issuer’s Responsibilities 
+Issuer was responsible for providing detailed information and documents relating to: 
+ The details of the Nominated Projects and Assets and the project selection process; 
+ Maintaining adequate records and internal controls designed to support the Climate Bond Post -
+Issuance Certification process; and 
+ The collection, preparation, and presentation of the subject matter in accordance with the Climate 
+Bonds Standard and Criteria. 
+Independence and Quality Control 
+Kestrel Verifiers provides green, social and sustainability bonds advisory services for corporate and public 
+finance issuers. The Kestrel Verification Team is committed to providing robust, transparent, and accurate 
+verifications. For over 20  years Kestrel has been a trusted advisor to state and local governments, 
+nonprofits, and corporations. Kestrel certifies that there is no affiliation, involvement, financial or non -
+financial interest in the issuer or the projects discussed. Accredited as an Approved Verifier by the Climate 
+Bonds Initiative, Kestrel is qualified to evaluate bonds against the Climate Bonds Initiative Standards and 
+Criteria.  
+ 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  7 
+Appendix C.  
+ORIGINAL NOMINATED PROJECTS  
+ 
+Middle Plaza: Located along El Camino Real in Menlo Park, Middle Plaza is a mixed-use development which 
+will provide 215 units for faculty and staff housing. The location has nearby transit options and was designed 
+with bicycle and pedestrian pathways. The development is expected to meet LEED Gold equivalency. The 
+project is expected to be completed in summer 2022.  
+Center for Academic Medicine: This newly constructed building will be part of the Stanford School of Medicine 
+and will house clinical faculty, computational researchers, departmental leadership, and consolidate several 
+administrative offices.   
+Bonair Replacement Building : This building will house Land, Buildings & Real Estate (LBRE) operations 
+including offices, shops, warehouse storage, a loading dock, and a small classroom. The building will 
+incorporate technologies for maximizing energy efficiency such as automation of lighting and HVAC controls. 
+By consolidating the needs of multiple teams, the building will reduce overall square footage needs. The 
+building also supports a motor pool plan that reduces the number of overall vehicles, increases the number 
+of electric vehicles, and expands the electric scooter and bike pool. Construction is expected to be completed 
+in 2023.  
+Escondido Village Graduate Residen ces: The four residence buildings at Escondido have rooms for 2,400 
+graduate students with space totaling 1.8 million square feet. The energy use intensity is expected to be 
+less than similar residence halls with air conditioning, partially due to targeted strategies that reduce lighting 
+and equipment plug loads from residents.   
+Neuro/ChEM-H: Completed in 2019, the new research complex co-located Stanford Neurosciences Institute 
+and Stanford ChEM-H and host more than 40 laboratories, core research facilities, and collaborative spaces. 
+Energy management features include background ventilation setback, recycled air in lab ventilation, 
+improved roof and wall insulation, high performance window glazing and shades, and a 4 -pipe distributed 
+heating and cooling system.  
+BioMedical Innovations Building 1: Completed in 2019, the BioMedical Innovations Building 1 is the first in 
+a series of buildings constructed to replace outdated laboratory and research facilities. Energy management 
+features on this building include an innovative HVAC system that reduces peak energy consumption by over 
+50%, exhaust air heat recovery, efficient lighting, and high performance window glazing and shades.  
+Maintenance and Capital Improvements:  Projects include chilled water line expansion , Americans with 
+Disabilities Act (ADA) accessibility upgrades, seismic upgrades, electrical conduit improvements, alarm 
+upgrades, and other improvements.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  8 
+Appendix D.  
+BUDGET & DETAILS OF UPDATED PROJECT LIST  
+ 
+ 
+No. Project Name 
+Original/ 
+Removed/ 
+New Project Project Description 
+Project 
+Budget 
+($ M) 
+Bond 
+Proceeds 
+Spent as of 
+Feb 2023 
+($ M) 
+Anticipated 
+Spending 
+Through 
+2023 
+($ M) 
+1 Middle Plaza at 500 El 
+Camino (Residential) 
+Original  See Appendix C $52.8 $52.8 - 
+2 Central Energy Facility 
+Plant Expansion 
+Original  See Appendix C $57.8 $47.8 $10.0 
+3 Center for Academic 
+Medicine (CAM1) 
+Original  See Appendix C $37.7 $37.7 - 
+4 Biomedical Innovation 
+Building 1 
+Original  See Appendix C $2.3 $2.3 - 
+5 Escondido Village 
+Graduate Residences & 
+Parking Garage 
+Original  See Appendix C $20.3 $20.3 - 
+6 Bonair Replacement 
+Building 
+Original  See Appendix C $49.4 $17.5 $31.9 
+7 Anne T. and Robert M. 
+Bass Research Building 
+(formerly New Biology 
+Research Building) 
+Original  See Appendix C $0.3 $0.3 - 
+8 Governor’s Corner 
+EPC/Suites/Cottages 
+Renovation 
+Removed  N/A - - - 
+9 Stanford ChEM-H and 
+Stanford Neuro Sciences 
+Building (aka ChEM-H) 
+Removed N/A - - - 
+10 Lagunita Dining – 
+Kitchen & Servery 
+Removed N/A - - - 
+11 1215 Welch Road  New New building construction, 
+building renovations, and 
+related utilities work.   
+$0.6 $0.6 - 
+12 Various graduate, 
+undergraduate, faculty 
+and staff housing 
+projects 
+New Housing projects include: 
+- EV Blackwelder & Quillen 
+Renovations (graduate) 
+- Lasuen and row house 
+upgrades (undergraduate) 
+- Jerry House Renovations 
+(undergraduate) 
+- Escondido Village 
+(graduate) 
+$48.4 $10.5 $37.9 
+Kestrel Verifiers | Climate Bonds Post-Issuance Report  9 
+ 
+No. Project Name 
+Original/ 
+Removed/ 
+New Project Project Description 
+Project 
+Budget 
+($ M) 
+Bond 
+Proceeds 
+Spent as of 
+Feb 2023 
+($ M) 
+Anticipated 
+Spending 
+Through 
+2023 
+($ M) 
+13 Miscellaneous 
+infrastructure, utility, 
+safety and 
+communications projects 
+New  Projects include: 
+- East Campus Networking  
+- Reservoir 1 Pump Station 
+& Piping Ph 2  
+- Escondido Village Lowrises 
+Sewer Line Replacement  
+- Storm Drainage System 
+Renewal  
+- Felt Lake Water 
+Replacement  
+- Upper Mayfield Sewer 
+Replacement  
+- JSW Chilled Water 
+Replacement 
+$14.1 - $14.1 
+14 Emergency Operations 
+Center and Electronic 
+Communications Hub 
+Building 
+New Renovations to essential 
+services facility located at 
+Bonair Corporation Yard. 
+$16.1 - $16.1 
+TOTALS $299.8 $189.8 $110.0

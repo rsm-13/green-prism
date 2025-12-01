@@ -1,0 +1,700 @@
+Green Bond Framework｜Mizuho Financial Group｜ 
+ 
+  
+Mizuho Financial Group, Inc. 
+GREEN BOND FRAMEWORK 
+MAY 2025 
+
+1 
+Green Bond Framework｜Mizuho Financial Group｜ 
+ 
+Mizuho Financial Group, Inc. Green Bond Framework 
+ 
+Contents 
+1 Introduction ................................ ................................ ............ 2 
+2 Framework Overview ................................ .............................. 5 
+2.1 Use of Proceeds ................................ ................................ .............. 5 
+2.2 Process for Project Evaluation and Selection ................................  12 
+2.3 Management of Proceeds ................................ ............................  14 
+2.4 Reporting ................................ ................................ ..................... 14 
+3 External review ................................ ................................ ..... 16 
+ 
+ 
+  
+2 
+Green Bond Framework｜Mizuho Financial Group｜ 
+1 Introduction 
+Mizuho Financial Group, Inc. (“Mizuho FG”) is a Japanese bank holding company that is the 
+ultimate parent of the group (“Mizuho Group”), one of the largest financial groups in the 
+world. Mizuho Group provides a broad range of financial services in domestic and overseas 
+markets. 
+Mizuho recognizes that supporting our clients’ efforts to respond to climate change and 
+transition to a decarbonized society is an important role for financial institutions to play. We 
+are supporting our clients’ sustainability transformation (SX) by leveraging Mizuho’s strengths 
+in expertise on industries and technologies, and capability of liaison within and outside of 
+Mizuho and finance arrangement capability. Specifically, we aim to strengthen Japanese 
+industries’ competitiveness and balance economic and social value by leading structural 
+transformation of industries toward decarbonization through supporting our clients’ steady 
+transitions toward 2030 and future-oriented clients’ actions. 
+ 
+In order to capture business opportunities associated with the transition to a decarbonized 
+society, Mizuho provides consistent support to our clients from both financial and non-
+financial perspectives to restructure business portfolios, transform supply chains, and work 
+Mizuho’s strengths
+Liasion within and outside 
+of Mizuho Finance arrangementExpertise on 
+Industry and technology
+2030年に向けた着実なトランジション支援
+Industry, Government, and Finance Collaboration
+Business portfolio restructuring and
+supply chain transformations
+Deploying new technologies
+Enhancing our sustainable finance arrangement 
+capability
+Product and business development by co-working within 
+the group and with outside parties
+Supporting business and technology development
+Cross industrial and supply chain collaboration with stakeholders
+Key topics toward sustainable society and economy
+Hydrogen ImpactCarbon credits
+Transition Investment Facility 
+(Development/Demonstration phase)
+Value Co-creation investment 
+(Commercialization phase)
+Supporting client’s steady transitions toward 2030
+Supporting future-oriented clients’ actions 
+Strengthen
+Japanese 
+Competitive-
+ness
+Balancing 
+economic 
+and 
+social value
+Mizuho’s vision 
+for the world 
+(our long-term 
+goal for the
+future)
+Personal well-being 
+&
+a sustainable 
+society and 
+economy
+
+3 
+Green Bond Framework｜Mizuho Financial Group｜ 
+toward social implementation of next-generation technologies that will lead to future 
+industrial structural transformations. Our support covers from issue recognition, strategy 
+formulation, its embodiment and commercialization, to financing during the execution stage. 
+ 
+  
+Mizuho believes that, especially with regard to sustainable finance, it is an important role for 
+financial institutions to generate further money flows to meet the massive demand for climate 
+change financing. Given this, Mizuho has set a sustainable finance target of JPY 100 trillion, of 
+which JPY 50 trillion is earmarked for environment and climate-related finance (cumulative 
+total over the period of FY2019 through to FY2030). 
+We have steadily built up a track record by assessing our clients’ issues and needs accurately – 
+arranging a total of JPY 31.0 trillion for sustainable finance between FY2019 and FY2023 (of 
+which JPY 14.0 trillion was environment and climate-related finance). Mizuho has showed a 
+strong presence in the sustainable finance area, holding the No.1 position for five successive 
+years in league table of domestic publicly offered SDGs bonds. We will continue to proactively 
+provide green/transition financing and risk money for practical applications of technologies to 
+our clients who are taking on the challenge of decarbonization with us.  
+ 
+Climate change 
+responses by clients
+Financing
+Strategy 
+formulation
+Issue 
+recognition
+Strategy 
+execution
+• ESG issue/ materiality analysis
+• Studies on environmental and energy technologies
+• Measurement / visualization of supply-chain GHG emissions
+• Provision of economic, industrial, and environmental insights        etc
+• Sustainability management/company-wide strategy planning
+• Business restructuring planning
+• Circular economy strategies
+• Business / partner matching
+• Adoption of renewable energy
+• Development & adoption of next-generation fuels
+• Environmental and climate-related finance
+- Including Proprietary Mizuho products / Transition Investment       
+Facility / Value Co-creation investments
+• M&A advisory
+Solutions provided by Mizuho
+Non-financialFinancial
+Issue identification
+Provide hypotheses
+Support for strategy planning 
+on climate change responses
+Support for strategy execution 
+on climate change responses
+Financing
+M&As, etc.
+• Carbon offsetting
+• CCUS study
+• Disclosure      etc
+• Decarbonization strategies
+• Natural capital responses   etc
+• Leasing                            etc
+Sustainable finance progress League table
+No. 1
+Sustainable finance (loans) Publicly offered 
+SDGs bonds
+Source: Capital Eye
+No. 1
+(April 2023 to March 2024)■ Total amount of environment and climate-related finance
+(in JPY trillions, total cumulated amount since FY2019)
+(April 2023 to March 2024)
+JapanGlobal
+Sustainable finance
+JPY 100 trillion
+Environment and 
+climate-related finance
+JPY 50 trillion
+FY2030 target
+(Among 
+Japanese 
+banks)
+Source: LSEG
+13.1
+21.2
+31.0
+4.6 8.1 14.0
+FY21 FY22 FY23
+Five
+successive
+years
+4 
+Green Bond Framework｜Mizuho Financial Group｜ 
+The initiatives that Mizuho has participated in can be found at the link below: 
+https://www.mizuhogroup.com/sustainability/mizuhosustainability/management/initiative 
+  
+5 
+Green Bond Framework｜Mizuho Financial Group｜ 
+2 Framework Overview 
+In order to further accelerate its environmental initiatives, Mizuho FG plans to issue Green 
+Bonds to finance lending to qualifying environment-related projects (“Eligible Green Projects”). 
+While the issuing entity will be Mizuho FG, the entity that will manage lending to Eligible Green 
+Projects will be Mizuho Bank (“Mizuho BK”). All of the existing and new projects to be financed 
+and/or refinanced through the net proceeds of the Green Bond must be eligible under the Use 
+of Proceeds criteria below. 
+Green Bonds are dedicated bonds whose proceeds are ear-marked and will be exclusively 
+applied to finance and/or refinance Eligible Green Projects. The Green Bond Framework has 
+been prepared in line with the four pillars of the Green Bond Principles 2021 (with June 2022 
+Appendix 1) (“GBP”) administered by the International Capital Market Association (ICMA). The 
+GBP are voluntary process guidelines that recommend transparency and disclosure and 
+promote integrity in the development of the Green Bond market by clarifying the approach for 
+issuance of a Green Bond. 
+ 
+2.1 Use of Proceeds 
+An amount equal to the net proceeds of Green Bonds will be used to finance and/or refinance 
+existing and/or new Eligible Green Projects, in whole or in part, as defined by Mizuho FG’s 
+internal investment criteria.  
+Eligible Green Projects will meet ALL of the conditions below. 
+i) A project meets one or more of the Eligible Project Categories 1 to 9 below. 
+ii) A loan for a project has been financed by Mizuho BK within 24 months preceding the issue 
+date of a relevant Green Bond, or will be newly financed on or after the issue date thereof. 
+ 
+Project category Project types SDGs 
+1. Renewable 
+Energy 
+ Development, construction and operation of 
+Renewable Energy 
+ The development, construction and operation 
+of renewable energy facilities which generate 
+7 
+6 
+Green Bond Framework｜Mizuho Financial Group｜ 
+wind, solar, solar thermal, biomass energy1 
+(restricted to sustainable feedstock and/or 
+waste sources), geothermal energy2, and small 
+hydro facilities3. 
+ Development and production of technologies and 
+equipment used for the above projects 
+ Transmission and distribution of renewable energy 
+ Development and construction of any of the 
+following operational electric grids: 
+(i) Projects for connecting renewable energy to 
+power grids; or 
+(ii) Where renewable power accounts for 90% 
+or more of the power supported or integrated 
+by the project, including: 
+✓ Overground transmission/distribution 
+lines, for example, overhead transmission 
+lines, conductors, insulators, towers, and 
+infrastructure assets such as buildings, 
+fences, earth mats, and busbars. 
+✓ Transmission lines on high-voltage and/or 
+extra-high-voltage interconnected 
+systems. 
+ Distributed assets that are intended to reduce 
+the curtailment of renewable energy into the 
+grid (grid components) including fuses, circuit 
+breakers, disconnectors, reactors, capacitors, 
+transformers, voltage regulators, switchgears. 
+ 
+1 Limited to sustainable feedstock and/or waste sources. For projects using wood or wood pellets, the 
+feedstock will be limited to those provided by wood suppliers or power generators certified by the 
+Forest Stewardship Council (FSC) or PEFC (Program for the Endorsement of Forest Certification). Projects 
+using waste from palm oil operations will be limited to waste from palm oil suppliers  that are certified 
+by RSPO (Roundtable on Sustainable Palm Oil) or RSB (Roundtable on Sustainable Biomaterials). Non -
+waste materials will be limited to the feedstock having less than 100g CO2e/kWh of lifecycle GHG 
+emissions intensity. 
+2 Limited to the projects that have direct GHG emissions intensity of less than 100g CO2e/kWh 
+3 Limited to 1) run-of-river power facilities which are without artificial reservoir or with low storage 
+capacity, 2) projects that have lifecycle GHG emissions intensity of less than 50g CO2e/kWh (for facilities 
+in operation by the end of 2019, less than 100g CO2e/kWh), 3) projects that have power density 
+exceeding 10W/m² (for facilities in operation by the end of 2019, exceeding 5W/m²). For all new 
+hydropower projects, an environmental and social impact assessment by a credible body is required per 
+project and the absence of significant risks and controversies associated with the projects needs to be 
+ensured. 
+7 
+Green Bond Framework｜Mizuho Financial Group｜ 
+2. Pollution 
+Prevention and 
+Control 
+ Waste recycling and waste-to-energy4 
+ The development, construction and operation 
+of pollution prevention and control facilities, 
+such as waste recycling and waste-to-energy 
+power plants. The sources of energy will be 
+household waste, commercial waste, or 
+market waste which will not include 
+plastics/rubber/tire-derived fuel (TDFs) to 
+energy/fuel conversion, gas capture from 
+operational landfills, and landfill gas capture 
+for flaring. 
+ Reduction of air emissions 
+ Greenhouse gas control 
+ Ocean-friendly chemicals and plastics-related 
+sectors 
+ Projects to prevent plastics, chemicals or 
+pollutants runoff in areas connected to rivers 
+or coastal water basins 
+ Sustainable shipping and port logistics sectors 
+ Projects for the development, manufacturing, 
+construction, upgrading, operation and trading 
+of technologies, products, infrastructure and 
+systems for the control and reduction of 
+contaminated water, waste and discharge by 
+vessels, shipyards and ports. 
+12 
+3. Clean 
+Transportation 
+ Investments in passenger cars, mass transport and 
+other infrastructure 
+ Projects to develop, operate and upgrade 
+public transportation facilities (non-fossil fuel 
+based), infrastructure and technologies 
+including expansion and improvements of rail 
+transport, non-motorized transport (such as 
+bicycles), multi-modal transport, and 
+manufacturing of electric vehicles5. 
+ Maritime transport/port logistics 
+11 
+ 
+4 Where the waste is managed in accordance with the waste hierarchy. Projects for Waste -to-Energy will 
+follow CBI criteria. Only facilities outside the EU are potentially eligible. Plant efficiency >= 25%; AND 
+Bottom ash recovery; AND >= 90% recovery of metal from ash; AND Average carbon intensity of 
+electricity and/or heat over the life of the plant <= waste management allowance; AND capacity of the 
+plant does not exceed the calculated residual waste at any time in the plant’s life.  
+5 Projects such as electrified locomotives, trains, metro, interurban high -speed rail, mass rapid transit, 
+and light rail transit (LRT) projects are limited to those with zero direct CO2 emissions. For freight rail, 
+lines and operations where fossil fuels account for more than 25% of total freight volume (tkm) are 
+excluded. 
+8 
+Green Bond Framework｜Mizuho Financial Group｜ 
+ Projects for the production of new low-carbon 
+or zero-carbon vessels powered by electricity 
+with an average GHG emissions intensity of 
+less than 100g CO2e/kWh, biofuel6 or green 
+hydrogen/green ammonia. 
+ Project for the conversion of existing 
+passenger and cargo vessels to low-carbon 
+vessels as described above. 
+ Projects for marine infrastructure, including 
+facilities to refuel biofuels, hydrogen, 
+ammonia, methanol, etc., as well as 
+infrastructure for alternative maritime power, 
+such as electrical outlets, electrical distribution 
+and control systems. 
+4. Green Buildings  Buildings which have received or will receive during 
+the life of the Green Bond at least one of the 
+following classifications. Net proceeds of the Green 
+Bond may be allocated towards new and existing 
+loans from Mizuho BK to eligible green buildings 
+with certifications as defined below, including the 
+ones owned by J-REITs (Japanese Real Estate 
+Investment Trusts)7 
+ LEED (Leadership in Energy and Environmental 
+Design):  LEED Platinum or Gold 
+ BREEAM (Building Research Establishment 
+Environmental Assessment Method): BREEAM 
+Outstanding or Excellent 
+ CASBEE (Comprehensive Assessment System 
+for Built Environment Efficiency): CASBEE S 
+Rank or A Rank 
+ DBJ Green Building Certification: DBJ Green 
+Building 5 Star or 4 Star 
+ BELS (Building-Housing Energy-efficiency 
+Labelling System) (2016 version): BELS 5 Star 
+or 4 Star 
+ BELS (Building-Housing Energy-efficiency 
+Labelling System) (2024 version): (Non-
+residential) Level 4 or higher, (Residential with 
+renewable energy facilities) Level 4 or higher, 
+(Residential without renewable energy 
+facilities) Level 3 or higher 
+ ZEB, Nearly ZEB, ZEB Ready and ZEB Oriented / 
+ZEH, Nearly ZEH, ZEH Ready and ZEH Oriented 
+9 
+ 
+6 Biomass energy criteria as defined in the Renewable Energy category of this framework  
+7 Allocation amounts to eligible green buildings owned by J-REITs may be calculated based on pro-rata 
+share of eligible green buildings’ acquisition cost. 
+9 
+Green Bond Framework｜Mizuho Financial Group｜ 
+( all of which represents the same or higher 
+level of performance compared to BELS 5 Star) 
+ A building that aligns with a regional proxy 
+(numerical scale) as determined by the Climate 
+Bonds Initiative (CBI) for commercial buildings 
+ Building upgrades, including energy-efficiency 
+investments and/or building retrofits in line with a 
+low-carbon trajectory based on the duration of the 
+bond, as set out in the Low Carbon Buildings 
+Standard as determined by the CBI (reduction of 
+CO2 emissions by at least 30% to the baseline) 
+5. Energy Efficiency 
+ 
+ End-user energy efficiency projects that result in a 
+minimum 30% energy efficiency improvement 
+including: 
+ Projects that have obtained a third-party 
+certification (especially, ENERGY STAR) for 
+environmental and energy performance in the 
+purchase, installation and retrofitting of 
+energy-efficient technologies, products or 
+equipment that do not use motors or are 
+powered by electricity (not by fossil fuels). 
+ Projects for upgrading energy-efficient 
+technologies, products or hardware systems, 
+such as fossil-fuel-free LED, smart lighting 
+solutions, sunlight controls, Building 
+Management Systems (BMS), air conditioning 
+and heating systems. 
+7 
+6. Sustainable 
+Water and 
+Wastewater 
+Management 
+ Projects which result in at least a 20% energy 
+efficiency improvement or a 20% water efficiency 
+improvement through reduced leakage 
+ Water supply 
+ Projects for the development, construction, 
+acquisition, operation and upgrading of water 
+supply infrastructure with water-saving 
+effects. 
+ Projects for the development, construction, 
+acquisition, operation and renovation of 
+desalination plants8. 
+ Projects for the development, manufacturing 
+and trading of products and technologies to 
+increase the supply and access to potable / 
+drinking water. 
+6 
+ 
+8 The desalination will be limited to the projects which 1) have an appropriate waste management plan 
+for brine disposal at the start of the project, 2) are powered by renewable energy or electricity with an 
+average carbon intensity of 100g CO2e/kWh or less, 3)Integrated Water and Power Plants (IWPP) are 
+excluded. 
+10 
+Green Bond Framework｜Mizuho Financial Group｜ 
+ Projects for the development, manufacturing 
+and trading of technologies, equipment and 
+systems that reduce and/or monitor water 
+footprints. 
+ Water sanitation  
+ Projects for the development, construction, 
+operation and upgrading of water treatment 
+infrastructure. 
+ Projects for the development and 
+manufacturing of technologies, products and 
+systems that enhance the efficiency and 
+effectiveness of water treatment 
+infrastructure. 
+7. Environmentally 
+Sustainable 
+Management of 
+Living Natural 
+Resources and 
+Land Use 
+ Forest products: Growing and/or purchase of: 
+ Products or projects certified by the Forest 
+Stewardship Council (FSC) or the Program for 
+the Endorsement of Forest Certification 
+(PEFC). 
+ Agriculture: Growing and/or purchase of: 
+ Products or projects certified by Rainforest 
+Alliance, or USDA Organic. 
+ Land preservation: 
+ Preservation and/or restoration of native 
+forests and high-conservation value forests. 
+ Soil remediation. 
+ Value chains for fisheries, aquaculture and seafood  
+products 
+ Land-based aquaculture production. 
+ Research, development, operation and trading 
+related to cultivation businesses of algae and 
+marine micro-organisms. 
+ Fisheries and aquaculture that meet the 
+Marine Stewardship Council (MSC) 
+certification standard, Aquaculture 
+Stewardship Council (ASC) certification 
+standard, Marine Eco-Label Japan (MEL) 
+certification standard, or investments to meet 
+the above standards. 
+ Production and trading of marine products 
+with MSC, ASC or MEL labels. 
+ Distribution, processing or retailing businesses 
+that meet CoC certification standard of MSC, 
+ASC or MEL certification standard, or 
+investments to meet the above standards. 
+14, 15 
+8. Terrestrial and 
+Aquatic 
+Biodiversity 
+Conservation 
+ Biodiversity Conservation 
+ Conservation and/or restoration of 
+biodiversity and valuable natural habitats. 
+14, 15 
+11 
+Green Bond Framework｜Mizuho Financial Group｜ 
+ Conservation and/or restoration of 
+biodiversity in urban areas. 
+ Conservation and restoration of marine and other 
+ecosystems 
+ Development, operation and trading of 
+services, technologies and systems for the 
+conservation, improvement and restoration of 
+marine, coastal and river ecosystems. 
+9. Circular Economy 
+Adapted 
+Products, 
+Production 
+Technologies and 
+Processes 
+ Development, construction and operation of 
+hydrogen and ammonia supply chain establishment 
+(manufacturing, storage, transportation, and 
+usage) 
+ The carbon intensity standards for the 
+manufacturing of hydrogen and ammonia are 
+set at Well to Gate: hydrogen at 3.4 kg-
+CO2e/kg-H2 and ammonia at 0.87 kg-CO2e/kg-
+NH3 (based on the requirements for “low-
+carbon hydrogen, etc” as defined by Japan's 
+Hydrogen Society Promotion Act). For the 
+avoidance of doubt, "low-carbon hydrogen 
+etc." includes hydrogen / ammonia produced 
+via electrolysis from renewable energy, and 
+hydrogen / ammonia produced via steam 
+methane reforming coupled with CCUS 
+(Carbon Capture Utilization and Storage). 
+ Development and production of technologies and 
+equipment used for the above projects 
+ Development of technologies, construction and 
+operation of facilities and transportation of 
+captured CO2 related to DAC (Direct Air Capture) 
+and CCUS.  
+ Only projects with capture efficiency design of 
+90% or higher are eligible. Projects for the 
+purpose of Enhanced Oil Recovery activities 
+are excluded.  
+ Development and production of technologies 
+and equipment used for the above projects 
+13 
+ 
+For long-dated green assets that are refinanced by proceeds of multiple Green Bonds, Mizuho 
+FG will disclose the age and remaining useful life of the assets to an independent party prior to 
+the initial issuance of the Green Bonds from this Green Bond Framework and update the 
+information when such independent party provides an annual review as described below. The 
+information provided will be supported by a review from such independent party to confirm 
+the continuous environmental benefits of the long-dated assets. 
+12 
+Green Bond Framework｜Mizuho Financial Group｜ 
+For clarification purposes, the following are excluded from the Green Bond Framework: fossil 
+fuel based assets, fossil fuel based transportation/infrastructure and transportation with the 
+main objective of transporting fossil fuel, defense and security, palm oil, wood pulp, nuclear 
+power generation, coal-fired power generation as well as all mining and tobacco sectors. 
+Regarding our Environmental and Social Management Policy for Financial Activities to mitigate 
+and avoid adverse impacts of financing and investment on the environment and society, please 
+see the link below for details: 
+https://www.mizuhogroup.com/sustainability/business-activities/investment 
+ 
+2.2 Process for Project Evaluation and Selection  
+Eligible Green Projects are evaluated and selected based on compliance with the Eligibility 
+Criteria above. Eligible Green Projects are identified and selected via a process that involves 
+participants from various functional areas including Mizuho BK’s Real Estate Finance 
+Department, Project Finance Department and Sustainable Products Promotion Department, 
+Mizuho FG’s Corporate & Investment Banking Coordination Department, Global Markets 
+Coordination Department and Financial Planning Department.   
+ 
+Process to mitigate environmental and social risk 
+Mizuho Group leverages its financial intermediary and consulting capabilities in order to 
+proactively develop and offer financial products and services which support the environmental 
+initiatives of corporations and other clients. In doing so, we aim to maximize positive impacts 
+and avoid or mitigate negative impacts on the environment. We make decisions on financing 
+and investments after examining the recognized risks based on our Environmental and Social 
+Management Policy for Financial Activities, and with clients, we discuss (engage) medium- to 
+long-term environment and social issues. We will revise our policy as needed. 
+For all project finance related business, Mizuho BK’s Project Finance Department or other 
+relevant departments evaluate financial viability of projects in accordance with internal credit 
+evaluation process. For any large-scale development projects which have the potential to 
+impact the natural environment and local communities, the Sustainable Development Office of 
+Mizuho BK’s Sustainable Products Promotion Department (Sustainable Development Office) 
+13 
+Green Bond Framework｜Mizuho Financial Group｜ 
+reviews projects and conducts the required due diligence in light of the Equator Principles, and 
+categorizes projects as Category A, B or C9 based on its internal environmental and social risk 
+assessment process. Such categorization is based on the environmental and social 
+categorization process of the International Finance Corporation, complying with the Equator 
+Principles. As a part of this process, Mizuho BK evaluates a project for minimal, limited or 
+significant potential adverse environmental and social impact. For each project where limited 
+or significant risk is identified, Mizuho BK’s internal process requires the Sustainable 
+Development Office to work in partnership with its clients to assess and manage these 
+environmental and social risks and impacts in order to ensure that a project is implemented 
+with full consideration of its impact on the natural environment and local communities.  
+For Eligible Project Category 4(Green Buildings), a project is certified to a certain level such as 
+by “LEED”, “BREEAM”, “CASBEE”, “DBJ Green Building Certification”, “BELS” or aligns with CBI 
+criteria. 
+Mizuho’s responsible financing and investment can be found at the link below: 
+https://www.mizuhogroup.com/sustainability/business-activities/investment 
+ 
+Selection of Eligible Green Projects 
+As for the selection process of Eligible Green Projects, based on the list of finances offered by 
+Mizuho BK, Mizuho FG’s Corporate & Investment Banking Coordination Department and 
+others draft the list of Eligible Green Projects. Candidate projects, that are suited to any of 
+Project Categories 1 to 9 above, and those that meet condition ii) above will be proposed by 
+Mizuho FG’s Corporate & Investment Banking Coordination Department and others. Finally, 
+Mizuho FG’s Global Markets Coordination Department and Financial Planning Department will 
+select Eligible Green Projects from the candidate projects list. 
+ 
+ 
+9  According to the Equator Principles, Category A projects are defined as projects with potential 
+significant adverse environmental and social risks and/or impacts that are diverse, irreversible or 
+unprecedented. Category B projects have potential limited adverse environmental and social risks 
+and/or impacts that are few in number, generally site specific, largely reversible and readily addressed 
+through mitigation measures. Category C projects have minimal or no adverse environmental and social 
+risks and/or impacts. 
+14 
+Green Bond Framework｜Mizuho Financial Group｜ 
+2.3 Management of Proceeds  
+An amount equal to the net proceeds from the sale of a specific issue of Green Bond will be 
+loaned to Mizuho BK and allocated by Mizuho BK to the financing and/or refinancing of 
+existing and/or new Eligible Green Projects. So long as that tranche of Green Bond remains 
+outstanding, Mizuho FG will keep the list of all Eligible Green Project loans based on Mizuho 
+BK’s internal loan data system and its output, and such records of that list will show an amount 
+equal to the net proceeds from the issuance of such bond as allocated to the assets that meet 
+Mizuho FG’s internal investment criteria for Eligible Green Projects. Pending the allocation of 
+the net proceeds of such bond to finance Eligible Green Projects, the net proceeds will be 
+invested in overnight or otherwise short-term financial instruments and will be allocated to 
+Eligible Green Projects as soon as practicably possible. 
+Payment of principal of and interest on the Green Bond will be made from Mizuho FG’s 
+general funds and will not be directly linked to the performance of any Eligible Green Projects.  
+Mizuho FG will review and update the Eligible Green Projects to which the net proceeds of the 
+Green Bond are allocated on an annual basis. Any proceeds allocated to projects that have 
+been sold, prepaid, amortized or otherwise become ineligible shall be reallocated to other 
+Eligible Green Projects.  
+ 
+ 
+2.4 Reporting  
+Allocation Reporting 
+During the term of any Green Bonds, Mizuho FG will provide and keep readily available, on a 
+designated website10, information on the allocation of the net proceeds of those bonds, to be 
+updated at least annually until full allocation and as necessary thereafter in the event of new 
+developments. This information will include:  
+(i) the allocation of the net proceeds of those bonds to Eligible Green Projects, brief 
+description of the Eligible Green Projects funded, current funded amounts, and funding dates, 
+and  
+ 
+10 https://www.mizuhogroup.com/sustainability/environment/business/greenbond  
+15 
+Green Bond Framework｜Mizuho Financial Group｜ 
+(ii) assertions by management that the net proceeds of those bonds are invested either in 
+qualifying Eligible Green Projects or in overnight or other short-term financial instruments.  
+Independent party will provide an annual review on the allocation of the use of proceeds as 
+well as impact reporting to review that allocation and reporting is aligned with the framework.  
+ 
+Environmental Impact Reporting 
+Mizuho FG intends to report, on a best efforts basis, on the impact of Eligible Green Projects, 
+to be updated at least annually until full allocation and as necessary thereafter in the event of 
+new developments. All impact reporting (as and when feasible and available) will be disclosed 
+on an aggregate basis, by eligible Project Category.   
+ 
+Impact reporting Exemplary Metrics 
+No Project Category Impact reporting Exemplary Metrics 
+1 Renewable Energy  Tonnes of CO2 equiv. reduced/avoided 
+p.a.  
+ Annual energy generation 
+2 Pollution Prevention and Control   Amount of waste recovered, reduced, 
+or recycled 
+ Reuse and recycling rates 
+ Percentage of change in the amount of 
+waste generated 
+ Water pollution abatement in m3 and %  
+ Air pollution abatement in m3 and %  
+3 Clean Transportation   Tonnes of CO2 equiv. reduced/avoided 
+p.a.  
+ Amount of air pollutants reduced 
+ Total distance of infrastructure 
+4 Green Buildings  Number and level of green building 
+certifications acquired 
+5 Energy Efficiency  Tonnes of CO2 equiv. reduced/avoided 
+p.a.  
+ Annual energy savings 
+ Number and types of environmental 
+certifications obtained 
+ Number of energy-saving equipment 
+and products installed 
+6 Sustainable Water and Wastewater 
+Management 
+ Annual water savings in m3 and %  
+ Tonnes of CO2 equiv. reduced/ avoided 
+p.a. by water savings 
+16 
+Green Bond Framework｜Mizuho Financial Group｜ 
+ The number of people benefiting from 
+water management 
+7 Environmentally Sustainable 
+Management of Living Natural Resources 
+and Land Use 
+ Number and types of environmental 
+certifications obtained 
+8 Terrestrial and Aquatic Biodiversity 
+Conservation 
+ Number and types of environmental 
+certifications obtained 
+ The area of land covered by the project 
+and the rate of increase in the area of 
+conservation 
+9 Circular Economy Adapted Products, 
+Production Technologies and Processes 
+ Tonnes of CO2 equiv. reduced/avoided 
+p.a.  
+ Annual energy generation 
+ Number of DAC/CCUS projects 
+supported and the associated annual 
+GHG emissions stored (tCO2e) 
+ 
+3 External review 
+Mizuho FG has obtained a Second Party Opinion by Moody’s Japan, to confirm the 
+transparency and robustness of Mizuho Financial Group Green Bond Framework. The Second 
+Party Opinion will be published on Mizuho FG’s webpage.

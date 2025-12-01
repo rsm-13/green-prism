@@ -1,0 +1,596 @@
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  1  o f  13  
+ 
+ 
+ 
+PRE -ISSUANCE CLIMATE BOND 
+CERTIFICATION  
+ 
+ 
+Verification Report for Pre -Issuance Certification  
+for the Green Bond Issued by New Zealand Green Investment 
+Finance  Limited  
+ 
+ 
+ 
+ 
+SCOPE  
+New Zealand Green Investment Finance Limited (NZGIF) commissioned ICS to compile a Verifier’s 
+Report for Pre-Issuance Certification of its Green Bond by the Climate Bonds Initiative (CBI). The 
+Climate Bonds Certification process includes verifying whether the provisions of the Climate Bonds 
+Standard issued by the CBI are met and obtaining evidence to support the verification. 
+CRITERIA  
+Relevant CBI standards for this Climate Bonds Certification:  
+▪ Climate Bonds Standard (Version 3) 
+▪ Solar Sector Eligibility Criteria (Version 2.1) 
+ISSUER’S RESPONSIBILITY  
+NZGIF’s responsibility was to provide information and documentation on:  
+▪ Selection of nominated projects & assets 
+▪ Technical aspects of projects & assets 
+▪ Internal processes & controls 
+▪ Proposed reporting  
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  2  o f  13  
+ISS ESG ’s  VERIFICATION PROCESS  
+ISS ESG is one of the world’s leading independent environmental, social and governance (ESG) 
+research, analysis and rating houses. The company has been actively involved in the sustainable 
+capital markets for over 25 years. Since 2014, ISS ESG has built up a reputation as a highly-reputed 
+thought leader in the green and social bond market and has become one of the first CBI approved 
+verifiers.  
+We have conducted this independent Pre-Issuance Verification of the green bond issued by NZGIF 
+based on the Climate Bonds Standard V.3. limited assurance procedures in accordance with relevant 
+assurance standards such as the International Standard on Assurance Engagements, ISAE 3000 
+revised - Assurance Engagements other than Audits or Reviews of Historical Financial Information, 
+issued by the International Auditing and Assurance Standards Board. 
+Our approach to assess whether the issuer’s Green Bond meets the criteria of the Climate Bonds 
+Standard V.3. is as follows: 
+▪ The issuer provided an overview over the assets to be included in the Green Bond asset pool and 
+the relevant processes and documentation regarding the proceeds (e.g. use of proceeds, 
+management of proceeds) to ISS ESG.  
+▪ The issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard V.3. 
+▪ The issuer provided background documents that elaborate further on the information 
+mentioned in the questionnaire.  
+▪ Using the questionnaire and background documents, ISS ESG carried out an assessment of the 
+CBI criteria. In case any answers were unclear, ISS ESG contacted the issuer for more details and 
+clarification. 
+The engagement with NZGIF took place in September 2022. 
+OUR  BUSINESS PRACTICES  
+We have conducted this verification in strict compliance with the ISS Code of Ethics, which lays out 
+detailed requirements in integrity, transparency and objectivity for the ISS business and team 
+members. It is designed to ensure that the verification is conducted independently and without any 
+conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT  
+This Verification Report for Climate Bonds Certification including all documentation provided 
+alongside is intended for the use of NZGIF and the Climate Bonds Standard Board. The present 
+document may be published by NZGIF, CBI, and ICS. CBI and ICS agree to publish the report with the 
+consent of NZGIF.  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  3  o f  13  
+OPINION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has come to 
+our attention that causes us to believe that, in all material respects the NZGIF Solar Note is not in 
+conformance with the Climate Bonds Standard’s Pre-Issuance Requirements. 
+ 
+  
+R O B E R T  H A ß L E R   
+ISS ESG 
+Munich, 23 November 2022 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  4  o f  13  
+Disclaimer  
+Copyright © 2022 Institutional Shareholder Services Inc. (“ISS”). This document and all of the 
+information contained in it is the property of ISS and/or its subsidiaries. The Information may not be 
+reproduced or redisseminated in whole or in part without the prior written permission of ISS. While 
+we exercise due care in compiling this document, we assume no liability with respect to the 
+consequences of relying on this information for investment or other purposes. ISS makes no express 
+or implied warranties or representations with respect to the information. 
+ 
+About ISS ESG  
+ISS ESG is one of the world’s leading rating agencies in the field of sustainable investment. The 
+agency analyses companies and countries regarding their environmental and social performance.  
+We assess alignment with external principles (e.g. the ICMA Green / Social Bond Principles), analyse 
+the sustainability quality of the assets and review the sustainability performance of the issuer 
+themselves. Following these three steps, we draw up an independent SPO so that investors are as 
+well informed as possible about the quality of the bond / loan from a sustainability perspective. 
+Learn more: https://www.isscorporatesolutions.com/solutions/esg-solutions/green-bond-services/ 
+ 
+Contact  
+Federico Pezzolato – Sustainable Finance Business Manager 
+ISS Corporate Solutions, 1 London Bridge, London, SE1 9BG 
+tel: +44 (0) 203 192 5760 
+e-mail: SPO@isscorporatesolutions.com  
+  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  5  o f  13  
+ANNEX  
+Annex 1: Detailed Findings 
+Annex 2: Detailed Findings Solar Power 
+  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  6  o f  13  
+ANNEX 1: DETAILED FINDINGS  
+1.  USE OF PROCEEDS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1. Documentation of 
+nominated projects & 
+assets assessed as 
+eligible.  
+The issuer will finance solar assets distributed by 
+developers through the NZGIF Solar Note, a 
+product to be issued under the NZGIF Green 
+Financing Framework that includes solar panels 
+and battery storage systems, operational 
+expenditures to provide installation and ongoing 
+maintenance. A list of nominated projects and 
+assets is not available at the time of this 
+assessment because the facilities will be 
+developed over the next 18 months after 
+issuance.  
+ 
+1.2. Net Proceeds are 
+smaller than the 
+issuer’s investment 
+exposure to the 
+Nominated Projects 
+& Assets. 
+The issuer confirms the loan-to-value ratio made 
+to distributed solar developers and financed 
+through the NZGIF Solar Note will range between 
+50%-80%. This is managed through covenants in 
+the loan agreements.  
+The issuer expects to raise up to NZ$300m in total, 
+in which NZ$250m will be from external investors, 
+NZ$50m will be held by NZGIF. The issuer 
+confirmed that all of the funds raised by the 
+product will be provided to distributed solar 
+developers.  
+ 
+1.3. No duplicate 
+nomination of 
+Projects & Assets to 
+multiple Certified 
+Climate Bonds or 
+labelled instruments. 
+The issuer confirms the nominated solar assets are 
+being funded by one CBI Certified Climate Bond/ 
+Loans, and the CBI Certified Climate Bond/ Loans 
+are not being refinanced via another labelled 
+instrument.  
+ 
+ 
+2.  PROCESS FOR EVALUATION AND SELECTION OF PROJECTS AND 
+ASSETS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+2.1. Decision-making 
+process to 
+See below. N/A 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  7  o f  13  
+determine 
+eligibility of 
+nominated 
+projects & assets, 
+including: 
+2.1.1. Statement on the 
+climate-related 
+objectives of the 
+Bonds or 
+instruments.   
+The NZGIF Green Financing Framework supports 
+accelerating and facilitating investment in 
+emissions reductions in Aotearoa New Zealand. The 
+NZGIF Solar Note will finance the installation of 
+distributed solar PV generation assets backed by 
+power purchase agreement, increase renewable 
+generation capacity and reduce reliance on thermal 
+generation in Aotearoa New Zealand. 
+ 
+2.1.2. Climate-related 
+objectives of the 
+Bond in the 
+context of the 
+issuer’s 
+environmental 
+strategy and 
+policies. 
+The NZGIF Solar Note will support the issuer’s 
+purpose to invest to enable Aotearoa New 
+Zealand’s low carbon future.  
+ 
+2.1.3. Issuer’s rationale 
+for issuing the 
+Bonds or 
+instruments. 
+The NZGIF Solar Note will provide qualifying 
+investors the opportunity to co-invest alongside 
+NZGIF to finance the growth of distributed solar PV 
+generation in Aotearoa New Zealand. This aligns 
+with NZGIF’s mission to increase renewable 
+generation in Aotearoa New Zealand and crowd in 
+the private capital.  
+ 
+2.1.4. Process to 
+determine 
+eligibility of 
+Nominated 
+Projects & Assets 
+Eligible Projects will be assessed against the 
+eligibility criteria and NZGIF’s E&S risks 
+management processes by the Management 
+Investment Committee, and then be presented for 
+approval by the Board.   
+The issuer commits to obtain the appropriate post-
+issuance assurance on the portfolio of solar loans 
+to confirm its compliance with the selected criteria. 
+ 
+2.2 Issuer should 
+include under 
+Clause 2.1 further 
+aspects of the 
+decision-making 
+process, including: 
+ 
+See below. 
+N/A 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  8  o f  13  
+2.2.1 Related eligibility 
+criteria to identify 
+and manage 
+potentially 
+material ESG risks 
+associated with 
+the Nominated 
+Projects & Assets. 
+The issuer has due diligence process for managing 
+the ESG risks associated with the investment. The 
+process includes an assessment of the technologies 
+and suppliers used by the developer, as well as an 
+investigation of the developer’s business practices 
+against NZGIF’s ESG requirement. This includes the 
+human rights policies in the solar panel 
+manufacturing supply chain.  
+ 
+ 
+2.2.2 Green standards 
+or certifications 
+referenced in the 
+selection of 
+Nominated 
+Projects & Assets. 
+No other green standards or certifications are 
+referenced for solar assets. 
+ 
+2.2.3 The issuer shall 
+assess all 
+Nominated 
+Projects & Assets 
+meet the 
+documented 
+objectives in 2.1.1 
+and conform to 
+the CBI eligibility 
+requirements. 
+Eligible Projects will be assessed against the 
+eligibility criteria and NZGIF’s E&S risks 
+management processes by the Management 
+Investment Committee, and then be presented for 
+approval by the Board.   
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  9  o f  13  
+3.  MANAGEMENT OF PROCEEDS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+3.1 Systems, policies 
+and processes 
+around the 
+management of 
+Net Proceeds 
+include: 
+See below. 
+N/A 
+3.1.1. Process around 
+management of 
+the net proceeds  
+The issuer has a Green Financing Instruments 
+Register in place to record the allocations and 
+track the use of proceeds of the issuance.  
+ 
+3.1.2. Management of 
+unallocated Net 
+Proceeds 
+NZGIF confirmed that the unallocated Net 
+Proceeds will be held in temporary investment 
+instruments that are cash, or cash equivalent 
+instruments.  
+ 
+3.1.3. Earmarking process 
+used to manage 
+allocation of 
+proceeds and 
+estimate of the 
+share of the Net 
+Proceeds being 
+used for financing 
+and refinancing.   
+The issuer has a Green Financing Instruments 
+Register in place to record the details of the Green 
+Financing Instruments and the use of proceeds. 
+The Register will be reviewed annually by the 
+Chief Operating Officer to account for any re-
+allocation, repayments or drawings on the eligible 
+projects and expenditures within the pool. 
+ 
+4.  REPORTING PRIOR TO ISSUANCE  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+4.1 Confirmation that 
+a Green Bond 
+Framework will be 
+publicly available. 
+It should include 
+without 
+limitations: 
+ The upcoming issuance is intended to be private, 
+the issuer will make the Framework available to 
+the investors. The Framework will be public if any 
+public issuance is involved in the future.   
+4.1.1 Confirmation that 
+bonds issued under 
+the framework are 
+aligned with the 
+The Framework mentions the issuer’s intention 
+for its Green Financing Instruments to be aligned 
+with the Green Bond Principles, Green Loan 
+Principles, and the Climate Bonds Standard.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  10  o f  13  
+Climate Bonds 
+Standard and other 
+standards. 
+4.1.2 Summary of the 
+use of proceeds 
+and their 
+contribution to the 
+goals of the Paris 
+Climate 
+Agreement. 
+The Framework includes details of the expected 
+use of proceeds as well as how they contribute to 
+the goals of the Paris Climate Agreement by 
+emissions reductions.   
+4.1.3 Description of the 
+decision-making 
+process. 
+The Framework includes a description of the 
+decision-making process, as outlined in Section 
+2.2. 
+ 
+4.1.4 Description of the 
+relevant Sector 
+Eligibility Criteria 
+and any additional 
+impact metrics. 
+The Framework mentions the relevant CBI Sector 
+Criteria as outlined in Section 2.5.2.  
+ 
+4.1.5 Summary on the 
+approach used to 
+manage 
+unallocated net 
+proceeds. 
+The Framework mentions that unallocated 
+proceeds may be used for the payment of all or a 
+portion of outstanding indebtedness, and/or 
+temporarily invest in cash, cash equivalents, and 
+short-term instruments or other capital 
+management activities. NZGIF confirmed that the 
+unallocated Net Proceeds will be held in 
+temporary investment instruments that are cash, 
+or cash equivalent instruments. 
+ 
+4.1.6 Intended approach 
+to provide Update 
+Reports to reaffirm 
+conformance with 
+the Climate Bonds 
+Standard while the 
+Bonds or 
+instruments 
+remains 
+outstanding.  
+The Framework mentions that annual reporting 
+will be provided until full allocation of the 
+issuance. They will be subject to verification by an 
+external auditor.  
+ 
+4.1.7 List of proposed 
+Nominated 
+Projects & Assets 
+associated with the 
+Bond or 
+instruments and 
+the investment 
+areas, as provided 
+The Framework includes solar assets that falls into 
+the solar energy sector of the Climate Bonds 
+Taxonomy.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  11  o f  13  
+in Clause 9.1, into 
+which the 
+Nominated 
+Projects & Assets 
+fall.  
+4.1.8 An estimate of the  
+proportion of 
+financing and 
+refinancing, and 
+the expected look-
+back period for 
+refinancing. 
+The Framework mentions a maximum lookback 
+period for refinancing of 36 months. 
+There is currently no estimate for the refinancing 
+proportion of the upcoming bond. The refinancing 
+proportion will be included in the annual impact 
+reporting. 
+ 
+4.2 Disclosure 
+Documentation 
+shall include: 
+See below. 
+N/A 
+4.2.1 Investment areas, 
+of the Nominated 
+Projects & Assets  
+The Framework includes the information about 
+the investment areas and eligible categories in the 
+Nominated Projects and Assets.  
+ 
+4.2.2 Temporary 
+investment 
+instruments for 
+unallocated Net 
+Proceeds 
+The Framework mentions that unallocated 
+proceeds may be used for the payment of all or a 
+portion of outstanding indebtedness, and/or 
+temporarily invest in cash, cash equivalents, and 
+short-term instruments or other capital 
+management activities. NZGIF confirmed that the 
+unallocated Net Proceeds will be held in 
+temporary investment instruments that are cash, 
+or cash equivalent instruments. 
+ 
+4.2.3 Verifier’s engaged 
+by the issuer for 
+the mandatory 
+verification 
+engagements.  
+The Framework mentions that ICS is 
+commissioned to provide alignment assessment 
+of the first financing facilities issued under the 
+Framework, to be submitted for Climate Bonds 
+Certification.  
+ 
+4.2.4 Intended approach 
+providing Update 
+Reports to reaffirm 
+conformance with 
+the Climate Bonds 
+Standard while the 
+Bonds or 
+instruments 
+remains 
+outstanding, 
+including the 
+location of the 
+The Framework mentions that annual reporting 
+will be provided until full allocation of the 
+issuance. They will be subject to verification by an 
+external auditor. 
+The upcoming issuance is intended to be private, 
+the issuer will make the annual reporting available 
+to the investors. The annual reporting will be 
+public if any public issuance is involved in the 
+future. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  12  o f  13  
+published 
+documents. 
+4.2.5 CBI Disclaimer 
+provided in the 
+Certification 
+Agreement 
+The NZGIF Green Financing Framework includes 
+the CBI disclaimer provided in the Certification 
+Agreement.  
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  13  o f  13  
+ANNEX 2 : DETAILED FINDINGS SOLAR POWER  
+ 
+ 
+The Green Bond Asset Pool complies with the Solar Power criteria of the Climate 
+Bonds Initiative. 
+All onshore solar assets are eligible for the Climate Bonds Initiative. All of the assets 
+do not have dedicated fossil fuel back up such as diesel generators.

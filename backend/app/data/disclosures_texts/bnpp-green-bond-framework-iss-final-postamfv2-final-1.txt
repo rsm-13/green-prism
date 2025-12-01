@@ -1,0 +1,1008 @@
+BNP PARIBAS 
+GREEN BOND FRAMEWORK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 2024 
+2 
+ 
+ 
+CONTENTS 
+ 
+1. INTRODUCTION  ................................ ................................ ................................ ................................ ................................ ................................ ........................  3 
+2. GREEN BOND FRAMEWORK  ................................ ................................ ................................ ................................ ................................ ................................ .. 4 
+USE OF PROCEEDS ........................................................................................................................................................................................................................................... 4 
+PROCESS FOR PROJECT EVALUATION AND SELECTION ........................................................................................................................................................................ 9 
+MANAGEMENT OF PROCEEDS ...................................................................................................................................................................................................................... 11 
+REPORTING ........................................................................................................................................................................................................................................................ 12 
+3. EXTERNAL REVIEW BY THIRD PARTIES  ................................ ................................ ................................ ................................ ................................ ............  13 
+4. APPENDIX - BNP PARIBAS FRAMEWORK IN PLACE FOR MANAGING ENVIRONMENTAL, SOCIAL AND GOVERNANCE RISKS  .......................  15 
+5. DISCLAIMERS  ................................ ................................ ................................ ................................ ................................ ................................ ........................  18 
+RISK FACTORS ................................ ................................ ................................ ................................ ................................ ................................ .................  18 
+INVESTMENT CONSIDERATIONS ................................ ................................ ................................ ................................ ................................ ...................  19 
+ 
+ 
+   
+3 
+ 
+1. INTRODUCTION 
+The BNP Paribas Group (“ BNP Paribas” ,“the Group” or “The Bank”) recognises the urgency of the 
+climate crisis.  
+ 
+The findings in the 6th report of the Intergovernmental Panel on Climate Change (IPCC)1 dated March 
+2023 are alarming: at the current rate of development, global warming could cause an increase in 
+temperature of 2.7°C by the end of the century, above the target set by the Paris Agreement to hold 
+global temperatures well below 1.5°C compared to pre-industrial levels. 
+ 
+For more than 10 years, BNP Paribas has been working towards the ecological transition by placing 
+ESG topics at the heart of its business and making the transition to a more environmentally -friendly 
+economy a global commitment. In addition to designing res ponsible financial products and services, 
+BNP Paribas supports a variety of initiatives and innovations to address the major challenges of climate 
+change with a clear objective: to finance a carbon-neutral economy by 2050. 
+ 
+ “Our aim is to continue to be a t the forefront of combatting climate change by moving further and 
+faster to limit the rise in global temperatures to 1.5 °C by 2050. As the task becomes ever more urgent, 
+we have integrated new targets in our strategic plan for 2025 to finance the energy transition. In the 
+current geopolitical context, it is even more essential that we maintain an ambitious course towards 
+a net-zero economy and finance the acceleration of renewable energies. Our strategy is threefold: 
+align our portfolio with our net -zero commitment; measure and pilot our carbon -related risks; and 
+broaden and deepen client relationships to support them as they make their low-carbon transition.2” 
+said Jean-Laurent Bonnafé, Director and Chief Executive Officer, BNP Paribas.  
+ 
+BNP Paribas has a long -standing commitment to sustainability. Since 2010, we have integrated 
+Environmental, Social and Governance (“ESG”) factors into our risk framework for all our financing 
+and investments across the Group. We  also have specific Corporate So cial Responsibility (“ CSR”) 
+policies for nine sensitive sectors applying to all products and services.  
+ 
+BNP Paribas is committed to aligning its financings with  the pathway to a net-zero economy by mid-
+century. In 2021, the Bank was a founding signatory of the Net-Zero Banking Alliance, which allowed 
+to broaden the scope in terms of sector s being considered, and to define  more ambitious climate 
+targets to help limit the increase in global temperatures (in line with the 1.5°C scenario), supporting 
+the Group’s carbon neutrality goal. In 2022, the Group committed to reducing  at least 30% carbon 
+emission intensity for power generation  of its portfolio and reach ing less than 5% of coal in the 
+portfolio capacity mix (down from 10% as of year end 2020), as well as reducing its credit exposure to 
+oil and gas exploration and produc tion activities by 12% , between 2020 and 2025. Moreover, the 
+Group has become a world leader in financing the energy transition and fully supports its customers 
+committed to this transformation. The Climate Analytics and Alignment Report highlights the Group’s 
+early commitments to finance a net -zero economy by 2050 . These commitments are shaped by 
+existing initiatives to redirect financial flows towards low -carbon activities  - for example, since 
+September 2022, BNP Paribas’ financing for low-carbon energy production has been higher than its 
+financing for fossil fuel production . By 2030, 80% of  the Group ’s financing oustanding in energy 
+production will be for low -carbon energy, and financing for oil extraction and production will be 
+reduced to less than 1 billion euros, a decrease of more than 80% compared to the current outstanding 
+amount. The Group will also  no longer financ e coal-fired power generation activities in Europe and 
+OECD countries by 2030 (2040 for the rest of the world). 3 
+ 
+1 https://www.ipcc.ch/assessment-report/ar6/  
+2 BNPP GTS 2025 Stategic Plan Press Release : https://invest.bnpparibas/en/document/gts-2025-techno-and-esg-en  
+3 https://group.bnpparibas/uploads/file/bnpp_climateanalytics_alignmentreport_final.pdf  
+4 
+ 
+ 
+As a testament to this commitment to sustainability, BNP Paribas holds robust ratings with numerous 
+extra-financial rating agencies4.  
+ 
+BNP Paribas Group is committed to advising and financing corporations in building resilient and 
+sustainable business models, in particular through the Bank’s financing of assets and projects with a 
+positive and measurable impact on the environment. Similarly, BNP Paribas is committed to meeting 
+the requirements of institutional investors for green debt securities which demonstrate a positive 
+impact on the environment.  
+ 
+2. GREEN BOND FRAMEWORK 
+BNP Paribas establishe d its Green Bond Framework  (the “ Green Bond Framework ” or the 
+“Framework”) with the aim to mobilise debt capital markets for climate change and energy transition 
+solutions and o ffer investors further insight on the Bank’ s sustainability strategy in line with its 
+commitments.  
+ 
+BNP Paribas ’ Green Bond Framework is aligned  with the four core components and key 
+recommendations of the 2021 Green Bond Principles (with June 2022 Append ix)5 published by the 
+International Capital Market Association (the “Green Bond Principles”). This Green Bond Framework 
+has been revised to reflect the recent developments and best practices of the Green Bond market.  
+ 
+BNP Paribas’ Green Bond Framework is intended to accommodate the issuance of secured or 
+unsecured transactions (public and/or private placements) in various formats and currencies . Green 
+Bonds issued under secured transactions shall only be “Secured Green Standard Bond” as defined in 
+the 2021 Green Bond Principles issued by ICMA as updated in June 2022. Further details will be 
+provided in the applicable announcements and/or in the applicable legal documentation.  For the 
+avoidance of doubt, references to Green Bond or Securities herein should be construed as any 
+Securities secured or unsecured to be issued by BNP Paribas , or by BNP Paribas Emissions - und 
+Handelsgesellschaft mbh6 (“EHG”) and guaranteed by BNP Paribas,  or by BNP P aribas Issuance B.V 7 
+(“IBV”) and guaranteed by BNP Paribas , in line and in accordance with the Green Bond Framework. 
+Accordingly, references to BNP Paribas below shall in relation to Securities issued by IBV or EHG mean 
+both IBV and EHG.   
+ 
+USE OF PROCEEDS 
+In accordance with BNP Paribas Group’s policy to contribute to energy transition solutions and in line 
+with the  Green Bond Principles, BNP Paribas has identified sectors with a positive impact on the 
+environment (the “Eligible Categories”). Within the Eligible Categories, BNP Paribas identifies Eligible 
+Green Assets (the “ Eligible Green Assets” ) based on its comprehensive Environmental, Social and 
+ 
+4 Latest CSR presentations of BNP Paribas’ extra-financing ratings and associated indexes available in: 
+https://invest.bnpparibas.com/en/latest-csr-presentations 
+5 https://www.icmagroup.org/assets/documents/Sustainable-finance/2022-updates/Green-Bond-Principles_June-2022-280622.pdf  
+6 BNP Paribas Emissions und Handelsgesellschaft mbH is 100% owned by BNP Paribas S.A. Securities issued by BNP Paribas Emissions und 
+Handelsgesellschaft mbH are guaranteed by BNP Paribas S.A. More information on the programmes/(base) prospectuses and the financial 
+statements of this issuer may be found at https://derivate.bnpparibas.com/service/basisprospekte/ (for the programmes/(base) 
+prospectuses) and https://derivate.bnpparibas.com/service/ueber-uns/finanzinformationen/ (for the financial statements). 
+7 BNP Paribas Issuance B.V. is 100% owned by BNP Paribas. Securities issued by BNP Paribas Issuance B.V are guaranteed by BNP Paribas 
+SA. More information on the programme and the financial statements of this issuer may be found at https://rates-
+globalmarkets.bnpparibas.com/documents/legaldocs/resourceindex.htm 
+   
+5 
+ 
+Governance Risk Management framework 8 , when complying with at least one of the following 
+selection criteria: 
+• Substantial Contribution criteria9 on eligible economic activities identified in the table b elow 
+as per the EU Taxonomy Regulation (EU) 2020/852 of the European Parliament and of the 
+Council of 18 June 2020 on the establishment of a framework to facilitate sustainable 
+investment (the “EU Taxonomy”), and relevant taxonomy delegated acts (the “Delegated 
+Acts”), as amended from time to time; or 
+• BNP Paribas’ internal eligibility criteria, as defined considering sector market practices, on 
+eligible activities which predated the EU Taxonomy or whenever it is impractical to apply the 
+EU Taxonomy based on current market practices and existing information.  
+ 
+In time, whenever feasible and relevant, and on a best effort s basis considering the extensive range 
+of activities and projects financed by the Group’s global operations , BNP Paribas intends to increase 
+the number of Eligible Green Assets  complying with the Substantial Contribution criteria  of the EU 
+Taxonomy. 
+ 
+The Eligible Green Assets may be any existing, on-going loans or any other form of financing, directly 
+financed and/or refinanced by BNP Paribas SA, or indirectly via any one of BNP Paribas SA’s 
+subsidiaries. 
+ 
+An amount equivalent to the net proceeds from the issuance of any Green Bond in accordance with 
+this Framework is intended to finance and/or refinance, in whole or in part, Eligible Green Assets as 
+defined below in the Eligible Categories.  
+ 
+The distribution of allocated eligible assets by Eligible C ategory will be shared to investors in the 
+relevant Annual Green Bond allocation and impact report, available on BNP Paribas’ Investor Relations 
+website10. 
+Eligible 
+Categories11 Eligible Green Assets selection criteria EU Taxonomy Economic 
+Activities12 
+Environmental 
+Objective 
+Renewable 
+Energy 
+ 
+ 
+  
+Assets related to the acquisition, development, 
+manufacture, construction, installation, and/or operation 
+of renewable energy facilites:  
+• Offshore and Onshore Wind  
+• Solar Photovoltaic 
+• Concentrated Solar Power 
+• Hydropower with less than 1000 MW capacity, 
+for which the electricity generation facility is a 
+run-of-river plant and does not have an artificial 
+reservoir, or the power density of the electricity 
+generation facility is above 5 W/m2, or the life-
+cycle GHG emissions from the generation of 
+electricity are lower than 100gCO2e/kWh  
+• Geothermal energy, for which the life -cycle GHG 
+emissions from the generation of electricity are 
+lower than 100gCO2e/kWh13 
+• Manufacture of green hydrogen and 
+manufacture of equipment for the production 
+and use of green hydrogen for which the life-
+cycle GHG emissions savings are 73.4% for 
+hydrogen (resulting in life-cycle emissions lower 
+than 3 tCO2e/tH2) and the life-cycle GHG 
+emissions savings are 70% for hydrogen-based 
+synthetic fuels relative to a fossil fuel 
+comparator of 94g CO2e/MJ14.   
+ 
+3.1. Manufacture of renewable 
+energy technologies 
+3.2. Manufacture of equipment 
+for the production and use of 
+hydrogen 
+3.10. Manufacture of hydrogen 
+4.1. Electricity generation using 
+solar photovoltaic technology 
+4.2. Electricity generation using 
+concentrated solar power (CSP) 
+technology 
+4.3. Electricity generation from 
+wind power 
+4.5. Electricity generation from 
+hydropower 
+4.6. Electricity generation from 
+geothermal energy 
+7.6. Installation, maintenance 
+and repair of renewable energy 
+technologies 
+Climate change 
+mitigation 
+
+6 
+ 
+ 
+8 Please see “Commitment 3: Systematic integration and management of environmental, social and governance risks (ESG)” in Chapter 7 of 
+the 2023 Universal Registration Document: https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-
+report-2023-pdf-reproduction-of-the-official-version-of-the-afr-which-has-been-prepared-in-xhtml-format-and-is-available-on-the-issuers-
+website  
+9 As Article 3 paragraph a) of the Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the 
+establishment of a framework to facilitate sustainable investment. For clarification purposes, this does not mean full alignment with the 
+EU Taxonomy. Furthermore, the eligibility assessment is performed against the version of EU Taxonomy Substantial Contribution criteria in 
+force at the time of the deal origination (bond or loan origination, as applicable).  
+10 https://invest.bnpparibas/en/search/debt/documents/documentation-on-programs-and-issuances?s%5Bsubthemes%5D%5B%5D=59  
+11 Mapping against the UN SDGs is made based on ‘Green, Social & Sustainability Bonds: A high-level mapping to the sustainable 
+development goals’ https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/June-2019/Mapping-SDGs-to-Green-Social-
+and-Sustainability-Bonds06-2019-100619.pdf 
+12 The EU Taxonomy economic activities listed are indicative only, and other activities may fit as long as the criteria in the Description of 
+the Eligible Green Assets column apply. 
+13 Life-cycle GHG emission savings are calculated using Commission Recommendation 2013/179/EU or, alternatively, using ISO 14067:2018 
+or ISO 14064-1:2018, and verified by an independent third party. 
+14 Life-cycle GHG emissions savings are calculated using the methodology referred to in Article 28(5) of Directive (EU) 2018/2001or, 
+alternatively, using ISO 14067:2018, ISO 14064-1:2018, and verified in line with Article 30 of Directive (EU) 2018/2001 where applicable, or 
+by an independent third party. 
+15 For which the refrigerant Global Warming Potential does not exceed 675 and meet the energy efficiency requirements of the Directive 
+2009/125/EC. 
+16 It must be verified by an independent third party at least every three years. Also, the global warming potential (GWP) of refrigerants 
+used in the data centre cooling system may not exceed 675. 
+Energy 
+Efficiency 
+ 
+ 
+ 
+ 
+Assets related to the development, construction, 
+installation, operation and improvement of energy 
+efficient solutions, infrastructures, facilities and/or 
+equipment:  
+• Energy efficient technologies, products and 
+processes, including, but not limited to, efficient 
+lighting, HVAC (heating / heat pumps15, 
+ventilation and air conditioning), insulation, 
+control and energy management systems; for 
+building renovation measures these must comply 
+with minimum requirements set for individual 
+components and systems in the national 
+measures implementing the Energy Performance 
+of Buildings Directive 2010/31/EU and, where 
+applicable, equipment is rated in the highest two 
+populated classes of energy efficiency in 
+accordance with Regulation (EU) 2017/1369 
+• Infrastructure for the transmission and 
+distribution of electricity for which over 67% of 
+newly enabled generation assets have a 
+100gCO2e/kWh threshold (over a rolling 5-year 
+period), or the grid’s average emissions factor is 
+less than 100gCO2e/kWh  
+• Smart grid technology 
+• Manufacturing and operation of Energy Storage 
+Systems (ESS) 
+• Facilities exclusively for storage and distribution 
+of green hydrogen complying with the description 
+included in this Framework 
+• Eco-efficient data centers complying with the 
+most recent version of the European Code of 
+Conduct on Data Centre Energy Efficiency, if 
+applicable, or in CEN-CENELEC document CLC 
+TR50600-99-1 “Data centre facilities and 
+infrastructures – Part 99-1: Recommended 
+practices for energy management” or in 
+equivalent source16 
+  
+3.4. Manufacture of batteries 
+3.5. Manufacture of energy 
+efficiency equipment for 
+buildings 
+4.9. Transmission and 
+distribution of electricity 
+4.10. Storage of electricity 
+4.12. Storage of hydrogen 
+4.14. Transmission and 
+distribution networks for 
+renewable and low-carbon gases 
+7.3. Installation, maintenance 
+and repair of energy efficiency 
+equipment 
+7.5. Installation, maintenance 
+and repair of instruments and 
+devices for measuring, regulation 
+and controlling energy 
+performance of buildings 
+8.1 Data processing, hosting and  
+related activities 
+ 
+Climate change 
+mitigation  
+
+   
+7 
+ 
+ 
+17 Green Buildings as defined by the Technical Screening Criteria for a Substantial Contribution to Climate Change Mitigation of the EU 
+Taxonomy Climate Delegated Act or meeting the minimum threshold of the listed regional, national or international standards or 
+certifications. 
+18 The calculated amount of energy needed to meet the energy demand associated with the typical uses of a building expressed by a 
+numeric indicator of total primary energy use in kWh/m2 per year and based on the relevant national calculation methodology and as 
+displayed on the EPC. 
+19 https://ec.europa.eu/energy/topics/energy-efficiency/energy-efficient-buildings/nearly-zero-energy-buildings_en 
+20 As defined in the Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of 
+buildings. 
+21 If there are any deviation in the levels of performance set at the design stage or defects in the building envelope these should be 
+disclosed to investors and clients. 
+22 As set in the applicable national and regional building regulations for ‘major renovation’ implementing Directive 2010/31/EU, in which 
+the energy performance of the building or the renovated part that is upgraded meets cost-optimal minimum energy performance 
+requirements. 
+Green 
+Buildings17 
+ 
+ 
+ 
+ 
+Assets related to the acquisition, construction, renovation 
+and mortgaging of new or existing buildings complying 
+with the following criteria:  
+• Commercial or residential buildings built before 
+31 December 2020 with at least Energy 
+Performance Certificate (EPC) label A, or 
+belonging to the top 15% of the national building 
+stock based on primary energy demand (PED)18  
+• Commercial or residential buildings built after 31 
+December 2020 with Primary Energy Demand 
+(PED) at least 10% lower than the threshold set 
+for Nearly Zero-Energy Buildings (NZEB)19 
+requirements in national measures20, and if larger 
+than 5000 m2 having robust and traceable quality 
+control processes in place during construction or, 
+alternatively, undergoing testing for air-tightness 
+and thermal integrity upon completion21   
+• Commercial or residential buildings subject to 
+refurbishment and renovation works complying 
+with the applicable requirements for major 
+renovations22, or leading to a reduction of PED of 
+at least 30% 
+ 
+or Commercial buildings that have, or intend to receive, at 
+least one environmental certification  with the minimum 
+target label from the following: 
+o LEED “Gold”  
+o BREEAM “Excellent”  
+o NF HQE “Excellent”  
+o BEAM Plus “Gold”  
+o EDGE “Advanced”  
+o BCA Green Mark “Gold”  
+o DGNB “Gold” 
+o BBCA “Performance", or 
+o Other equivalent internationally 
+recognised Green Building certifications 
+7.1. Construction of new 
+buildings  
+7.2. Renovation of existing 
+buildings 
+7.7. Acquisition and ownership of 
+buildings 
+ 
+ 
+ 
+Climate change 
+mitigation 
+ 
+
+8 
+ 
+ 
+  
+ 
+23 Where the propulsion of personal mobility devices comes from the physical activity of the user, from a zero-emissions motor, or a mix of 
+zero-emissions motor and physical activity. 
+24 The rail infrastructure is dedicated to the transfer of passengers or freight from rail to rail or from other modes to rail. 
+25 Vessels flying the flag of a State included in the black list published by the Paris Memorandum of Understanding on Port State Control 
+(Paris MOU) are not eligible under this Framework. 
+Clean 
+Transportation 
+ 
+ 
+ 
+Assets related to the acquisition, development, 
+manufacture, construction, operation and/or upgrade of:  
+• Zero tailpipe emissions road transport (electric 
+and hydrogen vehicles, personal mobility 
+devices23) dedicated to private, public or freight 
+transport  
+• Zero direct emissions rail transport for passengers 
+or goods, including trains, trams and 
+subways/metro 
+• Infrastructure for road and rail transport24 
+(expansion of rail transport networks, station 
+upgrade, charging and fuelling stations for zero 
+tailpipe emission vehicles)  
+• Facilities dedicated to the development or 
+production of zero emission vehicles, including 
+hydrogen fuel cell systems for vehicles 
+• Green ships25, namely vessels with zero direct 
+emissions, fully electric or designed to operate 
+with green hydrogen or hydrogen-derived 
+synthetic fuels (green methanol, green ammonia), 
+wind or solar (or a combination of the above); 
+vessels, or assets applied to vessels, dedicated to 
+the transport or storage of fossil fuels, or 
+dedicated to support fossil fuel operations, are 
+excluded 
+3.3. Manufacture of low carbon 
+technologies for transport  
+3.18. Manufacture of automotive 
+and mobility components 
+3.19. Manufacture of rail rolling 
+stock constituents 
+6.1. Passenger interurban rail 
+transport 
+6.2. Freight rail transport 
+6.3. Urban and suburban 
+transport, road passenger 
+transport 
+6.4. Operation of personal 
+mobility devices, cycle logistics 
+6.5. Transport by motorbikes, 
+passenger cars and light 
+commercial vehicles 
+6.6. Freight transport services by 
+road 
+6.7. Inland passenger water 
+transport 
+6.8. Inland freight water 
+transport 
+6.10. Sea and coastal freight 
+water transport, vessels for port 
+operations and auxiliary activities 
+6.11. Sea and coastal passenger 
+water transport 
+6.13. Infrastructure for personal 
+mobility, cycle logistics 
+6.14. Infrastructure for rail 
+transport 
+Climate change 
+mitigation 
+Water 
+Management 
+and Water 
+Treatment 
+ 
+ 
+ 
+ 
+Assets related to the development, construction, 
+operation, extension and/or renewal of:  
+• Water collection, treatment and supply systems 
+as defined by either 5.1 or 5.2 SCC of the EU 
+Taxonomy or internal criteria, as defined 
+considering sector best market practices 
+• Waste water collection and treatment as defined 
+by either 5.3 or 5.4 SCC of the EU Taxonomy or 
+internal criteria as defined considering sector best 
+market practices  
+ 
+5.1. Construction, extension and 
+operation of water collection, 
+treatment and supply systems 
+5.2. Renewal of water collection, 
+treatment and supply systems 
+5.3. Construction, extension and 
+operation of waste water 
+collection and treatment 
+5.4. Renewal of waste water 
+collection and treatment 
+ 
+ 
+Climate change 
+mitigation 
+Pollution 
+prevention 
+and control 
+ 
+Assets related to the development, construction, 
+operation and/or upgrade of: 
+• Recycling facilities, for the sorting and processing 
+of separately collected non-hazardous waste, 
+including, but not limited to, metal, plastic and 
+paper, converting at least 50%, in terms of weight, 
+into secondary raw materials that are suitable for 
+the substitution of virgin materials in production 
+processes 
+• Separate collection and transport of non-
+hazardous waste for reuse or recycling 
+5.5. Collection and transport of 
+non-hazardous waste in source 
+segregated fractions 
+5.9. Material recovery from non-
+hazardous waste 
+ 
+ 
+Climate change 
+mitigation 
+ 
+
+   
+9 
+ 
+Exclusion Criteria 
+For clarification purposes, the following sectors26 are excluded from the Green Bond Framework:  
+• defence and security; 
+• palm oil; 
+• wood pulp; 
+• nuclear power generation; 
+• coal-fired power generation; 
+• oil & gas; 
+• mining; 
+• tobacco; 
+• aviation; and 
+• any infrastructure dedicated to the exploration, production, transport or storage of fossil fuels. 
+ 
+PROCESS FOR PROJECT EVALUATION AND SELECTION 
+Governance  
+As an integral part of its governance for Green Bonds, BNP Paribas has set up a Green Bond Committee, 
+bringing together various departments within the bank to supervise the issuance of the Green Bonds, 
+the selection and monitoring of the portfolio of the Eligible Green Assets and to ensure the compliance 
+of the Green Bonds with best practices.  
+ 
+More specifically, the role of the Green Bond Committee is:  
+i) To review and update the Framework to reflect, whenever feasible, changes in 
+corporate strategy, market evolution, or regulatory developments. This also includes 
+monitoring regulatory developments regarding the EU Regulation related to green 
+bonds (such as the EU Taxonomy, the EU Taxonomy Climate Delegated Act and the EU 
+Green Bond Standard); 
+ii) To review the  selection criteria for the Eligible Green Assets, including possible 
+updates linked to external frameworks such as the EU Taxonomy;  
+iii) To review and validate the portfolio of Eligible Green Assets and their contribution to 
+the EU environmental objectives;  
+iv) To validate the annual reporting for investors;  
+v) To review the appropriate external independent auditors ’ report and address any 
+issues arising; and 
+vi) To monitor any on -going evolution related to the Green Bond market practices in 
+terms of disclosure/reporting and harmonisation.  
+ 
+The Green Bond Committee meets on a semi -annual basis and is chaired by the Head of Corporate 
+Social Responsibility for BNP Paribas . Members of the Green Bond Committee include the following 
+departments:  
+- Asset and Liability Management Treasury teams: In charge of  
+i) Raising BNP Paribas Group wholesale funding on all maturities, in all currencies;  
+ii) Providing a standard loan database to monitor the portfolio of Eligible Green Assets, 
+producing an amortisation loan maturity schedule, flagging the Eligible Green Assets in  
+ 
+26 Please see Appendix. Further details on BNP Paribas Policies can also be found at BNP Paribas’ website: 
+https://group.bnpparibas/en/financing-investment-policies 
+10 
+ 
+the relevant internal system for audit trail and reporting purposes and thus preventing 
+any double-financing of the Eligible Green Assets; and  
+iii) Investing the balance of the net proceeds of the Green Bonds not yet allocated, at its own 
+discretion, in cash and/or short term investments.  
+- Sustainability Center - CIB Sustainability Office: Responsible for assisting in the screening of the 
+Eligible Green Assets and Eligible Categories and preparing the reporting for investors. In his/her 
+role as Chairman of the Green Bond Committee, the Head of CSR for BNP Paribas will have the 
+final decision on the selection of the Eligible Green Assets. The Team is also responsible for 
+liaising with external third parties, including independent Second Party Opinion (SPO) providers 
+and the appropriate external independent auditors. 
+- Sustainable Capital Markets: Responsible for acting as an advisor and updating the Green Bond 
+Committee on best practices in relation to the Green Bond market. 
+- Relevant business lines:  Responsible for providing agreed -upon information on the Eligible 
+Green Assets, communicating the events that may occur on the Eligible Green Assets at deal 
+level or counterparty level (i.e. early termination or extension) and assisting in the selection of 
+assets within the Eligible Categories. 
+Any other teams deemed necessary to be represented may also be included.  
+ 
+Identification of the Eligible Green Assets 
+The Eligible Green Assets financed and/or refinanc ed through an amount equivalent to the net 
+proceeds of Green Bonds issued under this Framework are identified and selected through an internal 
+screening process. 
+ 
+The Eligible Green Assets are sourced from the various Eligible Categories and are selected following 
+the application of a screening process that aims to assure that the potential environmental, social and 
+governance risks linked to eligible projects are identified. This includes sustainability criteria covering 
+Social, Environmental, Health and Safety and Supply Chain indicators. 
+In addition to the analysis and selection process previously described, further screening is applied to 
+ensure the portfolio of the Eligible Green Assets do not include non-committed transactions, loans on 
+watchlists, and assets pledged to other green financing programmes. 
+ 
+   
+11 
+ 
+ 
+ 
+MANAGEMENT OF PROCEEDS  
+a. A single common portfolio of Eligible Green Assets  
+An amount equivalent to the net proceeds from the Green Bonds issued under this Framework will be 
+managed on a portfolio basis. BNP Paribas intends to accrue over time a single portfolio of diversified 
+Eligible Green Assets from the different Eligible Categories subject to internal selec tion and 
+verification by appropriate third parties.  
+ 
+The amount equivalent  to the net proceeds from the issuance of any Green Bond under this  
+Framework will be managed and overseen by the Asset and Liability Management Treasury team. BNP 
+Paribas monitors the use of the net proceeds of the Securities via its internal information systems. An 
+amount equivalent to the  net proceeds will be wholly  allocated to finance and/or refinance new or 
+existing Eligible Green Assets  as outlined in this  Framework. The Asset and Liability Management 
+Treasury team will ensure, on a best efforts basis, that the portfolio of Eligible Green Assets exceeds, 
+or at least is equal to, the amount of Green Bonds net proceeds raised under this Framework. 
+
+12 
+ 
+BNP Paribas will use its best efforts to substitute any redeemed loans or any other forms of financing 
+that cease to be an Eligible Green Asset, as soon as practicable and once an appropriate substitution 
+option has been identified, as long as Green Bond issues are outstanding. 
+ 
+b. Unallocated proceeds 
+Pending the allocation or reallocation, as the case may be, of the net proceeds of the Securities to 
+Eligible Green Assets, BNP Paribas will invest the balance of the net proceeds, at its own discretion 
+and in accordance with relevant internal policies , in cash, cash equivalent and/or other liquid 
+marketable instruments.  
+ 
+REPORTING 
+a. Annual reporting 
+BNP Paribas will apply its best efforts to produce, at least once a year,  a report for all Green Bond 
+issuances under the Green Bond Framework, which has been the case since the first issuance in 2016.  
+As long as any Green Bond is outstanding, BNP Paribas will report on:  
+i) The Eligible Green Assets  financed and/or refinanced by t he net proceeds and their 
+relevant environmental impact indicators, on an aggregated basis;  
+ii) The allocation of the Securities’ net proceeds  to Eligible Green Assets  detailing the 
+aggregate amount dedicated to each of the Eligible Categories; and  
+iii) The balan ce of unallocated cash , cash equivalent and/or other liquid marketable 
+instruments still held by BNP Paribas.  
+ 
+The reporting will present the agg regation of the Eligible Green Assets per Eligible Category and per 
+technology, where applicable, and subject to permitted disclosure in accordance with relevant 
+confidentiality agreements . The summary of the methodology used to assess and report on the 
+environmental benefits of the Eligible Categories will be provided in the report, as applicable. 
+ 
+The reporting is intended to follow the guidelines of the Green Bond Principles, as amended from time 
+to time, and the reference guidance of the International Capital Market Association (“ICMA”) , 
+“Harmonized Framework for Impact Reporting ” dated June 20 2327. In particular,  for each of the 
+Eligible Categories and subject to available data , BNP Paribas will apply its best efforts to report on 
+the performance and impact of the Eligible Green Assets  with appropriate indicators , in line with 
+market requirements, as follows (but not limited to): 
+ 
+Eligible categories Impact indicators 
+Renewable Energy • Installed capacity (MW) 
+• Annual renewable energy generation (GWh) 
+• Estimated annual GHG Avoided emissions (tCO2 eq) 
+Energy Efficiency • Estimated annual GHG Avoided emissions (tCO2 eq) 
+Green Buildings • Annual energy consumption (KWh) 
+• Estimated annual GHG Footprint (tCO 2 eq) per financed or 
+certified area 
+Clean Transportation • Passenger-kilometres and/or number of passengers 
+• Kilometers of new or improved infrastructure  
+• Estimated annual GHG Avoided emissions (tCO2 eq) 
+ 
+27 https://www.icmagroup.org/assets/documents/Sustainable-finance/2023-updates/Handbook-Harmonised-framework-for-impact-
+reporting-June-2023-220623.pdf  
+   
+13 
+ 
+Water Management and Water Treatment • Annual water savings (m3/year) 
+• Annual amount of wastewater treated, reused or avoided  
+(m3/year) 
+• Estimated annual GHG Footprint (tCO2 eq) 
+Pollution prevention and control • Annual amount of recycled materials (tonnes) 
+• Estimated annual GHG Footprint (tCO2 eq) 
+ 
+The report will be reviewed and verified by appropriate external independent auditors as described in 
+the chapter “External Review by Third Parties”. 
+ 
+b. Other documents 
+The following documents are expected to be  made publicly available to investors on BNP Paribas’ 
+Investor Relations website28:  
+- Final Terms, pricing supplement, prospectus, offering circular as applicable, of the relevant 
+Green Bond benchmark issuances (if applicable); 
+- Green Bond Framework, as further updated from time to time; 
+- BNP Paribas Green Bond Investor Presentation; 
+- Second Party Opinion on the Green Bond Framework from independent Second Party Opinion 
+provider29; 
+- Second Party Opinion on Eligible Green Assets from independent Second Party Opinion provider 
+(term as defined hereafter); 
+- Annual assurance report from appropriate external independent auditors; and 
+- Annual reporting and methodology. 
+ 
+The Second Party Opinion  on Eligible Green Assets, the annual assurance report from appropriate 
+external independent auditors and the annual reporting and methodology are all expected to be made 
+publicly available on BNP Paribas’ Investor Relations website in the same timely manner. 
+ 
+3. EXTERNAL REVIEW BY THIRD PARTIES 
+a. Second Party Opinion on the Green Bond Framework 
+BNP Paribas will appoint an independent Second Party O pinion provider to assess the sustainability  
+elements of its Green Bond Framework, and in particular, to verify its alignment with the ICMA Green 
+Bond Principles . The Party Opinion is available on  BNP Paribas’ Investor  Relations website: 
+https://invest.bnpparibas/en/.  
+ 
+Any material upda te to the Framework will be subject to the prior approval of the selected Second 
+Party Opinion provider. 
+ 
+b. Review of the Eligible Green Assets 
+In the interest of transparency and in pursuant of a best -in-class approach, BNP Paribas plans to 
+submit the Eligible Green Assets added within the course of each year to an independent third party 
+review (that can be conducted by, amongst others, the selected Second Party Opinion Provider and/or 
+any other third parties deemed to be appropriate as per the Green B ond Principles) to confirm 
+ 
+28 https://invest.bnpparibas/en/search/debt/documents/documentation-on-programs-and-issuances?s%5Bsubthemes%5D%5B%5D=59  
+29 Please see ‘External Review by Third Parties, b. Review of the Eligible Green Assets’ section below 
+14 
+ 
+compliance with the selection criteria applicable to the Eligible Green Asset and with the relevant 
+sustainability standards set forth in this Framework.  
+ 
+c. Independent Assurance 
+BNP Paribas will seek  independent assurance from an external auditor on the allocation and impact 
+reports related to its Green Bond Framework.  
+ 
+ 
+   
+15 
+ 
+4. APPENDIX - BNP PARIBAS FRAMEWORK IN PLACE FOR MANAGING ENVIRONMENTAL, SOCIAL AND 
+GOVERNANCE RISKS 
+BNP Paribas’ framework for managing ESG risks is part of an integrated risk management approach30, 
+which has been continually developed and improved since 2010. 
+ 
+This approach is based on: 
+- The development of CSR sector policies covering the provision of financial products and 
+services to clients and/or projects in sensitive sectors; 
+- Compliance with the Equator Principles for large-scale industrial and infrastructure projects; 
+- The development of a new ESG assessment framework since June 2021 that identifies, 
+assesses and monitors the ESG performance and risks of corporate customers by sector with 
+a common approach within the Group. Currently designed for large companies, this 
+framework will be gradually adapted and extended to different customer segments; 
+- An internal CSR Exclusion and Monitoring List with companies that either are in breach of 
+BNP Paribas’ commitments or present ESG issues that require particularly careful due 
+diligence and follow up; and 
+- The integration of ESG due diligence in the Global Credit Policy and in the standard decision -
+making processes of the Bank. 
+ 
+This framework, in place since 2010, was further strengthened with the following measures31:  
+- Strengthening of carbon risk management; 
+- Strengthening respect for human rights; 
+- Strengthening commitment to combat deforestation and protect biodiversity; 
+- Exclusion of the tobacco sector; 
+- Exclusion of companies and projects significantly involved in unconventional oil & gas sectors; 
+- Exclusion of oil & gas from companies or projects with operations in the Arctic and the Amazon 
+- Aligning the Bank´s business strategies with the UN Sustainable Development Goals and the 
+Paris Climate Agreement by signing the Principles for Responsible Banking; in this context, the 
+Bank formalised commitment to SDG 14 “Life below water” and discloses its actions to protect 
+oceans32; and 
+- Reinforcement of existing ESG risk assessment framework for clients by combining existing 
+setup within CIB , i.e. Policy Assessment Tables (PAT) and CSR Screening, in a single and 
+consistent model of evaluation: ESG Assessment. 
+ 
+a. Sector policies 
+Some sectors present major ESG challenges and are considered highly sensitive. For these sectors, 
+BNP Paribas has implemented comprehensive policies with clear mandatory requirements and 
+evaluation criteria covering the provision of financial products and services to corporate clients or 
+projects. These sector policies allow BNP Paribas to operate in such sectors, while avoiding the worst 
+performers and favouring the best players and companies committed to improving their practices.  
+ 
+30 Please see in Chapter 7 of the Universal Registration Document  
+https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2023-pdf-reproduction-of-the-official-
+version-of-the-afr-which-has-been-prepared-in-xhtml-format-and-is-available-on-the-issuers-website  
+31 Please see in Chapter 7 of the Universal Registration Document 
+https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2023-pdf-reproduction-of-the-official-
+version-of-the-afr-which-has-been-prepared-in-xhtml-format-and-is-available-on-the-issuers-website  
+32 Please see Press Release of BNP Paribas reinforcing commitmenet to UN SDG at New York Climate Week 
+https://group.bnpparibas/en/press-release/bnp-paribas-reinforces-commitment-sustainable-development-goals-york-climate-week  
+16 
+ 
+ 
+BNP Paribas has nine policies covering the following sectors:  
+- Defence  
+- Palm oil  
+- Wood pulp 
+- Nuclear power generation 
+- Coal-fired power generation 
+- Oil & gas 
+- Mining  
+- Agriculture 
+- Tobacco 
+ 
+Developed in cooperation with internal and external experts, and taking into account the opinions of 
+a wide range of different stakeholders, these public policies apply worldwide to all BNP Paribas 
+Group’s entities and business lines. 
+ 
+The sector policies are available on our corporate website:  
+https://group.bnpparibas/en/group/at-the-service-of-our-clients-and-society/supporting-
+transitions/financing-and-investment-policies  
+ 
+b. Equator Principles  
+BNP Paribas adopted the Equator Principles (EPs) in 2008. This landmark voluntary initiative from the 
+financial sector is a due diligence framework process applied to certain financing and advisory 
+transactions related to the development of infrastructure and industrial projects (either greenfield or 
+when there is a significant expansion or upgrade of an existing project). Under the EPs, projects need 
+to comply with good international practices (such as the World Bank and International Finance 
+Corporation standards and guidelines in non “High Income OECD” countries), designed to avoid and 
+reduce potential negative impacts on the population and the environment, and to ensure projects are 
+developed in a responsible manner. Compliance with these standards is en sured through specific 
+clauses in the loan documentation, and performance is regularly monitored. 105 financial institutions 
+from 38 countries have adopted the Equator Principles.  
+The annual report of BNP Paribas on the Equator Principles is publicly available:  
+https://cdn-
+group.bnpparibas.com/uploads/file/bnpparibas_2021_reporting_on_the_equator_principles.pdf 
+ 
+c. Specific ESG risk assessment system for products and services 
+✓ Integration of ESG criteria into credit and rating policies 
+BNP Paribas progressively integrates ESG criteria into its specific credit and rating policies. The general 
+credit policy for corporate clients requires the business lines to assess how their clients manage their 
+ESG risks, and how they respond to public controversies. 
+ 
+✓ The assessment of ESG risks for corporate clients  
+Over the course of 2022, BNP Paribas gradually deployed the ESG Assessment, a group wide process 
+for systematic identi fication, assessment and monitoring of the ESG performance and risks of 
+corporate clients. The ESG Assessment has sector -specific questionnaires covering 19 different 
+industry sectors and integrates the CSR Sectoral Policies ’ compliance analysis. All questionnaires 
+encompass five ESG dimensions: Governance & Business Ethics, Pollution & Biodiver sity, Climate, 
+Human Rights - Workforce, and Human Rights - Consumers and Communities.  
+ 
+   
+17 
+ 
+The purpose of the questionnaire is to establish the “ESG Profile” of the client as part of the credit 
+process and the annual client review. This is supplemented by an  analysis of ESG controversies for 
+each client. 
+ 
+The ESG Assessment has to be updated and recertified every year. The magnitude of this update and 
+the frequency may vary depending on the client’s ESG risk level. 
+ 
+✓ CSR Monitoring and Exclusion lists 
+Through the application of its ESG framework, BNP Paribas identifies companies that do not meet its 
+CSR requirements (such companies are added to the CSR Exclusion list) and companies that present 
+particular ESG risks (such companies are added to the CSR M onitoring list). Companies on the CSR 
+Exclusion list cannot be onboarded and existing client relationships have to be exited. While it is still 
+possible to work with companies on the CSR Monitoring list, they are subject to a specific due diligence 
+process to ensure progress is made against the identified issues, and specific transactions are subject 
+to ad-hoc approval committees.  
+ 
+BNP Paribas has also implemented a list of excluded goods and activities to which the bank will not 
+provide any financial prod ucts, such as tobacco, controversial weapons ’ drift nets, production of 
+asbestos fibres, products containing  Polychlorinated biphenyls (PCBs), or the trading of any species 
+regulated by the CITES Convention.  
+ 
+d. Control plan on the ESG framework implementation 
+The implementation of this ESG framework in the various operating entities and geographies of the 
+BNP Paribas Group relies on existing levels of control (such as Risk and compliance). 
+ 
+In 2019, the Risk function was established as a second line of defence to ensure that extra -financial 
+issues are taken into account in credit decisions. 
+ 
+In order to ensure that ESG risk management tools are strictly applied in all entities, the Group has 
+developed a CSR operational control plan. This control plan is fully integrated into the Group's general 
+operational control framework and is gradually transposed in the various operating entities, with the 
+support of CSR and permanent operational control teams. BNP Paribas is updating this operational 
+control plan to incorporate the new ESG requirements defined by the Group in light of the Duty of 
+Care law.  
+ 
+In addition, the General Inspection of the Bank is conducting periodic reviews of various business lines 
+and coverage teams to ensure compliance with the Group procedures. These reviews also cover the 
+implementation of the ESG framework, as and when applicable. 
+ 
+ 
+18 
+ 
+5. DISCLAIMERS  
+RISK FACTORS  
+This document (the Green Bond Framework ) is intended to provide non -exhaustive, general 
+information. This document may contain or incorporate by reference public information not 
+separately reviewed, approved or endorsed by BNP Paribas or any of its affiliates and accordingly, no 
+representation, warranty or undertaking, express or implied, is made and no responsibility or liability 
+is accepted by BNP Paribas or any of its affiliates as to the fairness, accuracy, reasonableness or 
+completeness of such information.  
+This document may contain statem ents about future events and expectations that are forward -
+looking statements.  None of the future projections, expectations, estimates or prospects in this 
+document should be taken as forecasts or promises nor should they be taken as implying any 
+indication, assurance or guarantee that the assumptions on which such future projections, 
+expectations, estimates or prospects have been prepared are correct or exhaustive or, in the case of 
+the assumptions, fully stated in the document. BNP Paribas has and underta kes no obligation to 
+update, modify or amend this document or the statements contained herein to reflect actual changes 
+in assumptions or changes in factors affecting these statements or to otherwise notify any addressee 
+if any information, opinion, projection, forecast or estimate set forth herein changes or subsequently 
+becomes inaccurate. 
+This document is not intended to be and should not be construed as providing legal or financial advice. 
+It does not constitute an offer or invitation to sell or any solicitation of any offer to subscribe for or 
+purchase or a recommendation regarding any securities, and nothing contained herein shall form the 
+basis of any contract or commitment whats oever and it has not been approved by any security 
+regulatory authority.  
+The addressee is solely liable for any use of the information contained herein and BNP Paribas or any 
+of its affiliates shall not be held responsible for any damages, direct, indirect or otherwise, arising from 
+the use of this document by the addressee. 
+The Final Terms, pricing supplement, prospectus or offering circular, as applicable, relating to any 
+specific Tranche of bonds, notes, NEU CP ( Negotiable EUropean Commercial Paper),  NEU MTN 
+(Negotiable EUropean Medium Term Note) or other debt securities (the Securities) may provide that 
+it will be BNP Paribas’ and/or BNP Paribas Issuance B.V.’s (in the case of Securities issued by BNP 
+Paribas Issuance B.V.) intention to apply an amount equivalent to the net proceeds from the issuance 
+of any Securities in accordance with this Framework, to finance and/or refinance new or existing  
+Eligible Green Assets . For the avoidance of doubt, references to Green Bond or Securities herein 
+should be construed as any Securities to be issued by BNP Paribas or by BNP Paribas Issuance B.V 33 
+and guaranteed by BNP Paribas in line and in accordance with the Green Bond Framework. Accordingly, 
+references to BNP Paribas below shall in relation to Securities issued  by BNP Paribas Issuance B.V. 
+mean both BNP Paribas and BNP Paribas Issuance B.V.. 
+Any:  
+i) failure to apply the net proceeds of any issue of Green Bonds to any Eligible Green Assets;  
+ii) withdrawal of any opinion or certification or any opinion or certification being superseded by 
+an opinion or certification stating that BNP Paribas has not complied, in whole or in part, with 
+any matters on which the original opinion or certification had opined or certified;  
+ 
+33 BNP Paribas Issuance B.V. is 100% owned by BNP Paribas. Securities issued by BNP Paribas Issuance B.V are guaranteed by BNP Paribas 
+SA. More information on the programme and the financial statements of this issuer may be found at https://rates-
+globalmarkets.bnpparibas.com/gm/Public/LegalDocs.aspx 
+   
+19 
+ 
+iii) lack of Eligible Green Assets in which BNP Paribas may invest; and/or 
+iv) event or circumstances resulting in the Green Bonds no longer being listed or admitted to 
+trading on any stock exchange or securities market,  
+may have a material adverse effect on the value of Green Bonds and the value of any other securities 
+which are inte nded to finance  and/or refinance  Eligible Green Assets  and/or could also result in 
+adverse consequences for certain investors with portfolio mandates to invest in securities to be used 
+for a particular purpose. Any such event will not constitute an event of default under the Green Bonds 
+or a default of the BNP Paribas for any purpose, and does not affect the regulatory treatment of the 
+Securities in respect of BNP Paribas. 
+ 
+INVESTMENT CONSIDERATIONS 
+The use of the net proceeds of any Securities for any Eligible Green Assets may not satisfy, whether in 
+whole or in part, any present or future investor expectations or requirements as regards any 
+investment criteria or guidelines with which such investor or its investments are required to comply, 
+whether by any present or future applicable laws or regulations or by its own by -laws, investment 
+policy or other governing rules or investment portfolio mandates, in particular w ith regard to any 
+direct or indirect environmental, sustainability or social impact of any projects or uses, the subject of 
+or related to, any Eligible Green Assets. 
+Regulation (EU) No. 2020/852 on the establishment of a framework to facilitate sustainable  
+investment was adopted by the Council and the European Parliament (the "Taxonomy Regulation"), 
+as supplemented by Delegated Regulation (EU) 2021/2139 (as amended) and Delegated Regulation 
+(EU) 2023/2486 established a single EU -wide classification system, or "taxonomy", which provides 
+companies and investors with a common language for determining which economic activities can be 
+considered environmentally sustainable and technical screening criteria for determining which 
+economic activities can be considere d as contributing substantially to one of the six environmental 
+objectives of the Taxonomy Regulation, without such  economic activity causing any significant harm 
+to any of the other environmental objectives.  
+Any opinion or certification of any third part ies (whether or not solicited by BNP Paribas) which may 
+be made available in connection with the issue and offering of any Green Bonds and in particular with 
+the extent to which Eligible Green Assets may fulfil any environmental, sustainability, social and /or 
+other criteria, may not be suitable or reliable for any purpose whatsoever. For the avoidance of doubt, 
+any such opinion or certification is not, nor shall be deemed to be, incorporated in and/or form part 
+of the Green Bond Framework. Any such opinion or certification is not, nor should be deemed to be, 
+a recommendation by BNP Paribas and its affiliates or any other person to buy, sell or hold any Green 
+Bonds. Any such opinion or certification is only current as of the date that opinion was initially issued. 
+Prospective investors must determine for themselves the relevance of any such opinion or 
+certification and/or the information contained therein and/or the provider of such opinion or 
+certification for the purpose of any investment in such Green Bonds. Currently, the providers of such 
+opinions and certifications are not subject to any specific regulatory or other regime or oversight. 
+In the event that any Green Bonds are listed or admitted to trading on any dedicated "green", 
+"environmental", "sustainable" or other similarly labelled segment of any stock exchange or securities 
+market (whether or not a regulated market for the purpose o f the Markets in Financial Instruments 
+Directive 2014/65/EU, as amended), or are included in any dedicated "green", "environmental", 
+"sustainable" or other equivalently-labelled index, such listing or admission, or inclusion in such index, 
+may not satisfy,  whether in whole or in part, any present or future investor expectations or 
+requirements as regards any investment criteria or guidelines with which such investor or its 
+investments are required to comply, whether by any present or future applicable law o r regulations 
+20 
+ 
+or by its own by -laws or other governing rules or investment portfolio mandates, in particular with 
+regard to any direct or indirect environmental, sustainability or social impact of any projects or uses, 
+the subject of or related to, any cli mate projects. Furthermore, the criteria for any such listings or 
+admission to trading may vary from one stock exchange or securities market to another and the 
+criteria for inclusion in such index may vary from one index to another. Any such listing or adm ission 
+to trading, or inclusion in any such index, may not be obtained in respect of Green Bonds or, if obtained, 
+any such listing or admission to trading, or inclusion in such index, may not be maintained during the 
+life of Green Bonds.  
+While it is the i ntention of BNP Paribas to apply an amount equivalent to the net proceeds of any 
+Green Bonds to Eligible Green Assets in, or substantially in, the manner described in the applicable 
+Final Terms, pricing supplement, prospectus or offering circular and in th e Green Bond Framework, 
+the relevant project(s) or use(s) which are the subject of, or related to, any Eligible Green Assets may, 
+for reasons beyond the Issuer’s control, not be capable of being implemented in or substantially in 
+such manner and/or in accordance with any timing schedule or within any specified period or at all or 
+with the results or outcome (whether or not related to the environment) as originally expected or 
+anticipated by BNP Paribas or such proceed may not be totally or partially disbursed for such Eligible 
+Green Assets. Such Eligible Green Assets may not be completed. Any such event or failure by BNP 
+Paribas to apply an amount equivalent to the net proceeds as intended will not constitute an event of 
+default (however defined) under the Green Bonds, create an obligation for BNP Paribas to redeem the 
+Green Bonds, give a right to an early redemption or the acceleration of the Green Bonds and/or give 
+any claim against BNP Paribas.

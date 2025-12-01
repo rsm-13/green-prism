@@ -1,0 +1,526 @@
+© Sustainalytics 2025 
+ 
+ 
+ 
+Second-Party Opinion 
+Green Finance Framework – SWCH 
+2025-DATA CMBS 
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the Green Finance Framework – SWCH 2025-
+DATA CMBS is credible and impactful and aligns with the four core components of 
+the Green Bond Principles 2021. This assessment is based on the following: 
+ 
+USE OF PROCEEDS  The eligible categor y for the use of proceeds  – 
+Energy and Resource Efficiency – is aligned with those recognized by 
+the Green Bond Principles. Sustainalytics considers that investments 
+in the eligible category will lead to positive environmental impacts and 
+advance the UN Sustainable Development Goals, specifically SDG 7. 
+  Switch has selected three 
+assets in accordance with the eligibility criteria under the Framework 
+and evaluated the characteristics of the Mortgaged Properties against 
+available benchmarks and industry best practices applicable to the 
+design, construction and completion of data centres. Switch has 
+mandated subject matter experts to evaluate the environmental and 
+social risks associated with the Project and implement ed related 
+mitigation measures as needed. Sustainalytics considers the project 
+selection process in line with market practice. 
+ MANAGEMENT OF PROCEEDS  The proceeds from the issuance 
+will be exclusively used to purchase the mortgage loan to refinance 
+the Mortgaged Properties. Proceeds will be immediately allocated 
+after the issuance with no flexibility to reallocate. This is in line with 
+market practice. 
+ REPORTING The depositor commits to providing investors with a 
+description of the Mortgaged Propert ies and the details of their 
+sustainability features, including the PUE ratio, as part of the initial 
+offering document. Given the intent to immediately allocate the 
+proceeds to purchase the mortgage loans and refinance the eligible 
+assets, Sustainalytics views Switch’s allocation and impact 
+reporting to be aligned with market practice. 
+ 
+ 
+ 
+Evaluation date February 4, 2025 
+Issuer Location Las Vegas, USA 
+ 
+Report Sections 
+ 
+ 
+Introduction ............................................. 2 
+Sustainalytics’ Opinion ........................... 3 
+ 
+For inquir ies, contact the Sustainable 
+Corporate Solutions project team: 
+Aishwarya Ramchandran (Toronto) 
+Project Manager 
+aishwarya.ramchandran@sustainalytics.com 
+(+1) 416 861 0403  
+Carlos Vinueza (Toronto) 
+Project Support 
+Taylor Ball (Toronto) 
+Project Support 
+Anna Leckman (Toronto) 
+Client Relations 
+susfinance.americas@sustainalytics.com  
+(+1) 646 518 9623     
+ 
+  
+
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+2 
+Introduction 
+Switch (or the “Company”)  is a technology infrastructure ecosystem company focusing on the design, 
+construction and operation of data centres. Founded in 2000, Switch owns and operates five main data centre 
+campuses, totaling more than 5, 300 acres in the US. The Company is headquartered in Las Vegas, Nevada 
+and employed approximately 1,000 people as of December 2024.  
+Switch has developed the Green Finance Framework – SWCH 2025-DATA CMBS dated February 2025 (the 
+“Framework”) for the issuance of green bonds (the “SWCH 2025-DATA, Commercial Mortgage Pass-Through 
+Certificates” or the “bonds”)1 issued by SWCH Commercial Mortgage Trust 2025-DATA. The proceeds of the 
+bonds will be used by NV LAS NAP 7, LLC ; NV RNO 2, LLC; and NV LAS NAP 9, LLC  (the “Borrower”), each a 
+special purpose vehicle owned by Switch, to exclusively finance the purchase of a mortgage loan (the “Whole 
+Loan”), which will be originated by Citi Real Estate Funding Inc ., Barclays Capital Real Estate Inc., Goldman 
+Sachs Bank USA, Royal Bank of Canada and Wells Fargo Bank, National Association . The Whole Loan will be 
+used to refinance the green project, consisting of a portfolio of three data centre properties located in Las 
+Vegas and Reno, Nevada (the “Mortgaged Properties”, “Properties” or the “Project”).2 The Framework defines 
+eligibility criteria in one area: 
+1. Energy and Resource Efficiency  
+Switch engaged Sustainalytics to review the  Framework and provide a Second-Party Opinion on the 
+Framework’s environmental credentials and its alignment  with the Green Bond Principles 20 21 (GBP).3 The 
+Framework will be shared directly with investors upon request.  
+Scope of work and limitations of Sustainalytics’ Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent4 opinion on the alignment of the 
+reviewed Framework with current market standards and the extent to which the eligible project categories are 
+credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with the Green Bond Principles 2021, as administered by ICMA; 
+• The credibility and anticipated positive impacts of the use of proceeds; and 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version 1.18, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+As part of this engagement, Sustainalytics held conversations with various members of Switch’s management 
+team to understand the sustainability impact of its business processes and planned use of proceeds, as well 
+as the management of proceeds and reporting aspects of the Framework. Switch representatives have 
+confirmed that: (1) they understand it is the sole responsibility of Switch to ensure that the information 
+provided is complete, accurate and up to date; (2) that they have provided Sustainalytics wit h all relevant 
+information and (3) that any provided material information has been duly disclosed in a timely manner. 
+Sustainalytics also reviewed relevant public documents and non-public information. 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. 
+ 
+1 Switch has confirmed to Sustainalytics that this is a secured green collateral bond as per the voluntary process guidelines published in the June 2022 
+Appendix 1 of the GBP 2021. Switch has additionally committed to ensuring that: i) the collateral underlying the securitization of the bond is aligned with 
+the criteria in the Framework; and ii) there will be no double-counting of the Mortgaged Properties and any other outstanding green financing. 
+2 The Mortgaged Properties are: i) LAS.07 built in 2008, with up to 100 MW of critical power capacity, 662,847 square feet and LTM PUE below 1.45; 
+ii)LAS.09 built in 2015, with up to 50 MW of critical power capacity, 491,136 square feet and LTM PUE below 1.45; and iii) RNO.02 built in 2022, with up 
+to75 MW of critical power capacity, 522,165 square feet and an LTM PUE below 1.45. 
+3 The Green Bond Principles are administered by the International Capital Market Association and are available at https://www.icmagroup.org/green-
+social-and-sustainability-bonds/green-bond-principles-gbp/. 
+4 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore put in place a robust conflict management 
+framework that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial and research 
+(and engagement) teams, data protection and systems separation. Last but not the least, analyst compensation is not directly tied to specific 
+commercial outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+3 
+Any update of the present Second -Party Opinion will be conducted according to the agreed engagement 
+conditions between Sustainalytics and Switch. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with market 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects expected to be financed with bond and loan proceeds but does not measure the actual impact. The 
+measurement and reporting of the impact achieved through projects financed under the Framewo rk is the 
+responsibility of the Framework owner. 
+In addition, the Second-Party Opinion opines on the potential allocation of proceeds but does not guarantee 
+the realised allocation of the bond and loan proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument, either in favour or against, the truthfulness, reliability 
+or completeness of any facts or statements and related surrounding circumstances that Switch has made 
+available to Sustainalytics for the purpose of this Second-Party Opinion. 
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the Green Finance Framework – SWCH 
+2025-DATA CMBS 
+Sustainalytics is of the opinion that the Green Finance Framework – SWCH 2025-DATA CMBS is credible, 
+impactful and align ed with the four core components  of the GBP. Sustainalytics highlights the following 
+elements of the Framework: 
+• Use of Proceeds:  
+- The eligible category , Energy and Resource Efficiency, is aligned with those recognized by the 
+GBP.  
+- The proceeds will be used exclusively to finance the purchase of the Whole Loan, to refinance 
+the Mortgaged Properties located in Las Vegas and Reno, Nevada. 
+▪ The Mortgaged Properties consist of  data centres with a last twelve months power 
+usage effectiveness (LTM PUE) of 1.45 or lower. Sustainalytics considers the eligibility 
+criterion of a defined PUE threshold to be in line with market practice. Sustainalytics 
+further highlights that Switch has committed to: i) procure renewable energy (or 
+primarily power the data centre s with renewables); or ii) use free cooling technology 
+that takes advantage of cool ambient conditions and reduces the need for mechanical 
+cooling and associated power. Sustainalytics believes that data centres with 
+annualized PUE s below 1.5 that utilize renewable energy or free cooling technology 
+generate significantly lower scope 1 and 2 emissions. 
+• Project Evaluation and Selection:  
+- The Borrower has selected the Mortgaged Properties in accordance with the  Framework’s 
+eligibility criteria, and evaluated their characteristics against available benchmarks and industry 
+best practices applicable to the design, construction and completion of data centres, including: 
+i) European Commission Joint Research Institute’s Best Practice Guidelines for the EU Code of 
+Conduct on Data Centre Energy Efficiency;5 ii) the International Energy Agency’s Tracking Report 
+on Data Centres and Data Transmission Networks; 6 iii) the National Renewable Energy 
+Laboratory’s Subcontract Report on Data Center IT Efficiency Measures;7 iv) the Climate Neutral 
+Data Centre Pact;8 and v) the Uptime Institute’s Global Data Centre Survey.9 
+ 
+5 European Commission, “2024 Best Practice Guidelines for the EU Code of Conduct on Data Centre Energy Efficiency”, at: 
+https://e3p.jrc.ec.europa.eu/sites/default/files/documents/publications/jrc136986_2024_best_practice_guidelines.pdf  
+6 International Energy Agency, “Data Centres and Data Transmission Networks”, at: https://www.iea.org/energy-system/buildings/data-centres-and-
+data-transmission-networks  
+7 National Renewable Energy Laboratory, “Chapter 20: Data Center IT Efficiency Measures Evaluation Protocol”, (2017), at: 
+https://www.nrel.gov/docs/fy17osti/68576.pdf  
+8 Climate Neutral Data Center, “Climate Neutral Data Centre Pact”, at: https://www.climateneutraldatacentre.net/#  
+9 Uptime Institute, “Research and Reports”, at: https://uptimeinstitute.com/resources/research-and-reports   
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+4 
+- Switch has mandated subject matter experts to evaluate the environmental and social risks 
+associated with the Mortgaged Properties and implemented appropriate mitigation measures 
+as needed. The Borrower will provide an appraisal and property condition report to lenders prior 
+to the Whole Loan’s closing date. Sustainalytics considers these environmental and social risk 
+management systems to be adequate. Please refer to Section 2 for more details on these 
+processes. 
+- Based on the established process for project evaluation and selection, and the presence of risk 
+management processes, Sustainalytics considers th e processes to be in line with market 
+practice. 
+• Management of Proceeds: 
+- Proceeds from the issuance will be immediately allocated to the financing of the Whole Loan 
+that will in turn be used to refinance the Mortgaged Properties. The SWCH 2025-DATA Trust will 
+not retain the flexibility to re -allocate the use of proceeds or have any temporary use of 
+proceeds. 
+- Based on the commitment to full allocation at issuance, Sustainalytics considers this process  
+to be in line with market practice. 
+• Reporting: 
+- The depositor has provided investors with a description of the Mortgaged Propert ies and the 
+sustainability features, including the LTM PUE ratio of less than 1.45, to its investors through the 
+initial offering document. 
+- Considering that all of the proceeds will be immediately used to purchase the Whole Loan and 
+refinance the Mortgaged Properties , Sustainalytics considers this process to be in line with 
+market practice. 
+Alignment with the Green Bond Principles 2021  
+Sustainalytics has determined that the Green Finance Framework – SWCH 2025-DATA CMBS aligns with the 
+four core components of the GBP. 
+Section 2: Sustainability Strategy of Switch 
+Contribution to Switch’s sustainability strategy 
+Switch’s sustainability strategy focuses on the following environmental areas: i) renewable energy; ii) energy 
+efficiency; iii) emissions reduction ; iv) water conservation  and water recycling;  and v) waste disposal and 
+recycling.10 
+To address energy efficiency, Switch has established design targets for its data centres, achieving a PUE of 
+1.4 or below for new builds and 1.45 or below for retrofitted facilities.  To meet these targets, Switch has 
+implemented renewable energy procurement strategies, including sourcing 100% of its electricity from 
+renewable sources and using verified carbon offsets for residual emissions. Switch has further 
+communicated that its facilities have earned Energy Star certification and has all of them have exceeded the 
+programme's minimum requirements by up to 30 %. The Company achieved and continues to maintain its 
+2024 target of net zero scope 1 and 2 emissions; having achieved net zero scope 2 emissions since 2016 and 
+scope 1 emissions since 2021 through the purchase of carbon offsets  and 100% renewably powered 
+operations.11 To further support the Company’s on-going net zero efforts, Switch monitors its GHG emissions 
+through its GHG Reduction Program, which adheres to the GHG Protocol. Switch has maintained its net zero 
+targets even as the Company’s operations have expanded.12 
+Switch has implemented a goal to replenish twice the amount of water it uses operationally over the next 
+decade. In 2024, Switch achieved its target of reaching a water usage effectiveness (WUE) ratio of less than 
+1.4.13 To achieve this, Switch employs proprietary water processing technology that enables water reuse and 
+eliminates chemicals from its cooling systems. The Company has also implemented  water improvement 
+projects in the communities where it operates, such as the development of a 4,000 -acre-foot (5,000 m 3) 
+treated effluent water pipeline. This project will enable its Citadel Campus in Northern Nevada to run entirely 
+on 100% recycled water, significantly reducing its reliance on freshwater resources. In new builds , the 
+ 
+10 Switch, “ESG 2023 Report”, (2024), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/Switch-ESG-Report-2023.pdf#page=18 
+11 Ibid. 
+12 Ibid. 
+13 Ibid. 
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+5 
+Company supports its water -positive strategy by using rec ycled water and reducing overall water 
+consumption. Between 2019 and 2022, Switch surpassed its WUE target ahead of schedule, achieving a WUE 
+of 1.35. During this time, the Company saved more than 155 million gallons of water through its conservation 
+technologies.14 
+In terms of waste management, Switch has set a long-term goal of achieving net-zero waste by 2050. Switch 
+has implemented recycling and waste reduction program mes, including a paper shredding and recycling 
+initiative aimed at minimizing landfill contributions and reducing resource use . Since 2019 , the programme 
+has preserved more than 3,700 trees as well as  saved an estimated 1 .9 million gallons of water , and more 
+than 100,000 gallons of oil.15 
+Based on the above context, Sustainalytics is of the opinion that the Green Finance Framework – SWCH 2025-
+DATA CMBS is aligned with Switch’s overall sustainability strategy and initiatives, and will further the 
+Company’s action on its key environmental priorities 
+Approach to managing environmental and social risks associated with the projects  
+Sustainalytics recognizes that the proceeds from instruments issued under the Framework will be directed 
+towards eligible projects expected to have positive environmental impacts. However, Sustainalytics is aware 
+that such eligible projects could also lead to negative environmental and social outcomes. Some key 
+environmental and social risks associated with the eligible projects may include issues related to : i) 
+biodiversity loss associated with large -scale infrastructure development ; ii) emissions, effluents, and waste 
+generated during construction  and operation of data centres ; iii) community relations ; and iv) occupational 
+health and safety (OHS) hazards during the construction of data cent res; v) supply chain environmental 
+impact; and vi) cybersecurity issues and compliance and privacy risks. 
+Sustainalytics is of the opinion that Switch is able to  manage or mitigate potential risks through the 
+implementation of the following: 
+• To manage all environmental risks, Switch’s Environment Policy Statement  provides a 
+framework for its sustainability practices , defining the Company’s commitment s on 
+environmental issues, integrating sustainability principles into all operational facets, optimizing 
+energy efficiency, minimiz ing emissions, and promot ing waste reduction. The statement also 
+includes commitments to ongoing review of its practices and alignment with evolving 
+environmental standards. 16 Additionally, Switch’s Code of Business Conduct and Ethics 
+emphasizes compliance with applicable environmental laws and regulations as part of its 
+broader framework for responsible business practices. The code sets expectations for 
+employees, officers, and directors to follow the law and maintain accountability in their actions. 
+It also highlights the importance of transparency in operations, aligning environmental practices 
+with ethical standards.17 
+• To manage risks related to  biodiversity loss and emissions, effluents and waste , Switch ’s 
+activities, data centres and Energy and Environmental Management Systems, including its core 
+campus, are certified under ISO 14001:2015 on Environmental Management Systems .18 This 
+standard provides a framework for identifying and mitigating impacts on local ecosystems and 
+biodiversity during project development. 19 ISO 14001:2015 further establishes guidelines on 
+establishing objectives and monitoring progress to reduce effluents and emissions to air, water 
+and land.20 Switch is also required to have waste management practices for hazardous and non-
+hazardous waste that meet federal, state and local regulations and R2 (Responsible Recycling) 
+and e-Stewards guidelines. Additionally, Switch assists its clients in managing their energy use 
+by providing tools such as the Living Data Center portal, which offers real -time and historical 
+energy use data to optimize equipment and minimize consumption, encouraging transparency 
+and reporting.21 
+ 
+14 Switch, “ESG 2023 Report”, (2024), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/Switch-ESG-Report-2023.pdf#page=18. 
+15 Ibid. 
+16 Ibid. 
+17 Switch, “Code of Business and Ethics”, (2023), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/2023-Code-of-Business-
+Conduct-and-Ethics.pdf  
+18 Switch, “Data Center Compliance”, at: https://www.switch.com/compliance/  
+19 ISO, “Achieving environmental focus with ISO 14001:2015”, at: https://www.iso.org/2015/11/Ref2013.html 
+20 Ibid. 
+21 Switch, “ESG 2023 Report”, (2024), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/Switch-ESG-Report-2023.pdf#page=18 
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+6 
+• To manage risks related to community relations, Switch has communicated to Sustainalytics 
+that throughout the development process, it engages with local communities through planned 
+communication, establishing feedback loops to understand and address stakeholder needs. The 
+Development team identifies stakeholders who are impacted by or may have influence on the 
+data centres through community and stakeholder mapping. Sustainalytics further notes that 
+projects financed under the Framework are based in the US, which is recognized under the 
+Equator Principles as a Designated Country.22 
+• To address occupational health and safety (OHS) hazards during the construction and operation 
+of data centres, Switch monitors and evaluates its OHS performance, including tracking work -
+related injuries, diseases and fatalities  as outlined in its Workforce Rights Statement . The 
+Company has structured oversight mechanisms, rigorous risk assessments, and 
+comprehensive employee training programmes as part of its Operations and Safety framework. 
+The Company conducts detailed risk evaluations for standard operat ing procedures to identify 
+potential safety and operational hazards and incorporates findings into actionable measures. 
+Switch also maintains emergency response plans, which are regularly tested through controlled 
+drills, and follows up on incidents with r oot cause analyses (RCAs) and after -action reports 
+(AARs) to prevent future occurrences.23 
+• To manage supply chain environmental impact s, Switch’s Environmental Procurement Policy 
+mandates compliance with stringent environmental performance standards for its key 
+suppliers. Supplier performance is monitored by a licensed third -party inspection and 
+compliance agency, that controls for  alignment with regulatory requirements and contractual 
+obligations. Remedial actions are enforced where necessary to maintain compliance with  
+environmental standards.24 
+• To manage cybersecurity and privacy risks, Switch has a Cybersecurity Program certified under 
+ISO 27001:2022 on Information security, cybersecurity and privacy protection, which establishes 
+a structured framework for managing information security. 25 The program me incorporates 
+annual risk assessments, vulnerability testing, and comprehensive employee training to address 
+potential threats. Governance and oversight are provided by the Chief Legal Officer and EVP of 
+Network Operations. Switch also maintains a range of certifications  on data security, privacy 
+and system integrity , including HITRUST, NIST SP 800 -53, and PCI DSS. 26 Additionally, Switch 
+enforces an Acceptable Use Policy that outlines clear guidelines for secure network and system 
+use.27,28 
+Based on these policies, standards and assessments, Sustainalytics is of the opinion that Switch  has 
+implemented adequate measures and is well positioned to manage or mitigate environmental and social risks 
+commonly associated with the eligible categories. 
+Section 3: Impact of Use of Proceeds 
+The use of proceeds category is aligned with those recognized by the GBP. Sustainalytics has focused below 
+on where the impact is specifically relevant in the local context. 
+Importance of energy efficiency in data centres in the US 
+Data centres play a key role in digitalization, supporting the more than 20 -fold expansion of internet traffic 
+since 2010. 29 These facilities contain many energy -intensive technologies, with an average data centre’s 
+energy demand being 40% attributable to server computing, 40% to cooling systems and 20% to other systems 
+ 
+22 Equator Principles, “About the Equator Principles”, at: https://equator-principles.com/about-the-equator-principles/  
+23 Ibid. 
+24 Switch, “ESG 2023 Report”, (2024), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/Switch-ESG-Report-2023.pdf#page=18 
+25 ISO, “ISO/IEC 27001:2022”, (2022), at: https://www.iso.org/standard/27001 
+26 Switch, “Data Center Compliance”, at: https://www.switch.com/compliance/ 
+27 Switch, “ESG 2023 Report”, (2024), at: https://switchdotcom.s3-sites.data.switch.com/media/reports/esg/Switch-ESG-Report-2023.pdf#page=18 
+28 Switch, “Acceptable Use Policy”, (2024), at: https://www.switch.com/aup/ 
+29 International Energy Agency, “Data Centres and Data Transmission Networks”, at: https://www.iea.org/energy-system/buildings/data-centres-and-
+data-transmission-networks   
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+7 
+such as power supply, storage devices and communication equipment.30 Globally, data centres accounted for 
+up to 1.3% of all electricity demand in 2022, consuming 240-340 TWh.31 
+Despite the scale of the growth in demand, emissions from data centres have grown only modestly since 2010 
+owing to efficiency improvements, renewable energy use and broader decarbonization of electricity grids. 32 
+However, in order to stay on track with a net zero scenario, data centre emissions must still drop by half by 
+2030.33 These efficiency efforts are reflected in the decrease in global average PUE from 2.50 in 2007 to 1.55 
+in 2022,34 with efficiency plateauing at this mid-to-high 1.5 range since 2020.35  
+Of the more than 8,000 data centres globally contributing to the above trends, more than 30% are located in 
+the US.36 Data centres are expected to account for 6% of all electricity demand in the US by 2026, growing 
+from 4% in 2022.37 In this scenario, the rapid expansion of artificial intelligence (AI) has raised concerns about 
+electricity demand and grid capacity,38 with a projected additional 93 TWh by 2030 attributable to AI.39  
+Various entities in the US are making efforts to encourage data centre energy efficiency gains. The US 
+Environmental Protection Agency has expanded its Energy Star programme to include a labelling scheme and 
+product list for data centre equipment as well as a certification for entire data centres.40,41 In addition, the US 
+Department of Energy’s Advanced Research Projects Agency-Energy initiated a USD 40 million programme in 
+2023 in partnership with various research institutions to advance data centre cooling technologies, with the 
+goal of reducing data centre operational carbon footprints.42 The Centre of Expertise for Energy Efficiency in 
+Data Centres also provides technical support, tools, analysis and best practices to further the implementation 
+of energy efficiency projects in data centres.43,44 
+In view of the above, Sustainalytics is of the opinion that Switch’s investments aimed at improving the energy 
+efficiency and PUE of data centres in the US are aligned with broader industry and regional goals and can be 
+expected to generate positive environmental impacts.  
+Contribution to SDGs 
+The Sustainable Development Goals were adopted in September 2015 by the United Nations General 
+Assembly and form part of an agenda for achieving sustainable development by 2030. The instruments issued 
+under the Green Finance Framework – SWCH 2025-DATA CMBS are expected to help advance the following 
+SDG and target:  
+Use of Proceeds 
+Category 
+SDG SDG target 
+Energy and Resource 
+Efficiency 
+7. Affordable and Clean 
+Energy 
+7.3 By 2030, double the global rate of 
+improvement in energy efficiency 
+ 
+ 
+30 International Energy Agency, “Electricity 2024 Analyst and Forecast to 2026”, (2024), at: https://iea.blob.core.windows.net/assets/18f3ed24-4b26-
+4c83-a3d2-8a1be51c8cc8/Electricity2024-Analysisandforecastto2026.pdf  
+31 International Energy Agency, “Data Centres and Data Transmission Networks”, at: https://www.iea.org/energy-system/buildings/data-centres-and-
+data-transmission-networks     
+32 Ibid.   
+33 Ibid. 
+34 Uptime Institute, “Large data centers are mostly more efficient, analysis confirms”, (2024), at: 
+https://uptimeinstitute.com/resources/assets?filter%5Blanguage_id%5D=0&filter%5Bcategory_id%5D=3&filter%5Bpublished_on%5D=0&task=search&filt
+er_order=a.title&filter_order_Dir=desc  
+35 Uptime Institute, “Uptime Institute Global Data Center Survey 2023”, (2024), at: https://journal.uptimeinstitute.com/large-data-centers-are-mostly-
+more-efficient-analysis-confirms/  
+36 International Energy Agency, “Electricity 2024 Analyst and Forecast to 2026”, (2024), at: https://iea.blob.core.windows.net/assets/18f3ed24-4b26-
+4c83-a3d2-8a1be51c8cc8/Electricity2024-Analysisandforecastto2026.pdf 
+37 Ibid. 
+38 Forbes, “AI Is Pushing The World Toward An Energy Crisis”, (2024), at: https://www.forbes.com/sites/arielcohen/2024/05/23/ai-is-pushing-the-world-
+towards-an-energy-crisis/  
+39 Goldman Sachs, “AI is Poised to Drive 160% Increase in Data Center Power Demand”, (2024), at: https://www.goldmansachs.com/insights/articles/AI-
+poised-to-drive-160-increase-in-power-demand  
+40 US Environmental Protection Agency, “Data Center Equipment”, at: https://www.energystar.gov/products/data_center_equipment  
+41 US Environmental Protection Agency, “ENERGY STAR Score for Data Center Estimates 
+(U.S. and Canada)” (2023), at: https://www.energystar.gov/buildings/tools-and-resources/energy-star-score-data-center-estimates-us-and-canada  
+42 National Renewable Energy Laboratory, “NREL Joins $40 Million Effort To Advance Data Center Cooling Efficiency”, (2023), at: 
+https://www.nrel.gov/news/program/2023/nrel-joins-effort-to-advance-data-center-cooling-efficiency.html  
+43 US Department of Energy, “Energy Efficiency in Data Centers”, at: https://www.energy.gov/eere/femp/energy-efficiency-data-centers  
+44 US Department of Energy, Center of Expertise for Energy Efficiency in Data Centers, “Who We Are”, at: https://datacenters.lbl.gov/who-we-are  
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+8 
+Conclusion  
+Switch has developed the Green Finance Framework – SWCH 2025-DATA CMBS under which green bonds 
+are issued by SWCH Commercial Mortgage Trust 2025-DATA. The proceeds of the bonds are used to finance 
+the purchase of a mortgage loan, which will refinance the green project, consisting of a portfolio of three data 
+centre properties located in Las Vegas and Reno, Nevada. Sustainalytics considers that the eligible project is 
+expected to provide positive environmental impacts.  
+The Green Finance Framework – SWCH 2025-DATA CMBS outlines a process for tracking, allocation and 
+management of proceeds, and makes commitments for reporting on allocation and impact. Sustainalytics 
+considers that the Green Finance Framework – SWCH 2025 -DATA CMBS is aligned with the overall 
+sustainability strategy of Switch and that the use of proceeds  will contribute to the advancement of UN 
+Sustainable Development Goal  7. Additionally, Sustainalytics is of the opinion that Switch has adequate 
+measures to identify, manage and mitigate environmental and social risks commonly associated with the 
+eligible projects.  
+Based on the above, Sustainalytics is confident that Switch is well positioned to issue green bonds and that 
+the Green Finance Framework – SWCH 2025-DATA CMBS is robust, transparent and in alignment with the 
+four core components of the Green Bond Principles 2021. 
+  
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+9 
+Disclaimer 
+Copyright ©2025 Sustainalytics, a Morningstar company. All rights reserved. 
+The information, methodologies, data and opinions contained or reflected herein (the “Information”) are 
+proprietary to Sustainalytics and/or its third-party content providers and may be made available to third parties 
+only in the form and format disclosed by Sustainalytics. The Information is not directed  to, nor intended for 
+distribution to or use by India-based clients and/or users, and the distribution of Information to India resident 
+individuals and entities is not permitted. 
+The Information is provided for informational purposes only and (1) does not constitute an endorsement of 
+any product, project, investment strategy or consideration of any particular environmental, social or 
+governance related issues as part of any investm ent strategy; (2) does not constitute investment advice nor 
+recommends any particular investment, nor represents an expert opinion or negative assurance letter; (3) is 
+not part of any offering and does not constitute an offer or indication to buy or sell s ecurities, to select a 
+project nor enter into any kind of business transaction; (4) is not an assessment of the  economic 
+performance, financial obligations nor creditworthiness of any entity; (5) is not a substitute for professional 
+advice; (6) has not be en submitted to, nor received approval from, any relevant regulatory or governmental 
+authority. Past performance is no guarantee of future results. 
+The Information is based on information made available by third parties, is subject to continuous change and 
+no warranty is made as to its completeness, accuracy, currency, nor the fitness of the Information for a 
+particular purpose. The Information is pro vided “as is” and reflects Sustainalytics’ opinion solely at the date 
+of its publication. 
+Neither Sustainalytics nor its third -party content providers accept any liability in connection with the use of 
+the Information or for actions of third parties with respect to the Information, in any manner whatsoever, to 
+the extent permitted by applicable law. 
+Any reference to third party content providers’ names is solely to acknowledge their ownership of information, 
+methodologies, data and opinions contained or reflected within the Information and does not constitute a 
+sponsorship or endorsement of the Inform ation by such third -party content provider. For more information 
+regarding third-party content providers visit http://www.sustainalytics.com/legal-disclaimers  
+Sustainalytics may receive compensation for its ratings, opinions and other services, from, among others, 
+issuers, insurers, guarantors and/or underwriters of debt securities, or investors, via different business units. 
+Sustainalytics maintains measures de signed to safeguard the objectivity and independence of its opinions. 
+For more information visit Governance Documents or contact compliance@sustainalytics.com.  
+This deliverable, in particular the images, text and graphics contained therein, and the layout and company 
+logo of Sustainalytics are protected under copyright and trademark law. Any use thereof shall require express 
+prior written consent. Use shall be de emed to refer in particular to the copying or duplication of the opinion 
+wholly or in part, the distribution of the opinion, either free of charge or against payment, or the exploitation 
+of this opinion in any other conceivable manner. 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for their 
+implementation and monitoring. 
+  
+Second-Party Opinion  
+Green Finance Framework – SWCH 2025-DATA CMBS  
+  
+ 
+  
+ 
+10 
+About Morningstar Sustainalytics 
+Morningstar Sustainalytics is a leading ESG research, ratings and data firm that supports investors around 
+the world with the development and implementation of responsible investment strategies. For more than 30 
+years, the firm has been at the forefront of  developing high-quality, innovative solutions to meet the evolving 
+needs of global investors. Today, Sustainalytics works with hundreds of the world’s leading asset managers 
+and pension funds, which incorporate ESG and corporate governance information and assessments into their 
+investment processes. Sustainalytics also works with hundreds of companies and their financial 
+intermediaries to help them consider sustainability in policies, practices and capital projects. For more 
+information, visit www.sustainalytics.com.

@@ -1,0 +1,956 @@
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+www.fiingroup.vn/fiinratings            DD MM YYYY  1 
+ 
+ 
+Post-Issuance Verification Report  
+Company X Use of Proceeds/ Assets/ 
+Non-Financial Legal Entities   
+ 
+Hanoi, [Date] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analysts: 
+XXXX; Primary Specialist; xxx@fiingroup.vn  
+XXXX; Secondary Specialist; xxx@fiingroup.vn 
+XXXX; Team member; xxx@fiingroup.vn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Disclaimer XXXX 
+This document is prepared in both English and Vietnamese. The English translation is for reference only and the Vietnamese 
+version will prevail in the event of any inconsistency between the English version and the Vietnamese version. 
+ 
+ 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+www.fiingroup.vn/fiinratings            DD MM YYYY  2 
+ 
+1. About the Issuer 
+Established in XX, after over XX years of development, XX Company has gradually 
+demonstrated its capacity in the XX sector. The company has successfully operated XX power 
+plants, including hydropower, solar, and wind power plants, with a total capacity of XX MWp in 
+the southern region. Focused on sustainable development goals, XX continues to expand its 
+renewable energy portfolio with a strategy that includes further wind and solar power plants, as 
+well as other forms of energy such as waste-to-energy, and biomass power. 
+XX is currently stimulating its investment in construction of renewable energy plants. [….]. The 
+2023 Bonds finance construction of the facility (the “Project”). 
+Project participants include: 
+• [Main investors] 
+• [Technical consultant] 
+• [Bank] 
+• Additional equity investors. 
+[Any participants’ background of experience in green projects] 
+2. Scope and Objectives 
+A verification audit is a pivotal step in the Green Bond Issuer's pursuit of a Climate Bonds 
+Certification Mark for the issuance of a Certified Green Bond. The primary objective of the 
+verification process is to obtain an independent third party assessment subject to the Issuer's 
+compliance with the Standard through a compliance audit of the procedures to effectively 
+manage the proceeds of the Green Bond. The overarching aim is to ensure alignment with the 
+objectives outlined in the Climate Bond Standard. 
+Company X (“X” or “the issuer”) has engaged FiinRatings to compile a Pre-Issuance 
+Verification Report for its Use of Proceeds Debt Instruments to be certified as Globally 
+recognised, Paris-aligned Certification of Debt Instruments by the Climate Bonds Initiative 
+(“CBI”). The verification process includes reviewing and verifying the conformance of the 
+Company's green bond with the Wind Energy Criteria and Solar Energy Criteria outlined in the 
+Climate Bonds Standard.  
+The verification scope is delineated as an independent and objective limited assurance audit 
+encompassing both the Bond and the Issuer. The Bond and the Issuer are reviewed against the 
+criteria stated in the Climate Bond Standard and other relevant standards (if applicable). 
+While the verification process does not provide consulting services, any communicated 
+requests for clarification or suggested corrective actions aim to enhance the Issuer's capacity to 
+align with the Climate Bond Standard. 
+3. Climate Bonds Standards Criteria 
+• Pre-issuance requirements under Climate Bond Standards Version 4.0: 
+• Wind Sector Eligibility Criteria (Version 1.2) 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+www.fiingroup.vn/fiinratings            DD MM YYYY  3 
+ 
+o Onshore wind energy generation facilities 
+o Dedicated transmission infrastructure and support facilities (e.g. transformers, backbone, 
+transmission terminus, grid connections, dedicated facilities for support vessels and 
+vehicles, equipment storage, onshore assembly) 
+o Dedicated operational production, manufacturing or distribution facilities for key 
+components for onshore or offshore wind energy generation, such as wind turbines, 
+platforms etc 
+• Solar Sector Eligibility Criteria (Version 2.1) 
+o Onshore solar electricity generation facilities 
+o Wholly dedicated transmission infrastructure and other supporting infrastructure for 
+onshore solar electricity generation facilities including inverters, transformers, energy 
+storage systems and control systems. 
+Relevant Climate Bonds Sector Criteria and Other Standards 
+• Green Loan Principles (“GLP”) published by the Loan Markets Association, version Feb 
+2023; 
+• Green Bond Principles (“GBPs”) published by the International Capital Markets Association, 
+version June 2021 (with June 2023 Appendix I); and 
+• ASEAN Green Bond Standards (“GBS”) by the ASEAN Capital Market Forum, version 2018. 
+4. Issuer’s Responsibility 
+The issuer’s responsibility was to provide information and documentation on: 
+• Green bond framework; 
+• Details of the issued bond; 
+• Selection proceess of nominated projects & assets; 
+• Details of the Eligible Green Projects; 
+• Process to determine technical aspects of projects and assets; 
+• The management systems for internal processes and controls for Eligible Green Projects, 
+including: tracking of proceeds, managing unallocated proceeds and Earmarking funds to 
+Eligible Green Projects; and 
+• Details of commitments for post-issuance reporting, including: allocation reporting, eligibility 
+reporting, and impact reporting and frequency of periodic verification engagements. 
+5. Verifier’s Responsibility 
+The work undertaken as part of this engagement included conversations with relevant XX 
+employees and review of relevant documentation to confirm the green bond’s conformance with 
+the Climate Bonds Pre-Issuance Requirements for Use of Proceeds Debt Instruments, which 
+include: 
+• Conformance of XX’s green bond framework with the Climate Bonds Standard Version 4.0; 
+• Conformance with the Technical Criteria on Wind Energy Criteria (Version 1.2) and Solar 
+Energy Criteria (Version 2.1); 
+• Conformance with the process for Evaluation and Selection of projects and assets; 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+www.fiingroup.vn/fiinratings            DD MM YYYY  4 
+ 
+• Conformance with the process for Management of Proceeds; and 
+• Conformance with Post-Issuance Reporting. 
+ 
+6. Verification Approach 
+FiinRatings was tasked with performing a Limited Assurance engagement to assess whether 
+the xx Bonds comply with the requirements outlined in the Climate Bonds Standard. Our Limited 
+Assurance procedures were conducted in adherence to the Climate Bonds Standard (Version 
+4.0) and the International Standard on Assurance Engagements (ISAE) 3000 (Revised), 
+specifically focusing on Assurance Engagements Other than Audits or Reviews of Historical 
+Financial Information. Additional details pertaining to this engagement, as well as the respective 
+responsibilities of the Verifier and Issuer, and considerations related to Independence and 
+Quality Control as metioned below. 
+7. Independence And Quality Control 
+FiinRatings, a credit rating agency, conducted the verification of XX's green bond, issued to 
+fund Nominated Projects. FiinRatings furnished an independent opinion on the green bond's 
+compliance with the Pre-Issuance requirement of the Climate Bonds Standard (Version 4.0), 
+Wind Energy Criteria (Version 1.2) and Solar Energy Criteria (Version 2.1) of the Climate Bonds 
+Standard. 
+It is important to note that FiinRatings based its assessment on the information and facts 
+provided by XX. FiinRatings disclaims responsibility if any aspect of the Nominated Projects, 
+including estimates, findings, opinions, or conclusions, is found to be incorrect. Consequently, 
+FiinRatings shall not be held liable for inaccuracies or incompleteness in the information or data 
+provided by XX management, which served as the foundation for this assessment. 
+FiinRatings is dedicated to maintaining the highest quality and rigor throughout its assessment 
+process.  
+8. Fiinratings’s Business Practices (Optional) 
+FiinRatings has conducted this verification in strict compliance with the FiinRatings Code of 
+Ethics, which lays out detailed requirements for integrity, transparency, and objectivity for the 
+FiinRatings business and team members. It is designed to ensure that the verification is 
+conducted independently and without any conflicts of interest with other parts of the FiinGroup. 
+9. Restriction on Distribution and Use of Report 
+This Verification Report for Climate Bonds Certification including all documentation provided 
+alongside is intended for the use of Company X and the Climate Bonds Standard Board. The 
+present document may be published by Company X, CBI and FiinRatings. CBI and FiinRatings 
+agree to publish the report with the consent of Company X. 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+www.fiingroup.vn/fiinratings            DD MM YYYY  5 
+ 
+10. Verification Statement 
+Based on the limited assurance procedures conducted and evidence obtained, nothing has 
+come to our attention that causes us to believe that, in all material respects the Issuer’s Green 
+Private Placement is not in conformance with the Climate Bonds Standard’s Pre-Issuance 
+Requirements for the use of proceeds. 
+ 
+  
+ 
+ 
+FIINRATINGS PROJECT TEAM 
+ 
+Hanoi, mm/dd/yy 
+ 
+[Signature Here] 
+ 
+ 
+(Head of Green Bond Service) 
+ 
+ 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+DISCLAIMER 
+ 
+ABOUT FIINRATINGS 
+FiinRatings Joint Stock Company, a member of FiinGroup and a technical collaboration partner 
+with S&P Global Ratings, is a local licensed Credit Rating Agency in Vietnam. FiinRatings 
+provides credit ratings and related services to issuers, creditors and investors in Vietnam credit 
+market. FiinRatings is also Vietnam first green bonds approved verifier, in accordance with the 
+green bond international standard by the Climate Bonds Initiative. For more information, please 
+visit https://www.fiinratings.vn. 
+Contact us 
+Tel: (84-24) 3562 6962 
+Email: support.fiinratings@fiingroup.vn 
+ 
+ 
+ 
+CONTACT 
+Nguyen Tung Anh 
+Head of Sustainable Finance Services 
+Address: FiinRatings, Level 10, Peakview Tower, 36 Hoang Cau St., 
+O Cho Dua Ward, Dong Da Dist., Hanoi 
+Tel: +84 (0) 704 681 981  
+Copyright © 2023 …. This document and all of the information contained in it is the property 
+of FiinRatings. The Information may not be reproduced or re-disseminated in whole or in part 
+without the prior written permission of FiinRatings. While we exercise due care in compiling 
+this document, we assume no liability with respect to the consequences of relying on this 
+information for investment or other purposes. FiinRatings makes no express or implied 
+warranties or representations with respect to the information. 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ANNEXES 
+Annex 1: Detailed Findings 
+Annex 2: Detailed Findings Solar Power 
+Annex 3: Detailed Findings Wind Power (onshore) 
+Annex 4: Detailed Findings Wind Power (offshore) 
+Annex 5: Alignment the issuer’s selected sectors with Vietnam Taxonomy 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ANNEX 1: DETAILED FINDINGS 
+4. NOMINATED PROJECTS & ASSETS: 
+ 
+Requirements Factual findings Analysis against 
+requirements 
+4.1 
+Decision-making process to determine  
+the continuing eligibility of nominated 
+projects and assets 
+  
+4.2 
+Conformance with the Bond’s 
+documented objectives and 
+requirements of Part B of the CBI 
+Standard 
+  
+4.3 No double nomination of projects and 
+assets 
+  
+ 
+5. USE OF PROCEEDS 
+ Requirements Factual findings Analysis against 
+requirements 
+5.1 Allocation of net proceeds to nominated  
+projects and assets. 
+  
+5.2 Allocation of funds within 24 months of 
+issuance of the bond 
+  
+5.3 Share of financing and refinancing.   
+5.4 Tracking of proceeds   
+5.5 
+Net proceeds of the loan and 
+investment to nominated projects and  
+assets 
+  
+ 
+6. NON-CONTAMINATION OF PROCEEDS 
+ Requirements Factual findings Analysis against 
+requirements 
+6.1 Tracking of proceeds   
+6.2 Non-contamination  
+of proceeds 
+  
+6.3 Cases of force majeure   
+ 
+7. CONFIDENTIALITY 
+ Requirements Factual findings Analysis against 
+requirements 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+7.1 Description of the  
+projects   
+7.2 Disclosure of information to the market   
+ 
+8. REPORTING 
+ Requirements Factual findings Analysis against 
+requirements 
+8.1 Description of the reporting   
+ 
+9. CLIMATE BOND TAXONOMY 
+ Requirements Factual findings Analysis against 
+requirements 
+9.1 Matching of Climate Bond category   
+ 
+10. TECHNICAL CRITERIA 
+ Requirements Factual findings Analysis against 
+requirements 
+10.1 Sector-specific  
+eligibility criteria 
+  
+10.2 Bonds covering  
+several sector-specific criteria 
+  
+ 
+11. PROJECT HOLDING 
+ Requirements Factual findings Analysis against 
+requirements 
+11.1 
+Holding of assets with a fair market 
+value at least of the original amount at 
+time of issuance 
+  
+ 
+12. PROJECT HOLDING 
+ Requirements Factual 
+findings 
+Analysis against 
+requirements 
+12.1 Description of the process and timeline 
+of distribution of proceeds 
+  
+12.2 Description of process regarding 
+unallocated proceeds after 24 months 
+  
+ 
+13. EARMARKING 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ Requirements Factual findings Analysis against 
+requirements 
+13.1 Description of internal earmarking 
+process 
+  
+ 
+List of supporting elements provided by the Issuer: (examples) 
+• Supporting documents provided for Post-issuance verification and confirmed by the 
+Issuer: 
+o Answers to the Verifier’s Post-Issuance questionnaire 
+o Debentures’ Term sheet (dated August xx, 2023) 
+o FiinRatings’ pre-issuance Report of Factual Findings (dated August xx, 2023) 
+o Issuers 20xx Sustainability Report
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ANNEX 2: DETAILED FINDINGS OF SOLAR POWER 
+ The Green Bond Asset Pool complies with the Solar Power criteria of the 
+Climate Bonds Initiative 
+The issuer has confirmed that the solar farms do not include any fossil fuel 
+generation and therefore they all are eligible for Climate Bonds Certification. 
+ 
+ANNEX 3: DETAILED FINDINGS ON WIND POWER (ONSHORE) 
+ The Green Bond Asset Pool complies with the Wind Power criteria of the 
+Climate Bonds Initiative 
+All onshore wind farms are eligible for the Climate Bonds Initiative. 
+ 
+ 
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ANNEX 4: DETAILED FINDINGS WIND POWER (OFFSHORE) 
+ Mitigation Component 
+ Requirement Factual findings Assessment 
+1.1. The asset is 100% dedicated to 
+renewable energy 
+  
+2.1. 
+Any fossil fuel back up in place is 
+limited to:  
+Powering monitoring, operating and 
+maintenance equipment in the event 
+of no renewable power in the system / 
+Powering resilience or protection 
+measures in the event of no 
+renewable power in the system / 
+Restart capability 
+  
+ 
+ Adaptation and Resilience Component 
+ Requirement Factual findings Assessment 
+1.1. 
+Processes are in place to assess key 
+risks to the assets from a changing 
+climate and its impact on marine 
+conditions 
+  
+2.1. 
+Processes are in place to assess 
+improvements and impacts the assets 
+have on the resilience of other 
+stakeholders 
+  
+3.1. 
+An adaptation plan has been 
+designed and is being implemented to 
+address the risks identified in the 
+assessments outlined above 
+  
+3.2. 
+Inspections are carried out regularly 
+and there is a maintenance regime for 
+future inspections. 
+  
+4.1. Issuer is involved in stakeholder 
+engagement and collaboration 
+  
+5.1. 
+The assets or projects do not put at 
+risk or endangered species or habitat 
+or unduly impact ecosystem services. 
+Where there are possible negative 
+impacts to habitats, mitigation 
+measures are implemented to offset 
+the negative impacts 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+5.2. 
+Waste is responsibly dealt with, 
+including appropriate disposal of 
+construction waste and oil-based 
+lubricants, including recycling options 
+where possible 
+  
+5.3. 
+The issuer has recognized and listed 
+the potential risks for accidental site 
+contamination either from leakage of 
+hydraulic fluid or from 
+wreckage/debris on the sea bed. 
+  
+5.4. 
+Decommissioning of the plant is 
+planned in a way that considers 
+environmental impacts 
+  
+5.5. 
+Issuer has plans and processes in 
+place to effectively manage and 
+minimize conflict with other users of 
+marine and coastal place. 
+  
+ 
+ANNEX 5: ALIGNMENT THE ISSUER’S SELECTED SECTORS WITH 
+VIETNAM TAXONOMY 
+ Sector Cbi eligibility 
+criteria 
+Vietnam taxonomy 
+eligibility criteria 
+1. Solar energy   
+1.1. 
+Onshore solar electricity generation 
+facilities 
+- Wholly dedicated transmission 
+infrastructure, grid connections 
+and other supporting 
+infrastructure for onshore solar 
+electricity generation facilities 
+including inverters, 
+transformers, energy storage 
+systems and control systems. 
+- Onshore solar thermal facilities 
+such as solar hot water 
+systems. 
+- Onshore solar heat/cool and 
+power cogeneration facilities 
+A minimum of 85% of 
+electricity generated 
+from solar energy 
+resources 
+TBC 
+1.2. 
+Dedicated operational production, 
+manufacturing or distribution facilities 
+for key components, such as solar 
+panels, inverters etc. 
+Automatically eligible TBC 
+2. Wind energy   
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+2.1. Issuer is involved in stakeholder 
+engagement and collaboration   
+2.2. …   
+ 
+ANNEX 1: DETAILED OVERVIEW OF NOMINATED PROJECTS AND 
+ASSETS 
+Project Description 
+xxx  
+xxx  
+xxx  
+ 
+ANNEX 2: CONFORMANCE TO THE PRE-ISSUANCE REQUIREMENTS 
+FOR USE OF PROCEEDS: 
+1. USE OF PROCEEDS 
+ 
+Requirement 
+Error or 
+Exceptions 
+Identified 
+Rationale 
+1.1 The Net Proceeds of the debt 
+instrument is allocated to the Nominated 
+projects and assets. 
+  
+1.2 All Nominated projects and assets must 
+meet the documented objectives of 
+the debt instrument and must be in 
+conformance with the Sector Eligibility 
+Criteria requirements of the Standard. 
+  
+1.3 The Issuer has allocated the Net 
+Proceeds to the Nominated projects and 
+assets within 24 months of issuance of 
+the debt instrument. The 24-month 
+deadline can be extended by the 
+Climate Bonds Standard Secretariat for 
+up to 5 years (and exceptionally 
+up to 10 years if duly justified by the 
+nature of the projects to be financed). 
+An extension will be granted at the 
+discretion of the Climate Bonds 
+Standard Secretariat, provided the 
+justification for it can be substantiated 
+by the Issuer and confirmed by the 
+Approved Verifier. At the end of the 
+allocation period specified in the 
+Certification, the Issuer must provide a 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+Post-Issuance Verification Report by an 
+Approved Verifier. The Issuer must 
+provide annual Post-Issuance 
+Verification Reports until the Approved 
+Verifier confirms that 100% of the 
+proceeds have been allocated. 
+1.4 Net proceeds may be reallocated to 
+other Nominated projects and assets at 
+any time while the debt instrument 
+remains outstanding, provided the 
+Approved Verifier has verified such 
+assets. 
+  
+1.5 Nominated projects and assets must not 
+be nominated to other Certified debt 
+Instruments, unless the Issuer 
+demonstrates that different Certified 
+Climate Bonds are funding distinct 
+portions of the Nominated projects and 
+assets, or the Certified debt Instrument 
+is being refinanced via another Certified 
+debt Instrument. 
+  
+1.6 Where a proportion of the Net Proceeds 
+of the debt instrument are used for 
+refinancing, the Issuer must track the 
+respective shares of the Net Proceeds 
+used for financing and refinancing and 
+identify which Nominated projects and 
+assets may be refinanced. This may 
+also include the expected look-back 
+period for refinanced Nominated 
+projects and assets which should reflect 
+the functional lifetime of the projects or 
+assets for delivering the stated climate 
+mitigation/ adaptation/ resilience 
+benefits. The remaining functional 
+lifetime of the projects or assets must 
+be equal to or greater than the term of 
+the instrument being certified. The Net 
+Proceeds may only be used for 
+refinancing operating expenditures that 
+were incurred within three years prior to 
+the issuance of the Certified Debt 
+Instrument. 
+  
+1.7 Net Proceeds of the debt instrument is 
+tracked following a formal internal 
+process which is documented in 
+accordance with Clause A.3.3 of the 
+Standard. 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+1.8 The Net Proceeds of the debt 
+instrument must be no greater than the 
+Issuer’s total Investment Exposure or 
+debt obligation to the Nominated 
+projects and assets or the relevant 
+proportion of the total Market Value of 
+the Nominated projects and assets 
+which are owned or financed by the 
+Issuer. When satisfying this clause, the 
+Issuer may choose either (i) the 
+Investment Exposure or debt obligation 
+to the Nominated projects and assets, 
+or (ii) their Market Value. 
+  
+1.9 Additional Nominated projects and 
+assets may be added to, or used to 
+substitute or replenish, the portfolio of 
+Nominated projects and assets as long 
+as the additional Nominated projects 
+and assets are eligible under the 
+Standard and are consistent with the 
+debt instrument’s objectives. Where 
+additional Nominated projects and 
+assets are covered by Sector Criteria 
+which were not included in the scope of 
+either the Pre-Issuance Verification or 
+the Post-Issuance Verification 
+Engagements, the Issuer must engage 
+an Approved Verifier to provide a 
+Verification Report covering at least the 
+conformance of the additional 
+Nominated projects and assets with the 
+relevant Sector Criteria. 
+  
+ 
+2. PROCESS FOR EVALUATION AND SELECTION OF PROJECTS AND 
+ASSETS 
+ Requirement 
+Error or 
+Exceptions 
+Identified 
+Rationale 
+ Decision-making process to determine 
+eligibility of nominated projects & 
+assets, including: 
+  
+2.1 Statement on the climate-related 
+objectives of the Bond. 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+2.2 Positioning of climate related objectives 
+of the Bond in the context of the 
+Issuer’s overarching environmental 
+objectives, strategy, policy and/or 
+processes. 
+  
+2.3 Issuer’s rationale for issuing the Bond.   
+2.4 Process to determine whether the 
+Nominated projects and assets meet 
+the sector eligibility requirements 
+specified of the Standard. 
+  
+2.5 Other information provided by the 
+Issuer as described in Clause A.2.2 of 
+the Standard. 
+  
+ 
+3. MANAGEMENT OF PROCEEDS 
+ Requirement 
+Error or 
+Exceptions 
+Identified 
+Rationale 
+ Systems, policies and processes to be 
+used for management of the Net 
+Proceeds are documented by the 
+Issuer and disclosed to the Verifier, and 
+include arrangements for the following 
+activities: 
+  
+3.1. The Net Proceeds of the debt 
+instrument must be credited to a sub-
+account, moved to a sub-portfolio, or 
+otherwise identified by the Issuer in an 
+appropriate manner and documented. 
+  
+3.2. The debt instrument Issuer maintain an 
+earmarking process or ringfence the 
+proceeds per Clause A.2.3 of the 
+Standard to manage and account for 
+the allocation of Net Proceeds to the 
+Nominated projects and assets. 
+  
+3.3. The balance of the unallocated Net 
+Proceeds must be: 
+  
+3.3.1 i. Held in temporary investment 
+instruments that are cash, money-
+market instruments or other liquid, 
+short-term cash equivalent 
+instruments within a Treasury 
+function; and/or 
+  
+3.3.2. ii. Held in temporary investment 
+instruments that do not relate to 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+greenhouse gas intensive projects or 
+any projects which are inconsistent 
+with the delivery of a low carbon and 
+climate resilient economy; and/or 
+3.3.3. iii. Applied to temporarily reduce the 
+indebtedness of a revolving nature 
+before being redrawn for 
+investments in or disbursements to 
+Nominated projects and assets. 
+  
+ 
+4. POST-ISSUANCE REPORTING 
+ Requirement 
+Error or 
+Exceptions 
+Identified 
+Rationale 
+4.1. The Issuer submit annual Update Reports 
+which is verified by an Approved Verifier 
+within 12 to 24 months from the date of 
+issuance of the debt instrument until its 
+maturity. 
+  
+4.2. The Update Report is provided on a timely 
+basis in case of material developments. 
+Material developments include, but are not 
+limited to, early repayment, change of 
+control or acquisition, change of name, 
+changes to the eligibility of assets and 
+projects and any material amendments to 
+transaction documents, including any 
+winding-up process or enforcement. 
+  
+4.3. Issuers are encouraged to provide their 
+Update Reports through existing bond 
+market reporting channels, such as the US 
+Municipality sector’s Electronic Municipal 
+Market Access (EMMA) website. 
+  
+4.4. An Update Report may contain three types 
+of reporting: allocation reporting, 
+eligibility reporting, and impact reporting: 
+  
+4.4.1. Allocation reporting confirms the allocation 
+of bond proceeds to eligible projects and 
+assets and is mandatory for all Certified 
+debt instruments. 
+  
+4.4.2. Eligibility reporting confirms the 
+characteristics or performance of projects 
+and assets to demonstrate their eligibility 
+under the relevant Sector Criteria and is 
+mandatory for all Certified debt 
+instruments. 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+4.4.3. Impact reporting discloses the metrics or 
+indicators which reflect the expected or 
+actual impact of eligible projects and 
+assets and is encouraged for all Certified 
+debt instruments. 
+  
+4.5 The three different types of reporting can be 
+included in a single Update Report, which 
+must be provided to the Climate Bonds 
+Standard Secretariat and made publicly 
+available or provided annually to the 
+bondholders/lenders for as long as the debt 
+instrument remains outstanding. 
+  
+4.6. The timing of reporting can be aligned with 
+the Issuer’s regular reporting schedule and 
+does not need to follow the anniversary of 
+the Certification or issuance of the Bond. 
+  
+4.7. The Allocation Reporting must include, 
+without limitation: 
+  
+4.7.1. Confirmation that the Bonds issued under 
+the Issuer’s Green Finance Framework are 
+aligned with the Climate Bonds Standard 
+  
+4.7.2. Statement on the climate-related objectives 
+of the Bond. 
+  
+4.7.3. The list of Nominated projects and assets 
+to which Net Proceeds have been 
+allocated (or re-allocated). 
+  
+4.7.4. The amounts allocated to the Nominated 
+projects and assets. 
+  
+4.7.5. An estimate of the respective shares of the 
+Net Proceeds used for financing and 
+refinancing and which Nominated projects 
+and assets have been refinanced. This 
+may also include the expected look-back 
+period for refinancing Nominated projects 
+and assets. 
+  
+4.7.6. The geographical distribution of the 
+Nominated projects and assets. 
+  
+    
+4.8. Requirements in the Eligibility Reporting 
+without limitation: 
+  
+4.8.1 Confirmation that the Nominated projects 
+and assets continue to meet the relevant 
+eligibility requirements applicable when 
+obtaining the Certification. 
+  
+4.8.2. Information on the environmental 
+characteristics or performance of 
+Nominated projects and assets, which is 
+prescribed by the relevant Sector Criteria. 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+4.9. If a bond exhibits very stable allocation of 
+proceeds and does not need to track any 
+performance indicators to maintain the 
+eligibility of the projects and assets (such as 
+financing for a single large-scale solar 
+facility), the annual Update Report can be 
+concise and restate the information from 
+previous reports. 
+  
+4.10. In case of any limits on the detail that can be 
+made available in the Update 
+Report about specific Nominated projects 
+and assets (as per Clause A.2.4.3), 
+information disclosed must include the 
+investment areas into which the Nominated 
+projects and assets fall and an explanation 
+of why detail on Nominated projects and 
+assets is limited. 
+  
+4.11. The impact reporting shall, without limitation:   
+4.11.1. Provide the expected or actual outcomes 
+or impacts of the Nominated projects and 
+assets concerning the climate-related 
+objectives of the Bond. 
+  
+4.11.2. Use qualitative performance indicators 
+and, where feasible, quantitative 
+performance measures of the outcomes or 
+impacts of the Nominated projects and 
+assets for the climate-related objectives of 
+the Bond. 
+  
+4.11.3. Provide the methods and the key 
+underlying assumptions for the calculation 
+of the performance indicators and metrics. 
+  
+4.12. Verification Reports or other 
+relevant material which supports the Update 
+Report are all publicized. 
+  
+ 
+Company XXX Use of Proceeds/ Assets/ Non-Financial Legal 
+Entities   
+Post-Issuance Verification Report 
+ 
+   
+ 
+ANNEX 3: DETAILED FINDINGS OF SOLAR POWER 
+ The Green Bond Asset Pool complies with the Solar Power criteria of the 
+Climate Bonds Initiative 
+The issuer has confirmed that the solar farms do not include any fossil fuel 
+generation and therefore they all are eligible for Climate Bonds Certification. 
+ 
+ANNEX 4: DETAILED FINDINGS ON WIND POWER (ONSHORE) 
+ The Green Bond Asset Pool complies with the Wind Power criteria of the 
+Climate Bonds Initiative 
+All onshore wind farms are eligible for the Climate Bonds Initiative.

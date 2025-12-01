@@ -1,0 +1,3413 @@
+CLIMATE BONDS 
+STANDARD
+Globally recognised, Paris-aligned 
+Certification of Debt Instruments, 
+Entities and Assets using robust, 
+science-based methodologies
+Updated February 2024
+Version 4.1
+Climate Bonds Standard   Version 4.1 
+ 2
+The Climate Bonds Standard  
+and Certification Scheme
+The Climate Bonds Standard and Certification Scheme is a voluntary labelling scheme 
+for investments – and now entities – that address the challenge of climate change and 
+are consistent with the goals of the Paris Climate Agreement. The Scheme was launched 
+in 2012 by the Climate Bonds Initiative, a not-for-profit organisation working to mobilise 
+global capital for climate action. 
+The Standard was initially designed to support confidence in the climate change 
+credentials of green bonds and other debt instruments and to facilitate investment 
+decision-making.  Since the Scheme was launched, over USD300bn of Use of Proceeds 
+green instruments have been certified under the Climate Bonds Standard. Version 4.1 of 
+the Standard expands certification coverage to  general-purpose instruments (such as  
+sustainability-linked  bonds), assets and entities.
+Certification under this expanded Standard confirms that debt instruments, assets or entities 
+meet criteria published under the Climate Bonds Standard. Transparently developed 
+scientific criteria underpin the Standard, and a network of Climate Bonds Approved Verifiers 
+provides independent assessment. An international, independent Climate Bonds Standard 
+Board, comprised of institutional investor representatives and appointed by the Trustees of 
+the Climate Bonds Initiative, provides oversight of the Scheme.
+This document details the requirements for certification under the Climate Bonds Standard 
+version 4.1 for all of the following: 
+A. Use of Proceeds (UoPs) debt Instruments.  
+The proceeds of such instruments are allocated to specific projects, 
+assets, activities, or expenditures which align with the Climate Bonds 
+sector-specific criteria.
+B. Assets.  
+This involves certification of the environmental credentials of  
+specific projects, assets, or activities, following the Climate Bonds 
+sector-specific criteria.
+C. Non-Financial Legal Entities.  
+This certification is available to legal entities that provide  
+non-financial goods and services, or a segregated segment thereof.  
+This certification covers:
+a. Entities that have ambitious Climate Mitigation Performance Targets 
+that are aligned with the Climate Bonds Sector Criteria at the time of 
+Certification, or that will align by 2030, and that meet the requirements 
+for Transition Plan and disclosure, as defined in this Standard; or
+b. General-purpose debt instruments issued by Certified Entities that 
+meet the requirements above.
+
+Climate Bonds Standard   Version 4.1 
+ 3
+D. Sustainability-Linked Debt instruments issued  
+by non-financial legal entities.  
+These instruments are eligible for Certification if the Climate  
+Mitigation Performance Targets linked to them are aligned with  
+the Climate Bonds Sector Criteria and supported by a Transition Plan 
+and disclosure requirements that meet the requirements defined in  
+this Standard.
+Sector specific criteria for eligible projects, assets or activities can be found on the 
+Climate Bonds website, under “Sector Criteria Available for Certification” https://www.
+climatebonds.net/standard/available 
+Resources for Standard users: https://www.climatebonds.net/certification
+Contact email for Certification Team: certification@climatebonds.net
+Climate Bonds Initiative New Standard v4.1  Disclaimer 
+Disclaimer: The information contained in this document does not constitute investment advice in any form or any invitation or 
+inducement to engage in investment activity and the Climate Bonds Initiative is not an investment adviser. Any reference to a 
+financial organisation or debt instrument or investment product is for information purposes only. Links to external websites are 
+for information purposes only. The Climate Bonds Initiative accepts no responsibility for any content on any external website. 
+Certification under the Climate Bonds Standard relates exclusively to the conformity of one or more designated debt instruments, 
+designated assets and/or designated entities with the applicable Climate Bonds Standard at the time of certification. Certification 
+under the Climate Bonds Standard carries no implication (and should not be understood as carrying any implication) as to any 
+other aspect of any debt instrument or investment product or any collection of debt instruments or investment products or any 
+asset or entity or group of assets or entities or as to continuing conformity at any time after the time of certification.  In particular, 
+such certification carries no implication (and should not be understood as carrying any implication) that any stated target  has 
+been or will at any time be met or that any particular legal or regulatory requirement has been or will be satisfied.
+The Climate Bonds Initiative is not endorsing, recommending or advising on the financial merits or (subject to the previous 
+paragraph) any other aspect of any debt instrument or investment product or any collection of debt instruments or investment 
+products or any asset or entity or group of assets or entities and no information within this document should be taken as such, 
+nor should any information in this document be relied upon in making any investment decision. 
+A decision to invest in anything is solely yours. The Climate Bonds Initiative accepts no liability of any kind, for any investment 
+made by an individual or organisation, nor for any investment made by third parties on behalf of an individual or organisation, 
+based in whole or in part on any information contained within this, or any other Climate Bonds Initiative document.
+
+Climate Bonds Standard   Version 4.1 
+ 4
+Contents
+1. Terminology    6 
+2. Overview of Use of Proceeds  
+    and asset Certification    10 
+3. Overview of Entity  
+    and SLD Certification    13 
+4. Approved Verifiers    14
+4.1 Professional qualifications  
+    and competence    14
+4.2. Special Provisions relating  
+    to Regulated Entities    14 
+4.3 Verification Report Requirements    14
+4.4 Disclosure only on authorization  
+    of the receiver of the certification    15
+PART A:  
+USE OF PROCEEDS CERTIFICATION    16
+A.1. Introduction    16 
+A.2. Pre-Issuance requirements    16
+A.2.1. Utilisation of Proceeds    16
+A.2.2. Process for Evaluation and 
+    Selection of projects and assets    17
+A.2.3. Management of Proceeds    17
+A.2.4. Pre-Issuance Reporting: Green 
+    Finance Framework and Disclosure 
+        Documentation    17
+A.3. Post-Issuance requirements    19
+A.3.1 Use of Proceeds    19
+A.3.2 Process for Evaluation and 
+    Selection of projects and assets    20
+A.3.3 Management of Proceeds    21
+A.3.4 Post-Issuance Reporting    21
+A.4. Certification Process for  
+     Use of Proceeds Instruments    23
+A.4.1 Process outline    23
+A.4.2 Pre-issuance Certification    24
+A.4.3 Post-Issuance Certification    25
+A.4.4 Programmatic Certification    25
+A.4.5 Validity of Certification  
+    Label/Mark    27
+A.4.6 Maintaining Certification    27
+A.4.7 Revocation of Certification    27
+PART B.  
+ASSET CERTIFICATION    29
+B.1. Eligibility requirements    29
+B.2. Process outline    29
+B.3. Static or Dynamic 
+    asset Certification    29
+B.4. Validity of Certification Label/Mark    30
+B.4.1 One-off asset Certification    30
+B.4.2 Programmatic asset Certification    30
+B.5 Revoking Certification    30
+PART C:  
+ENTITY CERTIFICATION    31
+C.1. Introduction    31
+C.2. Eligibility and Accounting Rules    35
+C.2.1. Applicant control over  
+    the Certified Entity    35
+C.2.2. Boundary of the Certified Entity    35
+C.2.3. Obtaining Entity Certification    35
+C.2.4. Maintaining Entity Certification    36
+C.3. Transition Plan for  
+     Compliant Activities    38
+C.3.1. Climate Performance    38
+C.3.1.1. Climate Mitigation  
+    Performance Targets    38
+C.3.1.2. Climate Adaptation  
+    & Resilience Performance    39
+C.3.2. Delivery Strategy    39
+C.3.2.1. Board approval of the  
+    Delivery Strategy    39
+C.3.2.2. Foundations    39
+C.3.2.3. Implementation plans    39
+C.3.3. Governance    40
+C.3.3.1. Board and senior executive  
+    responsibility    40
+C.3.3.2. (Re)setting and monitoring  
+    the Climate Mitigation Performance  
+        Targets and Delivery Strategy    41
+C.3.3.3. Correction of 
+    underperformance    41
+C.4. Commitments of the  
+    Parent Group    41
+C.4.1. Exclusions    41
+C.4.1.1. Expansion of fossil  
+    fuel activities    41
+C.4.1.2. Conversion of  
+    high-carbon-stock land    41
+C.4.2. Net zero commitment    41
+C.4.3. Transition Plans    42
+C.5. Disclosure    42
+C.5.1. Information to disclose    42
+C.5.2. Format of disclosure    42
+Climate Bonds Standard   Version 4.1 
+ 5
+C.6. Extending entity certification to 
+    linked financial instruments    50
+C.6.1. Extending entity certification to  
+    financial instruments linked to the 
+        Climate Mitigation Performance 
+            Targets and Delivery Strategy    50
+C.6.2. Extending entity certification  
+    to general purpose debt    50
+C.6.3. Revocation of linked certification    50
+PART D:  
+SUSTAINABILITY-LINKED DEBT    51
+D.1. Introduction    51
+D.2. Eligibility and accounting rules    55
+D.2.1. Issuer control    55
+D.2.2. Boundary of economic activities    55
+D.2.3. Obtaining SLD Certification    55
+D.2.4. Maintaining SLD certification    56
+D.3. Transition Plan linked  
+to the SLD instrument    58
+D.3.1. Climate Performance    58
+D.3.1.1. Climate Mitigation  
+    Performance Targets    58
+D.3.1.2. Climate Adaptation & 
+    Resilience Performance    59
+D.3.2. Delivery Strategy    59
+D.3.2.1. Board approval of  
+    the Delivery Strategy    59
+D.3.2.2. Foundations    59
+D.3.2.3. Implementation plans    59
+D.3.3. Governance    60
+D.3.3.1. Board and senior  
+    executive responsibility    60
+D.3.3.2. (Re)setting and monitoring 
+    the Climate Mitigation Performance 
+        Targets and Delivery Strategy    61
+D.3.3.3. Correction of 
+    underperformance    61
+D.4. Commitments of  
+the Parent Group    61
+D.4.1. Exclusions    61
+D.4.1.1. Expansion of  
+    fossil fuel activities    61
+D.4.1.2. Conversion of  
+    high-carbon-stock land    61
+D.4.2. Net zero Commitment    62
+D.4.3. Transition Plans    62
+D.5. Disclosure    62
+D.5.1. Information to disclose    62
+D.5.2. Format of disclosure    62
+ANNEX 1    70 
+Types of Use of Proceeds Instruments that 
+can be Certified    70
+Climate Bonds Standard   Version 4.1 
+ 6
+1. Terminology
+Applicant: A legal Entity applying for Entity Certification or an issuer of a debt instrument 
+applying for Use of Proceeds or SLD Certification or an asset owner applying for Asset 
+Certification, under the Climate Bonds Standard.
+Approved Verifier (Verifier): An independent third-party assurance or external review 
+provider approved by the Climate Bonds Standard Board and listed on the Climate Bonds 
+Initiative website as an Approved Verifier. Only Approved Verifiers are authorised to issue 
+verification opinions in relation to a certification application in accordance with the Climate 
+Bonds Standard. The term Approved Verifier in this Standard is understood to include Approved 
+External Review Providers.
+Certification Agreement: A legal agreement must be executed by the Applicant and 
+submitted to the Climate Bonds Standard Secretariat as part of the Certification Process. 
+The Certification Agreement is available from the Climate Bonds website and includes 
+terms and conditions for using  the Certification Mark. 
+Certified Entity: The entity or part thereof which is being certified under the Climate 
+Bonds Standard. Currently, Entity Certification is limited to non-financial Entities or 
+segregated segments thereof, for which the Climate Bonds Initiative has Climate Bonds 
+Standard Sector Criteria for Entity Certification. 
+Certification Mark: The certification logo designates a Certified Climate Debt Instrument, 
+Entity or asset that issuers or Applicants may use once they have obtained Certification 
+from the Climate Bonds Standard Secretariat. The use of the logo is specified within the 
+terms and conditions of the Certification Agreement.
+Certification Scheme: A scheme developed by Climate Bonds for awarding the Climate 
+Bonds Certification label/mark to finance instruments, assets, and entities. The Scheme 
+consists of the Climate Bonds Standard and the Sector Criteria.
+Certified Debt Instrument Any debt instrument certified by the Climate Bonds Standard 
+Secretariat that meets the Climate Bonds Standard requirements. A certified bond or 
+certified loan may take the form of one or more tranches of a bond or loan facility.  The 
+accredited tranche(s) must be clearly designated in such cases.
+Climate Bonds Information Form: A template document to be completed by the Issuer 
+and submitted to the Climate Bonds Standard Secretariat as part of the certification 
+process. The Climate Bonds Information Form is available from the Climate Bonds Initiative 
+website. The form is used and updated throughout the Certification Process. 
+Climate Bonds Initiative (Climate Bonds): Climate Bonds is a company limited 
+by guarantee and a charity registered in England. It is an independent not-for-profit 
+organisation dedicated to mobilising global capital to deliver climate action.
+Climate Bonds Standard (CBS): A robust framework based on international best practice 
+in green finance which defines the processes to be followed and Sector Criteria that must 
+be met to achieve certification under the Climate Bonds Standard. The current version of 
+the Climate Bonds Standard is published on the Climate Bonds website. 
+Climate Bonds Standard Board: An advisory committee set up to review the Standard, 
+Sector Criteria, applications for certification under the Standard and applications by 
+prospective verifiers and to make recommendations to the Trustees and the executive 
+management of the Climate Bonds Initiative.
+Climate Bonds Standard   Version 4.1 
+ 7
+Climate Bonds Standard Secretariat: Consists of the Climate Bonds Certification Team 
+and the Climate Bonds Standards Team. The Certification Team manages the day-to-day 
+interaction with issuers, verifiers, and other stakeholders. Enquiries can be sent via email 
+to certification@climatebonds.net. The Standards Team drives the process for developing 
+and maintaining Sector Criteria.
+Climate Mitigation Performance Targets: The performance targets that define the 
+measurable climate mitigation performance to be achieved. 
+Debt Instrument: Any debt instrument being considered for Certification, whether that be 
+a bond, a loan, or some other type of debt instrument.
+Disclosure Documentation: Documentation associated with the issuance of a bond, 
+loan or other debt instrument  is prepared before the bond, loan or other debt instrument 
+is issued or entered into and is made available to potential investors. For debt instrument 
+issuance, this documentation is usually required by the relevant financial regulatory body 
+in the jurisdiction where the bond, loan or other debt instrument is being offered and may 
+include items such as a prospectus, term sheet, offering memorandum, indenture contract, 
+official debt instrument statement, or legal documentation. In some jurisdictions, this also 
+includes marketing materials for the transaction.
+Entity: A legal entity, duly incorporated and validly existing in the jurisdiction in which it 
+operates, providing non-financial goods and services or a segregated segment thereof.  
+It may or may not include other controlled entities (subsidiaries). 
+GHG Protocol: The Greenhouse Gas Protocol provides requirements and guidance for 
+companies and  organizations preparing a corporate-level GHG emissions inventory. The 
+GHG Protocol covers the accounting and reporting of the seven greenhouse gases covered 
+by the Kyoto Protocol.
+Green Finance Framework: Information provided by the issuer describes how the issuer 
+of the relevant bond, loan or other debt instrument, or programme of bonds, loans or other 
+debt instruments will meet the requirements in the Climate Bonds Standard.
+Green debt instrument: A green debt instrument where the proceeds will be exclusively 
+applied to finance or re-finance, in part or complete , new or existing eligible green projects, 
+and which align with the four core components of the Green Bond Principles, the Green 
+Loan Principles and the Sustainability-Linked Bond Principles.
+Issuer: The organisation issuing the bond or other certified debt instrument; or the 
+borrower and other obligors taking out the loan or other debt instrument; or the financial 
+institution receiving designated deposits. The Issuer of a UoP Instrument can be a special 
+purpose vehicle, a securitisation vehicle, or a trust controlled by the issuing entity.
+Investment Exposure: Actual amounts invested/to be invested in eligible projects or assets. 
+Key Performance Indicator (KPI): External or internal indicators which are under 
+management’s control and are material to an Applicant’s business strategy. 
+Market Value: The price at which an asset would change hands between a willing buyer 
+and a willing seller, neither being under any compulsion to buy or to sell and both having 
+reasonable knowledge of relevant facts. This term is usually defined by convention within 
+the relevant jurisdiction. It is sometimes called Fair Market Value, Market Value, or Fair 
+Value, depending on the context.  Market Value may be assessed by an independent valuer 
+or by using an internal valuation model.
+Climate Bonds Standard   Version 4.1 
+ 8
+Materiality of Emissions: The Sector Criteria apply materiality thresholds for Scope 1, 2 
+and 3 emissions on a sectoral basis.
+Net Proceeds: The amount equal to the gross proceeds of the bonds, loans, or other debt 
+instruments minus costs directly linked to the issuance, such as legal fees, accountants’ 
+fees, and verification fees. In case the debt instrument is a debt facility with a limit (e.g., a 
+revolving credit facility), the net proceeds in the context of a UoP certification will be equal 
+to the drawn amount of the facility.
+Net Zero Targets: Short-, medium- and long-term targets set by an entity that aims to 
+reduce its Scope 1, 2 and 3 net greenhouse gas emissions to zero by 2050.
+Nominated projects and assets: Eligible projects and assets  associated with the bond, 
+loan, or other debt instrument. These projects or physical assets may be existing, under 
+construction or yet to be deployed.
+Non-Assessed Segment: The part(s) of the Parent Group of the Certified Entity which do 
+not form part of the Certified Entity and those that form part of the Certified Entity but do 
+not contribute to the Certified Entity meeting the Certification Threshold per Clause C.2.3 
+Parent Company/Group: A company is considered a parent company of another entity (a 
+subsidiary) if it exercises control over the subsidiary. The terms “control” and “subsidiary” 
+have the meaning assigned to them under International Financial Reporting Standard 10 
+(IFRS 10). A Parent Group consists of the Parent Company and all the companies that the 
+Parent Company exercises control over. Where the Applicant does not belong to a group of 
+companies, the term Parent Company in  this Standard applies to the Applicant.
+Retroactive Certification: Certification awarded for bonds, loans or other debt 
+instruments which have already been issued or closed. 
+Safeguards: The exclusions and conditions that the Parent Company and the Parent 
+Group must meet in order for the Certified Entity to be eligible for certification.
+Sector Criteria (Climate Bonds Standard Sector Criteria): Sector-specific criteria for 
+the eligibility of specific projects, assets, activities and/ or entities under the Climate Bonds 
+Standard described in the sector criteria documents. 
+Sustainability-Linked Debt (SLD):  Any debt instrument for which the financial and 
+structural characteristics can vary depending on whether the issuer achieves predefined 
+Sustainability/ ESG objectives. Such objectives are measured through predefined KPIs and 
+assessed against predefined performance targets. Proceeds of SLD are intended to be used 
+for general purposes.
+Transition Finance: Any form of financial support to high-carbon companies intended to 
+finance the implementation of their short-, medium- and long-term plans to achieve net zero.
+Transition Plans: The delivery strategy and governance implemented / to be 
+implemented to achieve the decarbonisation targets represented by the Climate Mitigation 
+Performance Targets of the Applicant.
+Unqualified Opinion: An unqualified assurance or external review opinion by an Approved 
+Verifier indicates that the Verification Report has been issued with no reservations regarding 
+the adherence of the Applicant (for UoP instruments, assets, SLD or Entity certification) with 
+the requirements of the Climate Bonds Standard and Sector Criteria. 
+Update Report: A document prepared by the issuer that confirms the ongoing 
+conformance of the issuer and the relevant debt instrument, or programme of debt 
+instruments with the  post-Issuance requirements of the Climate Bonds Standard.
+Climate Bonds Standard   Version 4.1 
+ 9
+Use of Proceeds Debt Instruments (UoP Instruments):  The proceeds of UoP 
+instruments are allocated to specific projects  or purposes. For  this Standard, UoP 
+Instruments are for environmentally beneficial projects, assets, activities, or expenditures.
+Verification Engagement: The work conducted by an Approved Verifier commissioned 
+by an Applicant for Certification to provide a mandatory Verification Report following  the 
+Climate Bonds Standard. 
+Verification Report: A report prepared by the Approved Verifier, addressed to the Issuer, 
+and provided to the Climate Bonds Standard Secretariat as part of the Certification Process. 
+Climate Bonds Standard   Version 4.1 
+ 10
+2. Overview of Use of Proceeds  
+and Asset Certification
+2.1 For Use of Proceeds Certifications, the net proceeds of the instrument must be 
+allocated to any of the following:
+a. Projects and assets that are fully eligible under the relevant Sector Criteria applicable 
+at the time of certification, or
+b. Projects and assets, up to a maximum of 5% in accordance with paragraph A.3.1.3.,  
+which do not fully satisfy the Sector Criteria, but meet the conditions of paragraph A.3.1.5., or
+c. Eligible R&D expenses in accordance with paragraph vii below.
+Asset Certification requires that all projects, assets and portfolios of assets are fully eligible 
+under the relevant Sector Criteria.
+Projects and assets are only eligible under the Standard if all applicable regulatory permits 
+and licences have been obtained and all related legal requirements and obligations in the 
+jurisdiction where the Issuer/Entity/owner operates have been satisfied. 
+2.2 Projects or assets which satisfy the eligibility requirements of the Climate Bonds 
+Standard consist of one or more of the following:
+2.2.1. Physical assets or projects owned by an Issuer or an entity which fully satisfy the 
+Sector  Criteria published on the Climate Bonds website. Physical assets or projects include:
+a. Physical assets: existing and operational equipment, machinery, infrastructure, 
+buildings, or land.
+b. Projects: equipment, machinery, infrastructure or buildings in construction, redevelopment 
+(upgrades, expansion) and similar asset value creation or enhancement activity.
+2.2.2. Debt or other financing arrangements provided by a lending institution to 
+finance or facilitate the financing of eligible projects or physical assets, such as corporate 
+loans, retail mortgages, project finance, bank guarantees or performance bonds.
+2.2.3. Capital expenditure is undertaken to increase the value and/or lifetime of the 
+physical assets or projects.
+2.2.4. Acquisition costs/purchase price for an entity (company or division) which 
+holds physical assets or projects or a share thereof that approximately corresponds to the 
+Market Value of the physical asset or projects holdings. 
+2.2.5. Leasing structures resulting in right-of-use assets and liabilities and long-term 
+leaseholds on land (with duration greater than 12 months), buildings, and infrastructure. 
+2.2.6. Subsidies, tax and other incentives, credit schemes and grants, and other similar 
+arrangements provided by public entities or agencies, including local and national governments.
+2.2.7. Eligible R&D expenditure:
+a. Any early or later stage expenditure relating to the research, applied research and 
+experimental development of solutions, processes, technologies, business models 
+and other products dedicated to the substantial reduction, avoidance or removal of 
+GHG emissions for which the ability to substantially reduce, remove or avoid GHG 
+emissions has been demonstrated in a relevant environment, corresponding to at least 
+Technology Readiness Level (TRL)6.1 
+1. In line with Annex G of the General Annexes of HORIZON 2020 WORK PROGRAMME 2016 2017, p.29  
+(version of 4.6.2021: https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2016-2017/annexes/h2020-wp1617-annex-ga_en.pdf).
+Climate Bonds Standard   Version 4.1 
+ 11
+b. For the avoidance of doubt, this includes expenditure related to research, applied 
+research and experimental development to bring the solution, process, technology, 
+business model or other product through TRLs 1-5.  In addition, funds or subsidy 
+schemes incentivising early stage R&D (TRL1 to TRL5) may be considered eligible if 
+aiming to bring the solution, product or technology to TRL6.
+c. Substantial reduction, removal or avoiding GHG emissions requires the R&D to:  
+i. Provide research, development or innovation for technologies, products or other 
+solutions that enable an economic asset or activity to meet the respective Sector 
+Criteria under the Climate Bonds Standard; or 
+ii. Aim to bring to market a solution that is expected to have a substantially better 
+performance in terms of life-cycle GHG emissions than best commercially available 
+technologies based on public or market information or which substantially improves 
+their technological and economic feasibility in order to facilitate their scaling up.
+d. TRL6 or above must be demonstrated as follows:
+i. TRL6 requires that the technology is fine-tuned to a variety of operating 
+conditions, the process is reliable and the performances match the expectations, 
+interoperability with other connected technologies is demonstrated, the 
+manufacturing approach is clearly defined and that all environmental, regulatory 
+and socio-economic issues are addressed. 
+ii. Where the researched, developed or innovated technology, product or other 
+solution is at TRL 6 or 7, life- cycle GHG emissions are evaluated in simplified 
+form by the entity carrying out the research. The entity demonstrates one of the 
+following, where applicable: (a) a patent not older than 10 years associated with 
+the technology, product or other solution, where information on its GHG emission 
+reduction potential has been provided; (b) a permit obtained from a competent 
+authority for operating the demonstration site associated with the innovative 
+technology, product or other solution for the duration of the demonstration project, 
+where information on its GHG emission reduction potential has been provided. 
+iii. Where the researched, developed or innovated technology, product or other 
+solution is at TRL 8 or higher, life- cycle GHG emissions are calculated using 
+Recommendation 2013/179/EU or, alternatively, using ISO 14067:2018 or ISO 14064-
+1:2018 and are verified by an independent third party.
+e. Where the R&D expenditure relates to products, solutions or activities for which 
+Climate Bonds has not yet developed Sector Criteria, the eligibility will be individually 
+assessed on a case-by-case basis. In making such assessments Climate Bonds may rely 
+on independent expert reports or opinions. 
+f. R&D expenditure must be continually assessed by the Issuer to ensure that the 
+relevant climate-related goals are being achieved. The results of the assessment must 
+be disclosed in the annual Update Report in accordance with paragraph A.3.4.
+g. All R&D expenditure must be independently verified by a Climate Bonds Approved 
+Verifier at least on an annual basis until the related technology reaches TRL6 or higher.
+Climate Bonds Standard   Version 4.1 
+ 12
+2.2.8. Related and supporting expenditures for projects or physical assets where the 
+projects or physical assets meet the relevant Sector Criteria of the Climate Bonds Standard. 
+Such non-capitalised costs may include: 
+a. Relevant installation and routine servicing costs are required to ensure the proper 
+functioning of the asset.
+b. Repair and maintenance costs, upgrades or renovations undertaken to maintain the 
+value or extend the asset’s life.
+c. Relevant performance monitoring costs concerning tracking climate credentials (e.g., GHG 
+emissions) and climate information services (e.g., satellite monitoring and emissions testing)
+d. Any training and education costs directly related to activities a. to c. above.
+Climate Bonds Standard   Version 4.1 
+ 13
+3. Overview of Entity and SLD Certification
+The Standard provides transparent science-based climate mitigation Sector Criteria for 
+certifying non-financial corporate entities (and parts thereof) and SLD issued by them. 
+This includes corporates whose emissions are already near zero and those that are not but 
+undergoing an ambitious and credible transition.
+The Certification rules for entities and SLD aim to address the concerns of issuers and 
+investors on the burden of due diligence and reporting requirements, respectively, 
+while maintaining robustness and credibility. They build on existing frameworks 
+and methodologies. They also emphasise the need for ambitious Climate Mitigation 
+Performance Targets in line with Paris-aligned climate mitigation goals, credible transition 
+plans which give confidence in the entity’s ability to meet those targets, and disclosure and 
+verification to enable oversight by investors and other stakeholders. 
+The Certification rules are based on the five Hallmarks of a credibly transitioning company 
+first developed by Climate Bonds in 2020 (the “Hallmarks”). The Hallmarks provide an 
+assessment framework to support a company transition that is sufficiently rapid and robust 
+to align with the Paris goal to nearly halve emissions by 2030 and reach net zero by 2050. 
+Specifically, the Hallmarks are: 
+i. Paris-aligned targets 
+ii. Robust plans
+iii. Implementation action
+iv. Internal monitoring 
+v. External reporting  
+The Hallmarks and these Certification rules move away from relative measures such as best 
+in class, sector benchmarking or improvements compared to a historic baseline to more 
+absolute measures tied to transition pathways that are common to all sector participants. 
+They require material scope 1, 2, and 3 emissions to be addressed and short-, medium- and 
+long-term targets to be set and supported by robust transition plans. 
+Climate Bonds Standard   Version 4.1 
+ 14
+4. Approved Verifiers 
+4.1 Professional qualifications and competence
+Approved Verifiers are professional firms that follow best practice guidelines concerning 
+ethics, independence, management of conflicts of interest, competence, documentation, and 
+quality controls. Members of the verification teams must have appropriate qualifications and 
+professional experience to enable them to conduct their work to a high standard as well as 
+proven competencies in both financial and environmental/technical fields.
+Approved Verifiers must conduct the verification engagements in accordance with 
+ISAE3000 or an equivalent international standard or an equivalent assessment framework, 
+and must adhere to all applicable legal requirements. Verification Engagements should 
+also adhere to the ICMA Guidelines for Green, Social and Sustainability Bonds External 
+Reviews (June 2022) and the LMA Guidance for Green, Social and Sustainability-Linked 
+Loans External Reviews (March 2022).
+4.2 Special Provisions relating to Regulated Entities
+Certain types of regulated entities, such as credit rating agencies or other regulated 
+organisations which provide external review services, may apply to become Approved External 
+Review Providers, provided they are subject to publicly disclosed regulatory frameworks and 
+otherwise meet the professional competence requirements of the Standard. Such firms may 
+opt to issue External Review Reports in accordance with their internal processes and procedures 
+which will have been assessed by the Climate Bonds Initiative and the Climate Bonds Standard 
+Board as equivalent to internationally accepted assurance standards. 
+Firms applying for the Approved External Review Provider status must submit sufficient 
+documentation on their internal processes and procedures to the Climate Bonds Standard 
+Board via the Climate Bonds Secretariat to enable this assessment to be made. 
+In the context of the Standard, the term Approved Verifier will be understood to include 
+Approved External Review Provider and the term Verification Report will be understood to 
+include an External Review Report issued by an External Review Provider.
+Existing Climate Bonds Approved Verifiers who meet the relevant criteria may apply to 
+change their status to Approved External Review Provider.
+4.3 Verification Report Requirements 
+Verification reports must either include an assurance opinion or an external review opinion 
+regarding the compliance of the debt instrument/asset/entity with the provisions of 
+the Climate Bonds Standard.  Assurance opinions must additionally specify the level of 
+assurance entailed in the report. 
+The Applicant must provide all the necessary information about the eligible projects and 
+assets and the internal processes they have in place to the Approved Verifier to support 
+the assessment of conformance with the Climate Bonds Standard. For Entity and SLB 
+certifications, the Applicant must provide the Verifier with Transition Plans and other 
+supporting documents.
+Approved Verifiers conduct the Verification Engagement and prepare the Verification 
+Reports per the guidance for Approved Verifiers provided on the Climate Bonds Initiative 
+website. The subject matter considered by the Approved Verifiers must include a summary 
+of how the Issuer has conformed with the requirements set out in the Standard, including 
+the relevant Sector Criteria. 
+Climate Bonds Standard   Version 4.1 
+ 15
+4.4 Disclosure only on authorization of the receiver  
+of the certification
+Verification Reports submitted to the Climate Bonds Standard Secretariat may be publicly 
+disclosed only upon the authorization of the Issuer unless the Climate Bonds Standard 
+Secretariat is required by law or national regulators to make such disclosure. The Climate 
+Bonds Standard Secretariat must consult with the Applicant and Approved Verifier on the 
+presentation of the information prior to any public release of any Verification Report.
+Climate Bonds Standard   Version 4.1 
+ 16
+PART A: USE OF PROCEEDS 
+CERTIFICATION
+A.1. Introduction
+The requirements for Use of Proceeds certification are separated into Pre-Issuance and 
+Post-Issuance requirements. The Climate Bonds Standard and Certification Scheme build 
+on the broad integrity principles contained in the ICMA Green Bond Principles.
+The Pre-Issuance requirements must be met by Issuers seeking Certification prior 
+to issuance. Post-Issuance requirements must be met by Issuers seeking continued 
+Certification following issuance of the bond, loan, or other debt instrument. Issuers can 
+also apply for Retroactive Certification at any time while the debt instrument is outstanding.
+Programmatic Certification is available for frequent Issuers of Certified Debt Instruments. 
+This option increases  flexibility and reduces the verification burden for Issuers with large-
+scale or longer-term finance programmes.
+Verification by an Approved Verifier is mandatory in the Certification process. Ongoing 
+Certification includes requirements for annual reporting through public disclosure.
+A.2. Pre-Issuance requirements
+This section sets out the requirements that apply to all Certified debt Instruments before 
+issuing the bond or closing the loan. These requirements are designed to ensure that:
+i. The Issuer has established appropriate internal processes and controls prior to 
+issuance or closing of the bond, loan, or other debt instrument; 
+ii. These internal processes and controls are sufficient to enable conformance with the 
+Climate Bonds Standard after the bond, loan, or other debt instrument has been issued 
+or has closed and allocation of the proceeds is underway; 
+iii. The Issuer has provided a Green Finance Framework document which explains how 
+each of the stages involved in issuing a green debt instrument is  satisfied (Use of Proceeds, 
+Process for Project Evaluation and Selection, Management of Proceeds, Reporting)
+For Issuers seeking Pre-Issuance Certification of their bond, loan or other debt instrument, 
+all requirements set out in this section must be met.
+A.2.1. Utilisation of Proceeds
+A.2.1.1. The Issuer must document the Nominated projects and assets which are eligible 
+to be associated with the debt instrument. The Issuer must compile a list of Nominated 
+projects and assets which must be kept up to date during the term of the Bond.
+A.2.1.2. The expected Net Proceeds of the debt instrument must be no greater than the 
+Issuer’s total Investment Exposure to the proposed Nominated projects and assets or 
+the relevant proportion of the total Market Value of the proposed Nominated projects 
+and assets  owned or funded by the Issuer.
+A.2.1.3. Nominated projects and assets must not be nominated to other Certified debt 
+Instruments, unless the Issuer demonstrates that distinct portions of the Nominated 
+projects and assets are being funded by different Certified debt Instruments or, the existing 
+Certified debt Instrument is being refinanced via another Certified debt Instrument.
+A
+
+Climate Bonds Standard   Version 4.1 
+ 17
+A A.2.2. Process for Evaluation and Selection of projects and assets
+A.2.2.1. The Issuer must establish, document, and maintain a decision-making process 
+which it uses to determine the eligibility of the Nominated projects and assets. 
+A.2.2.2. The decision-making process must include, without limitation:
+i. A statement on the climate-related objectives of the debt instrument.
+ii. How the climate-related objectives of the debt instrument are positioned within 
+the context of the Issuer’s overarching objectives, strategy, policy and/or processes 
+relating to environmental sustainability.
+iii. The Issuer’s rationale for issuing the Bond.
+iv. A process to determine whether the Nominated projects and assets meet the 
+eligibility requirements of the Climate Bonds Standard.
+v. Related Sector Criteria, including any exclusion criteria and any other process, 
+applied to identify and manage potentially material environmental or governance 
+risks associated with the Nominated projects and assets.
+vi. Any green standards or certifications referenced in the selection of Nominated 
+projects and assets.
+A.2.3. Management of Proceeds
+A.2.3.1. The Issuer must document and disclose to the Approved Verifier the systems, 
+policies, and processes they will use to manage the Net Proceeds. These must include 
+arrangements for the following activities:
+a. Tracking of proceeds: The Net Proceeds of the debt instrument can be credited 
+to a sub-account, moved to a sub-portfolio, or otherwise tracked by the Issuer in an 
+appropriate manner and documented.
+b. Managing unallocated proceeds: The balance of unallocated Net Proceeds can be 
+managed as per the requirements in Clause A.3.3.3.
+c. Earmarking funds to Nominated projects and assets: An earmarking process  
+can be used to manage and account for funding to the Nominated projects and 
+assets and enables estimation of the share of the Net Proceeds being used for 
+financing and refinancing. 
+A.2.3.2. Where the prospectus requires the proceeds to be ring-fenced, they must be 
+credited to designated bank accounts that can only fund  the specified Nominated 
+projects and assets. The Issuer must track and monitor all payments from the 
+designated bank accounts.
+A.2.4. Pre-Issuance Reporting: Green Finance Framework and 
+Disclosure Documentation
+A.2.4.1. The Issuer must prepare a Green Finance Framework and make it publicly 
+available prior to, or at the time of, issuance. The Green Finance Framework must be 
+provided to the Climate Bonds Standard Secretariat as one of the certification documents.
+A.2.4.2. The Green Finance Framework must include:
+i. A statement of compliance with the Climate Bonds Standard and/or other 
+applicable standards such as the Green Bond Principles or the United Nations 
+Sustainability Development Goals.
+A
+Climate Bonds Standard   Version 4.1 
+ 18
+ii. A summary of the expected use of proceeds 
+iii. A description of the decision-making process for project selection
+iv. A description of the Issuer’s processes for managing the proceeds
+v. A description of the Issuer’s processes for reporting and external review or verification
+A.2.4.3. The Green Finance Framework should also include, without limitation:
+i. Information on the methodology and assumptions to be used for confirming that 
+the characteristics or performance of the Nominated projects and assets conform to 
+the relevant Sector Criteria, where required, and any other additional impact metrics 
+that the Issuer will define.
+ii. A summary of the approach to manage unallocated Net Proceeds in accordance 
+with Clause A.3.3.3.
+iii. The intended approach to provide Update Reports to reaffirm conformance with 
+the Climate Bonds Standard while the debt instrument remains outstanding.
+iv. The list of proposed Nominated projects and assets associated with the debt 
+instruments and the investment areas into which the Nominated projects and 
+assets fall. Where there are limits on the detail that can be made publicly available 
+about specific Nominated projects and assets, information disclosed must include 
+the investment areas into which the Nominated projects and assets fall and an 
+explanation of why detail on Nominated projects and assets is limited.
+v. Where a proportion of the Net Proceeds are used for refinancing, an estimate 
+of the respective shares of the Net Proceeds used for financing and refinancing, 
+and the relevant Nominated projects and assets or investment areas which may 
+be refinanced. This may also include the expected look-back period for refinanced 
+Nominated projects and assets.
+A.2.4.4. Issuers are encouraged to disclose as much information as possible with 
+respect to Nominated projects and assets. However, in many cases it is not possible 
+for the Issuer to disclose detailed information about specific projects and assets 
+prior to the issuance of the Bond. This limitation may be due to confidentiality 
+arrangements with owners of projects and assets, the dynamic nature of the project 
+portfolio, competitive considerations, or other legal provisions which limit the 
+disclosure of detailed information.
+A.2.4.5. The Issuer must include in its Disclosure Documentation:
+i. The investment areas into which the Nominated projects and assets fall.
+ii. The intended types of temporary investment instruments for the management of 
+unallocated Net Proceeds in accordance with Clause A.3.3.3.
+iii. The Approved Verifier engaged by the Issuer for the mandatory  
+Verification Engagements.
+iv. The intended approach to provide Update Reports to reaffirm conformance 
+with the Climate Bonds Standard while the debt instrument remains outstanding, 
+including the location of the published documents.
+v. The Climate Bonds Initiative Disclaimer provided in the Certification Agreement.
+A
+Climate Bonds Standard   Version 4.1 
+ 19
+A.3. Post-Issuance requirements
+This Section sets out the requirements for  all Certified debt Instruments after  issuance or 
+closing which must be met by Issuers seeking Post-Issuance or Retroactive Certification.
+A.3.1. Use of Proceeds
+A.3.1.1. The Net Proceeds of the debt instrument must be allocated to the Nominated 
+projects and assets.
+A.3.1.2. All Nominated projects and assets must meet the documented objectives of 
+the debt instrument as set out in the Issuer’s Green Finance Framework. 
+A.3.1.3. Issuers must allocate at least 95% of the net proceeds of the debt instrument to 
+projects and assets that meet the Sector Criteria requirements of the Standard.
+A.3.1.4. For any part of the net proceeds that finance projects and assets that do not 
+fully satisfy the Sector Criteria requirements (up to 5%), the Issuer must provide detailed 
+disclosures in the Green Finance Framework.  
+A.3.1.5. Any Nominated Projects and Assets which do not fully satisfy the Sector Criteria 
+may be considered eligible if they meet all of the following conditions:
+i. They must relate to sectors for which Climate Bonds has not yet developed  
+Sector Criteria; and
+ii. They must fall under any of the Green Project categories listed in the ICMA Green 
+Bond Principles or the ICMA Social Bond Principles; and
+iii. The Verification Report opinion must confirm their alignment with the ICMA 
+Green/Social Bond principles
+iv. They must not relate to any of the following excluded activities:
+• The exploration, extraction or transportation of proven conventional or 
+unconventional fossil fuel reserves.
+• Natural gas production.
+• Refining crude oil to produce derivative products.
+• The supply and/or use of fossil fuels for power generation and heat.
+• Conversion or fragmentation of high-carbon-stock land or unsustainable 
+operations on high-carbon stock land leading to the loss of its status as high-
+carbon stock land.
+A.3.1.6. The Issuer must allocate the Net Proceeds to the Nominated projects and 
+assets within 24 months of issuance of the debt instrument. The 24-month deadline 
+can be extended by the Climate Bonds Standard Secretariat for up to 5 years (and 
+exceptionally up to 10 years if duly justified by the nature of the projects to be financed). 
+An extension will be granted at the discretion of the Climate Bonds Standard Secretariat, 
+provided the justification for it can be substantiated by the Issuer and confirmed by the 
+Approved Verifier. At the end of the allocation period specified in the Certification, the 
+Issuer must provide a Post-Issuance Verification Report by an Approved Verifier. The 
+Issuer may be requested to provide annual Post-Issuance Verification Reports until the 
+Approved Verifier confirms that 100% of the proceeds have been allocated. 
+A
+Climate Bonds Standard   Version 4.1 
+ 20
+A.3.1.7. Net proceeds may be reallocated to other Nominated projects and assets at 
+any time while the debt instrument remains outstanding, provided the Approved Verifier 
+has verified such assets. 
+A.3.1.8. Nominated projects and assets must not be nominated to other Certified debt 
+Instruments, unless the Issuer demonstrates that different Certified Climate Bonds are 
+funding distinct portions of the Nominated projects and assets, or the Certified debt 
+Instrument is being refinanced via another Certified debt Instrument.
+A.3.1.9. Where a proportion of the Net Proceeds of the debt instrument are used for 
+refinancing, the Issuer must track the respective shares of the Net Proceeds used for 
+financing and refinancing and identify which Nominated projects and assets may 
+be refinanced. This may also include the expected look-back period for refinanced 
+Nominated projects and assets which should reflect the functional lifetime of the 
+projects or assets for delivering the stated climate mitigation/ adaptation/ resilience 
+benefits. The remaining functional lifetime of the financed physical projects or assets 
+must be equal to or greater than the term of the instrument being certified. The Net 
+Proceeds may only be used for refinancing operating expenditures that were incurred 
+within three years prior to the issuance of the Certified Debt Instrument.
+A.3.1.10. The Issuer must track the Net Proceeds of the debt instrument following a 
+formal internal process which is documented in accordance with Clause A.3.3.
+A.3.1.11. The Net Proceeds of the debt instrument must be no greater than the Issuer’s 
+total Investment Exposure or debt obligation to the Nominated projects and assets or 
+the relevant proportion of the total Market Value of the Nominated projects and assets 
+which are owned or financed by the Issuer. When satisfying this clause, the Issuer may 
+choose either (i) the Investment Exposure or debt obligation to the Nominated projects 
+and assets, or (ii) their Market Value. 
+A.3.1.12. Additional Nominated projects and assets may be added to, or used to substitute 
+or replenish, the portfolio of Nominated projects and assets as long as the additional 
+Nominated projects and assets are eligible under the Standard and are consistent with 
+the debt instrument’s objectives. Where additional Nominated projects and assets are 
+covered by Sector Criteria which were not included in the scope of either the Pre-Issuance 
+Verification or the Post-Issuance Verification Engagements, the Issuer must engage an 
+Approved Verifier to provide a Verification Report covering at least the conformance of the 
+additional Nominated projects and assets with the relevant Sector Criteria.  
+A.3.2. Process for Evaluation and Selection of projects and assets
+A.3.2.1. The Issuer must document and maintain a decision-making process to 
+determine the continued eligibility of the Nominated projects and assets.  
+This includes, without limitation:
+i. A statement on the climate-related objectives of the Bond.
+ii. How the climate-related objectives of the debt instrument are positioned within 
+the context of the Issuer’s overarching goals, strategy, policy and/or processes 
+relating to environmental sustainability.
+iii. The Issuer’s rationale for issuing the debt instrument.
+iv. A process to determine whether the Nominated projects and assets meet the 
+sector eligibility requirements specified of the Standard.
+v. Other information provided by the Issuer as described in Clause A.2.2.
+A
+Climate Bonds Standard   Version 4.1 
+ 21
+A A.3.3 Management of Proceeds
+A.3.3.1. The Net Proceeds of the debt instrument must be credited to a sub-account, 
+moved to a sub-portfolio, or otherwise identified by the Issuer in an appropriate 
+manner and documented.
+A.3.3.2. The debt instrument Issuer must either maintain an earmarking process or 
+ring-fence the proceeds per Clause A.2.3 to manage and account for the allocation of 
+Net Proceeds to the Nominated projects and assets. 
+A.3.3.3. While the debt instrument remains outstanding, the balance of the tracked Net 
+Proceeds must be reduced by amounts allocated to Nominated projects and assets. 
+Pending such allocations to Nominated projects and assets, the balance of unallocated 
+Net Proceeds must be:
+i. Held in temporary investment instruments that are cash, money-market 
+instruments or other liquid, short-term cash equivalent instruments within a treasury 
+function; and/or
+ii. Held in temporary investment instruments that do not relate to greenhouse gas 
+intensive projects or any projects which are inconsistent with the delivery of a low 
+carbon and climate resilient economy; and/or
+iii. Applied to temporarily reduce the indebtedness of a revolving nature before being 
+redrawn for investments in or disbursements to Nominated projects and assets.
+A.3.4. Post-Issuance Reporting 
+A.3.4.1. Following the issuance of a Certified UoP instrument, to maintain the 
+Certification all Issuers must submit annual Update Reports within 12 to 24 months 
+from the date of issuance of the debt instrument until its maturity. Any Post-Issuance 
+Verification Report by an Approved Verifier in any year is deemed to satisfy the Issuer’s 
+requirement to submit an Update Report for that year.
+A.3.4.2. The Issuer should also provide an Update Report on a timely basis in case of 
+material developments. Material developments include, but are not limited to, early 
+repayment, change of control or acquisition, change of name, changes to the eligibility 
+of assets and projects and any material amendments to transaction documents, 
+including any winding-up  process or enforcement.
+A.3.4.3. Issuers are encouraged to provide their Update Reports through existing bond 
+market reporting channels, such as the US Municipality sector’s Electronic Municipal 
+Market Access (EMMA) website. 
+A.3.4.4. An Update Report may contain three types of reporting: allocation reporting, 
+eligibility reporting, and impact reporting:
+i. Allocation reporting confirms the allocation of bond proceeds to eligible projects 
+and assets and is mandatory for all Certified debt instruments.
+ii. Eligibility reporting confirms the characteristics or performance of projects and 
+assets to demonstrate their eligibility under the relevant Sector Criteria and is 
+mandatory for all Certified debt instruments.
+iii. Impact reporting discloses the metrics or indicators which reflect the  
+expected or actual impact of eligible projects and assets and is encouraged for  
+all Certified debt instruments.
+A
+Climate Bonds Standard   Version 4.1 
+ 22
+A.3.4.5. The three different types of reporting can be included in a single Update 
+Report, which must be provided to the Climate Bonds Standard Secretariat and made 
+publicly available or provided annually to the bondholders/lenders for as long as the 
+debt instrument remains outstanding. 
+A.3.4.6. The timing of reporting under this clause can be aligned with the Issuer’s 
+regular reporting schedule and does not need to follow the anniversary of the 
+Certification or issuance of the Bond.
+A.3.4.7. The Allocation Reporting must include, without limitation:
+i. Confirmation that the Bonds issued under the Issuer’s Green Finance Framework 
+are aligned with the Climate Bonds Standard. 
+ii. A statement on the climate-related objectives of the Bond.
+iii. The list of Nominated projects and assets to which Net Proceeds have been 
+allocated (or re-allocated).
+iv. The amounts allocated to the Nominated projects and assets.
+v. An estimate of the respective shares of the Net Proceeds used for financing 
+and refinancing and which Nominated projects and assets have been refinanced. 
+This may also include the expected look-back period for refinancing Nominated 
+projects and assets.
+vi. The geographical distribution of the Nominated projects and assets.
+A.3.4.8. The Eligibility Reporting must include, without limitation:
+i. Confirmation that the Nominated projects and assets continue to meet the 
+relevant eligibility requirements applicable when obtaining the Certification.
+ii. Information on the environmental characteristics or performance of Nominated 
+projects and assets, which is prescribed by the relevant Sector Criteria.
+ii. Where the issuer has made use of the 5% flexibility pocket in accordance with paragraph 
+A.3.1.3, the percentage of the use of proceeds allocated to, and detailed description of, the 
+Nominated projects and assets which do not fully satisfy the Sector Criteria.
+A.3.4.9. Some Bonds have a very stable allocation of proceeds and do not need to track 
+any performance indicators to maintain the eligibility of the projects and assets (such 
+as financing for a single large-scale solar facility). This means that the annual Update 
+Report can be concise and restate the information from previous reports.
+A.3.4.10. Where there are limits on the detail that can be made available in the Update 
+Report about specific Nominated projects and assets (as per Clause A.2.4.3), information 
+disclosed must include the investment areas into which the Nominated projects and 
+assets fall and an explanation of why detail on Nominated projects and assets is limited.
+A.3.4.11. The impact reporting shall, without limitation:
+i. Provide the expected or actual outcomes or impacts of the Nominated projects 
+and assets concerning the climate-related objectives of the Bond.
+ii. Use qualitative performance indicators and, where feasible, quantitative 
+performance measures of the outcomes or impacts of the Nominated projects and 
+assets for the climate-related objectives of the Bond.
+iii. Provide the methods and the key underlying assumptions for the calculation of 
+the performance indicators and metrics.
+A
+Climate Bonds Standard   Version 4.1 
+ 23
+A A.3.4.12. Examples of quantitative performance measures of the outcomes of Nominated 
+projects and assets can include but are not limited to: renewable energy capacity installed, 
+greenhouse gas emissions avoided, emissions intensity, energy performance of buildings, 
+number of passengers carried by public transport, volume of wastewater treated. Impact 
+metrics and indicators can include but are not limited to: greenhouse gas emissions 
+reduced/avoided, the number of households provided with access to clean power, a 
+decrease in water use, a reduction in the number of cars required.
+A.3.4.13. Methods include, but are not limited to, the framework used and the 
+calculation methodology, including annualized metrics and/or lifetime calculations. 
+Both institutional and proprietary frameworks may be used: institutional frameworks 
+may be referenced by name, but proprietary and new frameworks should be described 
+in sufficient detail to allow assessment.
+A.3.4.14. The Issuer must make available to the public or to the bondholders any 
+Verification Reports or other relevant material which supports the Update Report.
+A.4. Certification Process for Use of Proceeds Instruments
+A.4.1. Process outline
+A.4.1.1. The Certification Process consists of three distinct phases that align with the 
+standard process for issuing and maintaining any debt instrument. This alignment 
+enables the use of the Certification Mark during the pricing and marketing of the debt 
+instrument and during the negotiation of the loan or other debt instrument. Furthermore, 
+it guarantees that the integrity of the Certification Mark is preserved even after the bond or 
+loan has been issued or closed and the net proceeds have been allocated.
+A.4.1.2. Pre-Issuance Certification: Assessment and Certification of the Issuer’s 
+internal processes, including its selection process for projects and assets; internal 
+tracking of proceeds, and the allocation system for net proceeds. This phase includes 
+the Issuer preparing a Green Finance Framework and a list of eligible projects and 
+assets; verification of the framework and the list by an Approved Verifier; production 
+of a Verification Report; and provision of certification documents to the Climate 
+Bonds Standard Secretariat. Pre-Issuance Certification of bonds, loans or other debt 
+instruments is awarded via a formal letter and a Certificate from the Climate Bonds 
+Standard Secretariat. The Pre-Issuance Certification covers the period prior to the 
+issuance or closing of the debt instrument. It can assist with marketing  the transaction, 
+provided this period does not exceed 12 months. Pre-Issuance Certification is valid until 
+Post-Issuance Certification is awarded.
+A.4.1.3. Post-Issuance Certification: Assessment and Certification of the bond, loan, 
+or other debt instrument after it has been issued or has closed. If the bond, loan or other 
+debt instrument has been awarded Pre-Issuance Certification, then the Post-Issuance 
+Certification must be undertaken within the specified allocation period as specified in 
+Clause A.3.1.3. This phase includes preparation of Post-Issuance updates; verification 
+of the information by an Approved Verifier; production of a Verification Report; and 
+provision of certification documents to the Climate Bonds Standard Secretariat. Post-
+Issuance Certification of individual debt instruments is confirmed via a formal letter 
+from the Climate Bonds Standard Secretariat. 
+A
+Climate Bonds Standard   Version 4.1 
+ 24
+A.4.1.4. Ongoing Certification: Maintenance of the Certification based on ongoing 
+conformance with the Post-Issuance requirements of the Climate Bonds Standard, 
+including meeting the annual reporting requirements specified in Clause A.3.4. 
+Maintenance requirements are detailed in Clause A.4.6.  Non-conformance provisions 
+are described in Clause A.4.7.
+A.4.1.5. Programmatic Certification is also available for Issuers with large portfolios 
+of eligible projects, assets, and programmes of multiple Certified deals over several 
+years. Issuers using Programmatic Certification have a reduced verification burden.  
+Annual verification by an Approved Verifier is mandatory under Programmatic 
+Certification. This option is described in detail in Clause A.4.4.
+A.4.2. Pre-issuance Certification
+A.4.2.1. Preparation for Certification: Issuers seeking Certification and the use of the 
+Certification Mark for a debt instrument prior to issuance shall:
+i. Prepare a Green Finance Framework (or equivalent document) which describes 
+how each of the requirements in the Climate Bonds Standard will be met by the 
+Issuer for the relevant debt instrument issuance or programme. 
+ii. Complete the Climate Bonds Information Form and submit the completed form 
+to the Climate Bonds Standard Secretariat. The Issuer must identify within the 
+Climate Bonds Information Form which components of the information provided are 
+confidential and which components can be publicly disclosed on the Climate Bonds 
+Initiative website once Certification has been confirmed and issuance of the debt 
+instrument has been completed. The Issuer may submit a preliminary Climate Bonds 
+Information Form to the Climate Bonds Standard Secretariat in the case where 
+certain information on the debt instrument is unknown at the Pre-Issuance stage. 
+iii. Engage an Approved Verifier to undertake the Verification Engagement to 
+assess conformance with the Pre-Issuance requirements of the Climate Bonds 
+Standard. The Approved Verifier engaged by the Issuer must issue a verification  
+report expressing an unqualified opinion as to whether the Issuer and the 
+proposed debt instrument have conformed to the Pre-Issuance requirements  
+of the Climate Bonds Standard.
+A.4.2.2. Obtaining Pre-Issuance Certification
+i. An Issuer that has completed the Pre-Issuance preparatory steps in Clause A.4.2.1 
+may apply to the Climate Bonds Standard Secretariat to receive Certification of the 
+debt instrument under the Climate Bonds Standard by submitting the following 
+documents: (i) a completed Climate Bonds Information Form (ii) the Green Finance 
+Framework (or equivalent summary) (iii) the Pre-Issuance Verification Report, and (iv) 
+an executed Certification Agreement. These documents must be submitted to the 
+Climate Bonds Standard Secretariat via email (certification@climatebonds.net).
+ii. If the Climate Bonds Standard Secretariat is satisfied that the Issuer and proposed 
+debt instrument are in conformance with the Pre-Issuance requirements, then it shall 
+provide a statement to the Issuer confirming the Certification of the debt instrument 
+under the Climate Bonds Standard. Thereafter, the Issuer has the right (subject to the 
+Certification Agreement) to use the Certification Mark in association with the relevant 
+debt instrument until the Post- Issuance Certification is confirmed.
+A
+Climate Bonds Standard   Version 4.1 
+ 25
+A A.4.3 Post-Issuance Certification
+A.4.3.1. Preparation for Post-Issuance Certification: Issuers seeking Certification 
+and the use of the Certification Mark after issuance of the debt instrument shall:
+i. If Pre-Issuance Certification has previously been confirmed for the Bond, update 
+the Green Finance Framework and Climate Bonds Information Form to reflect any 
+relevant changes or clarifications to this information after issuance of the Bond.
+ii. If Pre-Issuance Certification has not previously been obtained, prepare a Green 
+Finance Framework and other documents as described in Clauses A.2.4 and A.4.2.1.
+iii. Prepare information and evidence to support the Bond’s ongoing conformance 
+with the Post-Issuance requirements of the Climate Bonds Standard, including any 
+ongoing requirements in the relevant Sector Criteria.
+iv. Engage an Approved Verifier to undertake a Verification Engagement after issuing 
+the debt instrument. If Pre-Issuance Certification has previously been confirmed, 
+then this verification must be completed within two years or other period agreed in 
+accordance with paragraph A.3.1.6 of the issuance of the Bond. 
+v. The Issuer may engage the same Approved Verifier to undertake both the Pre-Issuance 
+and Post-Issuance activities under one commercial arrangement, but this is not mandatory.
+A.4.3.2. Obtaining Post-Issuance Certification: If Pre-Issuance Certification has 
+previously been confirmed, the Issuer must submit the following documents to the 
+Climate Bonds Standard Secretariat:
+i. An updated Climate Bonds Information Form,
+ii. The Green Finance Framework (or equivalent summary) as updated,
+iii. The Verification Report from the Post-Issuance Verification Engagement.
+iv. If Pre-Issuance Certification has not been obtained, the Issuer must provide the 
+Climate Bonds Standard Secretariat with the documents listed in Clause A.4.2.2. 
+A.4.3.3. If, at the time of issuance of the Post-Issuance Verification Report, the proceeds 
+have yet to be  fully allocated to the Nominated projects and assets, then the Issuer 
+must provide the relevant explanations. In such an event, the Post-Issuance Verification 
+process must be repeated at least annually until the proceeds have been fully allocated. 
+A.4.3.4. If the Climate Bonds Standard Secretariat is satisfied that the Issuer and 
+the debt instrument are in conformance with the Post-Issuance requirements of the 
+Climate Bonds Standard, then it shall provide a statement to the Issuer confirming 
+the Certification of the debt instrument. The Issuer has the right to continue using 
+the Certification Mark in association with the relevant debt instrument while the debt 
+instrument remains outstanding.
+A.4.4. Programmatic Certification
+A.4.4.1. Programmatic Certification allows an Issuer with a portfolio of eligible 
+projects and assets to issue multiple Certified debt Instruments under the overarching 
+certification of the whole programme. Programmatic issuers must have internal 
+controls in place to ensure the eligibility of any new assets being financed through 
+the certified instruments. Multiple issuances relating to the same project/asset are 
+assessed against the version of the Standard and criteria applicable at the outset  
+of the programmatic process.
+A
+Climate Bonds Standard   Version 4.1 
+ 26
+A.4.4.2. To obtain certification of the Program, the Issuer must submit to the Climate 
+Bonds Standard Secretariat:
+i. A Pre-Issuance Verification Report on the eligible projects and assets and the 
+readiness assessment of the Issuer to comply with the requirements of the Standard
+ii. A signed Certification Agreement 
+iii. A copy of the Green Finance Framework
+A.4.4.3. The Climate Bonds Standard Secretariat will provide the Issuer with formal 
+confirmation of Certification of the programme.
+A.4.4.4. For every debt instrument issued under the Program, the Issuer must: 
+i. Supply the Climate Bonds Standard Secretariat with a completed Climate Bonds 
+Information Form for the specific debt instrument issued. The Climate Bonds Standard 
+Secretariat will provide the Issuer with formal Certificate of the specific instrument.
+ii. Following the first issuance under the Program, the Issuer must adopt an annual 
+Verification Reporting process per Clause A.3.4.(typically 12-24 months after issuance 
+of the first debt instrument under the Program).
+iii. At the end of every subsequent reporting year, the Issuer must provide  the 
+Climate Bonds Standard Secretariat with an updated report from an Approved 
+Verifier to confirm the continuing eligibility of the projects and assets and the 
+allocation of the proceeds for all the Certified instruments under the programme. 
+iv. Annual Update reports should include Post-Issuance Verification Reports where 
+required until all the proceeds of all Certified bonds under the programme have  
+been fully allocated. 
+v. Once the Post-Issuance certification of all of the instruments in the programme has 
+been completed, the Issuer need only provide an annual Update Report per Clause 
+A.4.4 until new instruments are issued under the programme, or the programme has 
+been completed under  Clause A.4.4.4viii  below.
+vi. The subject matter considered by the Approved Verifier must include the Post-
+Issuance requirements of the Climate Bonds Standard, including the reporting 
+requirements in Clause A.3.4. It must cover all the debt instruments under the Program.
+vii. In the event of changes to the Green Finance Framework during the programme, 
+the Issuer must supply the Climate Bonds Standard Secretariat with the updated 
+version of the annual Verification Report.
+viii. Any Programmatic Certification programme is considered completed  
+at the latest of:
+a. Five years from the issuance of the first debt instrument under the programme; and
+b. Two years from the most recent debt instrument issuance for which the post 
+issuance verification has been completed
+A.4.4.5. After completing the Programmatic process, the Issuer is no longer 
+required to engage the Approved Verifier annually to conduct verification of the debt 
+instrument programme. However, the Issuer must conform with the Update Reporting 
+requirements per Clause A.3.4. 
+A
+Climate Bonds Standard   Version 4.1 
+ 27
+A A.4.5. Validity of Certification Label/Mark
+A.4.5.1. An Issuer must stop using the Certification Mark if any of the following applies:
+i. The Issuer no longer wishes to continue with the Certification of the debt 
+instrument and provides a written statement to that effect to the Climate Bonds 
+Standard Secretariat.
+ii. The issuance of the debt instrument is cancelled or suspended. 
+iii. The debt instrument is issued more than 12 months after the Pre-Issuance 
+Certification is awarded in accordance with Clause A.4.1.2, other than in the context 
+of a Programmatic Certification as described in Clause A.4.4 and no extension has 
+been granted by the Climate Bonds Standard Secretariat.
+iv. The Climate Bonds Standard Secretariat becomes aware that the Issuer and/or 
+the debt instrument no longer conform with the Climate Bonds Standard.
+v. A Verification Engagement commissioned by the Issuer, or the Climate Bonds 
+Standard Secretariat finds that the Issuer and/or the debt instrument no longer 
+conforms with the Climate Bonds Standard.
+vi. Ongoing certification is not met (see Clause A.4.1.4)
+vii. Revocation of Certification occurs (see Clause A.4.7)
+A.4.6. Maintaining Certification
+A.4.6.1. To maintain the Certification status of the debt instrument, the Issuer must 
+prepare and make available Update Reports at least annually, for as long as the debt 
+instrument remains outstanding per Clause A.3.4. An authorised officer of the Issuer 
+must sign the Update Report.  
+A.4.6.2. The Issuer must supply the Climate Bonds Standard Secretariat with links to 
+Update Reports or share their location on a public website (such as EMMA). 
+A.4.6.3. The Issuer may engage an Approved Verifier to undertake further Verification 
+Engagements on a periodic basis, to confirm that the Issuer has maintained 
+conformance with the Post-Issuance requirements of the Climate Bonds Standard.
+A.4.6.4. Where Nominated projects and assets are covered by Sector Criteria, which 
+require ongoing demonstration of eligibility, the Issuer must include in the Update 
+Reports confirmation that Nominated projects and assets continue to meet the relevant 
+Criteria, including any relevant metrics or thresholds. 
+A.4.7. Revocation of Certification
+A.4.7.1. An Issuer using the Certification Mark must provide further information if 
+requested by the Climate Bonds Standard Secretariat.
+A.4.7.2. In case of an alleged breach of conformance with the Climate Bonds Standard, 
+the Climate Bonds Standard Secretariat may request that a different Approved Verifier 
+prepares a new Verification Report as a condition for maintaining Certification under the 
+Climate Bonds Standard:
+i. This Verification Report must be submitted to the Climate Bonds Standard 
+Secretariat for review within three months of the initial request.
+ii. The Climate Bonds Standard Secretariat may request no more than one 
+Verification Report in any six-month period following Post-Issuance Certification. 
+A
+Climate Bonds Standard   Version 4.1 
+ 28
+A.4.7.3. Where a Certified debt Instrument is no longer in conformance with the 
+Climate Bonds Standard, then the Issuer must disclose that fact to the Climate Bonds 
+Standard Secretariat within one month of becoming aware of the non-conformance:
+i. The Climate Bonds Standard Secretariat may suggest corrective actions  
+to restore conformance  
+ii. If conformance is not restored to the satisfaction of the Climate Bonds Standard 
+Secretariat,  the Certification of that debt instrument will be revoked.
+A.4.7.4. Once Certification of a debt instrument has been revoked by the Climate Bonds 
+Standard Secretariat, the Issuer shall:
+i. Not use the Certification Mark in association with the debt instrument or imply 
+that the Certification is still in place, either directly by the Issuer or indirectly through 
+third-party data providers.
+ii. Take all necessary steps to remove that debt instrument from relevant lists or 
+indices which require Certification; and
+iii. Inform the holders of the debt instrument, relevant exchanges, and other 
+transaction parties of the change in the Certification status.
+A.4.7.5. An Issuer of a debt instrument which has had its Certification revoked by the 
+Climate Bonds Standard Secretariat may appeal the decision through the Climate 
+Bonds Standard Complaints and Appeals Policy.
+Climate Bonds Standard   Version 4.1 
+ 29
+PART B. ASSET CERTIFICATION
+B.1. Eligibility requirements
+B.1.1. The legal owner of any project, asset or portfolio of assets that 
+satisfies the Sector Criteria may apply to certify such assets. In an Asset Certification 
+process, the assessment involves only the eligibility of a project, asset, or portfolio of assets  
+under the Sector Criteria and is not related to the financing of these assets.  The project, 
+asset, or portfolio to be Certified must be labelled and described in sufficient detail  
+to be clearly identifiable.
+B.2. Process outline
+B.2.1. Asset owners seeking Certification of their projects, assets or portfolio of assets shall:
+i. Engage an Approved Verifier to undertake the Verification Engagement to assess 
+conformance with the Sector Criteria of the Climate Bonds Standard. The Approved Verifier 
+engaged by the owner must issue a Verification Report expressing an opinion as to whether 
+the owner has conformed to the  Climate Bonds Standard Asset Certification requirements. 
+ii. The Approved Verifier must confirm that the asset owner has the internal processes 
+to ensure that the specific asset/portfolio will remain eligible in the 12-month period 
+following the certification.
+iii. Complete and submit the Climate Bonds Information Form to the Climate Bonds 
+Standard Secretariat. The asset owner must identify within the Climate Bonds 
+Information Form which information provided is confidential and which components 
+can be publicly disclosed on the Climate Bonds Initiative website once Certification  
+has been confirmed. 
+B.2.2. An asset owner may apply to the Climate Bonds Standard Secretariat to receive 
+Certification of the project/asset/portfolio of assets under the Climate Bonds Standard by 
+submitting the following documents: (i) a completed Climate Bonds Information Form (ii) 
+an unqualified Verification Report, and (iii) an executed Certification Agreement. These 
+documents must be submitted to the Climate Bonds Standard Secretariat via email.
+B.2.3. If the Climate Bonds Standard Secretariat is satisfied that the proposed assets are 
+in conformance with the asset Certification Requirements, then it shall provide a statement 
+to the asset owner confirming the Certification under the Climate Bonds Standard. 
+B.3. Static or Dynamic asset Certification
+B.3.1. Static asset Certification refers to a project, asset or portfolio of assets, the 
+composition of which does not change over the duration of the certification period (12 
+months for a one-off asset Certification). 
+B.3.2. Dynamic asset certification refers to a pool of assets into which new assets may 
+be added over the duration of certification. In the case of Dynamic Asset Certification, the 
+Issuer must adopt a process by which they can evaluate and select the individual assets 
+within the green project categories. This process is similar to that adopted by green bond 
+Issuers for selecting eligible assets in a Use of Proceeds certification, as described in Clause 
+A.2.2. In a dynamic certification process, the Approved Verifier must assess the asset 
+owner’s asset selection controls and procedures.
+B
+
+Climate Bonds Standard   Version 4.1 
+ 30
+B.4. Validity of Certification Label/Mark 
+B.4.1. One-off asset Certification  
+This Certification attaches to specific eligible Projects, Assets or Portfolios of Assets. It will be 
+valid for a maximum of 12 months from when the Certification is awarded unless the asset 
+owner adopts a Programmatic Asset Certification process as described in Clause B.4.2.
+B.4.2. Programmatic Asset Certification
+The asset owner may apply for Programmatic Asset Certification by engaging the 
+Approved Verifier annually  to confirm the eligibility of the project, asset, or portfolio 
+of assets. To maintain certification of the project, asset or portfolio of assets, the asset 
+owner must submit a Verification Report to the Climate Bonds Standard Secretariat 
+confirming alignment with the Sector Criteria applicable when the verification work was 
+conducted.  If assets relating to new sectors are added to the Certified pool of assets, 
+the asset owner must ensure that the description of the expanded asset pool clearly 
+describes its composition.
+B.5. Revoking Certification
+B.5.1. An asset owner using the Certification Mark must provide further information if 
+requested by the Climate Bonds Standard Secretariat.
+B.5.2. In cases of a suspected breach of conformance with the Climate Bonds Standard, 
+the Climate Bonds Standard Secretariat may request a new Verification Report be prepared 
+by a different Approved Verifier as a condition for maintaining Certification under the 
+Climate Bonds Standard. 
+B.5.3. Where a Certified project, asset or portfolio of assets no longer conforms with the 
+Climate Bonds Standard, the asset owner must disclose that fact to the Climate Bonds 
+Standard Secretariat within one month of becoming aware of the non-conformance. 
+The Climate Bonds Standard Secretariat may suggest corrective actions to restore 
+conformance.  If conformance is not restored to the satisfaction of the Climate Bonds 
+Standard Secretariat, the Certification of that asset will be revoked.
+B.5.4. Once the Certification of an asset has been revoked by the Climate Bonds 
+Standard Secretariat, the Owner must not use the Certification Mark or imply that the 
+Certification is still in place.
+B.5.5. An asset owner which has had its Certification revoked by the Climate Bonds 
+Standard Secretariat may appeal against the decision through the Climate Bonds 
+Standard Complaints and Appeals Policy.
+B
+Climate Bonds Standard   Version 4.1 
+ 31
+B PART C: ENTITY CERTIFICATION 
+C.1. Introduction
+Currently, Entity Certification is limited to non-financial Entities or 
+segregated segments thereof, for which the Climate Bonds Initiative has Climate Bonds 
+Standard Sector Criteria for Entity Certification.   
+These entities, or segments thereof, may have emissions already at or near zero or 
+significantly above zero but with Transitions Plans aligned with 1.5C degree pathways.  
+Certification is valid for five years from the date of certification, subject to compliance with 
+the requirements laid out in this Part C.
+Figure C1 summarises the steps to Entity Certification.  Figure C2 illustrates the 
+certification requirements for the Compliant Activities of the entity, or segregated segment 
+thereof, being Certified. Figure C3 illustrates additional certification requirements relating 
+to the remainder of the legal entity not forming part of the Certified Entity (in the case 
+of certification of a segment of a legal entity) or to the wider Parent Group of which the 
+Certified Entity is a part (if the Certified Entity is part of a Parent Group). 
+A Checklist for Certification providing further clarification on the requirements to comply 
+with the criteria for Entity Certification is given in the accompanying ‘Entity Certification 
+Checklist’ document. That Checklist must be adhered to in conjunction with the 
+requirements in this Part C. 
+C
+Climate Bonds Standard   Version 4.1 
+ 32
+CFigure C1: Steps to Entity Certification*
+Certifiable 
+Entity
+Compliant Activities 
+have ambitious 
+Performance 
+Targets, supporting 
+Transition Plans and 
+governance, and 
+adequate disclosure 
+and verification
+Compliant Parent Groups 
+meet the Climate Safeguards 
+and have adequate 
+disclosure and verification
+*These are the steps and requirements to obtain certification. The steps and requirements for maintaining certification are different.   
+See Clause C.2.4.
+Clause 
+C.2.1.
+Applicant 
+has control 
+over Certified 
+Entity
+Clause 
+C.2.2.
+Eligible 
+boundary for 
+the Certified 
+Entity is set
+Clause 
+C.2.3.
+All confirmed 
+by Approved 
+VerifierClause 
+C.4.,C.5.
+Parent Group 
+is compliant
+Clause 
+C.2.3.
+Compliant 
+activities 
+represent 
+90% of the 
+Certified 
+Entity
+Clause 
+C.3.,C.5.
+Each of those 
+economic 
+activities is 
+assessed for 
+compliance
+Clause 
+C.2.3.
+Economic 
+activities  
+of the  
+Certified 
+Entity are 
+disaggregated
+Fig. C.2.
+Fig. C.3.
+Climate Bonds Standard   Version 4.1 
+ 33
+C C
+C.3.1.  
+Climate 
+Performance
+C.3.2.2.  
+Foundation
+C.3.3.  
+Governance
+C.3.2.3.  
+Implementa-
+tion
+C.5.  
+Disclosure
+Transition Plan Transparency
+C.3.1.2. 
+Adaptation  
+& resilience
+C.3.2.2.2. 
+Strategic 
+narrative
+C.3.3.2.   
+(Re)setting & 
+monitoring 
+Targets & 
+PlansC.3.2.2.3.  
+Environmen-
+tal & social 
+goal alignment C.3.3.3.   
+Correction 
+of underper-
+formance
+C.3.2.3.2. 
+Action Plan 
+scope 3
+C.3.2.3.3. 
+Finance Plan
+C.3.2.3.4. 
+Internal policy 
+alignment
+C.3.2.3.5. 
+Sensitivity 
+analysis
+C.3.1.1.  
+Climate 
+mitigation
+C.3.2.2.1.  
+Vision
+C.3.3.1.  
+Board & senior  
+executive 
+responsibility
+C.3.2.3.1.  
+Action Plan 
+scope 1 & 2
+C.5.1.  
+Information 
+to disclose
+Figure C2: Requirements for Compliant Activities of the Certified Entity
+Performance 
+targets
+Climate 
+performance 
+targets to assess 
+and monitor 
+progress to 1.5 
+degree alignment 
+Foundation* 
+Vision of future 
+activities, products, 
+services and 
+technologies and 
+strategic narrative 
+on levers and risks 
+to get there
+Implementation 
+plans*
+Trackable transition 
+roadmap of action 
+plans, milestones 
+and operating and 
+financial metrics 
+ 
+Governance 
+Oversight, 
+monitoring and 
+management of 
+progress
+Disclosure 
+Public information 
+for transparency 
+and credibility
+*Where required for that sector.
+Climate Bonds Standard   Version 4.1 
+ 34
+Transition Goals Transparency
+CFigure C3: Requirements on the Parent Group
+Climate 
+Performance
+Transition strategy Disclosure
+C.4.2.  
+Net zero commitment
+C.4.1.  
+Exclusions
+C.4.3.  
+Transition Plan
+C.5.1.  
+Information to 
+disclose
+Climate Performance
+Commitments not to 
+undertake excluded 
+activities and to achieve 
+net zero emissions
+Transition strategy
+Outlines of a Transition 
+Plan to achieve that net 
+zero target
+Disclosure
+Information shared 
+publicly for credibility
+Climate Bonds Standard   Version 4.1 
+ 35
+C C.2. Eligibility and Accounting Rules
+C.2.1. Applicant control over the Certified Entity
+The Applicant must either be the same legal entity as the Certified Entity or have 
+operational control over the Certified Entity.  
+C.2.2. Boundary of the Certified Entity
+The Certified Entity may be a group of legal entities within a Parent Group, a single legal 
+entity or a segregated segment thereof, at the Applicant’s discretion, subject to the 
+following conditions:
+i. Certification of a Parent Company must include subsidiaries and other controlled 
+companies within its boundary. The sole exception is where no Sector Criteria are 
+available to assess the activities of any subsidiary or controlled company, in which case 
+those subsidiaries or controlled companies must be excluded from the boundary of  
+the Certified Entity. 
+ii. A segregated segment thereof means a sub-division of a legal entity. This can be 
+set as the Certified Entity and Certified in its own right only if no Climate Bonds Sector 
+Criteria exist for the other sub-divisions of the legal entity. 
+iii. Where an economic activity of the Certified Entity is carried out across multiple 
+sub-divisions or subsidiaries or companies controlled by the same legal entity, the 
+Applicant must include all such sub-divisions and subsidiaries within the boundary  
+of the Certified Entity. 
+C.2.3. Obtaining Entity Certification  
+The Applicant receives a Verification Report from an Approved Verifier that: 
+i. The proportion of the Certified Entity’s economic activities that are counted as 
+complying with the Climate Performance, Delivery Strategy, Governance and Disclosure 
+requirements in Clauses C.3.1, C.3.2, C.3.3 and C.5, respectively, exceeds 90% of the 
+Certified Entity’s total economic activities; and  
+ii. The Parent Group meets the Climate Safeguard and Disclosure requirements in 
+Clauses C.4 and C.5, respectively.
+And the Applicant supplies to the Climate Bonds Standard Board, through the Climate 
+Bonds Standard Secretariat, a copy of the Verification Report or shares its location on a 
+public website, for the purpose of publishing on the Climate Bonds Initiative website. 
+See Box C1 for the application process for obtaining Entity Certification.
+A note on terminology: This 90% is defined as the ‘Certification Threshold’ , and economic 
+activities which meet the Climate Performance, Delivery Strategy, Governance and Disclosure 
+requirements per Clauses C.3.1, C.3.2, C.3.3 and C.5 respectively and hence form part of this 
+90% are the ‘Compliant Activities’ .
+To assess compliance with this threshold, the economic activities of the Certified Entity  
+are disaggregated and weighted according to either their revenue share or share  
+of GHG emissions. See the Entity Certification Checklist document for the methodology  
+to determine compliance.
+C
+Climate Bonds Standard   Version 4.1 
+ 36
+Box C1: Application process for Entity Certification 
+Applicants seeking Entity Certification must apply by submitting the following 
+documents to the Climate Bonds Standard Board Secretariat: 
+i. A completed Climate Bonds Information Form; 
+ii. The Verification Report from an Approved Verifier that meets the requirements in 
+Clause C.2.3.; and 
+iii. An executed Certification Agreement. 
+If the Climate Bonds Standard Board is satisfied that the Applicant is in conformance 
+with the Pre-Issuance requirements, then it will provide a statement confirming the 
+Certification of the Certified Entity.
+The Applicant must identify within the Climate Bonds Information Form which of the 
+information provided are confidential and which can be publicly disclosed on the 
+Climate Bonds Initiative website once Certification is confirmed.
+C.2.4 Maintaining Entity Certification 
+The Applicant receives an annual Verification Report from an Approved Verifier that:  
+i.. In respect of the Certified Entity:
+i. If at Certification the Certified Entity followed the revenue share basis for 
+compliance with the Certification Threshold and subsequently increased the revenue 
+of any economic activity of the Certified Entity that did not previous contribute to 
+the Certified Entity meeting the Certification Threshold, then the Applicant has re-
+assessed its compliance with the Certification Threshold and the Certified Entity still 
+meets the Certification Threshold (per Clause C.2.3); and
+ii. All interim Climate Mitigation Performance Targets (per Clause C.3.1.1) and all 
+interim milestones in the Delivery Strategy (per Clauses C.3.2.3.1, C.3.2.3.2 and 
+C.3.2.3.3) falling due since the last Verification Engagement have been met. The only 
+exception to this may be where compensatory measures have been taken or are 
+planned to address underperformance and those measures collectively meet the 
+requirements in Clause C.3.3; and 
+iii. Any and all correction measures have been taken to address any anticipated 
+underperformance in the delivery of the Delivery Strategy and future interim Climate 
+Mitigation Performance Targets meet the requirements in Clause C.3.3; and  
+iv. All disclosure requirements have been met (per Clause C.5); 
+and
+ii. The Parent Group remains in compliance (per Clauses C.4 and C.5); 
+and
+iii. The Applicant is not subject to revocation of certification due to any of the events 
+detailed in Box C2. 
+and 
+C
+Climate Bonds Standard   Version 4.1 
+ 37
+C
+Box C2: Events leading to the revocation of Entity Certification  
+Entity Certification will also be rescinded at any time where:
+1. The Applicant becomes aware that the Certified Entity and/ or the Parent Group  
+no longer conforms with the Climate Bonds Standard and provides a written  
+statement to that effect to the Climate Bonds Standard Secretariat; or
+2. A Verification Engagement commissioned by the Climate Bonds Standard Board, 
+finds that the Certified Entity and/ or the Parent Group no longer conforms with the 
+Climate Bonds Standard; or
+3. The Applicant has breached any contractual obligation towards the  
+Climate Bonds Initiative.
+In addition, if the Certified Entity has undertaken new economic activities in addition  
+to those previously taken into account when assessing compliance with the 
+Certification Threshold (per Clause C.2.3.), the Applicant must re-apply for certification 
+within 12 months of the start of the new economic activity. This new application must 
+consider the new, expanded economic activities of the Certified Entity.  If the new 
+application is not submitted or is not compliant with this PART C of the Standard,  
+the existing Entity Certification will be revoked.    
+Box C3: Maintaining Entity Certification   
+Applicants seeking to maintain Entity Certification must submit the following 
+documents to the Climate Bonds Standard Board Secretariat on an annual basis:
+i. A completed Climate Bonds Information Form; 
+ii. The annual Verification Report from an Approved Verifier which meets the 
+requirements per Clause C.2.4.).
+If the Climate Bonds Standard Board is satisfied that the Applicant is in conformance 
+with the ongoing requirements, then it will provide a statement confirming the certified 
+status of the Certified Entity.
+iv. The Applicant supplies to the Climate Bonds Standard Board, through the Climate 
+Bonds Standard Secretariat, a copy of the annual Verification Report or shares its 
+location on a public website, for the purpose of publishing on the Climate Bonds 
+Initiative website. 
+See Box C3 for the process for maintaining Entity Certification: 
+C
+Climate Bonds Standard   Version 4.1 
+ 38
+C.3. Transition Plan for Compliant Activities 
+For each of the economic activities of the Certified Entity identified per Clause C.2.3., all of 
+the following requirements must be met for it to be deemed a ‘Complying Activity.’ 
+C.3.1. Climate Performance 
+C.3.1.1. Climate Mitigation Performance Targets 
+C.3.1.1.1. Time horizon 
+The Climate Mitigation Performance Targets cover the time from the date of 
+certification to the date the activity is intended to hit net zero emissions, or 2050, 
+whichever is sooner. 
+C.3.1.1.2. Interim Climate Mitigation Performance Targets 
+The Climate Mitigation Performance Targets include interim targets on a three-yearly 
+basis for the nine years following the date of certification and a five-yearly basis 
+thereafter over the full-time horizon described in Clause C.3.1.1.1.  
+C.3.1.1.3. Alignment with decarbonisation pathways  
+of the Climate Bonds Standard
+The interim Climate Mitigation Performance Targets (per Clause C.3.1.1.2) are 
+benchmarked against the climate mitigation criteria in the Climate Bonds Standard 
+Sector Criteria (Sector Criteria) and align with those Sector Criteria by 31 December 
+2030 at the latest. 
+N.B. Different levels of Entity Certification are awarded depending on the date the Climate 
+Mitigation Performance Targets align with the Sector Criteria – see Box C4.
+Box C4: Two levels of Entity Certification   
+Two levels of Entity Certification are available, depending on when the Climate 
+Mitigation Performance Targets align with the Sector Criteria. 
+1. Level 1 – “Aligned”: The Climate Mitigation Performance Targets align with 
+the Sector Criteria at the time of Certification and thereafter until the date the 
+Climate Mitigation Performance Targets represent net zero emissions or 2050, 
+whichever is sooner.  
+2. Level 2 – “Transition”: The Climate Mitigation Performance Targets do not align 
+with the Sector Criteria at the time of Certification but align by 31st December 
+2030 and thereafter until the date the Climate Mitigation Performance Targets 
+represent net zero emissions or 2050, whichever is sooner.
+In addition, for both levels, the Delivery Strategy and governance for achieving those 
+Climate Mitigation Performance Targets meets the requirements described in Clauses 
+C.3.2  and C.3.3 respectively, the Parent Group complies with the requirements 
+described in Clause C.4 and the disclosure requirements of Clause C.5 are met.
+C.3.1.1.4. Board approval
+The Board of the Certified Entity has approved the Climate Mitigation Performance 
+Targets no earlier than one year prior to the application for Certification.
+C
+Climate Bonds Standard   Version 4.1 
+ 39
+C C.3.1.2. Climate Adaptation & Resilience Performance
+The economic activity complies with any Climate Adaptation & Resilience Criteria 
+specified in the relevant Climate Bonds Standard Sector Criteria. 
+C.3.2. Delivery Strategy
+C.3.2.1. Board approval of the Delivery Strategy 
+If a Delivery Strategy is required for the economic activity*, that Delivery Strategy:
+• Includes all the elements listed in Clauses C.3.2.2. – C.3.2.3.; and
+• Has been approved by the Board of the Certified Entity no more than one year prior to 
+the application for Certification.
+*See supplementary guidance for the list of activities that do/ do not require  
+a Delivery Strategy.  
+C.3.2.2. Foundations
+The Delivery Strategy includes the following foundational elements.
+C.3.2.2.1. Vision
+A Vision outlining the strategic objectives and priorities of the transition, outlining 
+what the Certified Entity will look like in terms of its future economic activities, 
+physical assets and business model that aligns with the long-term Climate Mitigation 
+Performance Targets of Clause C.3.1.1.
+C.3.2.2.2. Strategic Narrative
+A Strategic Narrative describing how each of the Compliant Activities of the Certified 
+Entity will evolve from their current position to the Vision of Clause C.3.2.2.1., taking 
+into account business context. 
+C.3.2.2.3. Broader social and environmental alignment 
+A position statement aligning the Vision and Strategic Narrative of Clauses C.3.2.2.1 
+and C.3.2.2.2. with the Certified Entity’s broader environmental and social objectives, 
+strategies and/ or policies, in particular demonstrating that effects on biodiversity 
+sensitive areas, emissions to water and hazardous waste have been taken into account. 
+In addition, the Certified Entity is not subject to a complaint to a National Contact Point of 
+the OECD regarding Responsible Business Conduct of Multinational Enterprises. 
+C.3.2.3. Implementation plans
+Implementation plans include the following.
+C.3.2.3.1. Action Plan for scope 1 & 2 emissions
+A time-bound plan of the trackable actions the Certified Entity will take or is taking 
+to implement its decarbonisation strategy as described in the Vision and Strategic 
+Narrative and thereby deliver its Climate Mitigation Performance Targets regarding 
+scope 1 & 2 emissions. 
+This includes interim milestones and metrics annually for the five-year period of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+C
+Climate Bonds Standard   Version 4.1 
+ 40
+C.3.2.3.2. Action Plan for Scope 3 Emissions
+A time-bound plan of the trackable actions the Certified Entity will take or is taking 
+to implement its decarbonisation strategy as described in the Vision and Strategic 
+Narrative and thereby deliver its Climate Mitigation Performance Targets regarding 
+scope 3 emissions. 
+This includes interim milestones and metrics annually for the five-year period of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+N.B. This is only required if the relevant Climate Bonds Standard Sector Criteria 
+address scope 3 emissions.
+C.3.2.3.3. Finance Plan
+A Finance Plan detailing the financial implications of the Strategic Narrative and Action 
+Plans, and the trackable actions being taken/ to be taken to deliver this Finance Plan. 
+This includes interim milestones and metrics annually for the five-year period of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+C.3.2.3.4. Internal policy alignment
+Information on the key internal policies and conditions developed or to be 
+developed to enable the delivery of the Climate Mitigation Performance Targets, 
+Strategic Narrative, Action Plans and Finance Plan, explaining how each of these 
+policies supports specific elements and milestones in the Strategic Narrative, Action 
+Plans and Finance Plan. 
+C.3.2.3.5. Sensitivity analysis
+Sensitivity analysis identifying the key sensitivities and risks to the Vision, Strategic 
+Narrative, Action Plans and Finance Plan that have the potential to decisively impact 
+the delivery of the Climate Mitigation Performance Targets. 
+C.3.3. Governance
+The following accountability mechanisms are in place to govern the delivery of the Climate 
+Mitigation Performance Targets and any associated Delivery Strategy. 
+C.3.3.1. Board and senior executive responsibility 
+C.3.3.1.1. Board mandate
+The Board (or equivalent governance body) has a clear mandate to:
+• Oversee the design of the Climate Mitigation Performance Targets and Delivery 
+Strategy;
+• Approve the Climate Mitigation Performance Targets and Delivery Strategy; and
+• Oversee the execution and monitor progress with the Delivery Strategy; and 
+• Approve and monitor any corrective actions required where interim Climate 
+Mitigation Performance Targets and Delivery Strategy milestones are not being met. 
+C.3.3.1.2. Senior management responsibility
+Senior management has responsibility for execution of the Delivery Strategy, and the 
+responsible parties have authority and access to resources to ensure execution.
+C
+Climate Bonds Standard   Version 4.1 
+ 41
+C C.3.3.2. (Re)setting and monitoring the Climate Mitigation Performance Targets 
+and Delivery Strategy
+C.3.3.2.1. (Re) setting Climate Mitigation Performance Targets  
+and the Delivery Strategy
+Tools and mechanisms are in place for the (re) setting of robust Climate Mitigation 
+Performance Targets and the Delivery Strategy, including a full review and, if 
+necessary, update of the Climate Mitigation Performance Targets and the Delivery 
+Strategy at least every five years.
+C.3.3.2.2. Tracking and monitoring delivery
+Tools and mechanisms are in place for tracking and monitoring of delivery of interim 
+Climate Mitigation Performance Targets and the milestones and metrics identified in 
+the Action Plans and Finance Plan. 
+C.3.3.3. Correction of underperformance
+In the event that interim Climate Mitigation Performance Targets and milestones and 
+metrics due during the period of Certification have not been met, corrective action 
+must be taken to reverse that under-performance so no interim Climate Mitigation 
+Performance Target or milestone or metric is unmet for a period longer than 12 months.  
+C.4. Commitments of the Parent Group
+C.4.1. Exclusions
+C.4.1.1. Expansion of fossil fuel activities
+If any legal entity within the Parent Group is in the business of exploration or extraction or 
+fossil fuels, or is a utility company generating or supplying power or heat generated from 
+fossil fuels, the Parent Company has, within the last year, publicly (re)committed to no 
+expansion of any of the following activities across the Parent Group after 1 January 2023:
+i. The exploration and extraction of proven conventional and unconventional  
+fossil fuel reserves;
+ii. The exploration of new conventional and unconventional fossil fuel resources;
+iii. Natural gas production;
+iv. Refining crude oil to produce derivative products; 
+v. The supply and/or use of fossil fuels for power generation and heat. 
+C.4.1.2. Conversion of high-carbon-stock land
+The Parent Company has, within the last year, publicly (re)committed that as of 1 
+January 2020, no entity within the Parent Group has or will convert, fragment, or 
+unsustainably intensify operations on high-carbon stock land leading to the loss of its 
+status as high-carbon stock land.
+C.4.2. Net zero commitment
+The Parent Company has approved and made public net zero emissions commitment 
+covering all material scope 1, 2 and 3 emissions of the entire Parent Group or already has 
+net zero emissions as determined in line with the GHG Protocol and based on emission 
+data that is independently verified/audited and not more than two years old. 
+C
+Climate Bonds Standard   Version 4.1 
+ 42
+C.4.3. Transition Plans
+The Parent Company has approved and made public corresponding Transition Plans to 
+support the public net zero targets for the Parent Group (per Clause C.4.2).  
+C.5. Disclosure
+C.5.1. Information to disclose
+The Applicant publishes and keeps accessible on their website the information 
+presented in Table C1.  
+C.5.2. Format of disclosure
+Disclosures have been and will be made according to the customary practices regarding 
+corporate disclosures, such as annual reporting, dedicated sustainability reporting, 
+statutory filings, and investor presentations, at the discretion of the Applicant.
+C
+Climate Bonds Standard   Version 4.1 
+ 43
+C Table C1: Disclosure requirements for Entity Certification
+Relevant 
+clause
+Pre-Certification disclosure Annual disclosure 
+thereafter
+C.2.1 Applicant 
+control of the 
+Certified Entity
+The name of the Applicant.
+The entity that is the Certified Entity.
+The relationship between the Applicant and the Certified 
+Entity (if different).
+Any changes in the 
+relationship between  
+the Applicant and the 
+Certified Entity. 
+C.2.2. Boundary 
+of the Certified 
+Entity
+All activities of the Applicant company, noting which are 
+included within the boundary of the Certified Entity and 
+which are not, and the rationale for that.
+All legal entities of the Applicant, noting which are included 
+within the boundary of the Certified Entity and which are not.
+Any activities of the Applicant which are not included in the 
+boundary of the Certified Entity and the rationale for that. 
+Any changes to activities 
+and/ or legal entities of the 
+Applicant, and how this 
+has or has not changed 
+the boundary/ activities 
+included within the 
+boundary of the Certified 
+Entity.
+C.2.3. Obtaining 
+Entity 
+Certification
+Which of the economic activities of the Certified Entity 
+have been counted towards the 90% Certification 
+Threshold and which have not. 
+The method used to disaggregate and weight different 
+economic activities within the Certified Entity to determine 
+compliance with the Certification Threshold (revenue or 
+emissions).
+Which legal entities form part of the Parent Group, and the 
+economic activities they practice.
+The assurance or external review provider.
+The level of assurance obtained (limited assurance or 
+reasonable assurance) where appropriate
+The professional standard(s) against which the Verification 
+Engagement was performed. 
+The Approved Verifier’s pre-Certification Verification Report. 
+n/a
+C.2.4 
+Maintaining 
+Entity 
+Certification
+n/a The assurance/external 
+review  provider.
+The level of assurance 
+obtained where relevant.
+The professional 
+standard(s) against which 
+the Verification Engagement 
+was performed. 
+The Approved Verifier’s 
+annual Verification Report. 
+Any revocation of 
+Certification.
+C
+Climate Bonds Standard   Version 4.1 
+ 44
+Relevant clause Pre-Certification disclosure Annual disclosure 
+thereafter
+C.3.1.1.  Climate 
+Mitigation 
+Performance 
+Targets 
+The interim Climate Mitigation Performance Targets over 
+the full-time horizon i.e. on a three-yearly basis for the 
+nine years following certification, and a five-yearly basis 
+thereafter (per Clauses C.3.1.1.1 and C.3.1.1.2) 
+The Climate Bonds Standard Sector Criteria that the 
+Climate Mitigation Performance Targets have been 
+assessed against (per Clause C.3.1.1.3)
+The date the Climate Mitigation Performance Targets were 
+approved by the Board of the Certified Entity
+Any changes in the 
+relationship between  
+the Applicant and the 
+Certified Entity. 
+Whether the Climate Mitigation Performance Targets align 
+with the Sector Specific Criteria at the time of Certification. If 
+not, the year by which they are expected to align. 
+Related to that, whether Certification is Level 1 (“Aligned”) or 
+Level 2 (“Transition”) (per Clause C.3.1.1.3)
+Whether alignment 
+with the Climate Bonds 
+Standard Sector Criteria 
+has been achieved (per 
+Clause C.3.1.1.3)
+Any changes to the 
+expected date the Climate 
+Mitigation Performance 
+Targets are expected to 
+align with the Climate 
+Bonds Standard Sector 
+Criteria (earlier or later) 
+and any related change to 
+the level of Certification 
+awarded (per Clause 
+C.3.1.1.3).
+C.3.2.1. Approval 
+of the Delivery 
+Strategy
+The activities of the Certified Entity covered by the 
+Delivery Strategy. 
+In cases where some or all of the activities of the Certified 
+Entity are not required to have a Delivery Strategy, whether 
+and, if so, when a Delivery Strategy will be adopted.
+The date of Board approval of the Delivery Strategy. 
+The date of Board 
+approval of any changes 
+to the Delivery Strategy 
+reset since the previous 
+Verification Engagement.
+C.3.2.2.1. 
+Foundations 
+of the Delivery 
+Strategy - Vision
+A description of the Vision addressing the elements 
+described in Clause 3.2.2.1., and how this aligns with the 
+delivery of the Climate Mitigation Performance Targets.
+The extent, role and source of any carbon offsets, carbon 
+removals and avoided emissions the Certified Entity 
+anticipates employing to address any residual emissions 
+over and above those required to meet the Climate Bonds 
+Standard Sector Criteria. 
+Any amendments to the 
+Vision since the previous 
+Verification Engagement.
+C
+Climate Bonds Standard   Version 4.1 
+ 45
+C Relevant clause Pre-Certification disclosure Annual disclosure 
+thereafter
+C.3.2.2.2. 
+Foundations 
+of the Delivery 
+Strategy – 
+Strategic 
+Narrative
+A description of the Strategic Narrative addressing: 
+• Current GHG emissions, in absolute emissions terms and 
+any other metrics such as emissions intensity detailed 
+in the Climate Bonds Standard Sector Criteria. Including 
+information on the current sources and volume of 
+GHG emissions and how and by whom this has been 
+calculated and verified. 
+• Key decarbonisation levers, their anticipated timing and 
+emissions reduction impact
+• Assumed market trends, business growth, pricing and 
+demand underpinning the transition strategy as well as 
+regulatory and government policy assumptions.
+• Significant challenges in delivering the strategy.
+• Significant areas of uncertainty in estimation, 
+assumptions, or outcomes. 
+• How the Certified Entity embedded the strategy in its 
+wider business model, highlighting key implications for 
+products and services, resourcing and operational and 
+capital expenditure, acquisitions or divestments.
+Any significant amendments 
+to the Strategic Narrative 
+since the previous 
+Verification Engagement.
+C.3.2.2.3. 
+Foundations 
+of the Delivery 
+Strategy 
+–Broader 
+environmental 
+and social 
+alignment
+A summary assessment of the negative environmental 
+or social externalities related to delivering the Vision and 
+Strategic Narrative. 
+A summary description of the steps that the Certified Entity 
+is taking, or planning to take, to mitigate those impacts.
+A summary description of how, if at all, the decarbonisation 
+transition contributes to the Just Transition in the region in 
+which the activities are carried out. 
+An update on the 
+assessment of the 
+negative environmental 
+or social externalities 
+related to main actions 
+supporting the Delivery 
+Strategy, and the steps 
+that the Certified Entity is 
+taking, or planning to take, 
+to mitigate those impacts.
+C
+Climate Bonds Standard   Version 4.1 
+ 46
+Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+C.3.2.3.1.  
+Implementation 
+Plans – Action 
+Plan for scope 1 
+& 2 emissions
+The roadmap of the short-, medium- and long-
+term actions the Certified Entity will take to 
+deliver the decarbonisation levers relating to 
+scope 1 & 2 emissions and hence the Climate 
+Mitigation Performance Targets. 
+The milestones and business and operations 
+metrics that will be used to track performance. 
+An overview of which actions, milestones 
+and metrics are subject to external review 
+including the nature of the review.
+Progress and track record against 
+the milestones and business or 
+operational metrics identified in the 
+Action Plan for Scope 1 & 2 Emissions. 
+Where any milestones or business 
+or operational targets falling due 
+since the previous Verification 
+Engagement have been not been met, 
+the corrective actions being taken to 
+address this within 12 months (in line 
+with Clause C.3.3.)
+Any significant amendments to the Action 
+Plan for Scope 1 & 2 Emissions since the 
+previous Verification Engagement.
+C.3.2.3.2. 
+Implementation 
+Plans – Action 
+Plan for scope 3 
+Emissions
+A high-level description of the Action Plan for 
+Scope 3 Emissions describing the objectives, 
+scope of coverage and actions that will be taken 
+to reduce value chain emissions necessary 
+for delivery any related decarbonisation lever 
+identified in the strategic narrative. 
+The interim milestones and metrics that will 
+enable assessment of progress in the delivery of 
+the Action Plan for Scope 3 Emissions.  
+Progress and track record against 
+the interim milestones and metrics 
+identified in the Action Plan for  
+Scope 3 Emissions. 
+Where any milestones or metrics 
+falling due since the previous 
+Verification Engagement have been 
+not been met, the corrective actions 
+being taken to address this within 12 
+months (in line with Clause C.3.3.)
+Any significant amendments to the 
+Action Plan for Scope 3 Emissions since 
+the previous Verification Engagement. 
+C.3.2.3.3. 
+Implementation 
+Plans – Finance 
+Plan
+A description of the financial implications of 
+the planned changes to the entity’s business 
+strategy, resource allocation and products 
+and services arising from its Transition 
+Plan, including relevant financial plans and 
+investment where possible.
+An explanation of how the above impacts  
+have been integrated into general purpose 
+financial reporting.
+The financial metrics and targets that will be 
+used to assess progress in the delivery of the 
+Finance Plan and the current value of those 
+metrics, and the methodologies by which 
+those metrics will be calculated.  
+Metrics that have significant estimation 
+uncertainty, noting the sources and nature of 
+the estimation uncertainties and the factors 
+affecting the uncertainties. 
+Progress and track record against  
+the interim financial milestones  
+and metrics. 
+Where any milestones or metrics 
+falling due since the previous 
+Verification Engagement have been 
+not been met, the corrective actions 
+being taken to address this within 12 
+months (in line with Clause C.3.3.)
+Any significant amendments to the 
+Finance Plan since the previous 
+Verification Engagement.
+C
+Climate Bonds Standard   Version 4.1 
+ 47
+C Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+C.3.2.3.4. 
+Implementation 
+plans - Internal 
+policy alignment
+The key internal policies that need to 
+be developed to deliver the Climate 
+Mitigation Performance Targets and the 
+Delivery Strategy, and a schedule for their 
+development and implementation.
+Progress against the schedule for  
+the developing and implementing the 
+identified internal policies key  
+to the delivery of the Climate 
+Mitigation Performance Targets and 
+the Delivery Strategy. 
+C.3.2.3.5. 
+Implementation 
+Plans – 
+Sensitivity 
+analysis
+Key sensitivities and risks around the Delivery 
+Strategy and achievement of the Climate 
+Mitigation Performance Targets. 
+The threshold or methodology for determining 
+which sensitivities and risks have been 
+identified as key, taking into account the 
+materiality of cumulative or aggregated 
+uncertainties or challenges.  
+Quantification of the potential impact in terms 
+of the likelihood, timing and cost of delivery of 
+the Climate Mitigation Performance Targets. 
+How these impacts are reflected in the Strategic 
+Narrative, Action Plans and Finance Plan.
+Any significant changes to the results 
+of the Sensitivity Analysis since the 
+previous Verification Engagement.
+How these changes have been 
+addressed in the Vision, Strategic 
+Narrative, Action Plans and/ or 
+Finance Plan as appropriate. 
+C.3.3.1. 
+Governance 
+- Board and 
+senior executive 
+responsibility
+The named individual, committee or Board 
+responsible for the Transition Plan.
+The management structure in place for 
+executing the Transition Plan.
+How frequently the Board reviews the 
+Transition Plan, and how frequently the Board 
+will monitor and receive reports on progress 
+against the Climate Mitigation Performance 
+Targets and milestones.
+How the Certified Entity ensures adequate 
+climate expertise (e.g., management expertise, 
+provided resources, trainings, skill acquisition).
+Any KPIs tied to Board, CEO or other senior 
+executive compensation plans that are aligned 
+with the organization’s climate goals, as 
+described in the Transition Plan.
+Any responsibility related targets and progress 
+against those targets. 
+Any changes to the named individual, 
+committee, or Board responsible for 
+the Transition Plan.
+Any changes or additions to climate 
+and/ or transition-related KPIs 
+tied to Board, CEO or other senior 
+compensation plans.
+Performance against the disclosed 
+responsibility-related metrics  
+and targets.
+C
+Climate Bonds Standard   Version 4.1 
+ 48
+Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+C.3.3.2. 
+Governance - 
+(Re)setting and 
+monitoring 
+the Climate 
+Mitigation 
+Performance 
+Targets and 
+Delivery Strategy
+Information on internal controls that are in place to 
+scrutinise the Transition Plan, and progress against 
+the plan, by relevant internal assurance functions 
+such as internal audit.
+Stakeholder communication and feedback 
+mechanisms, including whether the Transition Plan 
+is scrutinised by shareholders (such as through an 
+advisory vote at the entity’s Annual General Meeting, 
+or resolution subject to shareholder approval).
+Information on the process and internal controls for 
+monitoring and tracking performance regarding the 
+interim Climate Mitigation Performance Targets and 
+milestones and targets identified in the Action Plans 
+and Finance Plan. This includes information on any 
+tracking and estimation tools, including but not limited 
+to GHG performance tools, and any equivalents for 
+Climate Mitigation Performance Targets that are not 
+expressed in terms of GHG emissions.
+Information on the process for regularly reviewing 
+the Transition Plan to ensure material updates are 
+incorporated and challenges are addressed. 
+Commitment by the Applicant to review the 
+Transition Plan at least every 5 years.
+Date of the last and the next scheduled review. 
+Any changes to the controls, 
+tools and mechanisms 
+disclosed in the previous 
+Verification Engagement.
+If the scheduled review fell due 
+since the previous Verification 
+Engagement, all reset Climate 
+Mitigation Performance 
+Targets and Delivery Strategy 
+disclosure requirements 
+detailed under Clauses C.3.1 
+and C.3.2. 
+Any changes to the date of the 
+next scheduled review.
+C.3.3.3.  
+Governance 
+- Correction 
+of underper-
+formance
+n/a
+ 
+Any corrective actions 
+planned to address any 
+underperformance, with an 
+explanation of how they will 
+address that underperformance. 
+C.4.1. Parent 
+Group 
+Commitments – 
+Exclusions 
+Commitment by the Parent Company on behalf of the 
+Parent Group to zero future expansion of any of the 
+activities detailed in Clause C.4.1.1. 
+Statement by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group 
+has expanded any of the activities detailed in Clause 
+C.4.1.1 since 1 January 2023.
+Statement from the Parent 
+Company on behalf of the Parent 
+Group that no entity within the 
+Parent Group has expanded 
+any of the activities detailed in 
+Clause C.4.1.1 since the previous 
+Verification Engagement. 
+Commitment by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group 
+will or is planning to convert high carbon stock land 
+as detailed in Clause C.4.1.2. 
+Statement by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group 
+has converted high carbon stock land (as detailed in 
+Clause C.4.1.2) since 1 January 2020.
+Statement by the Parent 
+Company on behalf of the Parent 
+Group that no entity within the 
+Parent Group has converted high 
+carbon stock land (as detailed in 
+Clause C.4.1.2) since the previous 
+Verification Engagement.
+C
+Climate Bonds Standard   Version 4.1 
+ 49
+C Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+C.4.2. Parent 
+Group 
+Commitments - 
+Net zero 
+Commitment by the Parent Company to net zero 
+emissions and the expected date for net zero – 
+covering the entire Parent Group (per Clause C.4.2)  
+Any changes to the net zero 
+commitment for the Parent 
+Group (per Clause C.4.2)
+C.4.3. Parent 
+Group Commit-
+ments – Transi-
+tion Plan
+A description of the Transition Plan outlining how 
+the Parent Group will achieve net zero emissions (per 
+Clause C.4.3) 
+ 
+Any updates to the Transition 
+Plan for the Parent Group (per 
+Clause C.4.3)
+If any part of the Parent Group 
+practices any of the activities 
+described under Clause C.4.1.1., 
+the expected timing to fully 
+cease those activities.
+C.6.1. Extending 
+Entity 
+Certification 
+- to financial 
+instruments 
+linked to 
+the Climate 
+Mitigation 
+Performance 
+Targets and 
+Transition Plans
+Details of any financial instrument to which Entity 
+Certification was linked at the time of Entity 
+Certification.
+Details of any financial 
+instrument to which Entity 
+Certification has been extended 
+since the last Verification 
+Engagement. 
+C.6.2. Extending 
+Entity 
+Certification - to 
+general purpose 
+debt
+Details of any financial instrument to which Entity 
+Certification was linked at the time of Entity 
+Certification.
+Details of any financial 
+instrument to which Entity 
+Certification has been  
+extended since the last 
+Verification Engagement.
+C.6.3. Extended 
+entity 
+Certification 
+- revocation 
+of linked 
+certification
+n/a Details of revocation of  
+any instrument to which  
+Entity Certification was 
+previously extended.
+C
+Climate Bonds Standard   Version 4.1 
+ 50
+C.6. Extending entity certification to linked  
+financial instruments 
+C.6.1. Extending entity certification to financial instruments 
+linked to the Climate Mitigation Performance Targets  
+and Delivery Strategy
+The Applicant may use Entity Certification as a stepping-stone to certification of financial 
+instruments linked to the Climate Mitigation Performance Targets and Delivery Strategy 
+of the Certified Entity as assessed per Clause C.3, such as a Sustainability-Linked Bond or 
+Loan, or a compatible Use-of-Proceeds Bond.  
+Certification is not automatically extended to these financial instruments. It requires an 
+Approved Verifier to verify the link between the Entity certification and Sustainability-
+Linked Debt (SLD)/ Use-of-Proceeds Certification under Part D/ Part A of the Standard and 
+meet any other SLD/ Use-of-Proceeds criteria as described in this document.   
+C.6.2. Extending entity certification to general purpose debt
+A Certified Entity may also apply for certification of any general-purpose debt issued 
+by the same Certified Entity, such as commercial paper, revolving credit facilities or a 
+general-purpose bond. 
+A company wishing to certify its general-purpose debt must complete the Climate Bonds 
+Information Form and submit it to the Climate Bonds Standard Secretariat. The Climate 
+Bonds Secretariat will award the Certification without needing a Verification Report by  
+an Approved Verifier. 
+C.6.3. Revocation of linked certification
+Should certification of the Certified Entity lapse or be revoked for any reason  
+in accordance with Box C2, certification of any linked instrument still outstanding  
+will also be publicly revoked.
+C
+Climate Bonds Standard   Version 4.1 
+ 51
+C PART D: SUSTAINABILITY- 
+LINKED DEBT
+D.1. Introduction
+The requirements for Sustainability-Linked Debt (SLD) Certification closely mirror  
+those for Entity Certification. Additional disclosure elements have, however, been  
+added into the requirements for SLD Certification concerning the structural characteristics 
+of SLD instruments. 
+Currently, SLD Certification is only available to SLD instruments issued by legal entities, or 
+segments thereof, providing non-financial goods and services for which the Climate Bonds 
+Initiative has Climate Bonds Standard Sector Criteria for SLD Certification.  
+Certified SLD instruments may be linked to economic activities that either have 
+emissions already at or near zero or significantly above zero but with Transition Plans 
+aligned with 1.5C degree pathways. Certification focused only on the climate mitigation 
+aspects of any performance targets linked to the SLD instrument. Where the performance 
+targets linked to Certified SLD instruments relate to social or other environmental goals, 
+Certification confers no assurance over those performance targets or any associated 
+(elements of a) transition plan.  
+SLD Certification is valid for the full term of the SLD instrument, subject to 
+compliance with the requirements laid out in PART D. 
+Figure D1 summarises the steps to SLD Certification. Figure D2 illustrates the certification 
+requirements for the economic activities represented by the Climate Mitigation 
+Performance Targets linked to the SLD instrument. Figure D3 illustrates additional 
+certification requirements relating to wider activities of the Issuer (if any) and the Parent 
+Group to which it belongs (if any). 
+A Checklist for Certification providing further clarification on the requirements to comply 
+with the criteria for SLD Certification is given in the accompanying ‘SLD Certification 
+Checklist’ document. That Checklist must be adhered to in conjunction with the 
+requirements in this Part D.  
+D
+
+Climate Bonds Standard   Version 4.1 
+ 52
+DFigure D1: Steps to SLD Certification*
+Certified 
+SLD
+Compliant Activities 
+have ambitious 
+Performance 
+Targets, supporting 
+Transition Plans and 
+governance, and 
+adequate disclosure 
+and verification
+Compliant Parent Groups 
+meet the Climate Safeguards 
+and have adequate 
+disclosure and verification
+*These are the steps and requirements to obtain certification. The steps and requirements for maintaining certification are different.   
+See Clause D.2.4.
+Clause 
+D.2.1.
+Applicant has 
+control over 
+economic 
+activities
+Clause 
+D.2.2.
+Eligible 
+boundary 
+for economic 
+activities  
+is set
+Clause 
+D.2.3.
+All confirmed 
+by Approved 
+VerifierClause 
+D.4.,D.5.
+Parent Group 
+is compliant
+Clause 
+D.2.3.
+Compliant 
+activities 
+represent 90% 
+of economic 
+activities
+Clause 
+D.3.,D.5.
+Each of those 
+economic 
+activities is 
+assessed for 
+compliance
+Clause 
+D.2.3.
+Economic 
+activities are 
+disaggregated
+Fig. D.2.
+Fig. D.3.
+Climate Bonds Standard   Version 4.1 
+ 53
+D D
+D.3.1.  
+Climate 
+Performance
+D.3.2.2.  
+Foundation
+D.3.3.  
+Governance
+D.3.2.3.  
+Implementa-
+tion
+D.5.  
+Disclosure
+Transition Plan Transparency
+D.3.1.2. 
+Adaptation  
+& resilience
+D.3.2.2.2. 
+Strategic 
+narrative
+D.3.3.2.   
+(Re)setting & 
+monitoring 
+Targets & 
+PlansD.3.2.2.3.  
+Environmen-
+tal & social 
+goal alignment D.3.3.3.   
+Correction 
+of underper-
+formance
+D.3.2.3.2. 
+Action Plan 
+scope 3
+D.3.2.3.3. 
+Finance Plan
+D.3.2.3.4. 
+Internal policy 
+alignment
+D.3.2.3.5. 
+Sensitivity 
+analysis
+D.3.1.1.  
+Climate 
+mitigation
+D.3.2.2.1.  
+Vision
+D.3.3.1.  
+Board & senior  
+executive 
+responsibility
+D.3.2.3.1.  
+Action Plan 
+scope 1 & 2
+D.5.1.  
+Information 
+to disclose
+Figure D2: Requirements for Compliant Activities
+Performance 
+targets
+Climate 
+performance 
+targets to assess 
+and monitor 
+progress to 1.5 
+degree alignment 
+Foundation* 
+Vision of future 
+activities, products, 
+services and 
+technologies and 
+strategic narrative 
+on levers and risks 
+to get there
+Implementation 
+plans*
+Trackable transition 
+roadmap of action 
+plans, milestones 
+and operating and 
+financial metrics 
+ 
+Governance 
+Oversight, 
+monitoring and 
+management of 
+progress
+Disclosure 
+Public information 
+for transparency 
+and credibility
+*Where required for that sector.
+Climate Bonds Standard   Version 4.1 
+ 54
+D
+Transition Goals Transparency
+Figure D3: Requirements on the Parent Group
+Climate 
+Performance
+Transition strategy Disclosure
+D.4.2.  
+Net zero commitment
+D.4.1.  
+Exclusions
+D.4.3.  
+Transition Plan
+D.5.1.  
+Information to 
+disclose
+Climate Performance
+Commitments not to 
+undertake excluded 
+activities and to achieve 
+net zero emissions
+Transition strategy
+Outlines of a Transition 
+Plan to achieve that net 
+zero target
+Disclosure
+Information shared 
+publicly for credibility
+Climate Bonds Standard   Version 4.1 
+ 55
+D D.2. Eligibility and accounting rules 
+D.2.1. Issuer control 
+The Issuer has operational control over the economic activities represented by the Climate 
+Mitigation Performance Targets linked to the SLD instrument.
+D.2.2. Boundary of economic activities 
+The Issuer may set the boundary of the economic activities represented by the Climate 
+Mitigation Performance Targets linked to the SLD instrument at their discretion, subject to 
+the following condition: 
+Where the same economic activity is carried out across multiple sub-divisions or 
+subsidiaries or companies controlled by the same legal entity, the Climate Mitigation 
+Performance Targets must address all instances of that activity across all sub-divisions 
+and companies controlled by the Issuer. 
+D.2.3. Obtaining SLD Certification
+The Issuer receives a Verification Report from an Approved Verifier that: 
+i. At least 90% of economic activity(ies) represented by the Climate Mitigation Performance 
+Targets linked to the SLD instrument comply with the Climate Performance, Delivery Strategy, 
+Governance and Disclosure requirements in Clauses D.3.1, D.3.2, D.3.3 and D.5, respectively; and  
+ii. The remaining % of the economic activity(ies) represented by the Climate 
+Mitigation Performance Targets linked to the SLD instrument comply with the Climate 
+Performance, Delivery Strategy, Governance and Disclosure requirements in Clauses 
+D.3.1.1.1, D.3.1.2.2, D.3.1.2, D.3.2, D.3.3 and D.5, respectively; and
+iii. The Parent Group complies with the Climate Safeguard and Disclosure requirements 
+in Clauses D.4 and D.5, respectively; and 
+iv. The SLD instrument will not mature or become callable before the date of the first 
+interim Performance Target to which the instrument is linked. 
+And 
+The Issuer supplies the Climate Bonds Standard Board, through the Climate Bonds 
+Standard Secretariat, with a copy of the Verification Report or shares its location on a public 
+website, for the purpose of publishing on the Climate Bonds Initiative website.
+And
+If the SLD instrument has Use-of-Proceeds elements (i.e., it is a hybrid), it meets the 
+requirements for Use-of-Proceeds bonds described in PART A of this document. 
+See Box D1 for the application process for obtaining SLD Certification.
+A note on terminology: This 90% is defined as the ‘Certification Threshold’ , and economic 
+activities which meet the Climate Mitigation Performance Targets, Delivery Strategy, 
+Governance and Disclosure requirements per Clauses D.3.1, D.3.2, D.3.3 and D.5 respectively 
+and hence form part of this 90% are the ‘Compliant Activities’ .
+To assess compliance with this threshold the economic activities represented by the Climate 
+Mitigation Performance Targets linked to the SLD instrument are disaggregated and 
+weighted according to either their revenue share or share of GHG emissions. See the  
+‘SLD Certification Checklist’ document for the methodology to determine compliance. 
+D
+Climate Bonds Standard   Version 4.1 
+ 56
+D.2.4. Maintaining SLD certification 
+The Issuer receive s an annual Verification Report from an Approved Verifier that:
+i. In respect of the activity(ies) represented by the Climate Mitigation Performance 
+Targets linked to the SL D instrument:
+a. If, since the last Verification Engagement , t he revenue share of any existing part of 
+the Issuer’s acti vities represented by the Climate Mitigation Performance Targets that 
+did not previously contribute to meeting the Certification Threshold increases, the 
+Issuer has re assessed compliance with the Certification Threshold and the Certified 
+SLD instrument st ill meets the Certification Threshold ( per Clause D. 2.1).
+Box D1: The application process for SLD Certification   
+Single SLD Certification
+Issuers seeking SLD Certification shall apply by submitting the following documents to 
+the Climate Bonds Standard Board Secretariat: 
+1. A completed (as appropriate) Climate Bonds Information Form; and
+2. The Verification Report satisfying the requirements in Clause D.2.3.; and 
+3. An executed Certification Agreement. 
+If the Climate Bonds Standard Board is satisfied that the Issuer is in conformance 
+with the Pre-Issuance requirements, then it will provide a statement confirming the 
+Certification of the SLD.
+The Issuer will identify within the Climate Bonds Information Form which information 
+provided is confidential and which can be publicly disclosed on the Climate Bonds 
+Initiative website once Certification has been confirmed.
+Programmatic SLD Certification
+Programmatic Certification allows an Issuer who meets the requirements of Clauses 
+D.2, D.3, D.4 and D.5 above to certify a number of SLD instruments which share 
+common Transition Plans.
+For the first SLD instrument under the Program, the Issuer follows the standard process 
+for Climate Bond Certification as per ‘Single SLD Certification’ . For subsequent SLD 
+instruments under the Program, the Issuer must apply to the Climate Bonds Standard 
+Board to receive Certification of each subsequent instrument’s conformance with the 
+Climate Bonds Standard, as follows:
+i. Prior to issuance, the Issuer must supply the Climate Bonds Standard Secretariat 
+with a completed Climate Bonds Information Form for the specific SLD instrument 
+to be considered for Certification. The Climate Bonds Standard Secretariat will 
+promptly provide the Issuer with formal confirmation of Certification of the specific 
+SLD instrument.
+ii. Following every debt instrument issuance, the Issuer must supply the Climate 
+Bonds Standard Secretariat with an updated Climate Bonds Information Form.
+iii. The annual Verification Reports described in Clause D.2.4 must cover all the SLD 
+instruments issued under the programme.
+D
+Climate Bonds Standard   Version 4.1 
+ 57
+D b. All interim Climate Mitigation Performance Targets (per Clause D.3.1.1.) and all 
+interim milestones in the Delivery Strategy (per Clauses D.3.2.) falling due since the 
+last Verification Engagement ha ve been met. The only exception to this may be where 
+compensatory measures have been taken or are planned to address underperformance 
+and those measures collectively meet the requirements in Clause D.3.3.;
+c. Any and all correction measures have been taken to address any anticipated 
+underperformance in the delivery of the Delivery Strategy and future interim Climate 
+Mitigation Performance Targets (per Clause D.3.3.); and
+d. All disclosure requirements have been m et (per Clause D.5.);
+and
+The Parent Group remains in compliance (per Clauses D.4. and D.5.);
+and
+The Issuer is not subject to revocation of Certification due to any of the events detailed in Box D2.
+and
+The Issuer supplies the Climate Bonds Standard Board, through the Climate Bonds 
+Standard Secretariat, with a copy of the annual Verification Report or shares its location on 
+a public website, for the purpose of publishing on the Climate Bonds Initiative website.
+See Box D3 for the process for maintaining SLD Certification
+Box D2: Events leading to the revocation of SLD Certification   
+SLD Certification will be rescinded at any time where:
+1. The Issuer becomes aware that the Certified SLD instrument and/or the Parent Group 
+no longer conforms with the Climate Bonds Standard and provides a written statement 
+to that effect to the Climate Bonds Standard Secretariat; or
+2. A Verification Engagement commissioned by the Climate Bonds Standard Board 
+finds that the Certified SLD instrument and/or the Parent Group no longer conforms 
+with the Climate Bonds Standard; or
+3. The Climate Mitigation Performance Targets to which the SLD instrument is linked 
+are reset at a level lower than those in place at the time of Certification; or
+4. The Issuer has breached any contractual obligation towards the Climate Bonds Initiative.
+Box D3: Maintaining SLD Certification   
+Applicants seeking to maintain Entity Certification must submit the following 
+documents to the Climate Bonds Standard Board Secretariat on an annual basis:
+iii. A completed Climate Bonds Information Form; 
+iv. The annual Verification Report by an Approved Verifier which meets the 
+requirements of Clause D.2.4.
+If the Climate Bonds Standard Board is satisfied that the Applicant is in conformance 
+with the ongoing requirements, it will provide a statement confirming the certified 
+status of the SLD instrument.
+D
+Climate Bonds Standard   Version 4.1 
+ 58
+Box D4: Two levels of SLD Certification   
+Two levels of SLD Certification levels are available, depending on when the Climate 
+Mitigation Performance Targets align with the Climate Bonds Standard Sector Criteria.
+3. Level 1 – “Aligned”: The Climate Mitigation Performance Targets align with the 
+Climate Bonds Standard Sector Criteria at the time of certification and thereafter 
+until the date the Climate Mitigation Performance Targets represent net zero emissions 
+or 2050, whichever is sooner.
+4. Level 2 – “Transition”: The Climate Mitigation Performance Targets do not align 
+with the Climate Bonds Standard Sector Criteria at the time of certification but 
+align by 31st December 2030 and thereafter until the date the Climate Mitigation 
+Performance Targets represent net zero emissions or 2050, whichever is sooner.
+In addition, for both levels, the Delivery Strategy and governance for the achieving 
+those Climate Mitigation Performance Targets meet the requirements described in 
+Clauses D.3.2 and D.3.3, respectively, the Parent Group complies with the requirements 
+described in Clause D.4 and the disclosure requirements of Clause D.5 are met.
+D.3. Transition Plan linked to the SLD instrument 
+D.3.1. Climate Performance
+D.3.1.1. Climate Mitigation Performance Targets 
+The Climate Mitigation Performance Targets to which the SLD instrument is linked meet 
+the following requirements. 
+D.3.1.1.1. Time horizon 
+The Climate Mitigation Performance Targets cover the time from the date of 
+Certification to the date the activity is intended to hit net zero emissions, or 2050, 
+whichever is sooner. 
+D.3.1.1.2. Interim Climate Mitigation Performance Targets
+The Climate Mitigation Performance Targets include interim targets on a three-yearly 
+basis for the term of the SLD instrument and a five-yearly basis thereafter over the 
+full-time horizon described in Clause D.3.1.1.1.  
+D.3.1.1.3. Alignment with decarbonisation pathways  
+of the Climate Bonds Standard 
+All interim Climate Mitigation Performance Targets (per Clause D.3.1.1.2) representing 
+economic activities that contribute to meeting the Compliance Threshold (see 
+Clause D.2.3) are benchmarked against the climate mitigation criteria in the Climate 
+Bonds Standard Sector Criteria and align with those criteria by 31 December 2030  
+at the latest. 
+N.B. Different levels of SLD Certification are awarded depending on the date the 
+Climate Mitigation Performance Targets align with the Climate Bonds Standard Sector 
+Criteria – see Box D4.
+D.3.1.1.4. Board approval
+The Board of the Issuer has approved the Climate Mitigation Performance Targets no 
+earlier than one year prior to application for Certification.
+D
+Climate Bonds Standard   Version 4.1 
+ 59
+D D.3.1.2. Climate Adaptation & Resilience Performance
+The economic activities of the Issuer represented by the Climate Mitigation Performance 
+Targets linked to the SLD instrument also meet any climate adaptation and resilience 
+requirements in the relevant Climate Bonds Standard Sector Criteria. 
+D.3.2. Delivery Strategy 
+D.3.2.1. Board approval of the Delivery Strategy
+If a Delivery Strategy is required* for the economic activity(ies) represented by the 
+Climate Mitigation Performance Targets per Clause D.3.1.1., that Strategy: 
+• Includes all the elements listed in Clauses D.3.2.2. and D.3.2.3.; and
+• Has been approved by the Board of the Issuer no more than one year prior to the 
+application for Certification.
+* See supplementary guidance for the list of economic activities that do/ do not require 
+a Delivery Strategy.  
+D.3.2.2. Foundations
+The Delivery Strategy includes the following foundational elements. 
+D.3.2.2.1. Vision
+A Vision outlining the long-term strategic objectives and priorities for the economic 
+activity(ies) of the Issuer represented by the Climate Mitigation Performance Targets of 
+Clause D.3.1.1., including the long-term vision for its physical assets and operating model.
+D.3.2.2.2. Strategic Narrative
+A Strategic Narrative describing how each of the economic activity(ies) of the Issuer 
+represented by the Climate Mitigation Performance Targets will evolve from their 
+current position to the Vision of Clause D.3.2.2.1. taking into account business context. 
+D.3.2.2.3. Broader social and environmental alignment
+A position statement aligning the Vision and Strategic Narrative of Clauses 
+D.3.2.2.1 and D.3.2.2.2. with the Issuer’s broader environmental and social 
+objectives, strategies and/ or policies, in particular demonstrating that effects on 
+biodiversity sensitive areas, emissions to water and hazardous waste have been 
+taken into account. 
+In addition, the Issuer is not subject to a complaint to a National Contact Point of the 
+OECD regarding Responsible Business Conduct of Multinational Enterprises.
+D.3.2.3. Implementation plans
+Implementation plans include the following.
+D.3.2.3.1. Action Plan for scope 1 & 2 emissions
+A time-bound plan of the trackable actions the Issuer will take or is taking to 
+implement its decarbonisation strategy as described in the Vision and Strategic 
+Narrative and thereby deliver its Climate Mitigation Performance Targets regarding 
+scope 1 & 2 emissions. 
+This includes interim milestones and metrics annually for the first five years of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+D
+Climate Bonds Standard   Version 4.1 
+ 60
+D.3.2.3.2. Action Plan for scope 3 emissions
+A time-bound plan of the trackable actions the Issuer will take or is taking to 
+implement its decarbonisation strategy as described in the Vision and Strategic 
+Narrative and thereby deliver its Climate Mitigation Performance Targets regarding 
+scope 3 emissions. 
+This includes interim milestones and metrics annually for the first five years of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+N.B. This is only required if the relevant Climate Bonds Standard Sector Criteria 
+address scope 3 emissions.
+D.3.2.3.3. Finance Plan 
+A Finance Plan detailing the financial implications of the Strategic Narrative  
+and Action Plans, and the trackable actions being taken/ to be taken to deliver  
+this Finance Plan. 
+This includes interim milestones and metrics annually for the first five years of 
+certification, three-yearly for the subsequent nine years and a five-yearly thereafter.
+D.3.2.3.4. Internal policy alignment
+Information on the key internal policies and conditions developed or to be 
+developed to enable the delivery of the Climate Mitigation Performance Targets, 
+Strategic Narrative, Action Plans and Finance Plan, explaining how each of these 
+policies supports specific elements and milestones in the Strategic Narrative, Action 
+Plans and Finance Plan.   
+D.3.2.3.5. Sensitivity analysis
+Sensitivity analysis identifying the key sensitivities and risks to the Vision, Strategic 
+Narrative, Action Plans and Finance Plan that have the potential to decisively impact 
+the delivery of the Climate Mitigation Performance Targets. 
+D.3.3. Governance
+The following accountability mechanisms are in place to govern the delivery of the Climate 
+Mitigation Performance Targets (per Clause D.3.1.1.) and the associated Delivery Strategy 
+(per Clause D.3.2.) 
+D.3.3.1. Board and senior executive responsibility 
+D.3.3.1.1. Board mandate
+The Board (or equivalent governance body) has a clear mandate to:
+• Oversee the design of the Climate Mitigation Performance Targets and Delivery 
+Strategy; and
+• Approve the Climate Mitigation Performance Targets and Delivery Strategy; and
+• Oversee the execution and monitor progress with the Delivery Strategy; and 
+• Approve and monitor any corrective actions required where interim Climate 
+Mitigation Performance Targets and Delivery Strategy milestones are not being met. 
+D.3.3.1.2. Senior management responsibility
+Senior management has responsibility for execution of the Delivery Strategy, and the 
+responsible parties have authority and access to resources to ensure execution.
+D
+Climate Bonds Standard   Version 4.1 
+ 61
+D D.3.3.2. (Re)setting and monitoring the Climate Mitigation Performance Targets 
+and Delivery Strategy
+D.3.3.2.1.(Re) setting Climate Mitigation Performance Targets  
+and the Delivery Strategy
+Tools and mechanisms are in place for the (re) setting of robust Climate Mitigation 
+Performance Targets and the Delivery Strategy, including a full review and, if 
+necessary, update of the Climate Mitigation Performance Targets and the Delivery 
+Strategy at least every five years.
+D.3.3.2.2. Tracking and monitoring delivery
+Tools and mechanisms are in place for tracking and monitoring of delivery of interim 
+Climate Mitigation Performance Targets and the milestones and metrics identified in 
+the Action Plans and Finance Plan. 
+D.3.3.3. Correction of underperformance
+In the event that interim Climate Mitigation Performance Targets and milestones and 
+metrics due during the period of Certification have not been met, corrective action 
+must be taken to reverse that under-performance so no interim Climate Mitigation 
+Performance Target or milestone or metric is unmet for a period longer than 12 months, 
+or by the maturity of the SLD instrument, whichever is earlier.  
+D.4. Commitments of the Parent Group
+D.4.1. Exclusions 
+D.4.1.1. Expansion of fossil fuel activities
+If any legal entity within the Parent Group is in the business of the exploration or 
+extraction of fossil fuels, or is a utility company generating or supplying power or heat 
+generated from fossil fuels, then the Parent Company has, within the last year, publicly 
+(re)committed to no expansion of any of the following activities across the Parent Group 
+after 1 January 2023:
+i. The exploration and extraction of proven conventional and unconventional fossil 
+fuel reserves; and
+ii. The exploration of new conventional and unconventional fossil fuel resources; 
+and
+iii. Natural gas production; and
+iv. Refining crude oil to produce derivative products; and
+v. The supply and/or use of fossil fuels for power generation and heat. 
+D.4.1.2. Conversion of high-carbon-stock land
+The Parent Company has, within the last year, publicly (re)committed that as of 1 Jan 
+2020, no entity within the Parent Group has or will convert, fragment, or unsustainably 
+intensify operations on high-carbon stock land leading to the loss of its status as high-
+carbon stock land.
+D
+Climate Bonds Standard   Version 4.1 
+ 62
+D.4.2. Net zero Commitment 
+The Parent Company has approved and made public net zero emissions commitments 
+covering all material scope 1, 2 and 3 emissions of the entire Parent Group or already has 
+net zero emissions as determined in line with the GHG Protocol and based on emission 
+data that is independently verified/audited and not more than two years old. 
+D.4.3. Transition Plans
+The Parent Company has approved and made public corresponding transition plans to 
+support net zero targets for the Parent Group (per Clause D.4.2).  
+D.5. Disclosure
+D.5.1. Information to disclose
+The Issuer publishes and keeps accessible on their website the information presented in 
+Table D1. 
+D.5.2. Format of disclosure
+Disclosures must be made according to the customary practices regarding corporate 
+disclosures, such as via annual reporting, dedicated sustainability reporting, statutory 
+filings, and investor presentations, but this is at the discretion of the Issuer.
+D
+Climate Bonds Standard   Version 4.1 
+ 63
+D Table D1: Disclosure requirements for SLD Certification
+Relevant 
+clause
+Pre-Certification disclosure Annual disclosure 
+thereafter
+D.2.1 Issuer 
+control
+The name of the Issuer.
+D.2.2. Boundary 
+of the economic 
+activities
+All economic activities of the Issuer, noting which are 
+included within the boundary of the Climate Mitigation 
+Performance Targets linked to the SLD instrument and 
+which are not, and the rationale for that.
+D.2.3. Obtaining 
+SLD Certification
+Which economic activities of the Issuer have been counted 
+towards the 90% Certification Threshold and which have not.  
+The method used to disaggregate and weight those 
+different economic activities within the portfolio of 
+activities of the Issuer (revenue or emissions) to determine 
+compliance with the Certification Threshold.
+Which legal entities form part of the Parent Group, and the 
+economic activities they practice.
+The assurance/external review provider.
+The level of assurance obtained (limited assurance or 
+reasonable assurance) where relevant.
+The professional standard(s) against which the Verification 
+Engagement was performed. 
+The Approved Verifier’s pre-Certification Verification Report. 
+n/a
+D.2.4 
+Maintaining SLD 
+Certification
+n/a The assurance provider.
+The level of assurance 
+obtained where relevant.
+The professional 
+standard(s) against which 
+the Verification Engagement 
+was performed. 
+The Approved Verifier’s 
+annual Verification Report. 
+Any revocation of 
+Certification.
+D
+Climate Bonds Standard   Version 4.1 
+ 64
+Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+D.3.1.1.  Climate 
+Mitigation 
+Performance 
+Targets 
+The interim Climate Mitigation Performance 
+Targets over the full-time horizon i.e., on 
+a three-yearly basis for the nine years 
+following certification, and a five-yearly 
+basis thereafter until the activity reaches net 
+zero emissions or 2050, whichever is sooner 
+(per Clauses D.3.1.1.1 and D.3.1.1.2). 
+The Climate Bonds Standard Sector Criteria 
+that the Climate Mitigation Performance 
+Targets have been assessed against (per 
+Clause D.3.1.1.3).
+The date the Climate Mitigation 
+Performance Targets were approved by the 
+Board of the Issuer.
+Whether any interim Climate Mitigation 
+Performance Targets falling due since the 
+previous Verification Engagement have 
+been met (per Clause D.3.1.1.2).
+If interim Climate Mitigation Performance 
+Targets falling due since the previous 
+Verification Engagement have not been 
+met, the corrective actions that will 
+ensure compliance within 12 months or 
+by the maturity of the SLD instrument, 
+whichever is earlier (per Clause D.3.3.3.).
+Any resetting of future interim Climate 
+Mitigation Performance Targets (per 
+Clause D.3.3.2).
+The date any Climate Mitigation 
+Performance Targets reset since the last 
+Verification Engagement were approved 
+by the Board of the Issuer. 
+Whether the Climate Mitigation Performance 
+Targets align with the Sector Specific Criteria 
+at the time of Certification. If not, the year by 
+which they are expected to align. 
+Related to that, whether Certification is Level 
+1 (“Aligned”) or Level 2 (“Transition”) (per 
+Clause D.3.1.1.3).
+Whether alignment with the Climate 
+Bonds Standard Sector Criteria has been 
+achieved (per Clause D.3.1.1.3).
+Any changes to the expected date the 
+Climate Mitigation Performance Targets 
+are expected to align with the Climate 
+Bonds Standard Sector Criteria (earlier 
+or later) and any related change to 
+the Level of Certification awarded (per 
+Clause D.3.1.1.3).
+D.3.2.1. Approval 
+of the Delivery 
+Strategy
+The economic activities represented by the 
+Climate Mitigation Performance Targets to 
+which the SLD instrument is linked that are 
+covered by a Delivery Strategy.
+In cases where some or all of the economic 
+activities represented by the Climate 
+Mitigation Performance Targets to which the 
+SLD instrument is linked are not required to 
+have a Delivery Strategy, whether and, if so, 
+when a Delivery Strategy will be adopted.
+The date of Board approval of the  
+Delivery Strategy.
+The date of Board approval of any changes 
+to the Delivery Strategy reset since the 
+previous Verification Engagement.
+D
+Climate Bonds Standard   Version 4.1 
+ 65
+D Relevant clause Pre-Certification disclosure Annual disclosure 
+thereafter
+D.3.2.2.1. 
+Foundations 
+of the Delivery 
+Strategy – Vision
+A description of the Vision addressing the elements 
+described in Clause D.3.2.2.1., and how this aligns with the 
+delivery of the Climate Mitigation Performance Targets.
+The extent, role and source of any carbon offsets, carbon 
+removals and avoided emissions the Issuer anticipates 
+employing to address any residual emissions over and 
+above those required to meet the Climate Bonds Standard 
+Sector Criteria. 
+Any amendments to the 
+Vision since the previous 
+Verification Engagement.
+D.3.2.2.2. 
+Foundations 
+of the Delivery 
+Strategy – 
+Strategic 
+Narrative
+A description of the Strategic Narrative addressing: 
+• Current GHG emissions, in absolute emissions terms and 
+any other metrics such as emissions intensity detailed 
+in the Climate Bonds Standard Sector Criteria. Including 
+information on the current sources and volume of 
+GHG emissions and how and by whom this has been 
+calculated and verified. 
+• Key decarbonisation levers, their anticipated timing and 
+emissions reduction impact.
+• Assumed market trends, business growth, pricing and 
+demand underpinning the transition strategy as well as 
+regulatory and government policy assumptions.
+• Significant challenges in delivering the strategy.
+• Significant areas of uncertainty in estimation, 
+assumptions, or outcomes. 
+• How the Issuer embedded the strategy in its wider 
+business model, highlighting key implications for 
+products and services, resourcing and operational and 
+capital expenditure, acquisitions, or divestments.
+Any significant amendments 
+to the Strategic Narrative 
+since the previous 
+Verification Engagement.
+D.3.2.2.3. 
+Foundations 
+of the Delivery 
+Strategy 
+–Broader 
+environmental 
+and social 
+alignment
+A summary assessment of the negative environmental 
+or social externalities related to delivering the Vision and 
+Strategic Narrative. 
+A summary description of the steps that the Issuer is 
+taking, or planning to take, to mitigate those impacts.
+A summary description of if, and if so how, the 
+decarbonisation transition contributes to the Just Transition 
+in the region in which the activities are carried out.
+An update on the 
+assessment of the 
+negative environmental 
+or social externalities 
+related to main actions 
+supporting the Delivery 
+Strategy, and the steps 
+that the Issuer is taking, 
+or planning to take, to 
+mitigate those impacts.
+D
+Climate Bonds Standard   Version 4.1 
+ 66
+Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+D.3.2.3.1.  
+Implementation 
+Plans – Action 
+Plan for scope 1 
+& 2 emissions
+A high-level description of the Action Plan for 
+Scope 3 Emissions describing the objectives, 
+scope of coverage and actions that will be taken 
+to reduce value chain emissions necessary 
+for delivery any related decarbonisation lever 
+identified in the Strategic Narrative. 
+The interim milestones and metrics that will 
+enable assessment of progress in the delivery of 
+the Action Plan for Scope 3 Emissions.  
+Progress and track record against 
+the interim milestones and metrics 
+identified in the Action Plan for 
+Scope 3 Emissions. 
+Where any milestones or metrics 
+falling due since the previous 
+Verification Engagement have been 
+not been met, the corrective actions 
+being taken to address this within 12 
+months (in line with Clause D.3.3.).
+Any significant amendments to  
+the Action Plan for Scope 3 
+Emissions since the previous 
+Verification Engagement. 
+D.3.2.3.3. 
+Implementation 
+Plans – Finance 
+Plan
+A description of the financial implications of 
+the planned changes to the Issuer’s business 
+strategy, resource allocation and products and 
+services arising from its climate mitigation 
+transition, including relevant financial plans and 
+investment where possible.
+An explanation of how the above impacts  
+have been integrated into general purpose 
+financial reporting.
+The financial metrics and targets that will be 
+used to assess progress in the delivery of the 
+Finance Plan and the current value of those 
+metrics, and the methodologies by which those 
+metrics will be calculated.  
+Metrics that have significant estimation 
+uncertainty, noting the sources and nature of 
+the estimation uncertainties and the factors 
+affecting the uncertainties.
+Progress and track record against 
+the interim financial milestones  
+and metrics. 
+Where any milestones or metrics 
+falling due since the previous 
+Verification Engagement have been 
+not been met, the corrective actions 
+being taken to address this within 12 
+months (in line with Clause D.3.3.).
+Any significant amendments to the 
+Finance Plan since the previous 
+Verification Engagement.
+D.3.2.3.4. 
+Implementation 
+plans - Internal 
+policy alignment
+The key internal policies that need to be 
+developed to execute the Delivery Strategy and 
+achieve the Climate Mitigation Performance 
+Targets, and a schedule for their development 
+and implementation.
+Progress against the schedule for 
+developing and implementing the 
+identified internal policies key to the 
+execution of the Delivery Strategy 
+and achievement of the Climate 
+Mitigation Performance Targets.
+D
+Climate Bonds Standard   Version 4.1 
+ 67
+D Relevant clause Pre-Certification disclosure Annual disclosure 
+thereafter
+D.3.2.3.5. 
+Implementation 
+Plans – 
+Sensitivity 
+analysis
+Key sensitivities and risks around the Delivery Strategy 
+and the achievement of the Climate Mitigation 
+Performance Targets. 
+The threshold or methodology for determining which 
+sensitivities and risks have been identified as key, taking 
+into account the materiality of cumulative or aggregated 
+uncertainties or challenges.  
+Quantification of the potential impact in terms of the 
+likelihood, timing and cost of delivery of the Climate 
+Mitigation Performance Targets. 
+How these impacts are reflected in the Strategic Narrative, 
+Action Plans and Finance Plan. 
+Any significant changes to 
+the results of the Sensitivity 
+Analysis since the previous 
+Verification Engagement.
+How these changes have 
+been addressed in the 
+Vision, Strategic Narrative, 
+Action Plans and/ or 
+Finance Plan  
+as appropriate. 
+D.3.3.1. 
+Governance 
+- Board and 
+senior executive 
+responsibility
+The named individual, committee or Board responsible for 
+the Transition Plan.
+The management structure in place for executing the 
+Transition Plan.
+How frequently the Board reviews the Transition Plan, and 
+how frequently the Board will monitor and receive reports 
+on progress against the Climate Mitigation Performance 
+Targets and Delivery Strategy.
+How the Issuer ensures adequate climate expertise (e.g., 
+management expertise, provided resources, trainings, skill 
+acquisition).
+Any KPIs tied to Board, CEO or other senior executive 
+compensation plans that are aligned with the 
+organization’s climate goals, as described in the 
+Transition Plan.
+Any responsibility-related targets and progress against 
+those targets.
+Any changes to the named 
+individual, committee, or 
+Board responsible for the 
+Transition Plan.
+Any changes or additions to 
+climate and/ or transition-
+related KPIs tied to Board, 
+CEO or other senior 
+compensation plans.
+Performance against the 
+disclosed responsibility-
+related metrics and targets.
+D
+Climate Bonds Standard   Version 4.1 
+ 68
+Relevant clause Pre-Certification disclosure Annual disclosure 
+thereafter
+D.3.3.2. 
+Governance - 
+(Re)setting and 
+monitoring 
+the Climate 
+Mitigation 
+Performance 
+Targets and 
+Transition Plan
+Information on internal controls that are in place to 
+scrutinise the Transition Plan including any relevant 
+internal assurance functions such as internal audit.
+Stakeholder communication and feedback mechanisms, 
+including whether the Transition Plan is scrutinised by 
+shareholders (such as through an advisory vote at the 
+entity’s Annual General Meeting, or resolution subject to 
+shareholder approval).
+Information on the process and internal controls for 
+monitoring and tracking performance regarding the interim 
+Climate Mitigation Performance Targets and milestones and 
+targets identified in the Action Plans and Finance Plan. This 
+includes information on any tracking and estimation tools, 
+including but not limited to GHG performance tools, and 
+any equivalents for Climate Mitigation Performance Targets 
+that are not expressed in terms of GHG emissions.
+Information on the process for regularly reviewing 
+the Transition Plan to ensure material updates are 
+incorporated and challenges are addressed. 
+Commitment by the Issuer to review the Transition Plan at 
+least every 5 years.
+Date of the last and the next scheduled review.  
+Any changes to the 
+controls, tools and 
+mechanisms disclosed  
+in the previous  
+Verification Engagement.
+If the scheduled review 
+fell due since the previous 
+Verification Engagement, 
+all reset Climate Mitigation 
+Performance Targets 
+and Delivery Strategy 
+disclosure requirements 
+detailed under Clauses 
+D.3.1 and D.3.2. 
+Any changes to the date of 
+the next scheduled review.
+D.3.3.3.  
+Governance 
+ - Correction  
+of underper-
+formance
+n/a Any corrective actions 
+planned to address any 
+underperformance, with 
+an explanation of how 
+they will address that 
+underperformance. 
+D.4.1. Parent 
+Group 
+Commitments – 
+Exclusions
+Commitment by the Parent Company on behalf of the 
+Parent Group to zero future expansion of any of the 
+activities detailed in Clause D.4.1.1. 
+Statement by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group has 
+expanded any of the activities detailed in Clause D.4.1.1 
+since 1 January 2023.
+Statement from the Parent 
+Company on behalf of the 
+Parent Group that no entity 
+within the Parent Group 
+has expanded any of the 
+activities detailed in Clause 
+D.4.1.1 since the previous 
+Verification Engagement. 
+Commitment by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group will or 
+is planning to convert high carbon stock land as detailed 
+in Clause D.4.1.2. 
+Statement by the Parent Company on behalf of the 
+Parent Group that no entity within the Parent Group has 
+converted high carbon stock land (as detailed in Clause 
+D.4.1.2) since 1 January 2020.
+Statement by the Parent 
+Company on behalf of 
+the Parent Group that no 
+entity within the Parent 
+Group has converted 
+high carbon stock land 
+(as detailed in Clause 
+D.4.1.2) since the previous 
+Verification Engagement. 
+D
+Climate Bonds Standard   Version 4.1 
+ 69
+D Relevant clause Pre-Certification disclosure Annual disclosure thereafter
+4.2. Parent 
+Group 
+Commitments 
+- Net zero 
+commitment 
+Commitment by the Parent Company to net 
+zero emissions and the expected date for net 
+zero – covering the entire Parent Group  
+(per Clause D.4.2). 
+Any changes to the net zero 
+commitment for the Parent Group 
+(per Clause D.4.2.).  
+4.3. Parent 
+Group 
+Commitments – 
+Transition Plan
+A description of the Transition Plan outlining 
+how the Parent Group will achieve net zero 
+emissions (per Clause D.4.3). 
+Any updates to the Transition  
+Plan for the Parent Group  
+(per Clause D.4.3)
+If any part of the Parent Group 
+practices any of the activities 
+described under Clause D.4.1.1.,  
+the expected timing to fully  
+cease those activities.
+INDEPENDENT OF ANY CLAUSES ABOVE
+SLD instrument 
+financial and 
+structural 
+characteristics
+Potential change of bond financial and/or 
+structural characteristics and the trigger events 
+leading to such a change.
+Potential extreme/ exceptional events such 
+as M&A that could subsequently impact 
+the restatement of a Climate Mitigation 
+Performance Target.
+Potential change of bond financial 
+and/or structural characteristics  
+and the trigger events leading to 
+such a change
+Potential extreme/ exceptional 
+events such as M&A that could 
+subsequently impact the 
+restatement of a Climate Mitigation 
+Performance Target.
+D
+Climate Bonds Standard   Version 4.1 
+ 70
+ANNEX 1 - Types of Use of Proceeds 
+Instruments that can be Certified 
+There are various types of green financial instruments eligible for Certification under 
+the Climate Bonds Standard. Use of Proceeds debt instruments that may be eligible for 
+Certification under the Climate Bonds Standard version 4.1 include the following:
+Bilateral Loan: commercial, multilateral and development banks offer credit lines to 
+their corporate and institutional customers to finance specific green projects with set 
+criteria and reporting requirements. The loans may or may not be public, and the  
+terms vary considerably.
+Certificate of Agribusiness Receivables (CAR): title backed by agribusiness credit, 
+created by the Brazilian government to encourage the financing of the agricultural sector’s 
+production chain. These instruments are issued by securitisation vehicles and sold to 
+investors in capital markets to finance the purchase of the feedstock.
+Commercial Paper: is unsecured, short-term debt commonly issued by companies or 
+financial institutions to finance short-term liabilities. The proceeds mainly contribute to 
+general corporate purposes and working capital financing. 
+Convertible Bonds or Notes: Bonds or notes, either listed or unlisted, which have the 
+right but not the obligation to convert into a specified number of ordinary shares (or other 
+securities) under specified terms and conditions. If the bond or note was Certified when 
+it was issued and then later converted to equity, its status as a Certified Instrument would 
+end at the conversion point.
+Covered Bond (Pfandbrief): a dual recourse bond which relies primarily on repayment 
+from the issuer but also has access to a pool of assets (the cover pool). The cover pool 
+often comprises mortgages, but other assets can be used as collateral too. For instance, the 
+German Pfandbrief market includes Mortgages Pfandbrief, Public Pfandbrief, Ship and Aircraft 
+Pfandbrief. In Luxembourg, it is possible to issue renewable infrastructure-covered bonds.
+Debt Instruments issued by a Green Bond Fund: A Green Bond Fund is a fund which 
+invests in green bonds based on a set of screens or criteria. Screens for the fund can 
+include that the underlying projects and assets must meet the relevant Sector Criteria of 
+the Climate Bonds Standard. The fund will likely issue securities such as units in a trust or 
+use similarly structured arrangements to raise equity. 
+Export Financing in Brazil: Advance on Export Exchange Contracts or Advance on Export 
+Shipping Document Contracts
+Export Letters of Credit: issued by banks, guaranteeing future payment (upon receipt of 
+goods) to the exporter. These instruments are used in trade with developing countries and/
+or importers of relatively weak credit quality. Certification requires the Approved Verifier to 
+confirm that the UoP of the importer is aligned with the Climate Bonds Criteria.
+Floating Rate Notes: notes that have a variable interest rate tied to a benchmark rate. 
+Interest is usually paid quarterly, and the term is several months/years. FRNs are popular 
+with US corporates with quarterly re-issuance.
+Green Deposits: client funds held by a financial institution which are clearly identified and 
+allocated to a portfolio of projects and assets which meet the relevant Sector Criteria of the 
+Climate Bonds Standard. Green Deposits usually have a maturity of up to one year and are 
+accepted by financial institutions. Depositors are often institutional investors. Non-banks 
+(e.g., securitisation vehicles) may issue green units or notes.
+Climate Bonds Standard   Version 4.1 
+ 71
+Leases: bilateral contracts whereby the owner of the asset (the lessor) grants to another 
+party (the lessee) the exclusive right to use the asset for an agreed period, for an agreed 
+amount payable on a periodical basis (lease rentals) over the specified lease period.
+Loan Facility: a credit line made available to borrowers to finance projects and assets 
+which meet the relevant Sector Criteria of the Climate Bonds Standard. Loans can be 
+unsecured (with available recourse to the obligors) or secured (non-recourse or limited 
+recourse to obligors). 
+Project Bond: a project bond, either listed or unlisted, for a single or multiple projects for 
+which the investor has direct exposure to the risk of the projects with or without potential 
+recourse to the issuer.
+Repurchase Agreements (Repos): Repos enable short-term borrowing by banks or 
+corporates, usually in government or investment-grade securities. The price difference is 
+the implicit overnight interest rate. Repos are typically used to raise short-term capital.
+Revenue Bond: a non-recourse-to-the-issuer debt obligation, either listed or unlisted, 
+in which the credit exposure in the bond is to the pledged cash flows of the revenue 
+streams, fees, taxes etc.
+Revolving Credit Facilities: credit lines which may be drawn by the borrower and repaid 
+on an ongoing basis with a short- or medium-term maturity.
+Schuldschein: a traditional German floating or fixed debt instrument. Some features of a 
+Schuldschein are similar to those of loans, while other features are more similar to bonds.
+Securitised Bond: a bond, either listed or unlisted, collateralised by one or more specific 
+projects or assets, including lease, loan and other revenue receivables asset Backed 
+Securities (“ABS”), Mortgage-Backed Securities (“MBS”) including Agency MBS, Residential 
+MBS, Commercial MBS, Commercial Mortgage-Backed Securities (CMBS) Collateralised 
+Loan Obligations (“CLO”), Collateralised debt Obligations (“CDO”), Whole Business 
+Securitisation (“WBS”) and other securitisation structures.
+Standard Use of Proceeds Bond: a standard recourse-to-the-issuer debt obligation which 
+is either listed or unlisted.
+Sukuk: refers to various types of quasi-debt securities developed to meet the strictures 
+of Islamic finance. One of the core principles underlying Islamic finance is avoiding the 
+payment or collection of interest. Various  financial instruments have been created that 
+serve the same purpose as bonds and other debt securities, but on which interest is not 
+paid, and investors share in profit distributions.
+Syndicated Loan: A loan from a number of different lenders acting together. The lenders 
+form a syndicate, and the borrower borrows from the syndicate. Usually structured by one 
+of several commercial banks or investment banks, it can also include ‘non-bank’ lenders 
+such as debt funds, insurance companies, hedge funds or pension funds.
+Trade Finance / Receivables Financing / Factoring : where a third-party lender 
+buys outstanding accounts receivable at a discount. The trader’s/exporter’s accounts 
+receivables effectively act as collateral. The key is whether the receivables, creditors or 
+stocks relate to green assets.

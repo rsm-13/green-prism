@@ -1,0 +1,814 @@
+page 1 
+ 
+ 
+ABN AMRO commissioned ISS-oekom to compile a Verifi cation Report for Post-Issuance Certification 
+by the Climate Bond Initiative (CBI) of its Green B ond issued in 2018. The Climate Bond Certification 
+process includes verifying whether the provisions o f the Climate Bond Standard issued by the CBI are 
+met and obtaining evidence to support the verificat ion. 
+ 
+ 
+Relevant CBI Standards for this Post-Issuance Clima te Bond Certification:  
+•  Climate Bond Standard (Climate Bond Standard Versio n 2.1; status 01/2017)    
+•  Low Carbon Buildings – Residential Property  
+•  Marine Renewable Energy Sector Eligibility Criteria  (status 10/2017)   
+ 
+ABM AMRO’s responsibility was to provide informatio n and documentation on:  
+•  Selection of nominated projects & assets  
+•  Internal processes & controls  
+•  (Proposed) reporting  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ABN AMRO’s Responsibility 
+ 
+ Criteria 
+ 
+ Scope 
+1 October 18 
+ 
+Verification Report for Post-Issuance Certification of the  
+Green Bond  
+issued by ABN AMRO 
+Scope  
+ 
+page 2 
+ 
+ 
+ISS-oekom reviewed the information and documentatio n provided and developed by ABM AMRO to 
+assess the Green Bond’s alignment with the CBI requ irements: 
+•  Conformance with the selection of nominated project s & assets requirements  
+•  Conformance with the internal processes & controls requirements  
+•  Conformance with the reporting requirements    
+ISS-oekom’s approach to assess whether the issuer m eets the criteria of the CBI standard was as 
+follows. The issuer provided an overview over the a ssets to be included in the Green Bond asset pool 
+and the relevant processes regarding the proceeds ( e.g. use of proceeds, management of proceeds) to 
+ISS-oekom. Further, the issuer needed to fill in a questionnaire that covers all criteria of the Clima te 
+Bonds Standard 2.1. Additionally, the issuer had to provide background documents that elaborate further 
+on the information mentioned in the questionnaire. With the help of this questionnaire and the 
+background documents, ISS-oekom carried out a desk- based assessment of the CBI criteria. In case 
+any answers were unclear, ISS-oekom contacted the i ssuer for more details and clarification. 
+ 
+ 
+This Verification Report for Post-Issuance Climate Bond Certification including all documentation 
+provided alongside is intended for the use of ABN A MRO and the Climate Bond Standard Board. The 
+present document may be published by ABN AMRO, CBI and ISS-oekom. CBI and ISS-oekom agree to 
+publish the report with the consent of ABN AMRO.  
+  
+ 
+ ISS-oekom’s Responsibility as a Verifier 
+ 
+ Restriction on Distribution and Use of Report 
+ 
+page 3 
+ 
+Based on the limited assurance procedures conducted  on ABN AMRO’s Green Bond, ISS-oekom found 
+no evidence for non-conformance with the Climate Bo nd Standard’s post-issuance requirements. 
+ 
+ 
+ 
+Robert Haßler 
+ISS-oekom 
+Munich, 1 October 2018 
+  
+ 
+ Opinion 
+ 
+page 4 
+ 
+Disclaimer 
+Copyright © 2018 Institutional Shareholder Services  Inc. (“ISS”). This document and all of the informa tion contained in it is the 
+property of ISS and/or its subsidiaries. The Inform ation may not be reproduced or redisseminated in wh ole or in part without 
+the prior written permission of ISS. While we exerc ise due care in compiling this document, we assume no liability with 
+respect to the consequences of relying on this info rmation for investment or other purposes. ISS makes  no express or implied 
+warranties or representations with respect to the i nformation. 
+ 
+About ISS-oekom  
+Since March 2018, ISS-oekom has been a member of th e ISS family, providing high quality solutions for sustainable and 
+responsible investment and corporate governance. Or iginally founded in 1993 and formerly known as oeko m research, the 
+company is one of the world’s leading ESG research and rating agencies for sustainable investments wit h an unsurpassed 
+rating methodology and quality recognition. ISS-oek om analyzes businesses and countries with respect t o their environmental 
+social and governance performance. As an experience d partner of institutional investors and financial service providers, we 
+analyse the level of responsibility exercised by eq uity and bond issuers towards society and the envir onment. Under the new 
+ownership, ISS-oekom completes the ESG research and  RI services offerings of ISS, making it a worldwid e pure-player in the 
+area of RI Research & Solutions. ISS-oekom is heade d by Robert Haßler, former CEO and co-founder of oe kom-research. 
+More information: www.oekom-research.com and www.is sgovernance.com. 
+Contact  
+ISS-oekom, Goethestraße 28, 80336 Munich, Germany, t el: +49 89 54 41 84-90, e-mail:  info@ISS-oekom.com 
+  
+ 
+page 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+ 
+•  Annex 1: Detailed Findings – Post-issuance Climate Bonds Standard  
+•  Annex 2: Detailed Findings – Marine Renewable Energ y Criteria  
+•  Annex 3: Detailed Findings – Low Carbon Buildings  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 6 
+ 
+ 
+4. Nominated Projects and Assets 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements  
+4.1 Decision-making process to 
+determine the continuing 
+eligibility of nominated 
+projects and assets 
+The bond aims to contribute to the energy 
+transition and development of the circular 
+economy. ABN AMRO has adopted formal 
+targets with regard to the financing of 
+sustainable real estate, renewable energy 
+and the circular economy. Green bonds 
+attract dedicated funding for these strategic 
+focus areas. 
+On at least a quarterly basis, Global 
+Treasury Support will review the Eligible 
+Assets in line with the Eligibility Criteria 
+described in the Green Bond Framework.  
+For the categories Energy Efficiency and 
+Renewable Energy, these Eligibility Criteria 
+comply with the CBI sector criteria for: 
+marine renewable energy and low carbon 
+buildings. In case loans or investments are 
+no longer eligible or have been repaid early, 
+ABN AMRO will make an effort to replace 
+these assets with other Eligible Assets. 
+✓ 
+4.2 Conformance with the 
+Bond’s documented 
+objectives and requirements 
+of Part B of the CBI 
+Standard 
+All the full amount of the net proceeds is 
+distributed to Eligible Assets (in categories 
+which comply with the CBI sector criteria).   
+✓ 
+4.3 No double nomination of 
+projects and assets 
+The Management of Treasury department 
+will approve allocations of bond proceeds to 
+Eligible Assets on at least a quarterly basis. 
+ABN AMRO has also engaged an external 
+consultant to increase transparency. 
+✓ 
+ 
+ 
+ 
+ 
+Annex 1: Detailed Findings  
+ 
+page 7 
+5. Use of Proceeds 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements  
+5.1 Allocation of net proceeds 
+to nominated projects and 
+assets.  
+The full amount of the net proceeds is 
+distributed to Offshore Wind farms and 
+Green Buildings (private mortgages).  
+This is published in ABN AMRO’s quarterly 
+communication regarding the allocation of 
+proceeds, stating that 100% of the use of 
+proceeds is allocated towards eligible 
+assets. 
+✓ 
+5.2  Allocation of funds within 24 
+months of issuance of the 
+bond 
+ 
+cf. 5.1  
+✓ 
+5.3 Share of financing and 
+refinancing. 
+98% of the net proceeds of the Green Bond 
+were used to refinance existing assets and 
+2% were used to finance new assets.  
+✓ 
+5.4 Tracking of proceeds On at least a quarterly ba sis the business 
+lines, as owners of the assets, will make a 
+selection based on the Eligibility Criteria as 
+described in paragraph 2.1 of the ABN 
+AMRO Green Bond Framework. After 
+selection each business line will provide a 
+pre-defined report to Global Treasury 
+Support. Based on this, Treasury officers 
+will review whether existing and new assets 
+qualify as Eligible Assets. Management of 
+Treasury will review and approve allocations 
+of bond proceeds to Eligible Assets on at 
+least a quarterly basis. 
+The net proceeds of the outstanding bonds 
+will be moved to a Green Bond portfolio. For 
+as long as the Green Bonds are 
+outstanding, ABN AMRO aims to allocate an 
+amount equivalent to the net proceeds of 
+the bonds towards Eligible Assets.  
+✓ 
+5.5 Net proceeds of the loan 
+and investment to 
+nominated assets 
+At the time of issuance, ABN AMRO seeks 
+to ensure that the bond proceeds can be 
+directed in full to the Eligible Assets by 
+limiting the total issued amount of the bond 
+proceeds to 80% of the Eligible Assets. 
+✓ 
+ 
+ 
+page 8 
+6. Non-contamination of Proceeds 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements  
+6.1 Tracking of proceeds  As described in the ABN AMRO Green 
+Bond Framework, the net proceeds of the 
+outstanding bonds will be moved to a 
+Green Bond portfolio. For as long as the 
+Green Bonds are outstanding, ABN AMRO 
+aims to allocate an amount equivalent to 
+the net proceeds of the bonds towards 
+Eligible Assets. 
+✓ 
+6.2 Non-contamination of 
+proceeds 
+Unallocated proceeds will be invested in 
+short term money market products from 
+sovereigns, supranationals, agencies, 
+development banks and financial 
+institutions which are rated ‘Prime’ by ISS-
+oekom. 
+Hereto, on at least a quarterly basis, 
+Global Treasury Support will provide a 
+proposal to the Management Team of 
+Treasury for the distribution of an amount 
+equivalent to these proceeds towards 
+Eligible Assets or to be invested in short 
+term money market products as explained 
+above. 
+✓ 
+6.3 Cases of force majeure In the event of force majeure ABN AMRO 
+will conform with Clause 5.2 ✓ 
+ 
+  
+ 
+page 9 
+7. Confidentiality 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+7.1 Description of the projects Eligible Assets for the Green Bond are 
+Green Building mortgage loans and 
+offshore wind projects.  
+The projects financed through the Green 
+Bond comply with the Marine Renewable 
+Energy Criteria and/or Low Carbon 
+Buildings by the CBI. 
+✓ 
+7.2 Disclosure of information to 
+the market  
+Details on ABN AMRO’s Green Bond (on a 
+project category level) are available online: 
+https://www.abnamro.com/nl/en/investor-
+relations/debt-investors/green-
+bonds/xs1422841202.html 
+✓ 
+ 
+8. Reporting  
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+8.1 Description of reporting Details on ABN AMRO’s Green Bond are 
+available within existing impact reports 
+released for 2015 and 2016: 
+https://www.abnamro.com/en/images/Docu 
+ments/050_Investor_Relations/Debt_Inves 
+tors/Unsecured_funding/Euro_Medium_Te 
+rm_Notes/Green_Bonds/1642615/ABN_A 
+MRO_Green_Bond_impact_reporting_201 
+6.pdf 
+In ABN AMRO’s framework the impact 
+indicators are described in Annex 2: 
+https://www.abnamro.com/en/images/Docu 
+ments/050_Investor_Relations/Debt_Inves 
+tors/Unsecured_funding/Euro_Medium_Te 
+rm_Notes/Green_Bonds/Green_Bond_Fra 
+mework_4_April_2018.pdf 
+✓ 
+ 
+  
+ 
+page 10  
+9. Climate Bond Taxonomy  
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+9.1 Matching of Climate Bond 
+category 
+The projects financed through the Green 
+Bond comply with the Marine Renewable 
+Energy Criteria and/or Low Carbon 
+Buildings by the CBI. 
+✓ 
+ 
+10. Technical Criteria  
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+10.1 Sector-specific eligibility 
+criteria 
+For Low Carbon Buildings, ABN AMRO will 
+only select mortgage loans to finance new 
+Residential buildings, which comply with 
+the Dutch Building Decree 2012 
+(Bouwbesluit 2012: Chapter 5 and NEN 
+7120) and for which the first drawdown has 
+occurred after 1-1-2015. This complies 
+with the sector criteria.  
+For Marine Renewable Energy, the sector 
+criteria are covered by additional Equator 
+Principles assessments and assessment 
+on the Issuer’s internal Environmental & 
+Social Standards. This is evidenced in the 
+pre-issuance verfication. 
+✓ 
+10.2 Bonds covering several 
+sector-specific criteria 
+Not applicable N/A 
+ 
+ 
+page 11  
+ 
+11. Project Holding  
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+11.1 Holding of assets with a fair 
+market value at least of the 
+original amount at time of 
+issuance  
+The value of selected assets is equal to 
+the principal amount of the bond issuance:  
+https://www.abnamro.com/en/images/Docu 
+ments/050_Investor_Relations/Debt_Inves 
+tors/Unsecured_funding/Euro_Medium_Te 
+rm_Notes/1728708/ABN_AMRO_GB_03_ 
+XS1808739459_report_20180630.pdf   
+ 
+As indicated in the Issuer’s Green Bond 
+Framework, on at least a quarterly basis, 
+Global Treasury Support will review the 
+reported Eligible Assets. In case loans or 
+investments are no longer eligible or have 
+been repaid early, ABN AMRO will make 
+an effort to replace these assets with other 
+Eligible Assets. If applicable, additional 
+Nominated Projects & Assets will always 
+meet the Eligibility Criteria. 
+✓ 
+ 
+12. Settlement Period  
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+12.1 Description of the process 
+and timeline of distribution 
+of proceeds  
+The net proceeds of the outstanding bonds 
+will be moved to a Green Bond portfolio. 
+For as long as the Green Bonds are 
+outstanding, ABN AMRO aims to allocate 
+an amount equivalent to the net proceeds 
+of the bonds towards Eligible Assets.  
+To avoid contamination of proceeds, there 
+is an explicit check and sign-off by the 
+Management Team of Treasury for the 
+distribution of an amount equivalent to the 
+proceeds towards Eligible Assets or 
+investments in short term Money Market 
+products as indicated in the Green Bond 
+Framework. 
+✓ 
+ 
+page 12  
+12.2. Description of process 
+regarding unallocated 
+proceeds after 24 months 
+Unallocated proceeds will be invested in 
+short term Money Market products from 
+sovereigns, supranationals, agencies, 
+development banks and financial 
+institutions which are rated ‘Prime’ by ISS-
+oekom. 
+ 
+✓ 
+ 
+13. Earmarking 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements 
+13.1 Description of internal 
+earmarking process 
+ABN AMRO has established an 
+earmarking process to manage and 
+account for funding to the nominated 
+assets: 
+On at least a quarterly basis the business 
+lines, as owners of the assets, will make a 
+selection based on the Eligibility Criteria as 
+described in paragraph 2.1 of the ABN 
+AMRO Green Bond Framework. After 
+selection, each business line will provide a 
+pre-defined report to Global Treasury 
+Support. 
+Based on the information provided by the 
+business lines, Treasury officers will 
+review whether existing and new assets 
+qualify as Eligible Assets. 
+Management of Treasury will review and 
+approve allocations of bond proceeds to 
+Eligible Assets on at least a quarterly 
+basis. 
+The net proceeds of the outstanding green 
+bonds will be moved to a Green Bond 
+portfolio. For as long as the Green Bonds 
+are outstanding, ABN AMRO aims to 
+allocate an amount equivalent to the net 
+proceeds of the bonds towards Eligible 
+Assets. 
+✓ 
+  
+ 
+page 13  
+ 
+1. Disclosure Component 
+ 
+Requirement 
+Disclosure evidence 
+(Information publicly available)  
+Fulfils the 
+requirements Comment 
+Project location and size, 
+including description of marine 
+coastal ecosystem in 
+proximity to planned 
+installations, noting for 
+example whether located in 
+marine protected areas or 
+vulnerable marine 
+ecosystems. 
+Project 1: Netherlands North 
+Sea, 150 turbines. 
+Project 2: Germany North Sea, 
+80 turbines. 
+Project 3: Germany North Sea, 
+54 turbines. 
+Project 4: Germany North Sea, 
+31 turbines.  
+✓ 
+ 
+Projected lifespan of the 
+asset/project. 
+Project 1: Lifespan of 20 years. 
+Project 3: Lifespan of 25 years. 
+ ✓ 
+For other projects 
+information is not 
+publicly available 
+at this stage. 
+Key stakeholders involved, 
+including other users of the 
+area and surrounding area 
+(sea, land or air depending on 
+what is applicable) of the 
+facility (ies).  
+Project 1: Key stakeholders 
+disclosed on the project’s 
+investor presentation. 
+ 
+ 
+x 
+For some 
+projects, 
+information is not 
+publicly available 
+at this stage. 
+Description of the project 
+activities including details on 
+installation, operation and 
+decommissioning activities. 
+Project 1: Description of the 
+project activities is available on 
+the project’s website. 
+Project 2: Description of the 
+project activities is available on 
+the project’s website. 
+Project 3: Information on wind 
+turbine design, operation and 
+maintenance is available on the 
+project website.  
+Project 4: Information on wind 
+turbine design, operation and 
+maintenance is available on 
+project investor presentation. 
+ 
+✓ 
+ 
+Annex 2: ABN AMRO Investor Report 30 September 2017  
+  
+ 
+Annex 2: Detailed findings Marine Renewable Energy Standard 
+ 
+page 14  
+Expected/current facility 
+capacity and generation 
+during and after the life of the 
+bond.  
+Project 1: 600 MW current 
+capacity 
+Project 2: 288 MW current 
+capacity 
+Project 3: 332.1 MW current 
+capacity 
+Project 4: 252 MW expected 
+capacity 
+ 
+✓ 
+ 
+Details of where the energy 
+generated is being fed into, 
+and estimated impact of the 
+grid mix. 
+ 
+Project 1: Grid connection at 
+Oude Schip 
+Project 2: Grid connection at 
+SylWin alpha 
+Project 3: Grid connection at 
+Dolwind Beta 
+Project 4: Grid connection at 
+BorWin 2 
+ 
+✓ 
+Other information 
+not publicly 
+available at this 
+stage. 
+Projected avoided GHG 
+emissions compared to fossil 
+fuel counterfactual (in 
+kgCO2e) using recognised 
+conversion factors. 
+Project 1: Reduction of CO2-
+emissions by 1.25 million p.a. 
+Project 3: Save over 1 million 
+tons of CO2 compared to 
+conventional coal fired plant.  
+ 
+✓ 
+For other projects 
+information is not 
+publicly available 
+at this stage.  
+The planning standards, 
+environmental regulations and 
+other regulations that the 
+project has been required to 
+comply with. 
+ 
+Project 1: EIA is available on 
+Commissie voor de 
+milieueffectrapportage’s 
+website. 
+Project 2: Environmental permit 
+is available on the Bundesamt 
+für Seeschifffahrt und 
+Hydrographie (BSH) website. 
+Project 3: Environmental permit 
+is available on the BSH 
+website.  
+Project 4: Environmental permit 
+is available on the BSH 
+website. 
+ 
+ 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 15  
+1. Mitigation Component 
+ 
+The issuer’s Green Bond Asset Pool is in line with the Mitigation Component of the Climate Bonds 
+Initiative as it is entirely dedicated to renewable  energy. 
+ 
+ 
+2. Adaptation & Resilience Requirements 
+ 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements  
+1 Processes are in place to 
+assess key risks to the 
+assets from a changing 
+climate and its impact on 
+marine conditions. 
+Four projects, accounting for 100% of the 
+Asset Pool, include wind and ocean 
+studies determining risks involved. ✓ 
+2 Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders. 
+Impacts on the resilience of stakeholders 
+are subject to existing regulatory 
+requirements (Environmental Permits and 
+EIAs) covered by national law (Germany 
+and Netherlands) for four projects, 
+accounting for 100% of the Asset Pool. 
+ ✓ 
+3 An adaptation plan has 
+been designed and is being 
+implemented to address the 
+risks identified in 
+assessments outlined 
+above. 
+For four projects, accounting for 100% of 
+the asset pool, monitoring, implementation, 
+prevention, and response measures are in 
+place to address identified risks. ✓ 
+3.1 Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspection. 
+For four projects, accounting for 100% of 
+the Asset Pool, maintenance is provided 
+by a specialised O&M Contractor.  
+✓ 
+  
+ 
+page 16  
+ 
+ 
+ 
+Requirement  Factual Findings 
+Analysis 
+against 
+Requirements  
+4 Involvement in stakeholder 
+engagement and 
+collaboration  
+Four projects, accounting for 100% of the 
+Asset Pool, have carried out close 
+collaborations with stakeholders in order to 
+promote resilience and adaptation. 
+✓ 
+5 The assets do not put at 
+risk or endangered species 
+or habitats or unduly impact 
+ecosystem services. If so, 
+mitigation measures have 
+been implemented. 
+Four projects, accounting for 100% of the 
+Asset Pool, have avifauna monitoring 
+plans and other mitigation measures in 
+place to minimise impact on endangered 
+species and the ecosystem, or are subject 
+to existing regulatory requirements 
+(Environmental Permits and EIAs) covered 
+by national law (Germany and 
+Netherlands). 
+✓ 
+5.1 Waste is responsibly dealt 
+with. Recycling is in place 
+where possible. 
+Four projects, accounting for 100% of the 
+Asset Pool, include waste disposal 
+measures, or are subject to regulatory 
+requirements (Environmental Permits and 
+EIAs) covered by national law (Germany 
+and Netherlands).  
+✓ 
+5.2 Potential risks for accidental 
+site contamination have 
+been recognised. Steps 
+have been taken to 
+minimise these risks. 
+Four projects, accounting for 100% of the 
+Asset Pool, include measures to minimise 
+risks for accidental site contamination, or 
+are subject to regulatory requirements 
+(Environmental Permits and EIAs) covered 
+by national law (Germany and 
+Netherlands). 
+✓ 
+5.3 Decommissioning of the 
+plant is planned in a way 
+that considers the 
+environmental impacts. 
+Four projects, accounting for 100% of the 
+Asset Pool, include measures for 
+responsible decommissioning. ✓ 
+5.4 Plans and processes are in 
+place to effectively manage 
+and minimise conflicts with 
+other users of the marine 
+and coastal space. 
+Four projects, accounting for 100% of the 
+Asset Pool, include measures to minimise 
+navigational risks to maritime traffic and 
+aviation. 
+✓ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 17  
+ 
+ 
+ 
+ 
+ 
+ The Green Bond Asset Pool complies with the Low Carbon Buildings criteria of the 
+Climate Bonds Initiative. 
+ 
+Being built after the Dutch Building Decree 2012 (Bouwbesluit 2012) they are automatically 
+eligible for the Climate Bonds Initiative and are part of the top 15% energy efficient buildings 
+of the Dutch market. 
+Annex 2: ABN AMRO Investor Report 30 September 2017  
+  
+ 
+Annex 3: Detailed findings Residential Properties

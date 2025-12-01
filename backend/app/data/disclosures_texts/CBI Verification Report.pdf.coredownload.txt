@@ -1,0 +1,900 @@
+M a y 2021   
+ 
+1 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+ 
+Scope 
+PKN is considering the issuance of its first 2021 Green Bond (hereafter the “Bond”). For this purpose, its intention is to use 
+the proceeds to finance or refinance projects related to the construction and operation of Clean Transport infrastructure, 
+Waste Management plants and renewable energies (the “Eligible Green Projects”). According to the Issuer, the potential 
+issuances could be by an amount lower to the total investment exposure to the proposed Selected Projects. 
+In this context, V.E (the “Verifier”) has been commissioned, as an independent third-party provider approved by the Climate 
+Bonds Standard Board, by PKN (the “Issuer”) to perform the Pre-Issuance Verification of the Bond. This verification has 
+been conducted in accordance with the Climate Bonds Standard (CB I Standard) version 3.0 requirements [i.e. Part A: 
+General requirements to be applied for all Climate Bonds, and Part C: Climate Bonds Eligibility of Projects & Assets : Low 
+Carbon Transport Criteria Version 2.0, Solar Criteria Version 2.1, Wind Criteria Version 1.2, Marine Renewable Energy 
+Criteria Version 2.0 and Waste Management Criteria Version 1.0.] 
+The work undertaken by V.E to form this verification report included:  
+ Planning and management of the verification.  
+ Desk review of the Bond and associated documentation provided by the Issuer.  
+ Assessment of evidences provided by the PKN against the CBI standard version 3.0.  
+ Internal quality control on the assurance report and conclusions.  
+ Provision of V.E’s Limited Assurance Report.  
+We have conducted our pre-issuance verification from February 23 to April 14, 2021. The methodology, criteria, findings 
+and assurances addressed by this Limited Assurance Procedure are in accordance with releva nt general principles & 
+professional standards of independent auditing, and in line with the International Standard on Assurance Engagements 
+other than Audits or Reviews of Historical Financial Information (ISAE 3000). 
+Responsibilities of the Issuer and of V.E  
+This statement relies on the information provided by the Issuer to the Verifier: documentation and explanations presented 
+during the assessment, based on the understanding that this information was provided to V.E in good faith. V.E has not 
+performed any audit nor other test to check the accuracy of the information provided by the Issuer.  
+The Issuer is fully responsible for attesting the compliance with its commitments, for their implementation and their 
+monitoring, and for the information provided. 
+Pre-Issuance Verification 
+Based on the supporting elements and explanations provided by the Issuer, nothing has come to our attention that cause 
+us to believe that, in all material respects, the PKN’s 2021 Green Bond is not in conformance with the Climate Bonds 
+Standard’s Pre-Issuance Requirements (version 3.0) and with associated relevant sector -specific technical criteria. This 
+level of assurance applies altogether to the Eligible Green Projects, the environmental benefits of the Bond, the evaluation 
+and selection process of the assets, the proposed financial accounting system, and the monitoring & reporting system 
+associated to the Bond, to be implemented over the term of the Bond. 
+Project Team 
+  
+Adriana Cruz, Head of Sustainable Finance Research |  
+adriana.cruzfelix@vigeo-eiris.com 
+Maximiliano León, Sustainable Finance Analyst | 
+maximiliano.leon@vigeo-eiris.com 
+Pre-Issuance Verification Report  
+Limited Assurance Procedure based on Climate Bonds Standard version 3.0 
+ By V.E for the Polski Koncern Naftowy (PKN) Orlen’s 2021 Green Bond Issuance 
+ 
+
+M a y 2021   
+ 
+2 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+VERIFICATION CRITERIA & FINDINGS 
+PKN Orlen (“hereafter “PKN” or “the Issuer”)  has declared that the Net Proceeds of its 2021 Green Bond will be 
+allocated to 5 CBI classification: Solar Energy, Wind Energy, Marine Renewable Energy , Low Carbon Land Transport  
+and Waste Management described in PKN’s Green Finance Framework. 
+The evidence, information and explanations supporting the Bond issuance provided by PKN to V.E were both historical 
+(for projects selection process and nominated projects) and hypothetical or projected (for the expected environmental 
+benefits, the proposed financial accounting system, and the monitoring & reporting system associated to the Bonds, to 
+be implemented over the term of the Bond).  
+The Issuer showed a high responsiveness in providing information to the Verifier. We believe that the procedures we 
+have performed and the evidence we have obtained are sufficient and appropriate to provide a basis for our findings.  
+Summary criteria for a ssertions of compliance with the pre -issuance requirements of 
+Climate Bonds Standard version 3.0  
+V.E has assessed PKN’s 2021 Green Bond and the nominated projects and assets against criteria and requirements 
+detailed within the Climate Bonds Standard version 3.0:  
+- Part A: Pre-Issuance Requirements  
+1. Use of Proceeds  
+2. Process for Evaluation and Selection of Projects & Assets  
+3. Management of Proceeds  
+4. Reporting Prior to Issuance  
+- Part C: Eligibility of Projects & Assets  
+1. Low Carbon Transport Criteria Version 2.0 
+2. Climate Bonds Initiative Solar Criteria Version 2.1 
+3.  Climate Bonds Initiative Wind Criteria Version 1.2 
+4. Climate Bonds Initiative Waste Management Criteria Version 1.0 
+5. Climate Bonds Initiative Marine Renewable Criteria Version 2.0 
+ 
+ 
+ 
+M a y 2021   
+ 
+3 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+Part A: Assessment of PKN’s 2021 Green Bond against Pre-Issuance Requirements of 
+Climate Bonds Standards 
+1. Use of Proceeds 
+1.1. The Issuer shall document the Nominated Projects & Assets which are proposed to be associated with the 
+Bond and which have been assessed as likely to be Eligible Projects & Assets. The Issuer shall establish a list 
+of Nominated Projects & Assets which can be kept up to date during the term of the Bond.  
+The Issuer has provided a list of projects to be financed, namely: 
+- Financing of Clean transport infrastructure 
+- Financing of Onshore solar thermal and Photovoltaic systems 
+- Financing of Onshore wind energy facilities 
+- Financing Waste management infrastructure 
+- Financing of Offshore wind energy facilities 
+1.2. The expected Net Proceeds of the bond shall be no greater than the Issuer’s debt obligation to the proposed 
+Nominated Projects & Assets, or the Fair Market Value of the proposed Nominated Projects & Assets which 
+are owned by the Issuer. 
+The expected Net Proceeds of the Bond will be no greater than the Issuer’s total investment exposure to the proposed 
+Selected Projects. According to the Issuer, the issuance amount will be conditional to the total amount certified. 
+1.3. Nominated Projects & Assets shall not be nominated to other Certified Climate Bonds, Certified Climate Loans, 
+Certified Climate Debt Instruments, green bonds, green loans or other labelled instruments (such as social 
+bonds or SDG bonds). 
+The Issuer confirms that the Selected Project has not been nominated to another Climate Bond. This can be confirmed 
+through the absence of the Project from the Climate Bonds Initiative’s database1. 
+ 
+V.E reviewed the above elements based on the information and documentation provided by the Issuer during the 
+verification, and nothing has come to our attention that causes us to believe that, in all material respects, the PKN’s 2021 
+Green Bond is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements (version 3.0) stated in 
+section 1 “Use of Proceeds”. 
+2. Process for Evaluation and Selection of Projects & Assets  
+2.1. The Issuer shall establish, document and maintain a decision -making process which it uses to determine the 
+eligibility of the Nominated Projects & Assets. The decision-making process shall include, without limitation: 
+2.1.1. A statement on the climate-related objectives of the Bond 
+The Selected Projects are intended to contribute to climate change mitigation . This objective is formalised in the 
+Framework. 
+ 
+1 https://www.climatebonds.net/bond-library 
+M a y 2021   
+ 
+4 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+2.1.2. How the climate -related objectives of the Bond are positioned within the context of the Issuer’s 
+overarching objectives, strategy, policy and/or processes relating to environmental sustainability 
+A description of PKN’s priorities and how they meet the international environmental challenges is included in the 
+Framework. The Issuer has identified its environmental objective as being aligned with the European Parliament 
+Regulation on Sustainable Investment and the Sustainable Development Goals, as well as the ICMA Climate Transition 
+Finance Handbook. The Framework is also aligned to the ICMA Green Bond Principles and LMA Green Loan Principles. 
+2.1.3. The Issuer’s rationale for issuing the Bond. 
+PKN has identified its main environmental challenges and priorities to tackle through the eligible projects. A description 
+of PKN’s priorities and how they meet the international environmental challenges is in the Framework. 
+2.1.4. A process to determine whether the Nominated Projects & Assets meet the eligibility requirements 
+specified in Part C of the Climate Bonds Standard. 
+The governance and process for the evaluation and selection of the Selected Projects are formalised in the Framework 
+and is considered relevant.  The Strategy and the Investment Committees are in charge of verifying compliance of the 
+selected Green Projects with the Eligibility Criteria defined in the Framework. 
+2.2. The Issuer should include under Clause 2.1 further aspects of the decision-making process, including:  
+2.2.1. Related eligibility criteria, including, if applicable, exclusion criteria or another process, applied to 
+identify and manage potentially material enviro nmental, social or governance risks associated with the 
+Nominated Projects & Assets.  
+The Selection and Exclusion criteria are formalised in the Framework. The Strategy and the Investment Committees 
+conduct annual reviews of compliance of the projects with the Eligibility criteria. 
+2.2.2. Any green standards or certifications referenced in the selection of Nominated Projects & Assets. 
+The Issuer applies an Integrated Management System (IMS) to verify the environmental and social compliance of the 
+selected projects. The IMS comprises several environmental and quality certifications including Quality Management 
+System based on the PN-EN ISO 9001 and AQAP 2110 standards, Environmental Management System based on the PN-
+EN ISO 14001 standard and Occupational Health and Safety Management System based on the PN-N-18001 standard, 
+among others. 
+2.2.3. The Issuer shall assess that all proposed Nominated Projects & Assets to be associated with the Bond 
+meet the documented objectives as stated under Clause 2.1 .1 and are likely to conform to the relevant 
+eligibility requirements under Part C of the Climate Bonds Standard. 
+The Issuer reports to comply with environmental regulation and to conduct the required Environmental Impact 
+Assessments. The Strategy and Investment Committees will review the compliance of the projects with the Eligibility 
+criteria.  
+ 
+ 
+V.E reviewed the above elements based on the information and documentation provided by the Issuer during the 
+verification, and nothing has come to our attention that causes us to believe that, in all material respects, the PKN’s 2021 
+Green Bond is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements (version 3.0) stated in 
+section 2 “Process for Evaluation and Selection of Projects & Assets”. 
+ 
+M a y 2021   
+ 
+5 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+3. Management of Proceeds 
+3.1. The systems, policies and processes to be used for management of the Net Proceeds shall be documented by 
+the Issuer and disclosed to the Verifier, and shall include arrangements for the following activities: 
+3.1.1. Tracking of proceeds: The Net Proceeds of the Bond can be credited to a sub-account, moved to a sub-
+portfolio, or otherwise tracked by the Issuer in an appropriate manner and documented. 
+The Issuer reports that the Net Proceeds of the Bonds will be managed by  PKN ORLEN’s Finance Department , which 
+will verify that the allocation of the Bonds’ net funds c oincides nominally with the disbursements made to the Eligible 
+Green Projects, until the full allocation of funds. 
+3.1.2. Managing unallocated proceeds: The balance of unallocated Net Proceeds can be managed as per the 
+requirements in Clause 7.2. 
+Unallocated proceeds will be invested in bank deposits and used to temporarily reduce indebtedness of a revolving 
+nature. 
+3.1.3. Earmarking funds to Nominated Projects & Assets: The earmarking process can be used to manage and 
+account for funding to the Nominated Projects & Assets and enables estimation of the share of the Net 
+Proceeds being used for financing and refinancing. 
+The Issuer states that in case of refinancing the look-back period for Eligible expenses covering capital and/or operational 
+expenditures will be less or equal to 36 months from the year of issuance. 
+ 
+V.E reviewed the above elements based on the information and documentation provided by the Issuer during the 
+verification, and nothing has come to our attention that causes us to believe that, in all material respects, the PKN’s 2021 
+Green Bond is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements (version 3.0) stated in 
+section 3 “Management of Proceeds”. 
+ 
+4. Reporting prior to issuance 
+4.1. The Issuer shall prepare a Green Bond Framework and make it publicly available prior to Issuance or at the 
+time of Issuance. The Green Bond Framework shall include, without limitation:  
+4.1.1. Confirmation that the Bonds issued under the Green Bond Framework are aligned with the Climate Bonds 
+Standard. This may include statements of alignment with other applicable standards, such as the EU 
+Green Bond Standard, the ASEAN Green Bond Standard, Chin ese domestic regulations, Japanese 
+Green Bond Guidelines, etc. 
+The issuer will follow the ICMA Green Bond Principles and LMA Green Loan Principles. 
+ 
+4.1.2. A summary of the expected use of proceeds, as defined under Clause 1.1, and the expected contribution 
+of the relevant sectors or sub -sectors to the rapid transition required to achieve the goals of the Paris 
+Climate Agreement. 
+The Framework includes a description of the Eligible Projects , as defined under Clause 1.1. 
+M a y 2021   
+ 
+6 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+4.1.3. A description of the decision-making process, as defined under Clause 2.1, with particular reference to 
+the requirements in Clause 2.1.2. 
+The Framework includes a description of the decision -making process, as defined under Clause 2.1, with particular 
+reference to the requirements in Clause 2.1.2. 
+4.1.4. Information on the methodology and assumptions to be used for: confirming, where required by relevant 
+Sector Eligibility Criteria, the characteristics or performance of Nominated Projects & Assets required to 
+conform to the relevant e ligibility requirements under Part C of the Climate Bonds Standard; and any 
+other additional impact metrics that the Issuer will define. 
+The Issuer has committed to disclose in the reporting documentation the methodology and assumptions to be used for 
+the calculation of impact reporting indicators.  
+4.1.5. A summary of the approach to the management of unallocated Net Proceeds in accordance with Clause 
+3.1. 
+A summary of the approach to the management of unallocated Net Proceeds is included in the Framework (see Cl ause 
+3.1.) Additionally, PKN will report the remaining balance of unallocated proceeds in an annual report. 
+4.1.6. The intended approach to providing Update Reports to reaffirm conformance with the Climate Bonds 
+Standard while the Loan remains outstanding. 
+The Issuer commits to appoint an approved CBI Verifier to conduct the mandatory Post - Issuance compliance review 
+within a period of one year after the issuance, in conformance with the Climate Bonds Standard requirement. 
+4.1.7. The list of proposed Nominated Projects & Assets associated with the Bond and the investment areas, as 
+provided in Clause 9.1, into which the Nominated Projects & Assets fall. Where there are limits on the 
+amount of detail that can be made available about specific Nominated Projects & Assets, information 
+shall be presented on the investment areas which the Nominated Projects & Assets fall into, as provided 
+in Clause 9.1, and the Issuer shall provide an explanation of why detail on Nominated Projects & Assets 
+is limited.  
+The issuer will include examples of projects but because of  confidentiality a full list may not be published. Allocations 
+on a consolidated basis by Green Bond Principles categories will be published. 
+4.1.8. Where a proportion of the Net Proceeds are used for refinancing, an estimate of the share of the Net 
+Proceeds used  for financing and refinancing, and the relevant Nominated Projects & Assets or 
+investment areas which may be refinanced. This may also include the expected look -back period for 
+refinanced Nominated Projects & Assets. 
+The share of refinancing will be communicated to investors prior to the issuance in the Issuer’s website. 
+4.2. The Issuer shall include in the Disclosure Documentation:  
+4.2.1. The investment areas, as provided in Clause 9.1, into which the Nominated Projects & Assets fall.  
+The selected Projects falls in the ”Solar”, “Wind”, “Marine renewable”, “Waste Management “and  “Low carbon  
+transport” classification of Climate Bonds Taxonomy. 
+M a y 2021   
+ 
+7 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+4.2.2. The intended types of temporary investment instruments for the management of unallocated Net 
+Proceeds in accordance with Clause 7.3. 
+Unallocated proceeds will be invested in bank deposits and used to temporarily reduce indebtedness of a revolving 
+nature. 
+4.2.3. The Verifier engaged by the Issuer for the mandatory verification engagements. 
+The Issuer has commissioned V.E (the “Verifier”) as an independent third-party provider approved by the Climate Bonds 
+Standards Board to perform the Pre-Issuance Verification of the Bond. 
+4.2.4. The intended approach to providing Update Reports to reaffirm conformance with the Climate Bonds 
+Standard while the Bond remains outstanding, including the location of the published documents. 
+The rules about the reporting are disclosed in the Framework. The report will be published in the Issuer’s website. 
+4.2.5. The Climate Bonds Initiative Disclaimer provided in the Certification Agreement. 
+The Issuer states that they will provide the CBI’s disclaimer in the certification agreement. 
+ 
+ 
+V.E reviewed the above elements based on the information and documentation provided by the Issuer during the 
+verification, and nothing has come to our attention that causes us to believe that, in all material respects, the PKN’s 2021 
+Green Bond is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements (version 3.0) stated in 
+section 4 “Reporting prior to issuance”. 
+ 
+M a y 2021   
+ 
+8 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+Part C: Climate Bonds Eligibility of Projects & Assets: Sector Specific Criteria 
+Technical criteria for Selected Projects & Assets: 
+1. Low Carbon Transport Criteria Version 2.0 
+CBI REQUIREMENTS V.E’S FACTUAL FINDINGS  GAP ANALYSIS 
+1. Technical Criteria for Eligible Projects and Assets : Low Carbon Transport 
+- Infrastructure related to electric transportation of 
+passengers and freight such as (fast) charging 
+stations and hydrogen fuelling stations. 
+Eligible Green Projects falling in this sub- category are automatically eligible for 
+Certification under Low Carbon Transport (Version 2.0). 
+None 
+ 
+2. Solar Criteria Version 2.1 
+CBI REQUIREMENTS V.E’S FACTUAL FINDINGS  GAP ANALYSIS 
+2. Technical Criteria for Eligible Projects and Assets : Solar  
+- Solar Energy: Onshore and photovoltaics (PV), 
+concentrated solar power (CSP) and solar thermal 
+facilities. 
+ 
+Eligible Green Projects will not have more than 15% of electricity generated from 
+non-renewable sources. 
+None 
+ 
+3. Wind Criteria Version 1.2 
+CBI REQUIREMENTS V.E’S FACTUAL FINDINGS  GAP ANALYSIS 
+3. Technical Criteria for Eligible Projects and Assets: Wind  
+- Wind energy: onshore windfarm generation 
+facilities. 
+Eligible Green Projects will not have more than 15% of electricity generated from 
+non-renewable sources. 
+None 
+ 
+M a y 2021   
+ 
+9 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+4. Waste Management Criteria Version 1.0 - Mitigation criteria 
+CBI REQUIREMENTS V.E’S FACTUAL FINDINGS  GAP ANALYSIS 
+4.1 Technical Criteria for Eligible Projects and Assets: Waste Management 
+- Preparation: construction of an automatic sorting 
+plant for mixed municipal waste 
+Eligible Green Projects will be for 100% recycled and recyclable materials. None 
+- Recycling: construction of a mechanical and 
+chemical recycling plant, infrastructure for 
+mechanical recycling of waste, infrastructure for 
+chemical recycling of waste. 
+Eligible Green Projects will produce secondary raw materials (such as steel, 
+aluminium, glass, plastics) that will cease to be waste and will be sold to be used 
+as secondary raw materials. 
+None 
+ 
+ 
+4.2 Waste Management Criteria version 1.0 – Adaptation & Resilience  
+The Issuer has disclosed to V.E a document with the main characteristics of the assets falling under this CBI sector criteria, which include: 
+- Project Combo: Considers the construction of an automatic sorting plant for mixed municipal waste and infrastructure for chemical recycling of waste (includes preparation and recycling). 
+- Project Pigoz: Considers the construction of mechanical and chemical recycling plants. 
+- Orlen-Unipetrol – mechanical recycling: Infrastructure for mechanical recycling of waste. 
+- Orlen-Unipetrol –chemical recycling: Infrastructure for chemical recycling of waste. 
+  
+M a y 2021   
+ 
+10 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+ 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF PREPARATION AND RECYCLING FACILITIES 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Section 1: The issuer identifies the climate related risks and vulnerabilities to the asset/site 
+1.1 Processes are in place (as part of both the asset design and  ongoing management) to assess key 
+risks to the assets from a changing climate. 
+ 
+These key risks should include the following, plus any others felt to be of concern for the operation 
+of these assets. The risks should be identified and interpreted in terms of the impact on the asset 
+and the related effects for the business – e.g. impact on operating feasibility and schedules, and 
+potential system outages, impact on maintenance requirements etc. 
+ 
+N.B. This list taken from World Banks Climate and Disaster Risk Assessment Tool 
+- Temperature changes, and extremes in temperature 
+- Extreme precipitation and flooding 
+- Drought 
+- Sea level rise and storm surge 
+- Strong winds 
+How these affect the asset or site in question will be highly variable and will be for the issuer to 
+identify and relate to their operations. These assessments should use climate information, modelling 
+and scenarios from a peer-reviewed source. 
+ 
+This assessment should be done regularly. The frequency of the assessment will depend on the 
+nature of the climate related risks and vulnerabilities and should be specified by the issuer an d 
+reported against in subsequent annual reporting. 
+Project Combo 
+According to the information provided by the Issuer, the asset will 
+not be affected by any of the risks considered in the Risk Assessment 
+Tool, including flooding, drought, sea level rise, among others.  
+The Issuer reports extreme temperature and extreme temperature 
+changes will be considered during the design stage to assure optimal 
+operation conditions. 
+ 
+Good 
+Project Pigoz 
+The Issuer will conduct an assessment for direct and indirect risks of 
+investment as well as Environmental Impact Assessments (EIA) 
+according to EU countries regulatory authorities.  Prior to 
+construction, in accordance with national and EU regulations, 
+assessments must be carried out when the assets have an expected 
+impact on the environment and population, including human health 
+and living conditions, material goods, monuments, and landscape 
+(including cultural landscape). 
+ 
+ 
+ 
+ 
+ 
+ 
+Good 
+M a y 2021   
+ 
+11 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF PREPARATION AND RECYCLING FACILITIES 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Orlen-Unipetrol –mechanical and chemical recycling 
+The Issuer will conduct an assessment for direct and indirect risks of 
+investment as well as Environmental Impact Assessments (EIA) 
+according to the requirements set by EU countries regulatory 
+authorities. Prior to construction, in accordance with national and EU 
+regulations, assessments must be carried out when the assets have 
+an expected impact on the environment and population, including 
+human health and living conditions, material goods, monuments, and 
+landscape (including cultural landscape). 
+ 
+Good 
+Section 2: The issuer identifies the impacts in larger context (spatially and temporally) beyond the asset/site (i.e. the impacts of the underlying assets and projects on the broader ecosystem and stakeholders in that 
+ecosystem) 
+2.1 Processes should be in place (as part of both the asset design and ongoing management) to assess 
+the impact of the waste management asset on the climate resilience of other stakeholders in the 
+social, economic, and environmental system in which it operates and how to mitigate  or reduce 
+any negative impacts 
+These assessments address: 
+- Any ways in which waste management facilities might 
+- affect the climate resilience of other stakeholders? 
+- Any ways in which waste management facilities improve the adaptation capacity of other 
+users/stakeholders? 
+- For example, they may include: 
+- Impact on water quality and quantity for other users in the basin 
+- Waste and pollution emitted 
+- Fire hazards 
+Project Combo 
+The Issuer reports the plant will not have negative effects on the 
+climate resilience of other stakeholders since the plant will not 
+produce any waste that requires disposal or landfilling. 
+ 
+The Issuer also reports CO2 from the facility will not be emitted to 
+the atmosphere but captured and used as technical gas in food 
+industry or as feed for future Carbon Capture and utilization (CCU) 
+installations. 
+ 
+Good 
+Project Pigoz 
+The Issuer indicates that the processes in place to prevent and 
+reduce the negative impact of the project will be accepted by the 
+regulatory authorities of EU countries, in accordance with the 
+required EIAs.    
+Good 
+  
+ 
+M a y 2021   
+ 
+12 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF PREPARATION AND RECYCLING FACILITIES 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Orlen-Unipetrol – chemical recycling 
+The Issuer quotes a life-cycle assessment study conducted by Sphera 
+for BASF Group 2  which concluded that the chemical recycling 
+(pyrolysis) of mixed plastic waste – the process used in these projects 
+- emits 50% less CO2 than incineration of mixed plastic waste. 
+ 
+Good 
+Orlen Unipetrol - mechanical and chemical recycling 
+The Issuer will report the possibilities and methods for preventing 
+and reducing the negative impacts of the project on the environment. 
+Project will be analysed and accepted by regulatory authorities in 
+accordance with EIA in EU countries. 
+ 
+Good 
+Section 3: The issuer has designed and implemented strategies to mitigate and adapt to these climate risks and vulnerabilities 
+3.1 An adaptation plan has been designed and is being implemented to address the risks identified in 
+the assessments above. 
+The issuer has designed or amended asset maintenance plans to ensure that scheduled 
+maintenance is sufficient to cope with the ongoing impacts of climate change; and a plan has been 
+established to govern how to approach emergency maintenance needs arising from sudden climate 
+change impacts (e.g. extreme storms). 
+The issuer has training, capacity and governance arrangements in place for how the organisation 
+will deal with the impacts of exceptional events (e.g. droughts, floods, severe pollution event s, 
+extreme storms, winds etc.). 
+The issuer has monitoring and reporting systems and processes to identify high risk scenarios. 
+The issuer has contingency plans to address disruption to operations or loss of the asset and any 
+resulting environmental or social damage. 
+The issuer has processes for feeding risk assessment back into decision-making. 
+Project Combo 
+The Issuer indicates that the risks of major accidents as well as 
+natural and construction disasters will be assessed through EIA and 
+will be accepted by regulatory authorities for EU countries at the 
+appropriate stage of the project. 
+ 
+Good 
+Project Pigoz 
+The Issuer indicates that the risks of major accidents as well as 
+natural and construction disasters will be assessed through EIA and 
+will be accepted by regulatory authorities for EU countries at the 
+appropriate stage of the project. 
+ 
+The Issuer also reports the required scope of monitoring will be  
+controlled. 
+ 
+Good 
+ 
+2 https://www.basf.com/global/en/who-we-are/sustainability/we-drive-sustainable-solutions/circular-economy/mass-balance-approach/chemcycling/lca-for-chemcycling.html 
+M a y 2021   
+ 
+13 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF PREPARATION AND RECYCLING FACILITIES 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+The issuer has a budget allocated to implementing the adaptation plan and has a named member 
+of staff responsible for its implementation. 
+The issuer complies with any existing broader or higher-level adaptation plans, such as NAPAs. 
+Orlen-Unipetrol –mechanical and chemical recycling 
+The Issuer indicates that the risks of major accidents as well as 
+natural and construction disasters will be assessed through EIA and 
+will be accepted by regulatory authorities for EU countries at the 
+appropriate stage of the project. 
+ 
+The Issuer also reports the required scope of monitoring will be  
+controlled. 
+ 
+Good 
+ 
+  
+M a y 2021   
+ 
+14 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+ 
+5. Marine Renewables Version 2.0:  
+5.1. Disclosure component: In the interests of transparency and disclosure, Issuer of Certified Climate Bonds are required to publicly disclose the following in respect to the assets and use of 
+proceeds incorporated in that issuance:  
+The Issuer has created a dedicated website3 for the Selected Project. The following information will be publicly accessible on the website: 
+REQUIREMENT DISCLOSURE EVIDENCE MET 
+1 
+Project location and size, including description of marine coastal 
+ecosystem in proximity to planned installations, noting for example 
+whether located in marine protected areas or vulnerable marine 
+ecosystems 
+The project is located 23 km to the north of the Polish coastline, on the level of Choczewo and Łeba, in 
+the Polish Exclusive Economic Zone in the Baltic Sea.4 yes 
+2 Projected lifespan of the asset/project Projected lifespan if 25 years.  yes 
+3 
+Key stakeholders involved, including other users of the area and 
+surrounding area (sea, land or air depending on what is applicable) 
+of the facility (ies) 
+The engagement of key stakeholders is described in the Environmental Impact Assessment (EIA) Report. 
+yes 
+4 Description of the project activities including details on installation, 
+operation and decommissioning activities 
+Whole description of the project activities is included in the EIA Report.  
+yes 
+5 Expected/current facility capacity and generation during and after 
+the life of the bond 
+As reported in the project website, the Issuer holds a licence to construct an up to 1.2 GW wind farm, 
+but its final capacity will depend on a number of factors, such as the geological conditions of the Baltic 
+Seabed, environmental conditions and technological developments. 
+yes 
+6 Details of where the energy generated is being fed into, and 
+estimated impact of the grid mix 
+As reported in the project website the infrastructure to be built in Choczewo will receive electricity from 
+the offshore wind farm and transmit it into the national power grid. In the onshore section, 220 kV 
+underground cables will be laid as an extension of the submarine cables. They will carry the electricity 
+to Żarnowiec Bis, a new substation under construction whose precise locati on is yet to be determined, 
+and further by transmission lines to locations across Poland. 
+The expected impact on the grid is of Baltic Power estimated impact on the grid mix will be ca. 1,2 
+GW/ca. 50GW (2,4%). 
+yes 
+ 
+3 https://www.balticpower.pl/ 
+4 https://www.balticpower.pl/about-the-project/  
+M a y 2021   
+ 
+15 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+REQUIREMENT DISCLOSURE EVIDENCE MET 
+7 Projected avoided GHG emissions compared to fossil fuel 
+counterfactual (in kgCO2e) using recognised conversion factors 
+Expected avoided GHG emissions compared to fossil fuel counterfactual (in mgCO2e): 3,03 m tons 
+CO2 annually. 
+yes 
+8 The planning standards, environmental regulations and other 
+regulations that the project has been required to comply with 
+Pursuant to the Regulation of the Council of Ministers of 10 September 2019 on projects that may have 
+a significant impact on the environment (Jour nal of Laws of 2019, item 1839), the Baltic Power OWF 
+project is classified as a project that may always have a significant impact on the environment, and 
+therefore it required an environmental impact assessment that included: 
+- Verification of environmental impact assessment report 
+- Obtaining opinions and approvals required by law 
+- Ensuring the possibility of public participation in the procedure. 
+ 
+yes 
+ 
+ 
+5.2. Mitigation Component  
+Marine Renewable Energy Dedicated transmission infrastructure automatically pass the mitigation component when in compliance with the requirement that Fossil fuel back up can only be used 
+for restart capability and monitoring, operating or resilience measures in the event of no power in the system. 
+ 
+ 
+ 
+ 
+  
+M a y 2021   
+ 
+16 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+5.3. Adaptation & Resilience Requirements 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF A MARINE RENEWABLE ENERGY FACILITY 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Section 1: The issuer understands the climate related risks and vulnerabilities to the asset/ site 
+1.1 Processes are in place (as part of both the asset design and ongoing management) to assess key risks to 
+the assets from a changing climate and its impact on marine conditions 
+These key risks should include the following, plus any others felt to be of concern for the 
+operation of these assets. The risks should be identified and interpreted in terms of the impact on the asset 
+and the related effects for the business – e.g. impact on operating feasibility and schedules and potential 
+system outages, impact on maintenance requirements etc. 
+For all facilities 
+- Sea level rise and storm surge 
+- Extreme precipitation and flooding 
+- Increase in geophysical hazards such as earthquakes, tsunamis, vo lcanic eruptions, and 
+landslides 
+- Changes in wind and storm patterns and intensity 
+- Changes in ocean temperature, currents, and salinity levels 
+The issuer understands what level of climate change would mean the asset/site is no longer viable and 
+understands under which climate change scenarios this would happen. 
+These processes and assessments use climate information, modelling and scenarios based on peer 
+reviewed methodologies and literature and considering the variability in modelled scenarios. 
+If a project does not have any climate related risks or vulnerabilities evidence must be given to show how 
+this was determined. 
+ 
+ 
+ 
+ 
+ 
+ 
+The Issuer provided the Baltic Power Offshore Windfarm (OWF) 
+project's Environmental Impact Assessment Report (EIA). 
+According to the IEA, the project received a permit of the Polish 
+Minister of Transport, Construction and Maritime Economy for 
+construction and use of artificial islands, structures, and devices in 
+the Polish Maritime Areas.  
+Pursuant to the Regulation of the Council of Ministers of 10 
+September 2019 on projects that may have a significant impact on 
+the environment (Journal of Laws of 2019, item 1839), the Baltic 
+Power OWF project is classified as a project that may always have 
+a significant impact on the environment, and therefore it required 
+an environmental impact assessment that included: 
+- Verification of environmental impact assessment report 
+- Obtaining opinions and approvals required by law 
+- Ensuring the possibility of public participation in the 
+procedure. 
+ 
+The EIA included several surveys on the abiotic and biotic 
+elements of the marine environment where the project is located. 
+Good 
+M a y 2021   
+ 
+17 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF A MARINE RENEWABLE ENERGY FACILITY 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Section 2: The issuer understands the improvements and impacts in the larger context (spatially and temporally) beyond the asset/site. (i.e. the impacts of their own assets and activities on the broader ecosystem and 
+stakeholders in that ecosystem) 
+2.1 Processes are in place (as part of both the asset design, ongoing operation and 
+decommissioning) to assess the improvements and impacts the asset has on the resilience of other 
+stakeholders in the system in which it operates 
+These assessments address: 
+- Any ways in which renewable energy facilities might affect, both positively and negatively, the 
+climate resilience of other marine users or relevant/local stakeholders/communities 
+- Any ways in which renewable energy facilities improve the adaptation capacity of other marine 
+users or relevant/local stakeholders/communities. 
+e.g. Any potential impacts on other marine stakeholders of a highly dense concentration of renewable 
+energy facilities or associated transmission lines? 
+e.g. Any potential impacts that renewable energy facilities may have on coastal resilience by taking strength 
+out of the wind, waves, tidal flows, tidal range or by altering sedimentation processes? 
+If a project does not have any impacts beyond the asset/site evidence must be given to show how this was 
+determined. 
+The Environmental Impact Assessment (EIA) cover all relevant 
+impacts in the larger context, including the construction and 
+exploitation phase as well as the decommissioning phase. 
+ 
+Good 
+Section 3: The issuer has designed and implemented strategies to mitigate and adapt to these climate risks and vulnerabilities 
+3.1 An adaptation plan has been designed and is being implemented to address the risks 
+identified in assessments outlined above. 
+All risks identified are being addressed in the design and management of the asset. 
+The issuer has designed or amended asset maintenance plans to ensure that scheduled 
+maintenance is sufficient to cope with the ongoing impacts of climate change and a plan has been 
+established to govern how they approach emergency maintenance needs arising from sudden climate 
+change impacts (e.g. extreme storms) 
+The issuer has remotely controlled or automated shutdown procedures, training, capacity, and governance 
+arrangements in place to manage the impacts of exceptional events (such as extreme storms, winds etc.) 
+The issuer has monitoring and reporting systems and processes to identify high risk scenarios 
+The EIA includes an assessment of the main Environmental Threats 
+throughout the Construction and Exploitation phases. 
+ 
+The EIA Report states the Issuer has implemented collision and 
+leakage management plans for the duration of the project, aimed 
+at minimising the impact of such events on marine organisms, in 
+accordance with the applicable laws. 
+Good 
+M a y 2021   
+ 
+18 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF A MARINE RENEWABLE ENERGY FACILITY 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+The issuer has contingency plans to address disruptions to operations or loss of the asset and any resulting 
+environmental or social damage. 
+The issuer has processes for feeding risk assessments back into decision making 
+The issuer has a budget allocated to implementing the adaptation plan and has a named member of staff 
+responsible for its implementation. 
+The issuer complies with any existing broader or higher-level adaption plans, such as NAPAs. 
+ 
+ 
+3.2 Inspections are carried out regularly and there is a maintenance regime in place for future inspections with 
+evidence that this is adhered to. 
+The proposal for the monitoring of the environmental impact of the 
+project includes the schedules of individual monitoring surveys. 
+According to the EIA report, the surveys for the assessment of the 
+abiotic and biotic elements of the marine environment are 
+conducted at least annually. These include geophysical, 
+meteorological, hydrological, geochemical, and acoustic surveys. 
+Good 
+Section 4: Issuer is pursuing strategies that promote resilience and adaptation across the area in which it operates and beyond 
+4.1 Issuer is involved in stakeholder engagement and collaboration (e.g. policy development, 
+consultation, collaboration, and active engagement with other marine users) 
+e.g. Engaging in hazard response planning for the area, or recovery planning and operations after severe 
+events 
+e.g. Pursuing potential climate resilience benefits for the local area that could be delivered by the marine 
+renewable energy facility, such as a tidal lagoon providing additional storm surge protection for local towns 
+e.g. Alterations made to day-to-day operating procedures in response to stakeholder 
+engagement 
+The EIA Report indicates the projects of strategic documents along 
+with environmental impact forecasts were subject to a public 
+participation procedure along with social consultations conducted 
+by the competent administrative authorities prior to their adoption. 
+The report identified the different stakeholders involved including 
+administration and state institutions, local government units and 
+institutions, trade organisations, including fishing organisations, 
+among others. 
+As part of the preparation of the EIA Report, information meetings 
+were held with the representatives of fishermen organisations in 
+March 2020. The main conclusions of these meeting have also 
+been disclosed in the report.  
+ 
+ 
+ 
+ 
+Good 
+M a y 2021   
+ 
+19 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF A MARINE RENEWABLE ENERGY FACILITY 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+Section 5: Issuer is delivering positive impacts (or no harm) in terms of key sustainability indicators 
+5.1 The asset or project does not put in jeopardy endangered or at -risk species or habitats or  unduly impact 
+ecosystem services.  Where there are possible negative impacts to habitats,  species, biodiversity, or 
+ecosystem services, mitigation measures are implemented to offset the negative impacts. 
+E.g. Noise and vibration generated by marine renewable energy arrays may disrupt animals, such as marine 
+mammals, fish, birds, turtles, and invertebrates that rely on sound for navigation  and other essential 
+functions. The potential for collision -related injury or mortality of marine  animals is a key parameter for 
+impact assessment, particularly for tidal energy projects. 
+Alteration of water circulation, sediment transport, and other physical flows by marine  renewable energy 
+devices as well as introduction of new electromagnetic fields (e.g. via suspended or seafloor cables) may 
+negatively impact habitat quality. This might be especially  relevant for tidal barrage but  should be 
+considered for all marine renewable arrays. 
+N.B. In many jurisdictions this will be well covered by existing regulatory or licensing 
+requirements, and thos e can be referenced here if they provide sufficient evidence to cover this  
+requirement. 
+The Environmental Impact Assessment cover all relevant impacts in 
+terms of habitats, species, biodiversity, or ecosystem service.  
+ 
+Good 
+5.2 Waste is responsibly dealt with, including appropriate disposal of construction waste and oil-based 
+lubricants, including recycling options where possible. Also, reuse or recycling where possible of 
+equipment after decommissioning. 
+ 
+N.B. In many jurisdictions this will be well covered by existing regulatory or licensing 
+requirements, and those can be referenced here if they provide sufficient evidence to cover this  
+requirement. 
+The Issuer reports in each phase of the project implementation, 
+mandatory legal requirements and good practices will be applied 
+regarding waste and sewage treatment. 
+The Issuer also states a ll vessels involved in the project will meet 
+the requirements and will comply with the regulations resulting 
+from the International Convention for the Prevention of Pollution 
+from Ships (MARPOL 73/78), including, in particular, the 
+procedures contained in “Shipboard Oil Pollution Emergency 
+Plans”. 
+The expected types and quantities of waste generated during the 
+exploitation phase of the project were i dentified and included in 
+the EIA report in accordance with the Regulation of the Minister of 
+the Environment of 02 January 2020 on Waste Catalogue. 
+Good 
+M a y 2021   
+ 
+20 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+CHECKLIST FOR EVALUATING THE ISSUER’S ADAPTATION & RESILIENCE PERFORMANCE IN RESPECT OF A MARINE RENEWABLE ENERGY FACILITY 
+ITEM PROOF GIVEN OVERALL ASSESSMENT 
+5.3 The issuer has recognised and listed the potential risks for accidental site contamination either from leakage 
+of hydraulic fluid (or any other potential pollutant) or from wreckage/debris on the seabed. Demonstrable 
+steps have been taken to minimise these risks and plans have been made for clean -up should a site 
+contamination event occur. 
+ 
+ 
+The Environmental Impact Assessment cover all relevant impacts in 
+terms of risks for accidental site contamination. 
+Good 
+5.4 Decommissioning of the plant is planned in a way that considers the environmental impacts.  
+ 
+N.B. In many jurisdictions this will be well covered by existing regulatory or licensing 
+requirements, and those can be referenced here if they provide sufficient evidence to cove r this 
+requirement. 
+ 
+The EIA report states the decommissioning phase is a reversal of 
+the OWF project construction phase. In the reverse order of the 
+construction phase, individual OWF components will be removed 
+and transported to disposal sites. 
+ 
+Good 
+5.5 Issuer has plans and processes in place to effectively manage and minimise conflict with other users of the 
+marine and coastal space. 
+ 
+N.B. In some jurisdictions this will be well covered by existing regulatory or licensing 
+requirements, national or regional marine plans and/ or marine spatial plans, and the application of or 
+conformity with these regulations or plans can be referenced here if they provide sufficient evidence to 
+cover this requirement. 
+The EIA report includes an analysis of possible social conflicts 
+related to the planned project, including the analysis of impacts on 
+the local community. 
+The public consultations for the implementation of the project were 
+based on national and EU legal requirements. 
+The project is located in the Baltic Sea within the Polish Exclusive 
+Economic Zone (EEZ), north of the seashore, at the height of Rowy-
+Łeba towns, at a distance of approx. 23 to 36 km from the shore.  
+According to the EIA Report, the target groups for conducting 
+information meetings were selected taking into account a number 
+of criteria such as, the nature of the project, its location, potential 
+impacts of the planned project, and the degree and type of interest 
+of various social groups identified during other investments at sea. 
+Good 
+ 
+  
+M a y 2021   
+ 
+21 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E and is protected by the provision of the French Intellectual Property Code. 
+List of supporting elements provided by the Issuer for Pre-Issuance verification: 
+- PKN’s Green Financing Framework 
+- Answer to V.E’s Questionnaire 
+- Report on the Environmental Impact Assessment of the Baltic Power Offshore Wind Farm 
+- PKN recycling projects list 
+- List of Eligible Projects 
+ 
+ 
+M a y 202 1   
+ 
+22 
+Copyright V.E 2021 – Reproduction of this content in whole or in part are prohibited without the express written authorization of V.E 
+and is protected by the provision of the French Intellectual Property Code. 
+DISCLAIMER 
+Transparency on the relation between V.E and the Issuer: V.E has not carried out any audit mission or consultancy activity for PKN Orlen . No established 
+relation (financial or commercial) exists between V.E and the Issuer. V.E’s conflict of interest policy is covered by its Code of Conduct, which can be found 
+at http://vigeo-eiris.com/wp-content/uploads/2018/07/Code-of-Conduct-Vigeo-Eiris-EN.pdf. 
+This opinion aims at providing a post-issuance independent review on the sustainability credentials and management of the Bonds based on the information 
+which has been made available to V.E. V.E has neither interviewed stakeholders out of the Issue r’s employees, nor performed an on -site audit nor other 
+test to check the accuracy of the information provided by the Issuer. The accuracy, comprehensiveness and trustworthiness of the information collected are 
+a responsibility of the Issuer. Providing thi s review does not mean that V.E certifies the effectiveness, the excellence or the irreversibility of the assets 
+financed by the Bonds. The Issuer is fully responsible for attesting the compliance with its commitments defined in its polic ies, for their imp lementation 
+and their monitoring. The opinion delivered by V.E neither focuses on the financial performance of the Bonds, nor on the effective allocation of its 
+proceeds. V.E is not liable for the induced consequences when third parties use this opinion either to make investments decisions or to mak e any kind of 
+business transaction. 
+Restriction on distribution and use of this opinion: the opinion is provided by V.E to the Issuer and can only be used by the Issuer. The distribution and 
+publication are at the discretion of the Issuer, submitted to V.E approval. 
+ 
+© 2021 Vigeo SAS and/or its licensors and subsidiaries (collectively, “V.E”). All rights reserved.  
+ 
+V.E’S RESEARCH DOES NOT ADDRESS NON -ESG FACTORS AND/OR RISKS, INCLUDING BUT NOT LIMITED TO: CREDIT RISK, LIQUIDITY RISK, 
+MARKET VALUE RISK, OR PRICE VOLATILITY. V.E’S RESEARCH DOES NOT CONSTITUTE STATEMENTS OF CURRENT OR HISTORICAL FACT. V.E’S 
+RESEARCH: (i) DOES NOT CONSTIT UTE OR PROVIDE CREDIT RATINGS OR INVESTMENT OR FINANCIAL ADVICE; (ii) IS NOT AND DOES NOT 
+PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR HOLD PARTICULAR SECURITIES; AND (iii) DOES NOT COMMENT ON THE SUITABILITY 
+OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. V.E ISSUES ITS RESEARCH WITH THE EXPECTATION AND UNDERSTANDING THAT EACH 
+INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR 
+PURCHASE, HOLDING, OR SALE.  
+ 
+V.E’S RESEARCH IS NOT INTENDED FOR USE B Y RETAIL INVESTORS AND IT WOULD BE RECKLESS AND INAPPROPRIATE FOR RETAIL INVESTORS 
+TO USE V.E’S RESEARCH WHEN MAKING AN INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER 
+PROFESSIONAL ADVISER. V.E’S RESEARCH IS NOT INTENDED FOR USE  BY ANY PERSON AS A BENCHMARK AS THAT TERM IS DEFINED FOR 
+REGULATORY PURPOSES AND MUST NOT BE USED IN ANY WAY THAT COULD RESULT IN THEM BEING CONSIDERED A BENCHMARK.  
+ 
+ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPY RIGHT LAW, AND NONE OF SUCH 
+INFORMATION MAY BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, 
+REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNE R 
+OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT V.E’S PRIOR WRITTEN CONSENT.  
+ 
+ALL INFORMATION CONTAINED HEREIN IS OBTAINED BY V.E FROM SOURCES BELIEVED BY IT TO BE ACCURATE AND RELIABLE. BECAUSE OF THE 
+POSSIBILITY OF HUMAN OR MECHANICAL ERROR AS WELL A S OTHER FACTORS, HOWEVER, ALL INFORMATION CONTAINED HEREIN IS 
+PROVIDED “AS IS” WITHOUT WARRANTY, EXPRESS OR IMPLIED, OF ANY KIND, INCLUDING AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, 
+MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE. V.E IS NOT AN A UDITOR AND CANNOT IN EVERY INSTANCE INDEPENDENTLY 
+VERIFY OR VALIDATE INFORMATION IT RECEIVES.  
+ 
+To the extent permitted by law, V.E and its directors, officers, employees, agents, representatives, licensors and suppliers (together, “V.E Parties”) disclaim 
+liability to any person or entity for any (a) indirect, special, consequential, or incidental losses or damages, and (b) dire ct or compensatory losses or 
+damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, wilful misconduct or any other type of liability 
+that, for the avoidance of doubt, by law cannot be excluded); on the part of, or any contingency within or beyond the control  of any V.E Party, arising 
+from or in connection with the information contained herein or the use of or inability to use any such information .

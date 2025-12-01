@@ -1,0 +1,1097 @@
+© Sustainalytics 2021 
+ 
+ 
+Second-Party Opinion 
+Mastercard Sustainability Financing 
+Framework  
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the Mastercard Sustainability Financing Framework 
+is credible and impactful and aligns with the Sustainability Bond Guidelines 2018, Green 
+Bond Principles 2018, Social Bond Principles 2020 and Green Loan Principles 2018. This 
+assessment is based on the following:   
+ 
+ The eligible categories for the use of proceeds – 
+Green Buildings, Energy Efficiency, Renewable Energy, Eco-efficient 
+and/or Circular Economy Adapted Products, Production 
+Technologies and Processes, Pollution Prevent ion and Control, 
+Environmentally Sustainable Management of Living Natural 
+Resources and Land Use, Climate Change Adaptation, Mastercard 
+Impact Fund, COVID -19 Response, In Solidarity  and Commercially 
+Sustainable Social Impact – are aligned with those recognized by the 
+Green Bond Principles 2018, Social Bond Principles 2020 and Green 
+Loan Principles 2020.  Sustainalytics considers that the eligible 
+categories will lead to positive environmental or social impacts and 
+advance the UN Sustainable Development Goals, specifically SDG 7, 
+8, 9, 10, 12, 13 and 15. 
+ 
+ Mastercard’s eligible projects 
+will be evaluated and selected by a dedicated committee made up of 
+representatives from the Company’s sustainability, finance and legal 
+teams. Sustainalytics considers the project selection process to be 
+in line with market practice.  
+ 
+ Net proceeds will be managed by 
+Mastercard ’s Finance department. The Company intends to fully 
+allocate and/or disburse proceeds within 36 months of issuan ce of 
+financing transactions. Pending full allocation, the  proceeds will 
+temporarily be invested according to the Company’s normal liquidity  
+processes. This is in line with market practice. 
+ 
+ Mastercard intends to report on allocation of proceeds 
+annually on its website  until full allocation . Allocation reporting will  
+be validated by a  nationally recognized accounting firm and  include 
+the balance amount of allocated and unallocated net proceeds, as 
+well as the description of selected projects. The company is also 
+committed to reporting on relevant impact metrics. Sustainalytics 
+views Mastercard ’s allocation and impact reporting as aligned with 
+market practice. 
+ 
+ 
+Evaluation date February 22, 2021 
+Issuer Location New York, USA 
+ 
+Report Sections 
+ 
+ 
+Introduction .................................................. 2 
+Sustainalytics’ Opinion ................................ 3 
+Appendices ................................................ 12 
+ 
+ 
+For inquir ies, contact the  Sustainable 
+Finance Solutions project team: 
+Zach Margolis (Toronto)  
+Project Manager 
+zach.margolis@sustainalytics.com 
+(+1) 647 695 4341 
+Ijeoma Madueke (Toronto) 
+Project Support 
+ijeoma.madueke@sustainalytics.com 
+Zhenyi LV (Toronto)  
+Project Support 
+zhenyi.lv@morningstar.com 
+Paramjot Kaur (New York) 
+Client Relations 
+susfinance.americas@sustainalytics.com 
+(+1) 646 518 9623     
+ 
+  
+
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+2 
+Introduction 
+Mastercard Incorporated (“Mastercard”, or the “Company”) is a global payments technology company  that 
+offers a range of electronic fund transfer solutions to facilitate transactions globally. The Company is 
+headquartered in New York , USA with 21,000 employees serving customers in more than 150 currencies 
+across 210 countries and territories. 
+Mastercard has develope d the Mastercard Sustainability Financing Framework (the “Framework”) under 
+which it intends to issue sustainability bonds, green bonds, social bonds, green loans and other types of 
+financing instruments (each a “Financing Transaction”) and use the proceeds to finance and/or refinance, in 
+whole or in part, existing and/or future projects that demonstrate environmental and/or social benefits . The 
+Framework defines eligibility criteria in seven green areas and four social areas: 
+Green Eligible Categories: 
+1. Green Buildings 
+2. Energy Efficiency 
+3. Renewable Energy 
+4. Eco-efficient and/or Circular Economy Adapted Products, Production Technologies and Processes 
+5. Pollution Prevention and Control 
+6. Environmentally Sustainable Management of Living Natural Resources and Land Use 
+7. Climate Change Adaptation 
+ 
+Social Eligible Categories: 
+1. Mastercard Impact Fund 
+2. COVID-19 Response  
+3. In Solidarity  
+4. Commercially Sustainable Social Impact 
+Mastercard engaged Sustainalytics to review the Mastercard Sustainability Financing Framework , dated 
+February 2021, and to provide a Second-Party Opinion on the Framework’s environmental and social 
+credentials and its alignment with the Sustainability Bond Guidelines 2018 (SBG),1 Green Bond Principles 2018 
+(GBP), Social Bond Principles 2020 (SBP) and Green Loan Principles 2018 (GLP),2 This Framework has been 
+published in a separate document.3  
+Scope of work and limitations of Sustainalytics’ Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent4 opinion on the alignment of the 
+reviewed Framework with the current market standards and the extent to which the eligible project categories 
+are credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with the GBP, SBP, and SBG (as administered by ICMA) and the GLP; 
+• The credibility and anticipated positive impacts of the use of proceeds; and 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version  1.7.1, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+ 
+1 The Sustainability Bond Guidelines are administered by the International Capital Market Association and are available at 
+https://www.icmagroup.org/green-social-and-sustainability-bonds/sustainability-bond-guidelines-sbg/ 
+2 The Green Loan Principles are administered by the International Capital Market Association and are available at: 
+https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/LMA_Green_Loan_Principles_Booklet-220318.pdf  
+3 The Mastercard Sustainability Financing Framework is available on Mastercard ’s website at: 
+https://investor.mastercard.com/Sustainability/default.aspx 
+4 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore put in place a robust conflict management 
+framework that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial and research 
+(and engagement) teams, data protection and systems separation. Last but not the least, analyst compensation is not directly tied to specific 
+commercial outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+3 
+As part of this engagement, Sustainalytics held conversations with various members of Mastercard’s 
+management team to u nderstand the sustainability impact of their business processes and planned use of 
+proceeds, as well as management of proceeds and reporting aspects of the Framework. Mastercard 
+representatives have confirmed (1) they understand it is the sole responsibili ty of Mastercard to ensure that 
+the information provided is complete, accurate or up to date; (2) that they have provided Sustainalytics with 
+all relevant information and (3) that any provided material information has been duly disclosed in a timely 
+manner. Sustainalytics also reviewed relevant public documents and non-public information. 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. 
+Any update of the present Second -Party Opinion will be conducted according to the agreed engagement 
+conditions between Sustainalytics and Mastercard. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with market 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects expected to be financed with bond proceeds but does not measure the actual impact. The 
+measurement and reporting of the impact achieved through projects financed under the Framework is the 
+responsibility of the Framework owner.  
+In addition, the Second-Party Opinion opines on the potential allocation of proceeds but does not guarantee 
+the realised allocation of the bond proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument, either in favour or against, the truthfulness, reliability 
+or completeness of any facts or statements and related surrounding circumstances that Mastercard has 
+made available to Sustainalytics for the purpose of this Second-Party Opinion.   
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the Mastercard Sustainability Financing 
+Framework  
+Sustainalytics is of the opinion that the Mastercard Sustainability Financing Framework is credible, impactful 
+and aligns with the four core components of the GBP , SBP, SBG  and GLP . Sustainalytics highlights the 
+following elements of Mastercard ’s Sustainability Financing Framework: 
+• Use of Proceeds:  
+- The eligible categor ies – Green Buildings, Energy Efficiency , Renewable Energy, Eco-efficient 
+and/or Circular Economy Adapted Products, Production Technologies and Processes, Pollution 
+Prevention and Control, Environmentally Sustainable Management of Living Natural Resources 
+and Land Use , Climate Change Adaptation , Mastercard Impact Fund , COVID-19 Response, In 
+Solidarity, Commercially Sustainable Social Impact  – are aligned with those recognized by the 
+GBP, SBP and GLP.  
+- The Framework defines three-year lookback period for its refinancing activities, 5  which 
+Sustainalytics considers to be in line with market practice. 
+- Within the Green Buildings category, Mastercard contemplates expenditures related to building 
+development, upgrade, and white box build outs. 
+▪ Mastercard intends to use reputable third -party certification schemes to determine 
+green building eligibility for buildings. The Framework specifies minimum standards of 
+LEED Gold, BREEAM Excellent or other equivalent certification. Sustainalytics has 
+conducted an evaluation of these certification sch emes and considers them to be 
+robust and credible. See Appendix 1 for further description of the referenced building 
+standards. 
+▪ The Framework specifies that in addition to buildings which meet the above-referenced 
+levels of certification, Mastercard may consider as eligible, expenditures related to the 
+ 
+5 Unless otherwise noted in the bond documentation 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+4 
+upgrade of its offices in Belgium which are anticipated to achieve BREEAM Very Good 
+certification. While Sustainlaytics considers BREEAM Excellent to be best practice, the 
+use of Very Good for a refurbished b uilding is anticipated to deliver positive impacts 
+overall, and Sustainlaytics encourages Mastercard to strive for energy performance in 
+line with the requirements of BREEAM Excellent. 
+▪ As it relat es to white box buildouts, 6  the Framework defines an energy  intensity 
+threshold of 10 kWh/square foot for the project to be considered eligible. Sustainalytics 
+views this threshold to be indicative of strong environmental performance, while noting 
+that in leased buildings the share of total energy usage covered by this metric may vary 
+based on the building services under the control of the landlord or tenant.  
+- Mastercard’s investment in the Energy Efficiency category  is targeted at a range of projects in 
+technology infrastructure  and real estate . For the real estate expenditures, t he Company is 
+considering upgrades and retrofits such as LED lights and building heating and cooling systems. 
+Mastercard has confirmed that upgrading fossil-powered equipment is not eligible unde r the 
+Framework. Sustainalytics views favourably that the Framework defines a quantitative minimum 
+improvement threshold in energy efficiency of 20% compared to the baseline performance. 
+- Renewable Energy expenditures under the Framework may include the acquisition or 
+development of new onsite or offsite generation projects in wind power, solar power, geothermal 
+power with direct emissions less than 100gCO2/kWh, 7  and hydropower with an ins talled 
+capacity of no more than 25 MW.  
+▪ In addition to investing directly in projects, the Company intends to procure electricity 
+via power purchase agreements (PPAs) and purchase project -specific fixed -price 
+renewable energy certificates (RECs). Mastercard confirms that PPAs and RECs will be 
+long-term agreements, which Sustainalytics views as providing greater assurance of 
+positive impacts and aligned with market practice. 
+▪ As part of the same category, Mastercard contemplates investments in new and/or 
+existing energy storage capacity assets or via services under long -term capacity 
+agreements, which Sustainalytics considers to be aligned with market expectation. 
+- The Framework’s category of Eco-efficient and/or Circular Economy Adapted Products, 
+Production Te chnologies and Processes contemplates investments related to e nabling 
+environmental benefits through the use of Mastercard’s products and services. 
+▪ Sustainalytics views positively projects related to supporting customers in monitoring 
+and addressing the carbon impact of their purchases, considering this enabling 
+technology to be in line with market expectations. 
+- Within the Pollution Prevention and Control category, Mastercard is con sidering various 
+initiatives related to waste reduction  and equipment electrification . Sustainalytics notes the 
+following: 
+▪ Mastercard may consider eligible, expenditures related to the reduction and recycling 
+of waste at its c orporate offices . Sustainalytics considers such investments to be 
+aligned with market expectation. 
+▪ Switching equipment away from being powered by fossil-fuel to electric power. In this 
+regard, Mastercard has confirmed that the proceeds under the Framework will not be 
+used for the improvements and/or installation of fossil fuel equipment . Sustainalytics 
+views such investments as having environmental benefits and to be aligned with 
+market expectation. 
+- Mastercard may finance under the Framework’s Environmentally Sustainable Ma nagement of 
+Living Natural Resources and Land Use  category, forestation and tree planting initiatives. 
+Sustainalytics views favourably such activities, noting that Mastercard has disclosed that it is 
+not involved in commercial-scale forestry or post-harvest replanting. 
+- Within the area of Climate Change Adaptation , Mastercard may invest in projects which are 
+intended to increase the resiliency of the Company’s physical assets to the effects of climate 
+change. Mastercard has disclosed that it is in the process of conducting asset-level vulnerability 
+ 
+6 A white box buildout refers to the outfitting of a tenant-controlled space leased within a building and generally includes the installation of finishings, IT 
+or other process equipment, and tenant-specific electrical fixtures.  
+7 This threshold is considered to be in line with the 2-degree compliant transition, and has been espoused by the EU Technical Expert Group on 
+Sustainable Finance and the Climate Bonds Initiative. 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+5 
+assessments, which will inform such investment decisions  and Sustainalytics views this to be 
+aligned with market expectations. Sustainalytics further notes  the importance that  adaptation 
+measures do not adversely affect broader resiliency efforts, and as such highlights Mastercard’s 
+management of Environmental and Social risks (see Section 2). 
+- Proceeds raised under the Framework  may finance contributions to  the Mastercard Impact 
+Fund, namely those in the areas of Financial Security, Economic Development, the Future of 
+Workers, and Data for Social Impact.  
+▪ While these activities are philanthropic in nature, Sustainalytics highlights that the 
+mission of the Mastercard Impact Fund is in these areas aligned with Mastercard’s 
+objectives.  
+▪ As recommended by the Social Bond Principles, the Framework defines target 
+populations for each of these investment areas. 
+▪ Sustainalytics views positively the expressed intent of these programs and highlig hts 
+that Mastercard’s website discloses past projects which are recognized to have 
+positive impact,8 noting the wide variety of potential activities in this category, and that 
+the Framework does not define clear criteria about how new projects are selecte d or 
+evaluated. Mastercard has disclosed that the Impact Fund is governed by a separate 
+board, and therefore, the Company does not directly control project selection . 
+Mastercard has provided Sustainalytics information on the fund’s project evaluation 
+structure, including how new projects are identified as well as how due diligence and 
+approvals are carried out by internal and external subject-matter experts. Based on the 
+disclosures provided, Sustainalytics is of the opinion that projects funded will be 
+aligned with the intents of the Framework and are anticipated to generate net-positive 
+social impacts . Neve rtheless, Sustainalytics  encourages Mastercard to provide 
+ongoing reporting indicating which projects of the Fund have been funded with bond 
+proceeds and how they meet the objectives of the Framework. 
+- In response to the COVID-19 Pandemic, Mastercard intends to provide supports to small 
+business owners, in the form of no-cost access to products and services which will advance 
+their businesses.9 Sustainalytics recognizes the disproportionate effects that COVID-19, and its 
+consequent economic impacts and regulatory response, have had on small businesses, and 
+therefore views positively these efforts to promote MSMEs.  
+- The In Solidarity category relates to programs and initiatives that support underserved, excluded 
+and/or marginalized populations. Specifically, Mastercard is targeting black -owned business 
+and communities in the United States,10 and will allocate expenditures and investments related 
+to providing products and services. for such entities with the goal to “combat discrimination and 
+racism and to advance inclusion and equality ”.11 Sustainalytics views positively Mastercard’s 
+intent to support black-owned businesses, and notes that this init iative may deliver both direct 
+short-term benefits as well as further the preparation of such companies for the future economy.  
+▪ Sustainalytics highlights that it considers it a market practice to ensure that small 
+businesses are the target of such initiat ives, and encourages Mastercard to prioritize 
+such entities within this category. 
+- Within the Commercially Sustainable Social Impact  category, Mastercard has defined a list of 
+products and services which it may provide to  target populations. These investments could 
+include those geared towards financial inclusion, job creation, microcredit, digital payments and 
+related infrastructure. 
+▪ Target populations may be (i) people living below the poverty line (ii) excluded and/or 
+marginalized populati ons including people with no access to banking or financial 
+services (iii) the unemployed with a focus on advancing their inclusive growth through 
+digitally-enabled initiatives. Additionally, the Company specifies targeting populations 
+located in developing countries, emerging markets, and low to moderate income areas 
+ 
+8 See: https://www.mastercardcenter.org/insights?type=Programs  
+9 Sustainalytics recognizes that there are various approaches to measuring the value of intangible products and services. In this regard, Mastercard has 
+confirmed the intention to benchmark against the market value of the products reflecting the Company’s potential costs of forgone revenue. 
+10 Mastercard has confirmed that the classification for “black-owned business” refers to a company with at least 51% African American ownership 
+structure. 
+11 Eligible products and services could include financial, technology, product, and insight asset programs. 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+6 
+in developed countries , often through support for MSMEs, governments, academic 
+institutions, and NGOs.  
+▪ Sustainalytics recognizes that  these investments could lead to positive social 
+outcomes such as improved connectivity, and better access to financial services for 
+the target populations, while noting the wide variety of potentially eligible initiatives and 
+encouraging Mastercard to report transparently on the benefits achieved. 
+• Project Evaluation and Selection:  
+- Mastercard’s eligible projects are evaluated and selected by a dedicated committee made up of 
+representatives from the Company’s sustainability, finance and legal teams. 
+- Sustainalytics considers that the collaboration between relevant business units strengthens the 
+implementation of the Framework and is in line with market practice. 
+• Management of Proceeds: 
+- Mastercard’s Finance department will be responsible for allocating the net proceeds to eligible 
+projects and actual spend will be monitored using its internal system. The Company intends to 
+fully allocate and/or disburse all proceeds within 36 months from the issuance of any Financing 
+Transaction. Pending allocation, the Company will temporarily invest an equal amount of the 
+unallocated and/or undisbursed balance of proceeds according to Mastercard’s normal liquidity 
+practices. 
+- Based on the defined management approach and the disclosure around management of 
+unallocated and/or undisbursed proceeds, Sustainalytics considers this process to be in line 
+with market practice. 
+• Reporting: 
+- The Company commits to publishing an allocation report on its website , which  will include 
+amounts allocated to eligible projects, the remaining balance of unallocated net proceeds, case 
+studies with additional information on highlighted projects . Furthermore, Mastercard commits 
+to third party verification of each allocation report. 
+- Mastercard intends to report annually on the estimated environmental and/or social impacts of 
+the projects to which it has allocated proceeds. Some of the potental impact metrics include 
+green building assets by certification type and level, annual GHG emissions reduced or avoided, 
+annual energy savings, annual renewable energy generated and purchased, and businesses or 
+individuals reached through programmes. 
+- Sustainalytics considers Mastercard’s allocation and impact reporting processes to be aligned 
+with market practice.  
+Alignment with Sustainability Bond Guidelines 2018 
+Sustainalytics has determined that t he Mastercard Sustainability Financing Framework aligns with the 
+Sustainability Bond Guidelines and the four core components  of the GBP, GLP and SBP . For detailed 
+information please refer to Appendix 2: Sustainability Bond/ Sustainability Bond Programme External Review 
+Form. 
+Section 2: Sustainability Performance of Mastercard 
+Contribution of Framework to Mastercard ’s sustainability performance and strategy 
+Mastercard has demonstrated a commitment to integrating sustainability considerations within its internal 
+operations, supply chain and through its product offerings. The Company’s sustainability mission is centred 
+around the concep t of “ an inclusive, digital economy that benefits everyone ”. Mastercard has implemented 
+quantitative targets  for environmental and social performance , which are  described in its  Corporate 
+Sustainability Report.12  
+The Company highlights its priority on cli mate change by setting out a science -based emissions target that 
+aligns to a 1.5 -degree Celsius climate trajectory  as part of its contribution to the Paris Agreement13. In this 
+regard, Mastercard commits to reducing absolute Scope 1 and 2 GHG emissions 38% as well as absolute 
+ 
+12Mastercard Corporate Sustainability Report 2019 at, https://www.mastercard.us/content/dam/mccom/global/aboutus/Sustainability/mastercard-
+sustainability-report-2019.pdf  
+13 Science Based Targets, “Companies Taking Action”, available at: https://sciencebasedtargets.org/companies-taking-action#table 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+7 
+Scope 3 GHG emissions 20%  by 2025 from a 2016 base year.  Other notable environmental goals and 
+achievement are outlined below: 
+• All campuses and data centers owned by Mastercard  are certified by LEED and about 85% of its 
+global workspaces meet various regional or international green certification standards. Furthermore, 
+Mastercard installed submetering technology across various  offices in order to identify energy -
+saving opportunities to help reach the Company’s science-based emission reduction goals. 
+• Mastercard has been named 2020 Gold-level Green Lease Leader by the U.S. Department of Energy 
+and the Institute for Market Transformation. 
+• In January 2021, Mastercard committed to a target of net zero emissions by 2050, further advancing 
+efforts towards environmental sustainability and building on the Company’s existing commitment to 
+the Science-Based Targets Initiative and the United Nations Business Ambition for 1.5o C. 
+• In April 2020, Mastercard joined RE100, to formalize the Company’s commitment to source 100% 
+renewable electricity across its global operations. To this effect, Mastercard generated about 2,600 
+MWh of renewable energy through solar panels in 2019. 
+• The Company launched the Priceless Plan et Coalition in January 2020 which included a pledge to 
+plant 100 million trees over five years alongside other partners. 
+• In partnership with Doconomy, Mastercard is sensitizing its customers to their environmental impact 
+by equipping its customers with the ability to track and understand their carbon footprint based on 
+their purchases. 
+• Mastercard received an “A” rat ing for supplier engagement from CDP, a global environmental 
+disclosure system, as part of its efforts to make its supply chain more sustainable. 
+Additionally, Mastercard has undertaken various activities and set out social targets as part of its overarching 
+sustainability goal of “inclusive growth”. Some highlights: 
+• The Company has committed to digital inclusion of 1 billion people by 2025 as a means to economic 
+empowerment and reduce inequalities across communities. Two key pillars of this goal are the focus 
+on empowering (i) 50 million micro and small businesses, and (ii) 25 million women -owned and 
+women-run businesses. 
+• Programmes and initiatives such as: 
+- The Mastercard Center for Inclusive Growth (the “Center”) which promotes  equitable and 
+sustainable economic growth. In 2019, the Center partnered with the Rockefeller Foundation to 
+leverage data for social impact and with the Aspen Institute for the Global Inclusive Growth 
+Partnership. 
+- The Mastercard Impact Fund whose investments are administered by the C enter. Grants 
+amounting to $5.26 million were provided to approximately 4 million micro and small business 
+across Pakistan, Peru and Vietnam in 2019 through tools and services that support their growth.  
+- The Mastercard Lab for Financial Inclusion which is based in Nairobi, Kenya and the financial 
+solutions developed are deployed across different countries. This initiative is geared towards 
+providing financial security solutions to individuals as well as micro and small businesses.  
+• Providing digital products to supply chains that are traditionally underserved including Mastercard’s 
+partnership with the Neumann Kaffee Gruppe (NKG) and its Mexican subsidiary, Exportadora de Café 
+California (ECC) that allows farmers to get paid directly by NKG empowering 1,200 farmers as at May 
+2020. 
+Sustainalytics is of the opinion that the Mastercard Sustainability Financing Framework  is aligned with the 
+Company’s overall sustainability strategy and initiatives and will further the Company’s action on its key social 
+and environmental priorities. 
+Well-positioned to address common environmental and social risks associated with the projects  
+While Sustainalytics recognizes that the proceeds from the Financing Transactions under the Framework will 
+be direct ed towards projects that are anticipated to have positive environmental and social impact, such 
+eligible projects could also lead to negative environmental and social outcomes. Some key environmental and 
+social risks associated with the classes of investme nt include employee health and safety , environmental 
+impacts related to the Company’s operations and other activities, legal or consumer finance risks pertaining 
+to financial transactions. 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+8 
+Sustainalytics is of the opinion that Mastercard is able to manage and/or mitigate potential risks through 
+implementation of the following: 
+• Mastercard’s Code of Conduct which guides  its global operations and specifies the Company’s 
+policies as it relates to business ethics, regulatory compliance and overall corporate responsibility.14 
+- This policy requires all its directors, officers, employees and contingent staff to engage in honest 
+and ethical conduct in performing their duties.  
+- As a leading payment service provider in the world  payment service provider s in the world, 
+Mastercard has outlined its approach designed to prevent its products, services and 
+technologies from being used for illegal transactions, corrupt practices and money laundering 
+activities. Furthermore, the Company’s data and privacy policies and programs as well as the 
+global data responsibility imperative  emphasize the Company’s position  on the security and 
+privacy, transparency, control, accountability and integrity of handling personal information. 
+• Mastercard has a Corporate Security Department, People & Capabilities Team and Workplace Safety 
+Team, all of which together reinforce the Company’s commitment to providing safe working physical 
+and virtual environments for its employees. These groups are responsible for and actively manage 
+employee and workplace safety risks  through physical, technical and administrative safety 
+protection.15  
+• Additionally, Mastercard has developed a Supplier Code of Conduct which it requires all suppliers to 
+adhere to. The code specifies the Company’s expectations for health and safety  and no n-
+discrimination in employment practices and an overarching commitment for its supplier to conduct 
+business in a legal, ethical, and socially responsible manner.16  
+• In recognition of its geographical footprint and  environmental stewardship , Mastercard actively 
+monitors and annually reports on its environmental impacts, including GHG emission, renewable 
+energy breakdown, green building and data center management.17  
+• With regards to data and information , Mastercard has established a clear governance structure to 
+ensure the protection of customer data, with the Chief Privacy Officer, Chief Data Officer, and Data 
+Protection Officer designated as responsible for managing the Company’s global privacy program.  
+Based on th ese policies, standards and assessments, Sustainalytics is of the opinion that Mastercard has 
+implemented adequate measures and is well -positioned to manage and mitigate environmental and social  
+risks commonly associated with the eligible categories. 
+Section 3: Impact of Use of Proceeds  
+All eleven use of proceeds categories are aligned with those recognized by GBP , GLP , SBG  or SBP . 
+Sustainalytics has focused on two below where the impact is specifically relevant in  the context of 
+Mastercard’s key business operations. 
+The importance of promoting responsible consumption  
+Over the past 150 years, human activities have been the direct cause of the vast majority of increases in GHG 
+in the atmosphere. 18  According to the United States , Environmental Protection Agency a large share of 
+greenhouse gas emissions are related to activit ies in which individual consumption decisions may have a 
+direct bearing, such as transportation, electricity, powering commercial and residential buildings, a nd 
+agriculture. Together these activities account for 78% of the total GHG emission in the U nited States.19 The 
+average carbon footprint for typical U.S. households is 48 metric tons CO2e/yr, where 10-30% of the emission 
+ 
+14 Mastercard, Code of Conduct, available at: https://s25.q4cdn.com/479285134/files/doc_downloads/code_of_conduct/2021/01/2020-Code-of-
+Conduct-English-Final.pdf 
+15 Mastercard Corporate Sustainability Report 2019 at, https://www.mastercard.us/content/dam/mccom/global/aboutus/Sustainability/mastercard-
+sustainability-report-2019.pdf 
+16 Mastercard, Supplier Code of Conduct, at: 
+https://cddbtesthdi.blob.core.windows.net/sourcelibrary/1014355442/C23B351B82272F05DEECADCBA42582C78DD22726209D2FFF6F5625F51B3E4
+11D.pdf  
+17 Mastercard, Sustainability Report 2019, available at: https://www.mastercard.us/content/dam/mccom/global/aboutus/Sustainability/mastercard-
+sustainability-report-2019.pdf  
+18 United States Environmental Protection Agency, Sources of Greenhouse Gas Emissions, at: https://www.epa.gov/ghgemissions/sources-greenhouse-
+gas-emissions  
+19 United States Environmental Protection Agency, Sources of Greenhouse Gas Emissions, at: https://www.epa.gov/ghgemissions/sources-greenhouse-
+gas-emissions  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+9 
+comes from food, while o ther major household emission sources also include residential electricity use, 
+heating and personal transportation.20  
+Mastercard has recognized the importance of increasing individual awareness of their environmental impacts 
+and the need for  action towards reducing GHG emission s. One tool that the Company has developed is  
+Mastercard Carbon Calculator which enables users to track their personal carbon footprint based on 
+purchasing activities.21 Mastercard highlights the role that purchasing power plays in promoting sustainable 
+and responsible consumption by providing information on patterns, tips on how to reduce carbon emission s 
+as well as offering options for customers to compensate for their emissions through tree planting projects.22  
+Sustainalytics is o f the opinion that Mastercard’s investments in technology that tracks the impact of 
+individual activities will encourage the reduction of  overall emissions, has the potential to drive more 
+sustainable and responsible consumption behaviour and contribute to wards global environmental target s 
+such as the Paris Agreement. 
+Importance of digital financial inclusion in the modern economy 
+Research from the World Bank indicates that an estimated  1.7 billion adults around the world do not have 
+bank accounts, with the largest gaps in financial services existing for individuals based in developing countries 
+in Asia and Africa.23 The low levels of financial inclusion relative to developed countries has been attributed 
+primarily to overall income levels. While about 93% of the population in high income economies have access 
+to banking services, the number is only about 63% for low and middle income economies.24  
+Access to financial services is a key component of economic development due to its  high correlation with 
+access to other basic services such as  housing, healthcare and education. 25 Considering there are more  
+people without access to financial services in underdeveloped and developing regions, t he lack of financial 
+access also limits the potential economic development and poverty reduction for this segment of the world’s 
+population.26  In response, the  World Bank has launched the Universal Financial Access 2020 Initiatives, 
+partnering with 14 banks and financial services companies, including Mastercard, to increase the access to a 
+transaction account for adults globally.27 A variety of the activities which Mastercard may finance are directly 
+related to promoting inclusion in the modern and digital economies, through supports targeted to both end 
+consumers and to small businesses and entrepreneurs. 
+Based on the above , Sustainalytics is of the view that the Mastercard Impact Fund and activities under the 
+Framework related to financial inclusion will have a positive impact on job generation and improve economic 
+growth in developing countries and contribute to reducing the inequalities faced by underserved populations. 
+Alignment with/contribution to SDGs 
+The Sustainable Development Goals (SDGs) were set in September 2015 by the United Nations General 
+Assembly and form an agenda for achieving sustainable development by the year 2030. The Financing 
+Transactions issued under the Mastercard Sustainability Financing Framework advances the following SDGs 
+and targets:  
+ 
+20 University of Michigan, Center for Sustianble Systems,Carbon footprint factsheet, at: http://css.umich.edu/factsheets/carbon-footprint-factsheet  
+21 Mastercard corporate website, Mastercard Carbon Calculator, at: https://www.mastercard.us/en-us/vision/corp-responsibility/priceless-
+planet/carbon-calculator.html  
+22 Mastercard corporate website, Purchasing power plus carbon footprint tracking: https://www.mastercard.com/news/perspectives/2020/purchasing-
+power-plus-carbon-footprint-tracking/ 
+23 The World Bank, Global Financial Inclusion (Global Findex) Database, at: https://datacatalog.worldbank.org/dataset/global-financial-inclusion-global-
+findex-database  
+24 ENIF (2018), “National Survey for Financial Inclusion”, https://www.gob.mx/cms/uploads/attachment/file/435813/ENIF_2018_en.pdf 
+25 United Nations Secetary-General’s Special Advocate for Inclusive Finance for Development, Financial Inclusion, at: https://www.unsgsa.org/financial-
+inclusion 
+26 The World Bank, UFA2020 Overview: Universal Financial Access by 2020, at: https://www.worldbank.org/en/topic/financialinclusion/brief/achieving-
+universal-financial-access-by-2020  
+27 The World Bank, Getting to Universal Financial Access 2020, at: https://www.worldbank.org/en/news/infographic/2016/10/04/getting-to-universal-
+financial-access-2020  
+Use of Proceeds 
+Category 
+SDG SDG target 
+Green Buildings 9. Industry, Innovation 
+and Infrastructure 
+9.4 By 2030, upgrade infrastructure and retrofit 
+industries to make them sustainable, with 
+increased resource-use efficiency and greater 
+adoption of clean and environmentally sound 
+technologies and industrial processes, with all 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+10 
+ 
+  
+countries taking action in accordance with their 
+respective capabilities 
+Energy Efficiency 7. Affordable and Clean 
+Energy 
+7.3 By 2030, double the global rate of 
+improvement in energy efficiency 
+Renewable Energy 7. Affordable and Clean 
+Energy 
+7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix 
+Eco-efficient and/or 
+Circular Economy 
+Adapted Products, 
+Production Technologies 
+and Processes 
+13. Climate Action 13.3 Improve education, awareness-raising and 
+human and institutional capacity on climate 
+change mitigation, adaptation, impact reduction 
+and early warning 
+Pollution Prevention and 
+Control 
+12. Responsible 
+Consumption and 
+Production 
+12.5 By 2030, substantially reduce waste 
+generation through prevention, reduction, 
+recycling and reuse 
+Environmentally 
+Sustainable Management 
+of Living Natural 
+Resources and Land Use 
+15. Life on Land 
+ 
+15.a Mobilize and significantly increase financial 
+resources from all sources to conserve and 
+sustainably use biodiversity and ecosystems 
+Climate Change 
+Adaptation 
+13. Climate Action 13.1 Strengthen resilience and adaptive capacity 
+to climate-related hazards and natural disasters in 
+all countries 
+Mastercard Impact Fund 8. Decent Work and 
+Economic Growth 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Reduced 
+Inequalities  
+8.2 Achieve higher levels of economic productivity 
+through diversification, technological upgrading 
+and innovation, including through a focus on high-
+value added and labour-intensive sectors 
+8.3 Promote development-oriented policies that 
+support productive activities, decent job creation, 
+entrepreneurship, creativity and innovation, and 
+encourage the formalization and growth of micro-, 
+small- and medium-sized enterprises, including 
+through access to financial services 
+10.2 By 2030, empower and promote the social, 
+economic and political inclusion of all, 
+irrespective of age, sex, disability, race, ethnicity, 
+origin, religion or economic or other status 
+COVID-19 Response 
+In Solidarity 
+Commercially 
+Sustainable Social 
+Impact 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+11 
+Conclusion  
+Mastercard has developed the Mastercard Sustainability Financing Framework under which it intends to 
+undertake Financing Transactions and use the proceeds finance and/or refinance, in whole or in part, a range 
+of existing and/or future projects that demonstrate environmental and social benefits. By focusing on 
+activities that minimize the carbon footprint of its operations, supply chain and customer activities as well as 
+providing tools for underserved populations, Mastercard is supporting responsible consumption and inclusive 
+growth. Sustainalytics considers that the projects funded by the sustainable financing are expected to provide 
+positive environmental impact and social impact.  
+The Mastercard Sustainability Financing Framework outlines a process by which proceeds will be tracked, 
+allocated, and managed, and commitments have been made for reporting on the allocation and impact of the 
+use of proceeds. Furthermore, Sustainalytics believes that Mastercard Sustainability Financing Framework is 
+aligned with the overall sustainability strategy of the company and that the use of proceeds categories will 
+contribute to the advancement of  the UN Sustainable Development Goa ls 7, 8, 9 10, 12, 13 and 15.  
+Sustainalytics is of the opinion that Mastercard has adequate measures to identify, manage and mitigate 
+environmental and social risks commonly associated with the eligible projects to which the proceeds have 
+been allocated. 
+Based on the above, Sustainalytics is confident that Mastercard is well -positioned to issue sustainability 
+bonds, green bonds, social bonds, green loans , and that the Mastercard Sustainability Financing Framework 
+is robust, transparent, and in alignment wi th the Sustainability Bond Guidelines (2018) and the four core 
+components of the Green Bond Principles (2018), Social Bond Principles (2020) and Green Loan Principles 
+(2020).  
+  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+12 
+Appendices 
+Appendix 1: Overview of Green Building Certification Schemes 
+  LEED BREEAM 
+Background  Leadership in Energy and 
+Environmental Design (LEED) is a U.S.-
+based, globally-used certification 
+system for the rating of green 
+buildings across various building 
+types. LEED was developed by the non-
+profit U.S. Green Building Council 
+(USGBC) and includes programs 
+covering the design, construction, 
+maintenance and operation of 
+buildings. 
+BREEAM (Building Research 
+Establishment Environmental Assessment 
+Method) was first published by the 
+Building Research Establishment (BRE) in 
+1990.  
+ 
+Based in the UK.   
+ 
+Various schemes for new and refurbished 
+buildings, as well as for the design phase 
+or “in use” phase of a building. 
+Certification levels  Certified 
+Silver 
+Gold 
+Platinum 
+Pass   
+Good   
+Very Good  
+Excellent  
+Outstanding  
+Areas of 
+Assessment: 
+Environmental 
+Performance of the 
+Building  
+Energy and atmosphere 
+Sustainable Sites 
+Location and Transportation 
+Materials and resources 
+Water efficiency 
+Indoor environmental quality 
+Innovation in Design 
+Regional Priority 
+Energy   
+Land Use and Ecology   
+Pollution  
+Transport   
+Materials   
+Water  
+Waste  
+Health and Wellbeing   
+Innovation  
+Requirements  Prerequisites (independent of level of 
+certification) + Credits with associated 
+points. 
+ 
+These points are then added together 
+to obtain the LEED certification level. 
+There are several different rating 
+systems within LEED. Each rating 
+system is designed to apply to a 
+specific sector (e.g. New Construction, 
+Major Renovation, Core and Shell 
+Development, Schools-/Retail-
+/Healthcare New Construction and 
+Major Renovations, Existing Buildings: 
+Operation and Maintenance). 
+Prerequisites depending on the levels of 
+certification + Credits with associated 
+points   
+  
+This number of points is then weighted by 
+item15 and gives a BREEAM level of 
+certification, which is based on the overall 
+score obtained (expressed as a 
+percentage). Majority of BREEAM issues 
+are flexible, meaning that the client can 
+choose which to comply with to build their 
+BREEAM performance score.   
+  
+BREEAM has two stages/ audit reports: a 
+‘BREEAM Design Stage’ and a ‘Post 
+Construction Stage’, with different 
+assessment criteria.   
+  
+Performance 
+display  
+ 
+ 
+ 
+
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+13 
+Accreditation  LEED AP BD+C 
+LEED AP O+M 
+BREEAM Assessor, licensed and qualified 
+by BRE  
+Qualitative 
+considerations  
+ 
+Widely recognised internationally, and 
+strong assurance of overall quality. 
+BREEAM and various national versions of 
+BREEAM are considered robust and well-
+regarded in their markets and focus on the 
+important environmental impacts of 
+buildings both generally and in their local 
+market context. 
+ 
+Over 500,000 BREEAM certificates have 
+been issued across more than 80 
+countries.  
+  
+ 
+Appendix 2: Sustainability Bond / Sustainability Bond Programme - External 
+Review Form 
+Section 1. Basic Information 
+Issuer name: Mastercard  
+Sustainability Bond ISIN or Issuer Sustainability 
+Bond Framework Name, if applicable: 
+Mastercard Sustainability Financing Framework  
+Review provider’s name: Sustainalytics 
+Completion date of this form:  February 22, 2021 
+Publication date of review publication:   
+Section 2. Review overview 
+SCOPE OF REVIEW 
+The following may be used or adapted, where appropriate, to summarise the scope of the review.  
+The review assessed the following elements and confirmed their alignment with the GBP, SBG, GLP and SBP: 
+☒ Use of Proceeds ☒ Process for Project Evaluation and 
+Selection 
+☒ Management of Proceeds ☒ Reporting 
+ROLE(S) OF REVIEW PROVIDER 
+☒ Consultancy (incl. 2nd opinion) ☐ Certification 
+☐ Verification ☐ Rating 
+☐ Other (please specify):   
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+14 
+Note: In case of multiple reviews / different providers, please provide separate forms for each review.  
+EXECUTIVE SUMMARY OF REVIEW and/or LINK TO FULL REVIEW (if applicable) 
+Please refer to Evaluation Summary above.  
+ 
+ 
+Section 3. Detailed review 
+Reviewers are encouraged to provide the information below to the extent possible and use the comment 
+section to explain the scope of their review.  
+1. USE OF PROCEEDS 
+Overall comment on section (if applicable):  
+ 
+The eligible categories for the use of proc eeds Green Buildings, Energy Efficiency, Renewable Energy, Eco -
+efficient and/or Circular Economy Adapted Products, Production Technologies and Processes, Pollution 
+Prevention and Control, Environmentally Sustainable Management of Living Natural Resources and Land Use, 
+Climate Change Adaptation, Mastercard Impact Fund, COVID -19 Response, In Solidarity  and Commercially 
+Sustainable Social Impact are aligned with those recognized by the Sustainability Bond Guidelines 2018, Green 
+Bond Principles 2018, Social Bond Principles 2020 and Green Loan Principles 2020. Sustainalytics considers 
+that the eligible categories will lead to positive environmental or social impacts and advance the UN 
+Sustainable Development Goals, specifically SDG 7, 8, 9, 10, 12, 13 and 15. 
+ 
+ 
+Use of proceeds categories as per GBP: 
+☒ Renewable energy ☒ Energy efficiency  
+☒ Pollution prevention and control ☒ Environmentally sustainable management of 
+living natural resources and land use 
+☐ Terrestrial and aquatic biodiversity 
+conservation 
+☐ Clean transportation 
+☐ Sustainable water and wastewater 
+management  
+☒ Climate change adaptation 
+☒ Eco-efficient and/or circular economy 
+adapted products, production technologies 
+and processes 
+☒ Green buildings 
+☐ Unknown at issuance but currently expected 
+to conform with GBP categories, or other 
+eligible areas not yet stated in GBPs 
+☐ Other (please specify):  
+If applicable please specify the environmental taxonomy, if other than GBPs: 
+ 
+Use of proceeds categories as per SBP: 
+☐ Affordable basic infrastructure ☐ Access to essential services  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+15 
+☐ Affordable housing ☐ Employment generation (through SME financing 
+and microfinance) 
+☐ Food security ☐ Socioeconomic advancement and 
+empowerment 
+☐ Unknown at issuance but currently expected 
+to conform with SBP categories, or other 
+eligible areas not yet stated in SBP 
+☒ Other (please specify): Mastercard Impact Fund, 
+COVID-19 Response, In Solidarity, Commercially 
+Sustainable Social Impact 
+If applicable please specify the social taxonomy, if other than SBP: 
+ 
+2. PROCESS FOR PROJECT EVALUATION AND SELECTION 
+Overall comment on section (if applicable):  
+ 
+Mastercard’s eligible projects will be  evaluated and selected by a dedicated committee made up of 
+representatives from the Company’s sustainability, finance and legal teams.  Sustainalytics considers the 
+project selection process to be in line with market practice.  
+ 
+Evaluation and selection 
+☒ Credentials on the issuer’s social and green 
+objectives 
+☒ Documented process to determine that 
+projects fit within defined categories  
+☒ Defined and transparent criteria for projects 
+eligible for Sustainability Bond proceeds 
+☐ Documented process to identify and 
+manage potential ESG risks associated 
+with the project 
+☐ Summary criteria for project evaluation and 
+selection publicly available 
+☐ Other (please specify): 
+Information on Responsibilities and Accountability  
+☒ Evaluation / Selection criteria subject to 
+external advice or verification 
+☐ In-house assessment 
+☐ Other (please specify):   
+3. MANAGEMENT OF PROCEEDS 
+Overall comment on section (if applicable): 
+ 
+Net proceeds will be managed by Mastercard ’s Finance department. The Company commits to fully allocate 
+and/or disburse proceeds within 36 months of issuance of financing transactions. Pending full allocation, the 
+proceeds will temporarily be invested according to the Company’s normal liquidity  processes. This is in line 
+with market practice. 
+ 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+16 
+Tracking of proceeds: 
+☒ Sustainability Bond proceeds segregated or tracked by the issuer in an appropriate 
+manner 
+☐ Disclosure of intended types of temporary investment instruments for unallocated 
+proceeds 
+☐ Other (please specify): 
+Additional disclosure: 
+☐ Allocations to future investments only ☒ Allocations to both existing and future 
+investments 
+☐ Allocation to individual disbursements ☐ Allocation to a portfolio of 
+disbursements 
+☐ Disclosure of portfolio balance of 
+unallocated proceeds 
+☐ Other (please specify): 
+ 
+4. REPORTING 
+Overall comment on section (if applicable):  
+ 
+Mastercard intends to report on allocation of proceeds annually on its website until full allocation. Allocation 
+reporting will be validated by a nationally recognized accounting firm and include the balance amount of 
+allocated and unallocated net proceeds, as well as the description of selected projects. The company is also 
+committed to reporting on relevant impact metrics. Sustainalytics views Mastercard ’s allocation and impact 
+reporting as aligned with market practice. 
+Use of proceeds reporting: 
+☐ Project-by-project ☒ On a project portfolio basis 
+☐ Linkage to individual bond(s) ☐ Other (please specify): 
+Information reported: 
+☐ Allocated amounts ☐ Sustainability Bond financed share of 
+total investment 
+☐ Other (please specify):   
+Frequency: 
+☒ Annual ☐ Semi-annual 
+☐ Other (please specify):  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+17 
+Impact reporting: 
+☐ Project-by-project ☒ On a project portfolio basis 
+☐ Linkage to individual bond(s) ☐ Other (please specify): 
+Information reported (expected or ex-post): 
+☒ GHG Emissions / Savings ☒  Energy Savings  
+☐ Decrease in water use ☒  Number of beneficiaries 
+☐ Target populations ☒  Other ESG indicators (please 
+specify): Green buildings by 
+certification type and level, 
+Renewable energy generate 
+and/or purchased 
+Frequency: 
+☒ Annual ☐ Semi-annual 
+☐ Other (please specify):   
+Means of Disclosure 
+☐ Information published in financial report ☐ Information published in sustainability 
+report 
+☐ Information published in ad hoc 
+documents 
+☐ Other (please specify): 
+☐ Reporting reviewed (if yes, please specify which parts of the reporting are subject to 
+external review): 
+ 
+Where appropriate, please specify name and date of publication in the useful links section. 
+ 
+USEFUL LINKS (e.g. to review provider methodology or credentials, to issuer’s documentation, etc.) 
+ 
+ 
+ 
+SPECIFY OTHER EXTERNAL REVIEWS AVAILABLE, IF APPROPRIATE 
+Type(s) of Review provided: 
+☐ Consultancy (incl. 2nd opinion) ☐ Certification 
+☐ Verification / Audit ☐ Rating 
+☐ Other (please specify): 
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+18 
+Review provider(s): Date of publication: 
+  
+ 
+ 
+ABOUT ROLE(S) OF REVIEW PROVIDERS AS DEFINED BY THE GBP AND THE SBP 
+i. Second-Party Opinion: An institution with sustainability expertise that is independent from the issuer may 
+provide a Second -Party Opinion. The institution should be independent from the issuer’s adviser for its 
+Sustainability Bond framework, or appropriate procedures such as information barriers will have been 
+implemented within the institution to ensure the independence of the Second-Party Opinion.  It normally entails 
+an assessment of the alignment with the Principles. In particular, it can include an assessment of the issuer’s 
+overarching objectives, strategy, policy, and/or processes relating to sustainability and an evaluation of the 
+environmental and social features of the type of Projects intended for the Use of Proceeds. 
+ii. Verification: An issuer can obtain independent verification against a designated set of criteria, typically 
+pertaining to business processes and/or sustainability criteria. Verification may focus on alignment with 
+internal or external standards or claims made by the issuer. Also, evaluation of the environmentally or socially 
+sustainable features of underlying assets may be termed verification and may reference external criteria. 
+Assurance or attestation regarding an issuer’s internal tracking method for use  of proceeds, allocation of 
+funds from Sustainability Bond proceeds, statement of environmental or social impact or alignment of 
+reporting with the Principles may also be termed verification. 
+iii. Certification: An issuer can have its Sustainability Bond or ass ociated Sustainability Bond framework or Use 
+of Proceeds certified against a recognised external sustainability standard or label. A standard or label defines 
+specific criteria, and alignment with such criteria is normally tested by qualified, accredited third parties, which 
+may verify consistency with the certification criteria.  
+iv. Green, Social and Sustainability Bond Scoring/Rating: An issuer can have its Sustainability Bond, associated 
+Sustainability Bond framework or a key feature such as Use of Proceeds  evaluated or assessed by qualified 
+third parties, such as specialised research providers or rating agencies, according to an established 
+scoring/rating methodology. The output may include a focus on environmental and/or social performance 
+data, process relative to the Principles, or another benchmark, such as a 2 -degree climate change scenario. 
+Such scoring/rating is distinct from credit ratings, which may nonetheless reflect material sustainability risks. 
+  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+19 
+Disclaimer 
+Copyright ©2021 Sustainalytics. All rights reserved. 
+The information, methodologies and opinions contained or reflected herein are proprietary of Sustainalytics 
+and/or its third party suppliers (Third Party Data), and may be made available to third parties only in the form 
+and format disclose d by Sustainalytics, or  provided that appropriate citation and acknowledgement is 
+ensured. They are provided for informational purposes only and (1) do not constitute an endorsement of any 
+product or project;  (2) do not constitute investment advice, financ ial advice or a prospectus; (3) cannot be 
+interpreted as an offer or indication to buy or sell securities, to select a project or make any kind of business 
+transactions; (4) do not represent an assessment of the issuer’s economic performance, financial obligations 
+nor of its creditworthiness; and/or (5) have not and cannot be incorporated into any offering disclosure. 
+These are  based on information made available by the issuer and therefore are not warranted as to their 
+merchantability, completeness, accuracy, up-to-dateness or fitness for a particular purpose. The information 
+and data are provided “as is” and reflect Sustainalytics` opinion at the date of their elaboration and publication. 
+Sustainalytics accepts no liability for damage arising from the use of the information, data or opinions 
+contained herein, in any manner whatsoever, except where explicitly required by law. Any reference to third 
+party names or Third Party Data is for appropriate acknowledgement of their ownership and does not 
+constitute a  sponsorship or endorsement by such owner. A list of our third -party data providers and their 
+respective terms of use is available on our website. For more information, 
+visit http://www.sustainalytics.com/legal-disclaimers. 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for their 
+implementation and monitoring. 
+In case of discrepancies between the English language and translated versions, the English language version 
+shall prevail.  
+Second-Party Opinion  
+Mastercard Sustainability Financing Framework   
+  
+ 
+  
+ 
+20 
+About Sustainalytics, a Morningstar Company 
+Sustainalytics, a Morningstar Company, is a leading ESG research, ratings and data firm that supports 
+investors around the world with the development and implementation of responsible investment strategies. 
+The firm works with hundreds of the world’s leading asset managers and pension funds who incorporate ESG 
+and corporate governance information and assessments into their investment processes. The world’s 
+foremost issuers, from multinational corporations to financial institutions to gover nments, also rely on 
+Sustainalytics for credible second-party opinions on green, social and sustainable bond frameworks. In 2020, 
+Climate Bonds Initiative named Sustainalytics the “Largest Approved Verifier for Certified Climate Bonds” for 
+the third consecutive year. The firm was also recognized by Environmental Finance as the “Largest External 
+Reviewer” in 2020 for the second consecutive year. For more information, visit www.sustainalytics.com.

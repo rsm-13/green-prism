@@ -6,7 +6,10 @@ from pathlib import Path
 from typing import List, Dict, Any
 import pandas as pd
 
-DATA_DIR = Path(__file__).resolve().parents[3] / "data"
+# Use the `app/data` directory (same directory as this module) so the
+# API loads `backend/app/data/bonds.csv` rather than the top-level
+# `data/bonds.csv` in the repo root.
+DATA_DIR = Path(__file__).resolve().parent
 BONDS_CSV = DATA_DIR / "bonds.csv"
 
 

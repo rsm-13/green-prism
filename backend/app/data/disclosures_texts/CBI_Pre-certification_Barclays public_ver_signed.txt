@@ -1,0 +1,172 @@
+www.iss-corporate.com © 2024 | Institutional Shareholder Services and/or its affiliates   
+    
+PRE-ISSUANCE CLIMATE BOND CERTIFICATION:   Verification Report for Pre-Issuance Certification for the Green Bond to be Issued by Barclays  
+   
+
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 2 of 20 
+CONTENTS   SCOPE OF WORK ...................................................................................................................................................... 3 CRITERIA ....................................................................................................................................................................... 3 ISSUER’S RESPONSIBILITY ..................................................................................................................................... 3 ISS-CORPORATE’S VERIFICATION PROCESS .................................................................................................. 3 ISS-CORPORATE’S BUSINESS PRACTICES ....................................................................................................... 4 RESTRICTION ON DISTRIBUTION AND USE OF REPORT ...................................................................... 4 OPINION ...................................................................................................................................................................... 4 Disclaimer .................................................................................................................................................................... 5 About ISS-Corporate ............................................................................................................................................... 5 ANNEXES ...................................................................................................................................................................... 6 ANNEX 1: DETAILED FINDINGS ........................................................................................................................... 7 1. UTILISATION OF PROCEEDS ................................................................................................................... 7 2. PROCESS FOR EVALUATION AND SELECTION OF PROJECTS & ASSETS .............................. 8 3. MANAGEMENT OF PROCEEDS ............................................................................................................ 10 4. REPORTING ................................................................................................................................................. 12 ANNEX 2: DETAILED FINDINGS MARINE RENEWABLE ENERGY .......................................................... 16 ANNEX 3: DETAILED FINDINGS BUILDINGS ................................................................................................. 17 ANNEX 4: DETAILED FINDINGS LOW CARBON TRANSPORT ................................................................ 20    
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 3 of 20 
+SCOPE OF WORK Barclays commissioned ISS Corporate Solutions (ISS-Corporate) to compile a Verifier’s Report for Pre-Issuance Certification of its Green Bond by the Climate Bonds Initiative (CBI). The Climate Bonds Certification process includes verifying whether the provisions of the Climate Bonds Standards issued by the CBI are met and obtaining evidence to support the verification. 
+CRITERIA Relevant CBI Standards for this Climate Bonds Certification: § Climate Bonds Standard (Version 4.0) § Marine Renewable Energy Sector Eligibility Criteria (Version 1.2)  § Low Carbon Buildings Sector Eligibility Criteria (Version 2.1)  § Low Carbon Transport Sector Eligibility Criteria (Version 2.2) 
+ISSUER’S RESPONSIBILITY Barclays’s responsibility was to provide information and documentation on:  § Selection of nominated projects & assets § Technical aspects of projects & assets § Internal processes & controls § Proposed reporting 
+ISS-CORPORATE’S VERIFICATION PROCESS Since 2014, ISS Group, of which ISS-Corporate is part, has built up a reputation as a highly-reputed thought leader in the green and social bond market and has become one of the first CBI-approved verifiers.  This independent Pre-Issuance Verification of the Green Bond issued by Barclays has been conducted based on the Climate Bonds Standard V.4.0, and limited assurance procedures based on common market practices and voluntary guidelines, in accordance with relevant assurance standards such as the International Standard on Assurance Engagements, other than Audits or Reviews of Historical Financial Information (ISAE 3000). The approach to assess whether the Issuer’s Green Bond meets the criteria of the Climate Bonds Standard V.4.0. is as follows: § The Issuer provided an overview over the assets to be included in the Green Bond asset pool and the relevant processes and documentation regarding the proceeds (e.g., use of proceeds, management of proceeds). § The Issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard V.4.0. 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 4 of 20 
+§ The Issuer provided background documents that elaborate further on the information mentioned in the questionnaire. § An assessment of the CBI criteria has been carried out using the questionnaire and background documents. In case any answers were unclear, the issuer has been contacted for more details and clarification. The engagement with Barclays took place from March to April 2024. 
+ISS-CORPORATE’S BUSINESS PRACTICES ISS-Corporate has conducted this verification in strict compliance with the ISS Group Code of Ethics, which lays out detailed requirements in integrity, transparency, professional competence and due care, professional behavior and objectivity for the ISS business and team members. It is designed to ensure that the verification is conducted independently and without any conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT This Verification Report for Climate Bonds Certification including all documentation provided alongside is intended for the use of Barclays and the Climate Bonds Standard Board. The present document may be published by Barclays, CBI and ISS-Corporate. CBI and ISS-Corporate agree to publish the report with the consent of Barclays. 
+OPINION Based on the limited assurance procedures conducted and evidence obtained, nothing has come to our attention that causes us to believe that, in all material respects the Issuer’s Green Bond Program is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements.  
+ MARIJA KRAMER ISS Corporate Solutions Business Rockville, MD, 30 September 2024   
+
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 5 of 20 
+Disclaimer Copyright © 2024 Institutional Shareholder Services Inc. (“ISS”). This document and all of the information contained in it is the property of ISS and/or its subsidiaries. The Information may not be reproduced or redisseminated in whole or in part without the prior written permission of ISS. While we exercise due care in compiling this document, we assume no liability with respect to the consequences of relying on this information for investment or other purposes. ISS makes no express or implied warranties or representations with respect to the information. 
+About ISS-Corporate Companies turn to ISS-Corporate for expertise in designing and managing governance, compensation, sustainability and cyber risk programs that align with company goals, reduce risk, and manage the needs of a diverse shareholder base by delivering best-in-class data, tools, and advisory services. We assess alignment with external principles (e.g. the ICMA Green / Social Bond Principles), analyse the sustainability quality of the assets and review the sustainability performance of the issuers themselves. Following these three steps, we draw up an independent SPO so that investors are as well informed as possible about the quality of the bond/loan from a sustainability perspective. Learn more: https://www.iss-corporate.com/solutions/sustainable-finance/  For more information on SPO services, please contact: SPOsales@iss-corporate.com  Project team Project lead Claudia Muñoz Carmona Associate Sustainable Finance Research 
+ Project supervision Marie-Bénédicte Beaudoin Associate Director Head of Sustainable Finance Research   
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 6 of 20 
+ANNEXES Annex 1: Detailed Findings Annex 2: Detailed Findings Marine Renewable Energy Annex 3: Detailed Findings Buildings Annex 4: Detailed Findings Low Carbon Transport   
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 7 of 20 
+ANNEX 1: DETAILED FINDINGS 1. UTILISATION OF PROCEEDS  REQUIREMENT FACTUAL FINDINGS ANALYSIS AGAINST REQUIREMENTS 
+1.1 Documentation of nominated projects & assets assessed as eligible 
+Details of the eligible projects are in the Annexes. The assets are offshore wind farms, green buildings, and low-carbon transportation. ü 
+1.2 
+Net Proceeds are not greater than the Issuer’s investment exposure to the Nominated Projects & Assets 
+The issuer’s exposure to the nominated assets has been verified through analysis of provided documentation.  Barclays has a dedicated forum responsible for monitoring and tracking the portfolio of Eligible Assets to ensure that, using reasonable endeavors, the outstanding balance of Green Notes does not exceed the value of the Eligible Assets.  If an asset no longer meets the eligibility criteria set out in the Framework, the issuer will:  § Cease to categorize the asset as an Eligible Asset; and  § Reduce the aggregate value of its total Eligible Assets by the value of that non-eligible Asset  
+ü 
+1.3 
+No duplicate nomination of Projects & Assets to multiple Certified Climate Bonds or labeled instruments 
+Barclays confirms that control systems are in place to ensure assets are not nominated twice.  ü 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 8 of 20 
+ 2. PROCESS FOR EVALUATION AND SELECTION OF PROJECTS & ASSETS  REQUIREMENT FACTUAL FINDINGS ANALYSIS AGAINST REQUIREMENTS 
+2.1. and 2.2. 
+Decision making process established, documented, and maintained to determine the eligibility of the Nominated projects and assets, which includes without limitation: 
+See below (from 2.2.i to 2.2vi) 
+2.2.i Statement on the climate-related objectives of the Bond. 
+Barclays’s objective for issuing green bonds is to raise funds for new and existing projects that deliver environmental benefits and a more sustainable economy. ü 
+2.2.ii Climate-related objectives of the Bond in the context of the Issuer’s environmental strategy and policies. 
+Barclays is committed to financing Green Activities that contribute to the transition to a sustainable economy. Barclays helps economies by providing green, social, and sustainable financing. 
+ü 
+2.2.iii Issuer’s rationale for issuing the Bond. Barclays maintains a Green Bond issuance program to provide an opportunity to its investors to support eligible green activities. ü 
+2.2.iv Process to determine eligibility of Nominated Projects & Assets 
+Barclays engaged the Carbon Trust to develop an asset appraisal tool to identify assets that meet the CBI criteria. Information on assets is added to the tool and compared to the criteria.  ü 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 9 of 20 
+The ESG governance forums determine which assets qualify as Eligible Assets based on internal assessments and external reviews against the eligibility criteria defined in the framework. The assets will undergo third-party verification before entering the nominated asset pool to be used for any subsequent Certified Climate Bond issuance. 
+2.2.v 
+Related eligibility criteria to identify and manage potentially material ESG risks associated with the Nominated Projects & Assets. 
+Actual, potential, and perceived ESG risks associated with the eligible assets are reviewed by an internal ESG governance forum, which includes senior representatives from Sustainable Finance, and Sustainability & ESG business lines. The risk assessment is part of the criteria to determine whether to approve an asset as eligible for the Eligible Asset Pool. The Nominated Projects and Assets are compliant with the CBI criteria, adhering to the Sector Criteria for Marine Renewable Energy, Low Carbon Buildings, and Low Carbon Transportation, complying with adaptation and resilience components that cover ESG risks. 
+ü 
+2.2.vi 
+Green standards or certifications referenced in the selection of Nominated Projects & Assets. 
+The assets’ eligibility and selection process focuses on the Climate Bonds Criteria, and the EU Green Bond Standard label.   ü 
+ 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 10 of 20 
+3. MANAGEMENT OF PROCEEDS  REQUIREMENT FACTUAL FINDINGS ANALYSIS AGAINST REQUIREMENTS 
+3.1 Systems, policies and processes around the management of Net Proceeds include: See below (from 3.1.a to 3.1c) 
+3.1.a Process around management of the net proceeds 
+On a monthly basis Barclays compare the issuance volumes to date with the total value of verified assets to confirm that asset volumes exceed bonds totals across the maturity horizon. Businesses within Barclays Group are assigned limits which they cannot exceed.  Barclays keeps a record of all the Green Bonds issued on its website, its own records, and a bond memo line. Preventative and detective measures ensure bonds are not more that the assets. Additionally, a control team is consulted before each trade to confirm the capacity.  
+ü 
+3.1.b Management of unallocated Net Proceeds 
+Barclays will invest the unallocated proceeds to cash and short-term liquid investments, in accordance with its liquidity policy. The amount and asset types invested in will be disclosed on the Barclays Group Investor Relations website. 
+ü 
+3.1.c 
+Earmarking process used to manage allocation of proceeds and estimate of the share of the Net Proceeds being used for financing and refinancing. 
+There are processes in place to ensure that net proceeds are always smaller than the nominated asset pool, and that unallocated proceeds are managed transparently and following best market practice.  
+ü 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 11 of 20 
+3.2 
+Where proceeds require to be ring-fenced, they must be credited to designated bank accounts. Issuer must track and monitor all payments from designated bank accounts. 
+Barclays confirms the prospectus does not require the proceeds to be ring-fenced. The proceeds are earmarked.  - 
+   
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 12 of 20 
+4. REPORTING  REQUIREMENT FACTUAL FINDINGS ANALYSIS AGAINST REQUIREMENTS 
+4.1 
+Issuer prepares Green Finance Framework and makes it publicly available. The Green Finance Framework must be provided to the Climate Bonds Standard Secretariat 
+Barclays confirms the Green & Social Notes Framework 2024 has been provided to the CBI and will be published on the Investor Relations website.1 ü  
+4.2 Issuer’s framework must include: See below (from 4.2.i to 4.2v) 
+4.2.i 
+Confirmation that bonds issued under the framework are aligned with the Climate Bonds Standard and other standards 
+The Green & Social Notes Framework states its intention to align with the Climate Bonds Standard. ü 
+4.2.ii Summary of the use of proceeds The Framework details the use of proceeds’ eligible categories and their expected environmental benefits. ü 
+4.2.iii Description of the decision-making process for project selection 
+The Framework describes the process for project selection, which is the responsibility of the ESG governance forum. ü 
+4.2.iv Description of the processes for managing the proceeds 
+The Framework describes the process for managing the proceeds. A monthly Note issuance ensures Eligible Asset balances are updated. The compliance with the Note issuance is verified by an independent assurance provider. 
+ü 
+4.2.v Description of the processes for The Framework describes the information that will be reported and ü 
+ 1 Barclays’ Investor Relations website. URL: https://home.barclays/investor-relations/fixed-income-investors/funding-and-liquidity/green-bonds/" 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 13 of 20 
+reporting and external review or verification confirms the report will be publicly available on Barclays Group Investor Relations website. The allocation and impact reporting will be externally verified by a second party opinion provider. 
+4.3 Issuer’s Framework should further include, without limitation: See below (from 4.3.i to 4.3v) 
+4.3.i Description of the relevant Sector Eligibility Criteria and any additional impact metrics 
+The Framework does not describe the relevant sector eligibility criteria, however, when Barclays seeks CBI certification, assets financed or refinanced will comply with the relevant standards. The details of the eligibility of the nominated assets are included in the Annexes of this verification report. 
+ü 
+4.3.ii Summary on the approach used to manage unallocated net proceeds 
+The Framework details the approach used to manage unallocated net proceeds. The temporary allocation will be to cash and short-term liquid investments in accordance with Barclays’ liquidity policy. 
+ü 
+4.3.iii 
+Intended approach to provide Update Reports to reaffirm conformance with the Climate Bonds Standard while the Bond remains outstanding 
+The Framework details Barclays’ annual update reporting commitments, which are in line with the requirements of the Climate Bonds Standard.   ü 
+4.3.iv 
+List of proposed Nominated Projects & Assets associated with the Bond and the investment areas into which the Nominated Projects & Assets fall 
+The Green & Social Notes Framework does not mention a list of nominated assets; however, it provides the investment areas into which the Nominated Projects and Assets fall. Also, the list of proposed Projects and Assets may be found in the Annexes of 
+ü 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 14 of 20 
+this verification report, which include offshore wind farms, green buildings, and low-carbon transportation.  
+4.3.v 
+An estimate of the proportion of financing and refinancing, the relevant Nominated Projects & Assets or investment areas which may be refinanced, and the expected look-back period for refinancing 
+The Green Eligible Asset Pool is 100% refinanced. The expected look-back period is of 36 months for assets originated or refinanced prior to the inclusion in the Green Eligible Asset Pool.  
+ü 
+4.4 Disclosure of as much information as possible with respect to Nominated projects and assets 
+The Issuance Document points to the Impact and Allocation reports, where there is confirmation that the Eligible Assets criteria that have been designed are compliant with the Climate Bonds Initiative's Climate Bond Standard (version 4.0) as of the date of issuance. The framework defines the investment areas into which the Nominated projects and assets fall, which are found in the annexes of this verification report. 
+ü 
+4.5 Disclosure Documentation shall include: See below (from 4.5.i to 4.5v) 
+4.5.i Investment areas, of the Nominated Projects & Assets 
+The Issuance Document confirms the Eligible Assets criteria that have been designed to be compliant with the Climate Bonds Initiative's Climate Bond Standard (version 4.0) as of the date of issuance. Eligible Assets are those that fall within the eligible activity categories described in the Green & Social Notes Framework and were originated or refinanced up to 36 months prior to the inclusion in the Green Eligible Asset Pool. 
+ü 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 15 of 20 
+4.5.ii Temporary investment instruments for unallocated Net Proceeds 
+The Green & Social Notes Framework details how unallocated proceeds will be temporarily managed. The temporary allocation will be to cash and short-term liquid investments in accordance with Barclays’ liquidity policy. 
+ü 
+4.5.iii Verifiers engaged by the Issuer for the mandatory verification engagements ISS-Corporate is the verifier of the pre-issuance. ü 
+4.5.iv 
+Intended approach to providing Update Reports to reaffirm conformance with the Climate Bonds Standard while the Bond remains outstanding, including the location of the published documents 
+Barclays’ Issuance Documents include the commitment to provide updated reporting. A second party opinion from an independent verifier will be publish on Barclays investor relations website confirming the alignment of the Green & Social Note Framework to the guidelines. 
+ü 
+4.5.v CBI Disclaimer provided in the Certification Agreement A CBI disclaimer is included in the Issuance Document. ü 
+  
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 16 of 20 
+ANNEX 2: DETAILED FINDINGS MARINE RENEWABLE ENERGY2 DETAILED FINDINGS MARINE RENEWABLE OFFSHORE   
+ ü 
+The marine offshore wind farm complies with the Marine Renewable Energy Criteria of the Climate Bonds Standard. Offshore wind farm financed under the Framework comply with the criteria and are eligible for the Climate Bonds Certification. Consent in place under Section 36 as a renewable energy-producing asset and fossil fuel backup is to restart capability and monitoring. Details for the Disclosure component and Adaptation and Resilience components of the Criteria are given below.  DETAILED FINDINGS MARINE RENEWABLE OFFSHORE   
+ ü 
+The marine wind farm complies with the Marine Renewable Criteria of the Climate Bonds Standard. The offshore wind transmission infrastructure and supporting facilities like grid connections and equipment financed comply with the criteria and are eligible for the Climate Bonds Certification.  Fossil fuel backup in place is limited to restart capability and monitoring, operating, or resilience measures in the event of no power in the system. Details for the Disclosure component and Adaptation and Resilience components of the Criteria are given below.  
+ 2 Barclays has provided ISS with detailed information on the assets to be financed on a confidential basis. A detailed report is shared with CBI for verification. However, due to confidentiality reasons, the public version of the report displays limited information on the assets to be financed. Financed assets will be disclosed publicly at the post-issuance certification stage. 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 17 of 20 
+ANNEX 3: DETAILED FINDINGS BUILDINGS3 DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 1)  Portfolio Level The Portfolio of buildings (54 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as all the buildings’ Energy Rating Certificates (BER) are below the weighted average emission threshold of 18.49 KgCO2/m2/yr. The Portfolio of buildings (42 apartment units) is eligible, against the Proxy methodology, since each building in the issuer’s portfolio satisfy the CBI-approved proxy. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 2)  Portfolio Level The Portfolio of buildings (49 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 16.64 KgCO2/m2/yr, is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 3)  Portfolio Level The Portfolio of buildings (87 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 18.16 KgCO2/m2/yr, is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 4)  Portfolio Level The Portfolio of buildings (72 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 12.17 KgCO2/m2/yr, is below the weighted average emission threshold, 18.73 KgCO2/m2/yr.  
+ 3 Barclays has provided ISS with detailed information on the assets to be financed on a confidential basis. A detailed report is shared with CBI for verification. However, due to confidentiality reasons, the public version of the report displays limited information on the assets to be financed. 
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 18 of 20 
+DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 5)  Portfolio Level The Portfolio of buildings (76 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 11.25 KgCO2/m2/yr, is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (COMMERCIAL 1)  Portfolio Level The Portfolio of buildings (2 commercial buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 14.48 KgCO2/m2/yr, is below the weighted average emission threshold, 30.60 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 6)  Portfolio Level The Portfolio of buildings (49 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 16.47 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 7)  Portfolio Level The Portfolio of buildings (20 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 17.23 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 8)  Portfolio Level The Portfolio of buildings (48 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 15.09 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr.   
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 19 of 20 
+DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 9)  Portfolio Level The Portfolio of buildings (27 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 16.25 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 10)  Portfolio Level The Portfolio of buildings (17 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 9.73 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 11)  Portfolio Level The Portfolio of buildings (44 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 15.55 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 12)  Portfolio Level The Portfolio of buildings (27 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 15.13 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr. DETAILED FINDINGS LOW CARBON BUILDINGS (RESIDENTIAL 13)  Portfolio Level The Portfolio of buildings (49 residential multi-family buildings) is eligible, against the Low Carbon Trajectory methodology, as the weighted average of the emissions, 15.95 KgCO2/m2/yr is below the weighted average emission threshold, 18.73 KgCO2/m2/yr.   
+PRE-ISSUANCE CBI CERTIFICATION   
+www.iss-corporate.com 20 of 20 
+ANNEX 4: DETAILED FINDINGS LOW CARBON TRANSPORT4 DETAILED FINDINGS LOW CARBON TRANSPORTATION   
+ü 
+The specified assets comply with the Low Carbon Transport Criteria of the Climate Bonds Standard. The proceeds from the trade loans financed and refinanced electric vehicles. The vehicles met the threshold for tailpipe emissions being less than 50gCO2/p-km5 (passenger-kilometer).  The purpose of the facility is to support the manufacturing of electric vehicles. The use of the trade loan will solely be for the purposes of electric vehicles as per the facility documentation. The Issuer has confirmed that no vehicles run on biofuel.  The projects under the Framework comply with the criteria and are eligible for the Climate Bonds Certification.  
+ 4 Barclays has provided ISS with detailed information on the assets to be financed on a confidential basis. A detailed report is shared with CBI for verification. However, due to confidentiality reasons, the public version of the report displays limited information on the assets to be financed. 5 This threshold is for the 2020 issuance year until 2025.

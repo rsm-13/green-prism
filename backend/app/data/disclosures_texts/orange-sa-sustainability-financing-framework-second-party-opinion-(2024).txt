@@ -1,0 +1,1036 @@
+© Sustainalytics 2024 
+ 
+ 
+Second-Party Opinion 
+Orange SA Sustainability Financing 
+Framework 
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the Orange SA Sustainability Financing Framework 
+is credible and impactful and aligns with the Sustainability Bond Guidelines 2021, Green 
+Bond Principles 2021, Social Bond Principles 2023, Green Loan Principles 202 3 and 
+Social Loan Principles 2023. This assessment is based on the following: 
+  The eligible categories for the use of proceeds 1 
+are aligned with those recognized by the Green Bond Principles , 
+Social Bond Principles , Green Loan Principles  and Social Loan 
+Principles. Sustainalytics considers that investments in the eligible 
+categories will lead to positive environmental or social impacts and 
+advance the UN Sustainable Development Goals, specifically SDGs 7, 
+8, 9, 10 and 12.  
+  Orange has established a 
+Sustainable Financing Committee (SFC), which will be responsible for 
+evaluating and selecting projects in line with the Framework’s 
+eligibility criteria. The SFC convenes at least annually and consists of 
+representatives from the Corporate Social Responsibility, Treasury, 
+Controlling and Legal  departments supported by other business 
+departments or functional teams that have relevant technical and 
+sustainability expertise. The SFC will leverage Orange ’s corporate 
+governance and inte rnal standards to monitor and mitigate 
+environmental and social risks associated with the projects financed 
+under the Framework. This is in line with market practice. 
+ MANAGEMENT OF PROCEEDS  The SFC will be responsible for the 
+management of net proceeds and will track their allocation using a 
+Sustainability Register. Orange intends to allocate proceeds within 24 
+months after issuance. Pending full allocation, unallocated proceeds 
+will be placed temporarily in cash, cash equivalent s, socially 
+responsible investment funds or other liquid marketable instruments. 
+This is in line with market practice. 
+ REPORTING Orange commits to report on the allocation of proceeds 
+and the corresponding impact in an allocation and impact  report, 
+which will be published on its website on an annual basis until the 
+proceeds have been fully allocated. Allocation reporting will include 
+the total amount of proceeds allocated per category, share of 
+financing and refinancing, amount of unallocated proceeds, share of 
+co-financing when relevant and breakdown of eligible projects per 
+geography. Sustainalytics views Orange’s allocation and impact 
+reporting as aligned with market practice. 
+ 
+ 
+Evaluation Date November 13, 
+2024 
+Issuer Location Paris, France 
+ 
+Report Sections 
+ 
+ 
+Introduction ............................................. 2 
+Sustainalytics’ Opinion ........................... 3 
+ 
+ 
+For inquiries, contact the Sustainable 
+Finance Solutions project team: 
+Nadia Djinnit (Amsterdam) 
+Project Manager 
+Nadia.Djinnit@morningstar.com  
+(+31) 20 560 2933 
+Siina Matihaldi (Amsterdam) 
+Project Support  
+Daniel Kan (Toronto) 
+Project Support 
+Camilla Bovati (Amsterdam)  
+Project Support  
+Enrico Tessadro (Amsterdam) 
+Client Relations 
+susfinance.emea@sustainalytics.com  
+(+44) 20 3880 0193 
+ 
+  
+ 
+1 Energy Efficiency; Renewable Energy; Circular Economy; Accelerating Deployment of Optic Fibre Networks in Areas at Risk of Digital Exclusion; 
+Accelerating Deployment of Mobile Networks in Areas at Risk of Digital Exclusion; Digital Skills; Supporting Financial and Social Integration; and 
+Supporting Entrepreneurship. 
+
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+2 
+Introduction 
+Orange SA  (“Orange” or the “Company”) is a multinational telecom service provider  for B2C and B2B 
+customers, including other telecommunication operators , offering fixed telephony and mobile 
+communications, data transmission, internet and multimedia , and value-added services.  Headquartered in 
+Paris, the Company is present in 26 countries in Europe, the Middle East and Africa with a customer base of 
+292 million and 128,000 employees as of 30 September 2024.2  
+Orange has developed the Orange SA Sustainability Financing Framework (the “Framework”) under which it 
+intends to issue green, social and sustainability (GSS) bonds and obtain GSS  loans (together, the “GSS 
+Financings”), and use the proceeds to finance or refinance , in whole or in part, existing and future projects 
+that are intended to support the decarbonization efforts of telecom services and digital inclusion in Europe, 
+the Middle East and Africa.  
+The Framework defines eligibility criteria in three green categories: 
+1. Energy Efficiency 
+2. Renewable Energy  
+3. Circular Economy 
+ 
+The Framework defines eligibility criteria in five social categories: 
+ 
+4. Accelerating Deployment of Optic Fibre Networks in Areas at Risk of Digital Exclusion 
+5. Accelerating Deployment of Mobile Networks in Areas at Risk of Digital Exclusion 
+6. Digital Skills  
+7. Supporting Financial and Social Integration 
+8. Supporting Entrepreneurship 
+Orange engaged Sustainalytics to review the Framework, dated November 2024, and provide a Second-Party 
+Opinion on the Framework’s environmental and social credentials and its alignment with the Sustainability 
+Bond Guidelines 2021 (SBG), Green Bond Principles 2021 (GBP), Social Bond Principles 2023 (SBP),3 Green 
+Loan Principles 202 3 (GLP) and Social Loan Principles 202 3 (SLP).4 The Framework will be published in a 
+separate document.5  
+Scope of work and limitations of Sustainalytics’ Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent6 opinion on the alignment of the 
+reviewed Framework with the current market standards and the extent to which the eligible project categories 
+are credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with the Sustainability Bond Guidelines 2021, Green Bond Principles 
+2021 and Social Bond Principles 2023 as administered by ICMA, and the Green Loan Principles 
+2023 and Social Loan Principles 2023, as administered by LMA, APLMA and LSTA; 
+• The credibility and anticipated positive impacts of the use of proceeds; and 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version 1.17, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+ 
+2 Orange, “Press Release - First semester 2024 financial results”, at: https://newsroom.orange.com/first-semester-2024-financial-results/  
+3 The Sustainability Bond Guidelines, Green Bond Principles and Social Bond Principles are administered by the International Capital Market Association 
+and available at: https://www.icmagroup.org/green-social-and-sustainability-bonds/sustainability-bond-guidelines-sbg/ 
+4 The Green Loan Principles and Social Loan Principles are administered by the Loan Market Association, Asia Pacific Loan Market Association and 
+Loan Syndications & Trading Association and are available at: https://www.lsta.org/content/green-loan-principles/# and 
+https://www.lsta.org/content/social-loan-principles-slp/  
+5 The Orange SA Sustainability Financing Framework is available on Orange’s website at: https://gallery.orange.com/rse?lang=en&v=9396b6eb-b3bd-
+4fdb-8be7-ca877ed041a8  
+6 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore put in place a robust conflict management 
+framework that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial and research 
+(and engagement) teams, data protection and systems separation. Last, but not least, analyst compensation is not directly tied to specific commercial 
+outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+3 
+As part of this engagement, Sustainalytics held conversations with various members of Orange’s 
+management team to understand the sustainability impact of their business processes and planned use of 
+proceeds, as well as management of proceeds and reporting aspects of the Framework. Orange’s 
+representatives have confirmed that they: (1) understand it is the sole responsibility of Orange to ensure that 
+the information provided is complete, accurate or up to date; (2) have provided Sustainalytics with all relevant 
+information; and (3) any provided material information has been duly disclosed in a time ly manner. 
+Sustainalytics also reviewed relevant public documents and non-public information. 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. 
+Any update of the present Second -Party Opinion will be conducted according to the agreed engagement 
+conditions between Sustainalytics and the Company. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with market 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects expected to be financed with bond and loan proceeds but does not measure the actual impact. The 
+measurement and reporting of the impact achieved through projects financed under the Framewo rk is the 
+responsibility of the Framework owner. Upon twenty-four (24) months following the evaluation date set stated 
+herein, Orange is encouraged to update the Framework, if necessary, and seek an update to the Second-Party 
+Opinion to ensure ongoing alignment of the Framework with market standards and expectations. 
+In addition, the Second-Party Opinion opines on the potential allocation of proceeds, but does not guarantee 
+the realized allocation of the bond and loan proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument either in favour or against the truthfulness, reliability 
+or completeness of any facts or stateme nts and related surrounding circumstances that Orange has made 
+available to Sustainalytics for the purpose of this Second-Party Opinion.   
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the Orange SA Sustainability Financing 
+Framework 
+Sustainalytics is of the opinion that the Orange SA Sustainability Financing Framework is credible, impactful 
+and aligns with the four core components of the  GBP, SBP, GLP and SLP . Sustainalytics highlights the 
+following elements of Orange’s Sustainability Financing Framework: 
+• Use of Proceeds:  
+- The eligible categor ies - Energy Efficiency; Renewable Energy; Circular Economy; 
+Accelerating Deployment of Optic Fibr e Networks in Areas at Risk of Digital Exclusion; 
+Accelerating Deployment of Mobile Networks in Areas at Risk of Digital Exclusion; Digital 
+Skills; Supporting Financial and Social Integration; and Supporting Entrepreneurship  - are 
+aligned with those recognized by the GBP, SBP, GLP and SLP. 
+- Expenditures under the Framework include capex, research and development for some 
+green eligible projects, capex and opex for some social eligible projects, equity investments 
+for the “Supporting Entrepreneurship” Social Eligible Category and majority equity 
+investments in pure play companies.  
+- Orange ha s confirmed to Sustainalytics that there will be no double counting  of 
+expenditures among green and social categories.  
+- Orange has communicated to Sustainalytics that eligible projects will be located in  the 
+following countries where Orange is acting as a telecom operator: Belgium, France, 
+Luxembourg, Moldova, Poland, Romania, Slovakia, Spain in Europe; and Botswana, Burkina 
+Faso, Cameroon, Central African Republic, Senegal, Ivory Coast, Democratic Republic of 
+Congo, Egypt, Guinea Bissau, Guinea, Jordan, Liberia, Madagascar, Mali, Mauritius, 
+Morocco, Sierra Leone and Tunisia outside of Europe.7  
+ 
+7 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+4 
+- Orange has defined a look -back period of three years for the refinancing of expenditures, 
+which Sustainalytics considers to be in line with market practice. 
+- Under the Energy Efficiency category,  Orange may finance or refinance projects related to 
+the modernization of its networks and data centres, with the goal of improving their energy 
+efficiency. This may include:  
+▪ Projects aimed at replacing existing copper networks with fibre to the home 
+(FTTH) networks. 
+▪ Energy efficiency solutions that  lead to at least 30% cumulative avoided energy 
+consumption, including : i) radio access network (RAN)  sharing; ii) software 
+licences to optimize data centre cooling  systems intended to be used in data 
+centres with a power usage effectiveness (PUE) of less than 1.5; iii) free cooling 
+systems for data centres ; iv) energy-efficient equipment , including thermal 
+insulation, energy -efficient windows and the replacement of heating and 
+ventilation system s; and v) onsite power management systems, such as load 
+balancing, energy monitoring and automatic switch-off power systems. 
+• Sustainalytics views positively the inclusion of a defined energy 
+efficiency threshold for the installation of energy-efficient systems, 
+equipment and technologies. 
+• Sustainalytics notes that data centres are inherently energy -
+intensive, and that Orange intends to finance the installation of 
+energy-efficient systems, hardware and technologies in data 
+centres to reduce overall GHG emissions and improve energy 
+performance.  
+▪ Construction of new data centres with a PUE of less than 1.3 in Europe and up to 
+1.5 in the Middle East and Africa. 
+▪ Research and development of digital products and services intended to reduce the 
+energy consumption and GHG emissions of Orange’s clients, including the Internet 
+of Things  (IoT), Smart Operations ,8 Smart Eco -Energy,9 big data and artificial 
+intelligence (AI) applications and smart metering. 
+• By enabling high -speed network connectivity, Orange’s solutions 
+have the potential to support end users to save energy across 
+industrial sectors. Sustainalytics is of the opinion that investments 
+in this category are expected to provide net-positive environmental 
+impacts while noting variations in the energy demands on the 
+network and the range of end-user technologies that it supports.  
+• Sustainalytics notes that the Framework excludes specific 
+activities that are associated with fossil fuels. Additionally, 
+Sustainalytics understands that the Company cannot exercise any 
+control over the use and application of the IoT - and AI -enabling 
+technologies once sold.  
+• Sustainalytics acknowledges that t he expansion of IoT and AI 
+networks and increasing data flow resulting from IoT and AI 
+solutions may result in additional energy demands on 
+telecommunications networks. Nevertheless, Sustainalytics 
+believes that the enabled savings outweigh the potential adverse 
+effects of additional network energy demand.  
+• Sustainalytics notes that Orange will limit financ ing under the 
+Framework to projects where the Company can report on the 
+expected quantitative environmental impact  in line with the 
+indicators included under the Framework. 
+▪ Orange has confirmed to Sustainalytics that solutions under this category exclude 
+the application to transmissions lines connected or dedicated to fossil fuel power.    
+▪ Sustainalytics considers the investment s under this category to be in line with 
+market practice. 
+- Under the Renewable Energy category,  Orange may finance or refinance the installation, 
+maintenance and repair of onsite renewable energy projects related to solar PV and onshore 
+and offshore wind. Orange has confirmed to Sustainalytics that the fossil fuel back -up of 
+ 
+8 Orange, “Smart Operations”, at: https://www.orange-business.com/fr/solutions/data-intelligence-iot/smart-operations  
+9 Orange, “Smart Eco-Energy”, at: https://www.orange-business.com/fr/solutions/data-intelligence-iot/smart-eco-energy  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+5 
+the offshore wind  facilities is limited to power monitoring, operating and maintenance 
+equipment, as well as resilience or protection measures and restart capabilities.  
+Sustainalytics considers the investment s under this category to be in line with market 
+practice. 
+- Under the Circular Economy category, Orange may finance or refinance the following 
+activities: 
+▪ Repairing, refurbishing, remanufacturing and recycling of fixed customer premises 
+equipment, such  as liveboxes, airboxes, routers, set -up boxes  or set-top boxes . 
+Orange has confirmed to Sustainalytics that the eligible projects related to e-waste 
+recycling will have a robust waste management plan to ensure mitigation of any 
+risks associated with such activities. For additional detail, see Section 2. 
+▪ Acquisition of refurbished IT and network equipment, including those  for data 
+centres with a PUE of less than 1.5. Orange has confirmed that there will be no 
+double counting of financing among expenditures related to data centres under 
+the Energy Efficiency and Circular Economy categories under the Framework.  
+▪ Investments related to the provision of products through service models for 
+customer equipment with an aim to extend the lifespan of the equipment,10 such 
+as mobile phones through the Orange Circular Mobility Offer.11,12   
+▪ Orange has communicated to Sustainalytics that the proceeds will be used to 
+finance the: i) acquisition of eligible assets , such as mobile phones , for leasing; 
+and ii) post-asset acquisition expenditures, including the maintenance of assets.  
+Sustainalytics notes that Orange ’s eligibility criteria  are consistent  with the EU 
+Taxonomy’s Annex 2  Substantial Contribution  Criteria for “Product-as-a-service 
+and other circular use - and result -oriented service models .13 Sustainalytics 
+considers such programmes to have positive  environmental impact as Orange 
+recollects and refurbishes the eligible assets before redistribution.  
+▪ Sustainalytics also notes that the expenditures financed under the Framework 
+may include the acquisition of assets to be leased, and further notes that the 
+primary impact from leasing contributing to a circular economy would be derived 
+from the operational leasing, including the take-back and maintenance of assets 
+and products, which leads to their extended use.  
+▪ Sustainalytics recognizes that financing operational leasing contributes to a 
+circular economy by allowing one asset to be utilized by several users, and notes 
+that it has the potential to contribute to limiting GHG emissions resulting from the 
+manufacturing of new products.  
+▪ Sustainalytics considers the investments under this category to be in line with 
+market practice. 
+- Under the Accelerating Deployment of Optic Fibre Networks in Areas at Risk of Digital 
+Exclusion category, Orange may finance or refinance projects that improve access to optic 
+fibre networks to unconnected or underserved populations lacking network connectivity in 
+rural areas in Europe, the Middle East and Africa: 
+▪ Upgrading of copper ADSL to optic fibre in rural  areas in France  limited to  the 
+French government’s “Public Initiative Networks” (PIN)14,15 or “French Local Public 
+Expression of Interest” (AMEL) national high-speed broadband programmes,16 as 
+part of the French government’s “Plan France Très Haut Débit”.17 
+ 
+10 Such programmes will be governed by the following terms and conditions: i) Orange remains the owner of the equipment; ii) Ora nge is obliged to take 
+back the equipment at the end of the programme; iii) the customer is obliged to return the equipment at the end of the agreement; and iv) the customer 
+pays for the access to and use of the equipment or the result of access to and use of the equipment. 
+11 Orange has communicated to Sustainalytics that the programmes also follow International Telecommunication Union’s ITU-T L.1480 (12/2022) 
+recommendations. 
+12 ITU, “ITU-T L.1480 (12/2022)”, at: https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=15030&lang=en  
+13 European Commission, “Annex 2 to the Commission Delegated Regulation”, (2023), at: https://finance.ec.europa.eu/system/files/2023-06/taxonomy-
+regulation-delegated-act-2022-environmental-annex-2_en_0.pdf  
+14 ARCEP, “Les réseaux d’initiative publique (RIP)”, at:  https://www.arcep.fr/mes-demarches-et-services/collectivites/les-reseaux-dinitiative-publique-
+rip.html 
+15  ARCEP, “Comment s’organise le déploiement de la fibre en France?”, at: https://www.arcep.fr/fileadmin/user_upload/espace_collectivites/rapport-TC-
+2020/rapport-TC-2020-CHAP2_FICHE1.pdf   
+16 FIBRE.guide, “AMEL”, at: https://fibre.guide/deploiement/amel 
+17  Agence nationale de la cohésion des territoires, “France très haut debit”, at: https://agence-cohesion-territoires.gouv.fr/france-tres-haut-debit-53  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+6 
+• Plan France Très Haut Débit identifies the PIN and AMEL areas by 
+using population density data ( the PIN and AMEL areas being 
+considered as “low density”) as a proxy for connectivity. 18 Orange 
+has communicated to Sustainalytics that the reliability and speed 
+of a copper network depends on the distance between the 
+connection node and the user. As a result, the PIN and AMEL areas 
+are expected to have an average speed below the national average 
+of between 8 and 10 Mbps.19 
+• Sustainalytics considers investment in areas that have an average 
+network speed of below 10 Mbps to be socially impactful in line 
+with the International Telecommunication Union’s (ITU) definition 
+of “meaningful connectivity”. Sustainalytics further notes t hat 
+financing under the Framework may indirectly benefit  areas that 
+have an average network speed of above 10 Mbps, which 
+Sustainalytics views as having limited social impact. 
+• Nevertheless, Sustainalytics considers that the positive social 
+impact of these expenditures is assured to a certain extent given 
+their alignment with the national infrastructure goals and their 
+objective to enhance connectivity in areas with inadequate ac cess 
+to such infrastructure. Sustainalytics encourages Orange to 
+prioritize the financing of locations with average network speeds of 
+less than 10 Mbps, where feasible.20 
+▪ Underserved rural areas in  Poland, which  are identified by Poland’s Krajowego 
+Planu Odbudowy (KPO)21 and Funduszy Europejskich na Rozwój Cyfrowy (FERC) 
+programmes.22 
+• Orange has communicated to Sustainalytics that the Company will 
+target the “ white spots ” under the KPO and FERC program mes. 
+Sustainalytics notes that white spots are generally defined as areas 
+with no access to mobile networks and fixed broadband , while 
+definitions might vary depending on the local definitions. 
+Sustainalytics views this to be credible targeting and views the 
+expenditure to be socially impactful. 
+▪ Underserved rural areas outside France and Poland, including the population living 
+in white spots  defined by local authorities that require FTTH network to be 
+developed or upgraded to meet or exceed the minimum speed expectation of the 
+government’s broadband plan.  
+• Sustainalytics views this targeting positively and further 
+encourages Orange to invest in areas with network speeds below 
+10 Mbps, in line with the International Telecommunication Union’s 
+(ITU) definition of “meaningful connectivity”.23 
+▪ Underserved rural areas outside France and Poland  with broadband network  
+speed below 10 Mbps. Sustainalytics views this targeting to be credible and views 
+the expenditure to be socially impactful. 
+- Under the Accelerating Deployment of Mobile Networks in Areas at Risk of Digital Exclusion 
+category, Orange may finance projects that improve access to mobile networks for 
+underserved populations in rural areas located in Europe, the Middle East and Africa . The 
+Framework defines the target population as follows:   
+▪ Underserved populations with mobile broadband speed below 3G+.   
+ 
+18 Ibid. 
+19 Ariase, “Débit ADSL: tout comprendre à la vitesse de votre connexion Internet”, at: https://www.ariase.com/box/dossiers/debit-adsl 
+20 ITU, “Global Connectivity Report 2022”, at: https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/  
+21 Ministerstwo Funduszy i Polityki Regionalnej, “Krajowy Plan Odbudowy i Zwiększania Odporności”, at: https://www.kpo.gov.pl/strony/o-kpo/o-
+kpo/informacje/  
+22 Ministerstwo Funduszy i Polityki Regionalnej, “Fundusze Europejskie na Rozwój Cyfrowy”, at: https://www.rozwojcyfrowy.gov.pl/  
+23 ITU, “Global Connectivity Report 2022”, at: https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+7 
+▪ Rural areas in France identified by the French government’s “ la couverture des 
+zones peu denses ” (Coverage of Sparsely Populated Areas ) national high -speed 
+mobile broadband programme.24 
+▪ Rural areas outside France are defined as populations living in white spots  or 
+equivalent, as defined by local authorities, and rural areas requiring mobile 
+networks to be developed or upgraded to meet or exceed the minimum speed 
+expectation of the government’s broadband plan.  
+▪ Sustainalytics views this targeting positively  and further encourages Orange to 
+invest in areas lacking access to mobile networks of 3G or above , in line with the 
+International Telecommunication Union’s (ITU) definition of “meaningful 
+connectivity”.25 
+- Under the Digital skills category, Orange may finance or refinance digital support and 
+training programmes to reduce the digital divide of digitally excluded populations.  
+▪ Orange has confirmed that the program mes financed under this category are 
+provided free of charge. 
+▪ Orange has communicated to Sustainalytics that the programmes financed will 
+be: i) available in Europe, the Middle East and Africa; ii) conducted in the form of 
+in-person or online workshops or training courses; and iii) provided through Orange 
+Group’s subsidiaries, Orange Foundation s and partnerships with non -
+governmental organizations (NGOs) . 
+▪ The Framework defines the target population for this activity as digitally excluded 
+populations for reasons of purchasing power, technological skills or their personal 
+situations, particularly in terms of education or training . Orange has 
+communicated to Sustainalytics that  the Group , its subsidiaries  and Orange 
+Foundations select the target populations. The main target groups include children 
+under 15, young people (aged 15-24), digitally excluded women, the elderly and 
+rural communities . Orange has confirmed that it will review and approve each 
+training program me and associated targeted populations . In addition, Orange 
+intends to evaluate the social impact of the programmes being financed under this 
+category.  
+▪ Sustainalytics considers the intended programmes to be socially impactful in the 
+regional context and encourages the Company to transparently report on the 
+social impact of the projects, especially for the identified target groups. 
+- Under the Supporting Financial and Social Integration  category, Orange may finance the 
+development of digital banking services. 
+▪ The Framework defines the target population  for this activity as individuals living 
+in emerging markets and developing economies 26 within the Middle East and 
+Africa.  
+▪ Orange has communicated to Sustainalytics that financing under this category will 
+be limited to capex related to the development of the Orange Money platform , 
+which is an “electronic wallet” that provides mobile financial services , such as 
+money transfers, bill payments and purchasing phone credits, which are primarily 
+available in 18 African and Middle Eastern countries.27  
+▪ Orange has confirmed to Sustainalytics that the Company is not involved in the 
+provision of financial services.  
+▪ Sustainalytics considers these investments to be socially impactful.   
+- Under the Supporting entrepreneurship category, Orange may finance or refinance impact 
+funds for start -ups aimed at supporting employment generation, including the Orange 
+ 
+24 ARCEP, “la couverture des zones peu denses”, at: https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/la-couverture-mobile-en-
+metropole/la-couverture-des-zones-peu-denses.html  
+25 ITU, “Global Connectivity Report 2022”, at: https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/  
+26 As defined by the International Monetary Fund. IMF, “Real GDP growth”, (2024), at: 
+https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD  
+27 These countries include Botswana, Burkina Faso, Cameroon, Central African Republic, Ivory Coast, the Democratic Republic of Congo, Egypt, Guinea, 
+Guinea-Bissau, Jordan, Liberia, Madagascar, Mali, Mauritius, Morocco, Senegal, Sierra Leone and Tunisia. 
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+8 
+Ventures Impact Fund in the Middle East and Africa.28 Orange intends to provide financial 
+assistance to technology start-ups under the following initiatives: 
+▪ Orange has communicated to Sustainalytics that financing under the fund would 
+be limited to MSMEs within the Middle East and Africa. 
+▪ Middle East & Africa Seed, which supports MSMEs specifically located in 18 
+countries within the Middle East and Africa.29  
+▪ Middle East & Africa Growth, which supports MSMEs within the Middle East and 
+Africa. Orange has confirmed to Sustainalytics that financing will not be extended 
+to MSMEs in developing, high-income countries in the Middle East.30 
+▪ Sustainalytics notes that credit conditions in developing economies are more 
+restrictive and, therefore, views the targeting of this expenditure as socially 
+impactful. 
+• Project Evaluation and Selection:  
+- Orange has established a Sustainable Financing Committee (the “SFC”) which will be 
+responsible for evaluating and selecting projects in line with the Framework’s eligibility 
+criteria. The SFC convenes at least annually and consists of representatives from the 
+Corporate Social Responsibility, Treasury, Controlling and Legal departments supported by 
+other business departments or functional teams that have relevant technical and 
+sustainability expertise.   
+- The SFC will leverage Orange’s corporate governance and internal standards to monitor and 
+mitigate environmental and social risks associated with the projects financed through the 
+Framework. The SFC is also responsible for enforcing the policy as well as applicable laws 
+and regulations and applying them to all allocation decisions made under the Framework. 
+Sustainalytics considers these environmental and social risk management systems to be 
+adequate and aligned with the requirements of GBP, GLP, SBP, SLP and SBG. For additional 
+detail, see Section 2.  
+• Management of Proceeds: 
+- The SFC  will be responsible for the management of net proceeds and will track their 
+allocation using a Sustainability Register.  
+- The Company intends to allocate proceeds within 24 months after each issuance. Pending 
+full allocation, unallocated proceeds will be placed temporarily in cash, cash equivalent, 
+socially responsible investment funds or other liquid marketable instrument s. Orange has 
+confirmed the exclusion of financing carbon -intensive assets or activities under the 
+temporary use of proceeds. 
+- Orange has communicated to Sustainalytics that instruments issued under the Framework 
+may include multi-tranche loan facilities. The Company intends to label only those tranches 
+of such facilities whose proceeds will be allocated according to the eligibility criteria in the 
+Framework.  
+- Based on the use of an internal tracking system and the disclosure of the temporary use of 
+proceeds, Sustainalytics considers this process to be in line with market practice. 
+• Reporting: 
+- The Company commits to report on the allocation of proceeds and the corresponding 
+impact in an allocation and impact report, which will be published on its investor relations 
+website on an annual basis until the proceeds have been fully allocated. Allocation reporting 
+will include the total amount of proceeds allocated per category, share of financing and 
+refinancing, amount of unallocated proceeds, share of co -financing when r elevant and 
+breakdown of eligible projects per geography. 
+- Impact reporting will include relevant environmental impact metrics, where available, such 
+as: estimated reduced or avoided GHG emissions (in tCO2e); energy consumption reduction 
+(in GWh); estimated increase of number of beneficiaries in the target population; number of 
+new mobile data user s per country and per underserved area ; number of beneficiaries of 
+digital skills training programmes; and the number of jobs supported.  
+ 
+28 Orange Ventures, “Orange Ventures Middle East and Africa”, at: 
+https://ventures.orange.com/africa/?stage%5B%5D=MEA+Champions&stage%5B%5D=MEA+Seed  
+29 These countries include Botswana, Cameroon, Central African Republic, Democratic Republic of Congo, Egypt, Guinea Bissau, Guinea, Jordan, Liberia, 
+Madagascar, Ivory Coast, Mali, Morocco, Senegal, Sierra Leone and Tunisia.  
+30 These countries include Bahrain, Kuwait, Oman, Qatar and Saudi Arabia.  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+9 
+- Based on the commitment to allocation and impact reporting, Sustainalytics considers this 
+process to be in line with market practice. 
+Alignment with Sustainability Bond Guidelines 2021 
+Sustainalytics has determined that the Orange SA Sustainability Financing Framework  aligns with the four 
+core components of the GBP, SBP, GLP and SLP.  
+Section 2: Sustainability Strategy of Orange 
+Contribution to Orange’s sustainability strategy 
+Orange’s sustainability commitments focus on four key environmental and social areas: i) reducing carbon 
+emissions in its value chain; ii) promoting a circular economy in its production processes and businesses; iii) 
+supporting its B2B operations to be more sustainable; and iv) making technology accessible to all and improve 
+digital inclusion.31 
+Orange has set a target to achieve net zero emissions by 2040. At the end of 2023, Orange had reduced its 
+scope 1 and 2 emissions by 37.4%, compared to the 2015 baseline, surpassing its original target of reducing 
+such emissions by 30% by 2025 ahead of schedule.32 Orange has also committed to near-term targets, such 
+as reducing its scope 3 emissions by 14% by 2025, compared to the 2018 baseline, and absolute scope 1, 2 
+and 3 GHG emissions by 45% by 2030 for the digital sector , compared to the 202 0 baseline.33 As of 2023, 
+46.6% of the Company’s consumed electricity is derived from renewable sources. The Company committed 
+to reduce scope 3 GHG emissions from fuel - and energy-related activities covering purchased and resold 
+electricity by 73.8% per MWh within the same timeframe.34 To achieve net zero across its value chain by 2040, 
+Orange has committed to : i) reducing CO2e emissions by 90%  from a 2020 base year through decreasing 
+electricity consumption that is directly or indirectly linked to fossil fuels  that the Company, its suppliers or 
+customers consume; and ii) reducing absolute scope 1,  2 and 3 GHG emissions  by 90% by 2040, compared 
+to the 2020 baseline.35,36  
+To promote a circular economy in its production processes and businesses, Orange has implemented several 
+initiatives that focus on sustainability and resource efficiency  in its value chain in order to  reduce its direct 
+and indirect emissions and support the Company’s decarbonization targets. For example, Orange introduced 
+the “Re” initiative in 2020, which promotes the collection of used devices that encourages customers to return 
+their old phones and equipment while creating job opportunities.37,38 In 2023, Orange achieved a mobile phone 
+collection rate of 25.4% in Europe, and 480,000 mobiles were collected in Africa for recycling. In addition, the 
+Company has implemented an eco-design approach, which involves designing products and services that use 
+recyclable materials  and minimizing the use of hazardous substances in its devices. 39 In 2023, 9.5% of 
+Orange’s products were based on the eco-design approach.40  
+To make technology accessible to all and improve digital inclusion, Orange has invested in projects to expand 
+high-speed broadband and enhance its mobile network coverage, including the rollout of fibre, increasing its 
+4G/5G coverage and introducing consumer satellite services in France to improve digital cohesion in 
+underserved regions.41 In addition, Orange has implemented several initiatives and programmes in the Middle 
+East, Africa and Europe, including free digital training programmes deployed by the Orange Foundation to help 
+people acquire basic digital skills and gain confidence in using digital tools .42 The program mes were 
+conducted in 25 countries and have reached 1.8 million beneficiaries between 2021 and 2023.43 The Company 
+has also set a target of reaching 6 million cumulative beneficiaries by 2030.44  
+ 
+31 Orange SA, “On track to Lead the Future - 2023-2024 Integrated Annual Report”, at: https://gallery.orange.com/_h/i3Lxg7  
+32 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3  
+33 Ibid. 
+34 Science Based Targets Initiative, “Companies Taking Action”, at: https://sciencebasedtargets.org/companies-taking-action   
+35 Orange SA, “Net zero carbon by 2040”, at: https://orange.com/en/commitments/to-the-environment/net-zero-carbon-by-2040#roadmap  
+36 Science Based Targets Initiative, “Companies Taking Action”, at: https://sciencebasedtargets.org/companies-taking-action   
+37 Orange SA, “On track to Lead the Future - 2023-2024 Integrated Annual Report”, at: https://gallery.orange.com/_h/i3Lxg7 
+38 Orange SA, “Orange launches the “Re” initiative in Europe during the 2022 ChangeNOW international summit”, at: 
+https://newsroom.orange.com/orange-launches-the-re-initiative-in-europe-during-the-2022-changenow-international-summit/?lang=en  
+39 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+40 Ibid. 
+41 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3  
+42 Orange SA, “For Digital Equality”, at: https://www.orange.com/en/digital-equality  
+43 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+44 Orange SA, “For Digital Equality”, at: https://www.orange.com/en/digital-equality 
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+10 
+Sustainalytics is of the opinion that the Orange SA Sustainability Financing Framework is aligned with the 
+Company’s overall sustainability strategy and initiatives and will further the Company’s action on its key 
+environmental and social priorities. 
+Approach to managing environmental and social risks associated with the projects  
+Sustainalytics recognizes that the proceeds from the instruments issued under the Framework will be directed 
+towards eligible projects that are expected to have positive environmental and social impact. However, 
+Sustainalytics is aware that such eligible projects could also lead t o negative environmental and social 
+outcomes. Some key environmental and social risks possibly associated with the eligible projects may include 
+issues related to: i) data privacy and security; ii) effluents and waste during constr uction; iii) risks related to 
+the processing of electronic waste ; iv) supply chain risks ; v) occupational health and safety (OHS) ; vi) 
+community relations and stakeholder engagement; and vii) business ethics.  
+Sustainalytics is of the opinion that Orange is able to manage and/or mitigate potential risks through the 
+implementation of the following:  
+ 
+• To manage data privacy and security risks , Orange processes personal data in compliance with 
+international regulatory requirements, such as  the General Data Protection Regulation (GDPR) 45 in 
+Europe and other applicable laws in the Middle East and Africa. 46 The Company has also 
+implemented the Global Security Management System ( “GSMS”) framework to manage security 
+risks by defining responsibilities, resources and necessary controls.47 As part of the GSMS , the 
+Company has  adopted a Group Security Policy (“GSP”), which sets out  the main guidelines and 
+requirements to implement security measure s to protect customer data, employee information, 
+business process es and infrastructure s.48 Additionally, the Company has established a Group 
+Security Department, which is responsible for identifying cybersecurity risks and regularly assessing 
+and monitoring the proper implementation of the GSP.49  
+• Sustainalytics notes that  the Democratic Republic of Congo and the Central African Republic ha ve 
+faced controversies related to freedom of expression and the right to privacy.  Orange’s Vigilance 
+Plan notes that government orders in these countries to suspend or alter the Company’s connectivity 
+services do not comply with international legal frameworks, including Articles 12 and 19 of the United 
+Nation’s Universal Declaration of Human Rights 50 and Articles 17 and 19 of the International 
+Covenant on Civil and Political Rights (ICCPR). 51,52 Therefore, for requests from national authorities 
+to make such changes, including reducing internet speeds, limiting access to certain social networks, 
+interrupting telecommunication services, suspend ing or intercept ing communications, or shar ing 
+personal data with third parties, the Company  will respond in accordance with the laws and 
+regulations of each country and the licen ces authorizing telecommunication operations. 53 In 
+addition, Orange follows the Global Network Initiative’s (GNI) guidelines on handling such requests 
+for interruptions.54 During periods of expected high risk, such as elections or international events, 
+Orange establishes dedicated units coordinated by its security department to monitor compliance 
+with the GNI principles.55 Furthermore, Orange has conducted an annual risk assessment since 2012 
+in all the countries where it operates and has established management plans for different scenarios 
+resulting from government requests.56 
+• For risks related to effluents and waste generated in construction, Orange has established a supplier 
+code of conduct that requires suppliers to comply with environmental practices, including monitoring 
+ 
+45 European Parliament, “Regulation (EU) 2016/679 of the European Parliament and of the Council”, (2016), at: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX%3A32016R0679 
+46 Orange SA, “Protection of Personal Data”, (2021), at: https://gallery.orange.com/_h/gr241s  
+47 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+48 Orange SA, “Group Security Policy”, (2023), at: https://gallery.orange.com/rse/media/91ad22ef-8cbd-45d4-ba43-080a7258845e/document/a49b180f-
+b77d-4827-bfb0-cc6dea286453/#v=Version1&l=en&p=0 
+49 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+50 United Nations, “Universal Declaration of Human Rights”, at: https://www.ohchr.org/en/universal-declaration-of-human-rights 
+51 United Nations, “International Covenant on Civil and Political Rights”, at: https://www.ohchr.org/en/instruments-
+mechanisms/instruments/international-covenant-civil-and-political-rights  
+52 Orange SA, “2024 Vigilance Plan and its 2023 report”, (2024), at: https://gallery.orange.com/rse?od=768c16fd-673f-46f3-b074-
+356df7bbba23&om=a82a1f72-5350-433a-89dc-ca180bf62a74&v=root 
+53 Orange, “Human Rights Group Policy”, (2024), at: https://gallery.orange.com/rse/?od=9624639a-1fea-491b-930c-c868d1e0b7d7&om=9274af8f-5031-
+485f-9649-5f1b19eaf5ca&v=sharedSelection#l=row&ss=e283a8e9-6ef6-40b8-8531-a5d7e42eb01e   
+54 Orange SA, “2024 Vigilance Plan and its 2023 report”, (2024), at: https://gallery.orange.com/rse?od=768c16fd-673f-46f3-b074-
+356df7bbba23&om=a82a1f72-5350-433a-89dc-ca180bf62a74&v=root 
+55 Orange, “Human Rights Group Policy”, (2024), at: https://gallery.orange.com/rse/?od=9624639a-1fea-491b-930c-c868d1e0b7d7&om=9274af8f-5031-
+485f-9649-5f1b19eaf5ca&v=sharedSelection#l=row&ss=e283a8e9-6ef6-40b8-8531-a5d7e42eb01e   
+56 Ibid.  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+11 
+and managing waste, treating air, water and soil  pollutants before they are discharged , as well as  
+reducing GHG emissions and minimizing energy use .57 The Company also has in place a Waste 
+Prevention and Management policy  that focuses on extending equipment  life through the 
+optimization of their end -of-life treatment. 58 Furthermore, t he Company has established an 
+Environmental Management System (“EMS”) that aligns with applicable regulations and standards 
+to mitigate the environmental impact of construction activities.  For example, the Company 
+encourages its suppliers to implement an EMS based on international standards , such as ISO 
+1400159 or an equivalent standard . As of 2023, 58.1% of the Company’s global operations are ISO 
+14001:2015 certified. In addition,  Orange Marine and Orange’s subsidiaries in Egypt, Mali, Poland, 
+Romania, Slovenia and Spain are fully ISO 14001:2015 certified.60  
+• To address risks related to the processing of electronic waste, Orange has in place  a Waste of 
+Electrical and Electronic Equipment (“WEEE”) policy to manage hazardous waste from collection to 
+treatment.61 Under this policy, the Company is committed to: i) establishing an internal strategy for 
+collecting, treating and trac king electronic and battery waste ; ii) organizing processing channels 
+through partnerships to properly dismantle e-waste; and iii) selecting service providers for e-waste 
+treatment based on service performance evaluations.62 Sustainalytics notes that for its operations 
+in the EU, Orange complies with the Waste Electrical and Electronic Equipment Directive, 63 which 
+encourages the reuse, recycling and recovery of electrical and electronic waste, and ensures the safe 
+disposal and treatment of hazardous substances. Orange also complies with the EU Battery 
+regulation,64 which establishes efficient management of batteries throughout their life cycle, 
+including production, use, recycling and disposal. Additionally, the Company observes the European 
+Directive 2011/65/EU (RoHS2),65 which limits the use of specific hazardous substances in electrical 
+and electronic equipment from suppliers, and the European regulation 1907/2006 (REACH),66 on the 
+registration, evaluation, authorization and restriction of chemicals. 67 Sustainalytics notes that the 
+Middle East and Africa regions do not implement such strong legal frameworks to regulate e-waste 
+management. However, Sustainalytics notes that Orange’s WEEE policy applies to the above regions 
+and is supported by specific guidelines to help the aforementioned countries manage electronic 
+waste.68 Specifically, the guidelines require the Group’s subsidiaries to: i) separate, collect and trace 
+waste; ii) store it in secure locations; iii) select a processing sub-contractor that is required to provide 
+documentation for tracking the waste ; and iv) report on the recycling or destruction of the waste. 
+Additionally, Orange is dedicated to offering electronic waste recovery and treatment solutions to 
+facilities located in the Middle East and Africa by 2024, as well as establishing long-term appropriate 
+waste treatment infrastructure in its subsidiaries in these regions.69,70 Orange informed 
+Sustainalytics that the Group began identifying service providers in 2024 for the collection, transport, 
+processing and traceability of waste in Africa , and that  only a few were able to meet Orange's 
+requirements. Under the French law no. 2017-399, all of Orange’s subsidiaries and divisions are 
+required to locally implement the Group’s Vigilance Plan, which includes a risk assessment for the 
+ineffective recovery of used equipment and devices.71 
+• To manage supply chain risks, Orange requires its suppliers to adhere to its supplier code of conduct 
+to enforce responsible and ethical procurement practices.72 The code mandates that all suppliers: i) 
+implement internationally recognized standards on human rights and child labour, such as the United 
+ 
+57 Orange SA, “Supplier Code of Conduct”, (2023), at: https://fournisseurs.orange.com/wp-content/uploads/coc_en.pdf  
+58 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+59 ISO, “ISO 14001:2015”, at: https://www.iso.org/standard/60857.html  
+60 Ibid. 
+61 Orange SA, “Orange group policy on the management of household & professional Waste of Electrical and Electronic equipment (WEEE) and battery 
+waste”, (2023), at: https://gallery.orange.com/rse/media/ed8ca866-030a-48a4-9329-ab3e93a6f1cf 
+62 Ibid. 
+63 European Parliament, “Directive 2012/19/EU of the European Parliament and of the Council”, (2012), at: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX:32012L0019 
+64 European Parliament, “Regulation (EU) 2023/1542 of the European Parliament and of the Council”, (2023),  at: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX%3A32023R1542 
+65 European Parliament, “Directive 2011/65/EU of the European Parliament and of the Council”, (2011), at: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=celex%3A32011L0065  
+66 European Commission, “Regulation (EC) No 1907/2006 of the European Parliament and of the Council”, (2006), at:  https://eur-lex.europa.eu/legal-
+content/en/TXT/?uri=CELEX%3A32006R1907 
+67 Orange SA, “2024 Vigilance Plan and its 2023 report”, (2024), at: https://gallery.orange.com/rse?od=768c16fd-673f-46f3-b074-
+356df7bbba23&om=a82a1f72-5350-433a-89dc-ca180bf62a74&v=root 
+68 Orange SA shared the documents with Sustainalytics confidentially. 
+69 Ibid. 
+70 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+71 Ibid. 
+72 Orange SA, “Supplier Code of Conduct”, (2023), at: https://fournisseurs.orange.com/wp-content/uploads/coc_en.pdf 
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+12 
+Nations Universal Declaration of Human Rights 73 and the International Labor Organization  
+Declaration on Fundamental Principles and Rights at Work ;74 ii) implement necessary measures to 
+prevent accidents and occupational illnesses ; iii) refrain from all forms of corruption ; and iv) 
+minimize the environmental impact of their activities. 75 The code also includes a reporting 
+mechanism to disclose any violations or risks related to corruption, fraud, environmental violations 
+or human rights abuses. 76 Additionally, Orange conducts regular corporate social responsibility 
+assessments of suppliers deemed to have high risks  and prepare corrective action plans on a case 
+by case basis.77  
+• Regarding occupational health and safety (OHS) management, Orange has adopted a Health, Safety 
+and Quality of Life Group policy, which establishes a framework to regulate the Company’s health 
+and safety measures in line with the recommendations of the World Health Organizatio n and the 
+conventions of the International Labor Organization .78,79 The policy is applicable to Orange’s 
+stakeholders, partners and subcontractors and mandates the Company’s entities to have an ISO 
+4500180 compliant OHS management system that includes: i) implementing risk management 
+processes that prioritize primary prevention; ii) monitoring compliance towards health and safety 
+instructions; iii) conducting regular assessments of health and safety objectives and indicators; and 
+iv) conducting regular information and training initiatives.81   
+• Sustainalytics notes that financing under the Framework could be allocated to investments in the 
+Middle East, which faces allegations over human and labour rights issues, especially related to 
+migrant workers. Orange has in place a Human Rights Group policy which applies to all the  
+Company’s stakeholders, namely employees, their representatives, suppliers, business partners, B2C 
+and B2B customers, civil society and its representatives, investors, authorities, and international and 
+industry organizations. 82 The policy follows internationally recognized human rights frameworks, 
+including the UN Declaration on Human Rights, ILO’s Declaration on Fundamental Principles and 
+Rights at Work, United Nations Guiding Principles on Business and Human Rights,83 OECD Guidelines 
+for Multinational Enterprises84 and the UN Global Compact.85 The Company is also a signatory to the 
+British and Australian Modern Slavery Acts. 86 In addition , Orange requires its suppliers and 
+subcontractors to apply these standards in their own purchasing processes using the CSR clause in 
+contracts and the Supplier Code of Conduct. The Company  also assesses the compliance of its 
+international equipment suppliers , including their subcontractors,  with human rights standards  
+through audits conducted by an association of telecommunication operators, namely, Joint Alliance 
+for CSR.87 
+• To address risks related to community relations and stakeholder engagement, Orange has developed 
+a stakeholder dialogue methodology, which involves interactions and consultations with internal and 
+external stakeholders, aimed at identifying improvement areas of Orange’s business activities.88 The 
+Company employs a semi-quantitative rating system to prioritize stakeholders’ opi nions and 
+expectations, allowing for a comparison of the internal perspective with an external one.89 
+• With respect to business ethics, the Group Code of Ethics and Orange Group Anti-Corruption policy 
+follow internationally-recognized business ethics principles, such as the United Nations Global 
+Compact. It covers the Company’s processes to manage  unethical business behaviour, including 
+ 
+73 United Nations, “Universal Declaration of Human Rights”, at: https://www.ohchr.org/en/universal-declaration-of-human-rights 
+74 International Labor Organization, “ILO Declaration on Fundamental Principles and Rights at Work”, at: 
+https://normlex.ilo.org/dyn/normlex/en/f?p=1000:62:0::NO:62:P62_LIST_ENTRIE_ID:2453911:NO 
+75 Orange SA, “Supplier Code of Conduct”, (2023), at: https://fournisseurs.orange.com/wp-content/uploads/coc_en.pdf 
+76 Ibid. 
+77 Orange SA, “Our expectations from suppliers”, at: https://fournisseurs.orange.com/en/our-expectations-from-suppliers/ 
+78 International Labor Organization, “ILO Conventions”, at: https://www.ilo.org/resource/ilo-conventions  
+79 Orange SA shared the documents with Sustainalytics confidentially. 
+80 ISO, “ISO 45001”, at: https://www.iso.org/standard/63787.html  
+81 Orange has shared the Orange Group Health, Safety and Quality of Life at Work Policy with Sustainalytics confidentially.  
+82 Orange, “Human Rights Group Policy”, (2024), at: https://gallery.orange.com/rse/?od=9624639a-1fea-491b-930c-c868d1e0b7d7&om=9274af8f-5031-
+485f-9649-5f1b19eaf5ca&v=sharedSelection#l=row&ss=e283a8e9-6ef6-40b8-8531-a5d7e42eb01e   
+83 United Nations, “ Guiding Principles on Business and Human Rights”, at: 
+https://ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf  
+84 OECD, “Guidelines for Multinational Enterprises”, at: https://mneguidelines.oecd.org/mneguidelines/   
+85 United Nations, “Global Compact”, at: https://unglobalcompact.org/  
+86 The Government of Australia, “Modern Slavery Act”, (2018), at: https://www.legislation.gov.au/C2018A00153/latest/text  
+87 Orange, “Human Rights Group Policy”, (2024), at: https://gallery.orange.com/rse/?od=9624639a-1fea-491b-930c-c868d1e0b7d7&om=9274af8f-5031-
+485f-9649-5f1b19eaf5ca&v=sharedSelection#l=row&ss=e283a8e9-6ef6-40b8-8531-a5d7e42eb01e 
+88 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3   
+89 Ibid. 
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+13 
+fraud, corruption, influence peddling and tax avoidance.90,91,92 Orange has also implemented local 
+business ethics policy frameworks and appointed an ethics committee in each country the Company 
+operates.93 In addition, all of Orange’s employees receive training on compliance and business ethics 
+on a regular basis.94 The Company also has a whistleblower tool, called Hello Ethics,  which allows 
+employees and third parties to anonymously report suspected misconduct.95  
+• Sustainalytics notes that Orange intends to finance its Orange Money platform, which offers mobile 
+financial services, in several countries across the Middle East and Africa, including the Democratic 
+Republic of Congo and the Central African Republic – both of which present elevated risks related to 
+poor business practices, including corruption, money laundering and the financing of terrorism. To 
+address these risks, Orange has in place a comprehensive compliance policy that aligns with both 
+national and international regulatory requirements, as well as its own  internal guidelines. This 
+includes regional compliance policies tailored to  each country in which  Orange operates. These 
+policies outline governance processes and measures  designed to prevent, mitigate, manage  and 
+report unethical business behaviour.96 
+Based on these policies, standards and assessments, Sustainalytics is of the opinion that Orange has 
+implemented adequate measures and is well-positioned to manage and mitigate environmental and social 
+risks commonly associated with the eligible categories. Sustainalytics further notes that despite the adequate 
+procedures and assessments, limitations and restrictions on network access remain a prevalent issue in the 
+Democratic Republic of Congo and the Central African Republic where authorities can limit freedom of 
+expression. Therefore, Sustainalytics considers this to be an ongoing risk. 
+Section 3: Impact of Use of Proceeds  
+All eight use of proceeds categories are aligned with those recognized by GBP, SBP, GLP or SLP. Sustainalytics 
+has focused on one below where the impact is specifically relevant in the local context. 
+Impact of network transformation to increase energy efficiency globally 
+As of 2022, the ICT sector accounted for at least 1.7% of global GHG emissions, with telecom operators 
+responsible for 0.4% of global GHG emissions from energy and 1% of global electricity consumption.97 Current 
+mobile networks use only 15% of the energy that they demand towards data transfer, but waste the remaining 
+85% because of heat loss, intermittency and inefficient infrastructure.98 Demand for data centres and network 
+services is expected to continue to grow and, if left unchecked, could lead the industry’s share of global 
+emissions to reach up to 14% by 2040.99  
+To align with the 1.5-degree target of the Paris Agreement, the sector needs to reduce its GHG emissions by 
+45% between 2020 and 2030. 100 According to the Science based Targets initiative (SBTi), d ecarbonization 
+actions in the ICT sector to align with a 1.5°C trajectory by 2030 should mainly focus on: i) continued 
+implementation of energy efficiency plans; ii) a shift to renewable or low -carbon electricity supply; and iii) 
+encouragement of carbon consciousness among end users. 101 A report by the ITU and World Benchmarking 
+Alliance emphasize s that improving energy efficiency will be essential for the telecom sector’s 
+decarbonization pathway by transitioning from legacy to newer technologies. 102 Notably, increasing the use 
+of smart digital solutions have the potential to reduce global CO2 emissions by up to 15%,103 with fibre touted 
+ 
+90 Orange, “Orange Group Anti-Corruption Policy“, at: https://fournisseurs.orange.com/wp-content/uploads/pdf_leaflet_corruption_2021_en.pdf  
+91 Orange SA, “The Group Code of Ethics”, at: https://fournisseurs.orange.com/wp-content/uploads/2.2.2.6_the_group_code_ethics_en.pdf 
+92 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+93 Orange SA, “The Group Code of Ethics”, at: https://fournisseurs.orange.com/wp-content/uploads/2.2.2.6_the_group_code_ethics_en.pdf  
+94 Orange SA, “Annual Financial Report - 2023 Universal Registration Document”, at: https://gallery.orange.com/_h/ZqLDG3 
+95 Orange SA, “Welcome to "Hello Ethics" the Orange group reporting service”, at: https://orange.integrityline.org/ 
+96 Orange has shared Orange Money-related documentation with Sustainalytics confidentially. 
+97 World Bank and International Telecommunication Union, “Measuring the Emissions & Energy Footprint of the ICT Sector: Implications for Climate 
+Action”, (2024), at: https://documents1.worldbank.org/curated/en/099121223165540890/pdf/P17859712a98880541a4b71d57876048abb.pdf  
+98 McKinsey, “The case for committing to greener networks”, (2020), at: https://www.mckinsey.com/industries/technology-media-
+andtelecommunications/our-insights/the-case-for-committing-to-greener-telecom-networks?cid=eml-web.  
+99 European Commission, “Supporting the Green Transition: Shaping Europe’s digital future”, (2020), at:  https://op.europa.eu/en/publication-detail/-
+/publication/bd211835-5390-11ea-aece-01aa75ed71a1  
+100 International Telecommunication Union, “ICT industry to reduce greenhouse gas emissions by 45 per cent by 2030”, (2020), at: 
+https://www.itu.int/en/mediacentre/Pages/PR04-2020-ICT-industry-to-reduce-greenhouse-gas-emissions-by-45-percent-by-2030.aspx 
+101 Science Based Targets initiative, “Guidance for ICT Companies Setting Science Based Targets”, at: 
+https://sciencebasedtargets.org/resources/legacy/2020/04/GSMA_IP_SBT-report_WEB-SINGLE.pdf  
+102 International Telecommunications Union, “Greening Digital Companies: Monitoring emissions and climate commitments”, (2022), at: 
+https://www.itu.int/en/ITU-D/Environment/Documents/Publications/2022/Greening-Digital-Companies-22June2022.pdf  
+103 European Telecommunications Network Operators’ Association and BCG, “Connectivity & Beyond: How Telcos Can Accelerate a Digital Future for All”, 
+(2021), at: https://etno.eu/library/reports/96-connectivity-and-beyond.html  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+14 
+as the most energy -efficient technology for broadband networks. 104 Moreover, the provision of energy -
+efficient and low -carbon smart solutions and products by telecom network operators will enable other 
+industries to reduce their own energy consumption and GHG emissions.105 
+Sustainalytics is of the opinion that Orange’s investments in network technologies are expected to improve 
+energy efficiency and contribute to the decarbonization efforts of the telecom sector. 
+Contribution to SDGs 
+The Sustainable Development Goals were adopted in September 2015 by the United Nations General 
+Assembly and form part of an agenda for achieving sustainable development by 2030. The instruments issued 
+under the Orange Sustainability Financing Framework are expected to help advance the following SDG s and 
+targets:  
+Use of Proceeds 
+Category 
+SDG SDG target 
+Energy Efficiency 9. Industry, Innovation and 
+Infrastructure 
+9.4 By 2030, upgrade infrastructure and retrofit 
+industries to make them sustainable, with 
+increased resource-use efficiency and greater 
+adoption of clean and environmentally sound 
+technologies and industrial processes, with all 
+countries taking action in accordance with 
+their respective capabilities 
+Renewable Energy 7. Affordable and Clean 
+Energy 
+7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix 
+Circular Economy 
+12. Responsible 
+Consumption and 
+Production 
+12.5 By 2030, substantially reduce waste 
+generation through prevention, reduction, 
+recycling and reuse 
+Accelerating Deployment 
+of Optic Fibre Networks 
+in Areas at Risk of Digital 
+Exclusion  
+9. Industry, Innovation and 
+Infrastructure 
+9.1 Develop quality, reliable, sustainable and 
+resilient infrastructure, including regional and 
+transborder infrastructure, to support 
+economic development and human well-being, 
+with a focus on affordable and equitable 
+access for all. 
+ 
+Accelerating Deployment 
+of Mobile Networks in 
+Areas at Risk of Digital 
+Exclusion 
+9. Industry, Innovation and 
+Infrastructure 
+9.a Facilitate sustainable and resilient 
+infrastructure development in developing 
+countries through enhanced financial, 
+technological and technical support to African 
+countries, least developed countries, 
+landlocked developing countries and small 
+island developing States 
+Digital Skills  10. Reduced Inequalities  
+10.2 By 2030, empower and promote the 
+social, economic and political inclusion of all, 
+irrespective of age, sex, disability, race, 
+ethnicity, origin, religion or economic or other 
+status 
+Supporting Financial and 
+Social Integration 
+8. Decent Work and 
+Economic Growth  
+8.2 Achieve higher levels of economic 
+productivity through diversification, 
+technological upgrading and innovation, 
+including through a focus on high-value added 
+and labour-intensive sectors. 
+Supporting 
+Entrepreneurship 
+8. Decent Work and 
+Economic Growth  
+8.5 By 2030, achieve full and productive 
+employment and decent work for all women 
+and men, including for young people and 
+persons with disabilities, and equal pay for 
+work of equal value 
+ 
+104 Europacable, “Fibre: the most energy-efficient solution to Europe’s bandwidth needs”, (2022), at: 
+https://europacable.eu/wpcontent/uploads/2022/07/Europacable-Whitepaper-on-Energy-Efficiency-of-Fiber-networks-05-July-2022.pdf  
+105 BCG, “Putting Sustainability at the Top of the Telco Agenda”, (2021), at: https://www.bcg.com/publications/2021/building-sustainable-
+telecommunications-companies  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+15 
+Conclusion  
+Orange SA has developed the Orange SA Sustainability Financing Framework, under which it may issue  and 
+obtain GSS Financings and use the proceeds to finance projects in the following categories: Energy Efficiency; 
+Renewable Energy; Circular Economy; Accelerating Deployment of Optic Fibre Networks in Areas at Risk of 
+Digital Exclusion; Accelerating Deployment of Mobile Networks in Areas at Risk of Digital Exclusion; Digital 
+Skills; Supporting Financial and Social Integration; and Supporting Entrepreneurship. Sustainalytics considers 
+that the eligible projects are expected to provide positive environmental and social impacts and support the 
+decarbonization efforts of the telecom services and digital inclusion in Europe, the Middle East and Africa. 
+The Orange SA  Sustainability Financing Framework outlines a process for the tracking, allocation and 
+management of proceeds and makes commitments for reporting on allocation and impact. Sustainalytics 
+considers that the Framework is aligned with the overall sustainability strategy of Orange and that the use of 
+proceeds will contribute to advance  the UN Sustainable Development Goals 7, 8, 9, 1 0 and 12. Additionally, 
+Sustainalytics is of the opinion that the Company has adequate measures to identify, manage a nd mitigate 
+environmental and social risks commonly associated with the eligible projects. 
+Based on the above, Sustainalytics is confident that Orange is well positioned to issue sustainability bonds  
+and obtain sustainability  loans and that the Orange SA  Sustainability Financing Framework is robust, 
+transparent and in alignment with the four core components of the Green Bond Principles 2021, Social Bond 
+Principles 2023, Green Loan Principles 2023 and Social Loan Principles 2023. 
+  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+16 
+Disclaimer 
+Copyright ©2024 Sustainalytics. All rights reserved. 
+The information, methodologies and opinions contained or reflected herein are proprietary of Sustainalytics 
+and/or its third party suppliers (Third Party Data), and may be made available to third parties only in the form 
+and format disclosed by Sustainalyt ics, or  provided that appropriate citation and acknowledgement is 
+ensured. They are provided for informational purposes only and (1) do not constitute an endorsement of any 
+product or project;  (2) do not constitute investment advice, financial advice  or a prospectus; (3) cannot be 
+interpreted as an offer or indication to buy or sell securities, to select a project or make any kind of business 
+transactions; (4) do not represent an assessment of the issuer’s economic performance, financial obligations 
+nor of its creditworthiness; and/or (5) have not and cannot be incorporated into any offering disclosure. 
+These are  based on information made available by the issuer and therefore are not warranted as to their 
+merchantability, completeness, accuracy, up-to-dateness or fitness for a particular purpose. The information 
+and data are provided “as is” and reflect Sustainalytics` opinion at the date of their elaboration and publication. 
+Sustainalytics accepts no liability for damage arising from the use of the information, data or opinions 
+contained herein, in any manner whatsoever, except where explicitly required b y law. Any reference to third 
+party names or Third Party Data is for appropriate acknowledgement of their ownership and does not 
+constitute a sponsorship or endorsement by such owner. A list of our third -party data providers and their 
+respective terms of u se is available on our website. For more information, 
+visit http://www.sustainalytics.com/legal-disclaimers. 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for their 
+implementation and monitoring. 
+In case of discrepancies between the English language and translated versions, the English language version 
+shall prevail.  
+Second-Party Opinion  
+Orange SA Sustainability Financing Framework  
+  
+ 
+  
+ 
+17 
+About Sustainalytics, a Morningstar Company 
+Sustainalytics, a Morningstar Company, is a leading ESG research, ratings and data firm that supports 
+investors around the world with the development and implementation of responsible investment strategies. 
+For more than 30 years, the firm has been at the forefront of developing high-quality, innovative solutions to 
+meet the evolving needs of global investors. Today, Sustainalytics works with hundreds of the world’s 
+leading asset managers and pension funds who incorporate ESG and corporate governance information and 
+assessments into their investment processes. Sustainalytics also works with hundreds of companies and 
+their financial intermediaries to help them consider sustainability in policies, practices and capital projects. 
+With 17 offices globally, Sustainalytics has more than 1500 staff members, including more than 500 
+analysts with varied multidisciplinary expertise across more than 40 industry groups. 
+For more information, visit www.sustainalytics.com 
+Or contact us contact@sustainalytics.com

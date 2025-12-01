@@ -1,0 +1,580 @@
+Morgan Stanley Sustainable 
+Issuance Framework
+January 2025
+Introduction
+Morgan Stanley (“Morgan Stanley” or the “Firm”) is a leading global financial services firm. 
+At Morgan Stanley, our sustainability strategy is focused on helping our clients achieve their 
+own sustainability-related ambitions by providing advice, products and solutions. In 2021, 
+Morgan Stanley set a goal to mobilize $1 trillion for sustainable solutions by 2030, including $750 
+billion toward low-carbon and green solutions. We have made significant progress, having now 
+achieved over $820 billion1. Morgan Stanley’s three business segments—Institutional Securities, 
+Wealth Management and Investment Management— contribute to our sustainable finance target 
+and also offer a broader range of sustainability-related products and solutions to our clients.  
+Our ability to deliver an integrated firm allows us to capture new opportunities that aim to bring 
+positive long-term results not only to our clients and shareholders, but to the environment and 
+society at large. In order to do this, we need to ensure that relevant ESG topics are incorporated 
+into our corporate policies, business activities and operations. There are various ESG topics that 
+are important to the Firm, including human capital, climate change and governance. 
+Led by our Chief Sustainability Officer and overseen by our Chief Administrative Officer, the Global 
+Sustainability Office (“GSO”) drives the Firm’s sustainability strategy through thought leadership 
+and innovation. GSO is organized across three areas of focus:
+1. Global Sustainable Finance partners with Institutional Securities, Wealth Management 
+and Investment Management to provide innovative ESG advice, products and solutions for 
+our clients. As part of this effort, the Morgan Stanley Sustainable Insights Lab serves as an 
+ESG data hub for the Firm, catalyzing data-driven solutions and quantitative analyses on 
+sustainability topics 
+2. Firmwide Sustainability works to integrate ESG considerations across our business practices, 
+operations and culture. This includes driving our Firmwide climate strategy, managing key Firm 
+ESG disclosures, engaging with stakeholders and reducing the environmental impact of our 
+operations  
+3. The Morgan Stanley Institute for Sustainable Investing (“ISI”) helps accelerate the field of 
+sustainable investing through thought leadership and capacity-building programs. The ISI is 
+guided by an external advisory board that helps shape our ESG efforts both internally and 
+externally
+MORGAN STANLEY 01
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+1  Data as of December 31, 2023.
+Sustainable Issuance Framework
+Morgan Stanley has established this Sustainable Issuance Framework (“Framework”), which will 
+enable the issuance of green, social and sustainability instruments (together the “Sustainable 
+Instruments”)2 by Morgan Stanley or any of its wholly owned subsidiaries to finance or refinance 
+a variety of assets (“Eligible Projects”) which, in the view of Morgan Stanley, contribute to 
+environmental and social objectives as further detailed in the eligibility criteria section.
+This Framework aims to bring together investment and private capital to contribute to real 
+economy decarbonization and create lasting positive change to communities across the globe.
+Morgan Stanley’s Framework is aligned to the Green Bond Principles (“GBP”) 20213, the Social 
+Bond Principles (“SBP”) 2023 4 and the Sustainability Bond Guidelines (“SBG”) 2021 5 (collectively, 
+the “Principles”) as administered by the International Capital Market Association (“ICMA”), and 
+addresses the following key pillars, in line with the Principles:
+1. Use of Proceeds
+2. Process for Project Evaluation and Selection
+3. Management of Proceeds
+4. Reporting
+5. External Reviews
+MORGAN STANLEY 02
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+2  As used herein, the term “instruments” refers to any issuance made pursuant to the Framework, which may include but is not limited to 
+bonds, notes, certificates and time deposits. 
+3  With June 2022 Appendix, https://www.icmagroup.org/assets/documents/Sustainable-finance/2022-updates/Green-Bond-Principles_
+June-2022-280622.pdf
+4 https://www.icmagroup.org/assets/documents/Sustainable-finance/2023-updates/Social-Bond-Principles-SBP-June-2023- 220623.pd f
+5  https://www.icmagroup.org/assets/documents/Sustainable-finance/2021-updates/Sustainability-Bond-Guidelines-June-2021- 140621.pd f
+1. USE OF PROCEEDS
+1.1 Eligibility Criteria 
+An amount equal to the gross proceeds raised by way of Sustainable Instruments issued pursuant 
+to this Framework will be allocated to the financing or refinancing, in whole or in part, of 
+new or existing green or social loans, investments and expenditures (“Eligible Projects”), that 
+Morgan Stanley or any of its wholly owned subsidiaries considers consistent with the eligibility 
+criteria in this Framework, and which together form the “Eligible Portfolio”.
+United Nations Sustainable Development Goals (“SDGs”)
+The SDGs were adopted by the United Nations in 2015 as a universal call to action towards an 
+inclusive, low-carbon world economy. Each category of Eligible Projects set out in this Framework 
+seeks to advance the SDGs as mapped in the table on the following page.
+MORGAN STANLEY 03
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+Eligibility Criteria for Green Projects
+To qualify for the Eligible Portfolio as an Eligible Project, a green project must meet the eligibility 
+criteria for at least one of the following project categories.
+Renewable 
+Energy
+Climate change 
+mitigation
+Financing for, and investments in, renewable and 
+low-carbon energy, including the development, 
+storage, transmission, construction, installation, 
+operation, acquisition, maintenance, upgrades and 
+associated costs relating to the following: 
+• Wind energy
+• Solar energy
+• Hydro power 6 
+• Geothermal energy facilities 7 
+• Hydrogen produced with renewable energy
+ELIGIBILITY CRITERIA CORE 
+SDGS
+ELIGIBLE
+CATEGORY
+ENVIRONMENTAL 
+OBJECTIVE
+6  Consists of activities that comply with any of the following: a) an electricity generation facility that is a run-of-river plant and does not have 
+an artificial reservoir; b) an electricity generation facility with power density above 5 W/m2 for projects built before 2020 and 10 W/m2 for 
+projects built after 2020; or c) an electricity generation facility where the life-cycle greenhouse gas (“GHG”) emissions from the generation 
+of electricity from hydropower are lower than 100gCO2e/kWh for projects built before 2020 or 50gCO2e/kWh for projects built after 2020, 
+as verified by a third party.
+7  Consists of activities where the life-cycle GHG emissions from generation of electricity from geothermal energy are lower than 100g/CO2e/
+kWH, as verified by a third party.
+8 Excludes manufacturing, industrial, and storage facilities.
+Energy 
+Storage
+Climate change 
+mitigation
+Financing for, and investments in, battery storage 
+systems, including the development, transmission, 
+construction, installation, operation, acquisition, 
+maintenance, upgrades and associated costs
+Green 
+Buildings
+Climate change 
+mitigation
+Financing for, and investments in, the development, 
+construction, installation, operation, acquisition, 
+maintenance, upgrades and associated costs 
+relating to: 
+• Buildings 8 with current certifications from 
+third party verified green building standards, 
+including: 
+ ○ LEED Gold or Platinum Standard 
+ ○ BREEAM Very Good, Excellent or 
+Outstanding Standard
+ ○ DGNB Gold or Platinum
+ ○ Energy Performance Certificate (EPC) A
+ ○ Energy Star 85 and above
+ ○ NABERS 4.5 Stars and above
+ ○ Green Star 5 and 6
+
+MORGAN STANLEY 04
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+Green 
+Buildings
+Climate change 
+mitigation
+• Buildings 8 that are working towards the above 
+certifications. To qualify as eligible, buildings 
+that are working towards 9 certification will 
+have achieved one or both of the following:
+ ○ Have a signed construction contract in 
+place which states that the building will 
+be developed, expanded, constructed, 
+or renovated to meet one of the above 
+certifications 
+ ○ Have received interim certifications 
+or confirmations indicating the 
+construction-in-process is being 
+performed in accordance with accredited 
+certification milestones, as verified by an 
+accredited certification administrator or 
+other similar qualified third party
+• Energy-efficient data centers designed for 
+annualized Power Usage Effectiveness (“PUE”) 
+less than or equal to 1.5 10
+ELIGIBILITY CRITERIA CORE 
+SDGS
+ENVIRONMENTAL 
+OBJECTIVE
+8  Excludes manufacturing, industrial, and storage facilities. 
+9  Buildings that are working towards certification may not ultimately obtain an accredited certification and will be excluded from the portfolio 
+if such accreditation expires or the final certification does not comply with the criteria set forth by this Framework. Interim certifications and 
+confirmations are not equivalent to having a certification. These are milestones that occur in the process of working towards certification. 
+There is no guarantee that these interim certifications or confirmations will result in an eventual certification or verification.
+10  As verified by a third party.
+11  Consists of infrastructure to support zero direct emissions vehicles and excludes standalone parking facilities.
+12  Including fully electrified public transport, urban metro, rail and non-motorized, multi-modal transportation.
+13  The infrastructure and installations will be dedicated to urban and suburban public passenger transport, including associated signaling 
+systems for metro, tram and rail systems. Excludes freight rail.
+Clean 
+Transportion
+Climate change 
+mitigation
+Financing for, and investments in, construction, 
+development, acquisition, maintenance and 
+operation of: 
+• Zero direct emissions vehicles, including cars, 
+trucks and buses (“EVs”)
+• Charging stations and other infrastructure and 
+equipment dedicated to electrified passenger 
+transport 11, including battery technology
+• Building or operating mass transit 12, rolling 
+stock and the infrastructure to support mass 
+transit, including depot and maintenance 
+facilities, signaling equipment, platform gates, 
+utilities and other enabling infrastructure that 
+promotes transportation 13
+ELIGIBLE
+CATEGORY
+MORGAN STANLEY 05
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+14  Limited to municipal wastewater treatment projects.
+15  Limited to municipal governments with a vulnerability assessment, including an assessment of climate risks and an adaptation plan.
+Sustainable 
+Water & 
+Wastewater 
+Management
+Climate change 
+adaptation and 
+sustainable use 
+and protection 
+of water and 
+marine resources
+Financing for and investments in the construction, 
+development, acquisition, maintenance and 
+operation of infrastructure for:
+• Making clean and/or drinking water
+• Wastewater treatment 14  
+• Urban drainage systems
+• River training and other forms of flooding 
+mitigation15
+Affordable 
+Housing
+Projects aiming to 
+provide housing 
+at affordable 
+rates to low- or 
+moderate-
+income (“LMI”) 
+individuals and/
+or families
+Affordable housing projects are required to meet 
+one of the following categories:
+• Investments in funds that have the stated 
+objective, per the fund’s governing documents, 
+in part, to provide the limited partners 
+with opportunities to make investments in 
+low-income communities, including without 
+limitation affordable housing projects 
+that meet the definition of public welfare 
+investments as defined in 12 CFR 24.3  
+• Has received a Low-Income Housing Tax 
+Credit “LIHTC” (created by the Tax Reform 
+Act of 1986, as amended) from relevant 
+allocating agencies
+Access to 
+Education
+Projects aiming 
+to expand access 
+to quality and 
+affordable 
+education to  
+underprivileged  
+students
+Financing of activities that are designed to provide 
+access to education, teachers, and teacher training 
+materials; including costs related to: 
+• Pre-primary, primary and secondary education 
+programs at school districts, charter schools 
+and/or special act districts. This includes costs 
+pertaining to teachers and students within 
+these districts or schools receiving Title I 
+funding under the Elementary and Secondary 
+Education Act, amended by the Every Student 
+Succeeds Act
+Eligibility Criteria for Social Projects
+To qualify for the Eligible Portfolio as an Eligible Project, a social project must meet the eligibility 
+criteria for at least one of the following project categories.
+ELIGIBILITY CRITERIA CORE 
+SDGS
+ENVIRONMENTAL 
+OBJECTIVE
+ELIGIBILITY CRITERIA CORE 
+SDGS
+SOCIAL 
+OBJECTIVE
+ELIGIBLE
+CATEGORY
+ELIGIBLE
+CATEGORY
+MORGAN STANLEY 06
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+2. PROCESS FOR PROJECT EVALUATION AND SELECTION  
+ 
+The Firm ESG Committee (the “ESG Committee”) will have overall responsibility for the 
+supervision of the procedures outlined in this Framework. The ESG Committee has cross-Firm 
+representation, including from the Global Sustainability Office, Finance, Risk Management and 
+Legal and Compliance functions, and from the Institutional Securities, Investment Management and 
+Wealth Management business segments.   
+The ESG Committee will review the Framework and items related to Morgan Stanley’s sustainable 
+issuances on an annual basis, and more frequently, as necessary.  
+The process for evaluation and selection of Eligible Projects will be as follows:
+1. Utilizing the eligibility criteria within this Framework, the relevant business units will 
+identify and propose Eligible Projects. The Eligible Projects will be tracked using an internal 
+system and aggregated to form the Eligible Portfolio.
+2. On an ongoing basis, new projects meeting the eligibility criteria will be added to the 
+Eligible Portfolio and projects that have matured or been reimbursed will exit the portfolio.
+3. A working group supervised by the ESG Committee and comprised of members from the 
+Global Sustainability Office, Treasury, Environmental and Social Risk Management, among 
+other functions (the “Sustainable Issuance Working Group”) shall meet, at minimum, on 
+a semi-annual basis to review the Eligible Portfolio in consultation with the participating 
+business units. The Sustainable Issuance Working Group will make decisions on a consensus 
+basis. Projects that no longer comply with the eligibility criteria will be excluded from the 
+Eligible Portfolio.
+1.2 Risk Management & Exclusionary Criteria
+Morgan Stanley employs robust risk management policies, including for environmental and social 
+risk, to help the Firm deliver long-term value for our clients, shareholders and employees.  
+Morgan Stanley’s Environmental and Social Policy Statement (“ESPS”) outlines the Firm’s 
+commitment and approach to identifying and assessing environmental and social risks, including 
+due diligence processes and tailored approaches to certain sectors and cross-sector issues. It is an 
+evolving document which is reviewed annually by our Environmental and Social Risk Management 
+team, senior representatives of the business units, the Global Sustainability Office, and other 
+relevant internal control functions and updated accordingly to address emerging risks and market 
+developments. The ESPS is approved by the Firm’s ESG and Global Franchise Committees and 
+material amendments are presented to the Governance and Sustainability Committee of the 
+Morgan Stanley Board of Directors for Approval. 
+Any project that fails to meet the eligibility criteria defined in Section 1.1 or is inconsistent or in 
+contravention with Morgan Stanley’s ESPS is excluded from the Eligible Portfolio.
+MORGAN STANLEY 07
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+3. MANAGEMENT OF PROCEEDS  
+ 
+As described in Section 2, Eligible Projects will be tracked in internal systems and will be 
+aggregated to form the Eligible Portfolio. The Eligible Portfolio is dynamic: new Eligible Projects 
+may be added as projects exit and proceeds are redeemed over the life of any Sustainable 
+Instrument.  
+The proceeds from the issuance of Sustainable Instruments will be managed on a portfolio basis. 
+On an ongoing basis, Treasury will monitor the Eligible Portfolio against the gross proceeds from 
+the outstanding green, social and/or sustainability instruments to confirm:
+In the case of insufficient Eligible Projects in the Eligible Portfolio, Morgan Stanley will hold 
+the balance of the unallocated amount in cash, cash equivalents and/or other high quality liquid 
+assets in a segregated account established for tracking purposes until the amount and proceeds 
+therefrom can be allocated to the Eligible Portfolio.
+Payment of principal and interest on any Sustainable Instrument will be made from 
+Morgan Stanley’s general funds and will not be directly linked to the performance of any 
+Eligible Project.
+• An amount equal to the gross proceeds raised through the green instruments will be at 
+least equal to the amount of assets in the green Eligible Portfolio, which meet the Eligibility 
+Criteria for Green Projects;
+• An amount equal to the gross proceeds raised through the sustainability instruments will 
+be at least equal to an amount of assets in a combination of the green and social Eligible 
+Portfolios, which meet the Eligibility Criteria for Green and Social Projects respectively.
+• An amount equal to the gross proceeds raised through the social instruments will be at 
+least equal to the amount of assets in the social Eligible Portfolio, which meet the Eligibility 
+Criteria for Social Projects; and
+• The total amount of Sustainable Instruments outstanding pursuant to this Framework;
+• The reported amounts of the assets in the Eligible Portfolio determined in accordance with 
+U.S. GAAP;
+• The amount of unallocated proceeds, if any; and
+• The breakdown of the Eligible Portfolio by Eligible Category as outlined above
+4. REPORTING 
+ 
+On an annual basis until the outstanding green, social, and sustainability instruments have 
+matured, Morgan Stanley will publicly disclose on its website or in its ESG Report: 
+Additionally, where feasible, Morgan Stanley will report on the anticipated or estimated 
+environmental and/or social impact of the Eligible Portfolio. Indicative impact metrics across each 
+Eligible Category include but are not limited to those found in the Appendix of this Framework. 
+MORGAN STANLEY 08
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+Depending on the availability and provided that no confidentiality agreements apply, 
+Morgan Stanley may complement the above indicators with relevant case studies.  
+The information and materials found on Morgan Stanley’s website, including, without limitation, 
+the aforementioned report, are not part of or incorporated by reference into this document.
+5. EXTERNAL REVIEWS 
+5.1 Second-Party Opinion 
+Prior to issuance, Morgan Stanley has appointed an independent second-party opinion provider to 
+conduct an external review and issue a second-party opinion on the Framework’s alignment to the 
+GBP, SBP, and SBG.
+FRAMEWORK UPDATES
+Morgan Stanley may update the Framework from time to time for alignment with market practice, 
+the Firm’s business or sustainability strategy, and regulatory developments.
+5.2 External Assurance
+Within one year of issuance, and on an annual basis until the outstanding green, social, 
+and sustainability instruments have matured, Morgan Stanley will request an independent 
+accountant to perform an attestation engagement conducted in accordance with attestation 
+standards established by the American Institute of Certified Public Accountants pertaining to 
+Morgan Stanley’s management assertion regarding the amount of assets determined in accordance 
+with U.S. GAAP in the Eligible Portfolio compared to the gross proceeds from the outstanding 
+Sustainable Instruments.
+MORGAN STANLEY 09
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+Appendix: Possible Impact Reporting Metrics
+The relevant metrics may include, amongst others:
+Renewable Energy:
+• Annual GHG emissions reduced/avoided in tons CO2e
+• Total energy produced in MW per year
+Green Buildings: 
+• Annual GHG emissions reduced/avoided in tons CO2e
+• Number of assets funded 
+Sustainable Water & Wastewater Management: 
+• Total population served by the system
+• Volume of water (m3) saved/reduced/treated
+Clean Transportation: 
+• Annual GHG emissions reduced/avoided in tons CO2e
+• Number of mass transit systems supported
+• Number of EVs and/or EV charging stations financed
+Energy Storage:
+• Annual storage capacity in MWh
+Affordable Housing:
+• Number of housing units created or rehabilitated
+Access to Education: 
+• Number of educational institutions funded
+DISCLAIMERS
+FORWARD-LOOKING STATEMENTS
+We have included in this Framework, and from time to time may make 
+in our public filings, press releases or other public statements, certain 
+statements that may constitute “forward-looking statements” within 
+the meaning of the safe harbor provisions of the Private Securities 
+Litigation Reform Act of 1995. In addition, our management may make 
+forward-looking statements to analysts, investors, representatives 
+of the media and others. These forward-looking statements are not 
+historical facts and represent only our beliefs regarding future events, 
+many of which, by their nature, are inherently uncertain and beyond 
+our control.
+The nature of our business makes predicting the future trends of 
+our revenues, expenses, and net income difficult. The risks and 
+uncertainties involved in our businesses could affect the matters 
+referred to in such statements, and it is possible that our actual 
+results may differ, possibly materially, from the anticipated results 
+indicated in these forward-looking statements. Important factors that 
+could cause actual results to differ from those in the forward-looking 
+statements include (without limitation):
+• the effect of market conditions, particularly in the global equity, 
+fixed income, currency, credit and commodities markets, 
+including corporate, commercial and residential mortgage 
+lending, real estate and energy markets;
+• the level of individual investor participation in the global markets 
+as well as the level and mix of client assets;
+• the flow of investment capital into or from assets under 
+management;
+• the level and volatility of equity, fixed income and commodity 
+prices, interest rates, inflation and currency values, other market 
+indices or other market factors, such as market liquidity;
+• the availability and cost of both credit and capital, as well as the 
+credit ratings assigned to our unsecured short-term and long-
+term debt;
+• technological changes instituted by us, our competitors or 
+counterparties and technological risks, including risks associated 
+with emerging technologies, business continuity and related 
+operational risks, including breaches or other disruptions of our 
+or a third party’s (or third-parties thereof) operations or systems;
+• risk associated with cybersecurity threats, including data 
+protection and cybersecurity risk management;
+• our ability to effectively manage our capital and liquidity, 
+including under stress tests designed by our banking regulators;
+• the impact of current, pending and future legislation or changes 
+thereto, regulation (including capital, leverage, funding, liquidity, 
+consumer protection, and recovery and resolution requirements) 
+and our ability to address such requirements;
+• uncertainty concerning fiscal or monetary policies established 
+by central banks and financial regulators, government 
+shutdowns, debt ceilings or funding;
+• changes to global trade policies, tariffs, and replacement or 
+reform of certain interest rate benchmarks;
+• legal and regulatory actions, including litigation and 
+enforcement, and other non-financial risks in the U.S. and 
+worldwide;
+• changes in tax laws and regulations globally;
+• the effectiveness of our risk management processes and related 
+controls, including climate risk;
+• our ability to effectively respond to an economic downturn, or 
+other market disruptions;
+• the effect of social, economic, and political conditions and 
+geopolitical events, including as a result of government 
+shutdowns, changes in U.S. presidential administrations or 
+Congress, sovereign risk, acts of war or aggression, and terrorist 
+activities or military actions;
+• the actions and initiatives of current and potential competitors, 
+as well as governments, central banks, regulators and self-
+regulatory organizations;
+• our ability to provide innovative products and services and 
+execute our strategic initiatives, and costs related thereto, 
+including with respect to the operational or technological 
+integration related to such innovative and strategic initiatives;
+• the performance and results of our acquisitions, divestitures, joint 
+ventures, partnerships, minority stakes or strategic alliances, or 
+other strategic arrangements and related integrations;
+• investor, consumer and business sentiment and confidence in 
+the financial markets;
+• our reputation and the general perception of the financial 
+services industry; 
+• our ability to retain, integrate and attract qualified employees or 
+successfully transition key roles; and
+• climate-related incidents, other environmental and sustainability 
+matters, and global pandemics 
+Accordingly, you are cautioned not to place undue reliance on 
+forward-looking statements, which speak only as of the date on 
+which they are made. We undertake no obligation to update publicly 
+or revise any forward-looking statements to reflect the impact of 
+circumstances or events that arise after the dates they are made, 
+whether as a result of new information, future events or otherwise 
+except as required by applicable law. You should, however, consult 
+further disclosures we may make in future filings of our annual reports 
+on Form 10-K, quarterly reports on Form 10-Q and current reports on 
+Form 8-K and any amendments thereto or in future press releases or 
+other public statements.
+MATERIALITY
+The disclosures included in this Framework are being provided to 
+the public in an effort to provide transparency into our sustainable 
+issuances. Our approaches to the disclosures included in this 
+Framework differ in significant ways from those included in 
+mandatory regulatory reporting, including under SEC rules and 
+regulations. Information within this Framework may be presented from 
+a different perspective or in more detail than disclosures mandated 
+by our global regulators. In particular, while the foregoing discussion 
+describes potential future events that may be significant or material 
+(based on disclosure recommendations and broader definitions 
+of materiality used by certain voluntary external frameworks and 
+reporting guidelines or those in non-U.S. jurisdictions), impact 
+reporting metrics, and sustainable development and finance goals, 
+the significance or materiality of those potential events, metrics, 
+and goals should not be read as equating to or arising to the level of 
+materiality as required under U.S. federal securities laws, including 
+as the concept is used in Morgan Stanley’s periodic filings with the 
+SEC under the Exchange Act. In addition, any discussion of forward-
+looking statements in this Framework is not an indication that the 
+subject or information is material to Morgan Stanley for U.S. federal 
+securities laws and regulations reporting purposes.
+USE OF THIRD-PARTY INFORMATION
+No reports, documents or websites that are cited or referred to in 
+this Framework shall be deemed to form part of this Framework. In 
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+MORGAN STANLEY 10
+addition, certain information contained in this Framework has been 
+derived from publicly available information released by third-party 
+sources, which Morgan Stanley believes to be reasonable, although 
+Morgan Stanley has only been able to complete limited validation. To 
+the extent that such third-party information we use is subsequently 
+determined to be erroneous or otherwise not in keeping with 
+best practices, it may affect our disclosures. Certain third-party 
+information may change over time as methodologies evolve and are 
+refined or current data changes or is restated or new data is added.
+OTHER DISCLOSURES
+The information contained in this Framework is provided as at the 
+date of this Framework and is subject to change without notice. 
+Morgan Stanley does not assume any responsibility or obligation 
+to update or revise the statements contained in this Framework, 
+regardless of whether those statements are affected by the results 
+of new information, future events or otherwise. This Framework is not 
+intended to, nor can it be relied on, to create legal relations, rights or 
+obligations. This Framework is intended to provide non-exhaustive, 
+general information.
+Any references to “sustainable investing,” “sustainable investments,” 
+“ESG” or similar terms in this Framework are intended as references 
+to the internally defined criteria of the firm or our businesses only, as 
+applicable, and not to any jurisdiction-specific regulatory definition.
+No representation is made as to the suitability of any issuance of 
+green, social or sustainability instruments to fulfill environmental and 
+sustainability criteria required by prospective investors. Each potential 
+purchaser should determine for itself the relevance of the information 
+contained or referred to in this Framework or the relevant instrument 
+documentation regarding the use of proceeds and its purchase 
+should be based upon such investigation as it deems necessary. 
+Each potential investor should be aware that Eligible Projects may 
+not satisfy the investor’s expectations concerning environmental or 
+sustainability benefits, and may result in adverse impacts.
+This Framework does not constitute a recommendation regarding 
+any securities of Morgan Stanley. This Framework is not, does not 
+contain and may not be intended as an offer to sell or a solicitation 
+of any offer to buy any securities issued by Morgan Stanley. In 
+particular, neither this document nor any other related material may 
+be distributed or published in any jurisdiction in which it is unlawful 
+to do so, except under circumstances that will result in compliance 
+with any applicable laws and regulations. Persons into whose 
+possession such documents may come must inform themselves 
+about, and observe, any applicable restrictions on distribution. If any 
+offer to sell or solicitation of any offer to buy any securities issued 
+by Morgan Stanley is made, it will be done so pursuant to separate 
+and distinct documentation in the form of a prospectus supplement, 
+an accompanying prospectus or other equivalent document and a 
+related pricing term sheet (collectively, the “Offering Documents”). 
+Any decision to subscribe for or purchase any securities pursuant 
+to such offer or solicitation should be made only after carefully 
+reviewing such Offering Documents, including any documents 
+incorporated by reference therein, and consulting with any legal, tax, 
+financial and other advisors, as appropriate. No decision to subscribe 
+for or purchase any securities of Morgan Stanley should be made on 
+the basis of the information contained in this Framework.
+Morgan Stanley Institutional Securities is a business of Morgan Stanley 
+& Co. LLC.
+Morgan Stanley Investment Management is the asset management 
+division of Morgan Stanley.
+Morgan Stanley Wealth Management is a business of Morgan Stanley 
+Smith Barney LLC.
+MORGAN STANLEY SUSTAINABLE ISSUANCE FRAMEWORK  | JANUARY 2025
+MORGAN STANLEY 11
+© 2025 Morgan Stanley Smith Barney LLC. Member SIPC  CRC 4105537  1/2025

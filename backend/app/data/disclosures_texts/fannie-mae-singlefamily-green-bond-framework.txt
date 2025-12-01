@@ -1,0 +1,638 @@
+Fannie Mae Confidential 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2024 
+© 2024 Fannie Mae September 2024
+  
+1 
+ 
+September 2024 
+Contents 
+ 
+Background and Objective ........................................................................................................................................................................ 2  
+Introduction ........................................................................................................................................................................................... 2  
+Fannie Mae Single-Family Mortgage Business ...................................................................................................................................... 2  
+Fannie Mae Single-Family Green MBS and Governance ....................................................................................................................... 2  
+Use of Proceeds ......................................................................................................................................................................................... 3  
+Green Building Certification Loans ....................................................................................................................................................... 3  
+Solar Loans ............................................................................................................................................................................................. 6  
+Water Loans ..........................................................................................................................................................................................................................................6 
+Process for Project Evaluation and Selection ........................................................................................................................................... 7  
+Management of Proceeds .......................................................................................................................................................................... 7  
+Governance and Internal Audit ................................................................................................................................................................. 8 
+External Reporting ..................................................................................................................................................................................... 8 
+Appendix .................................................................................................................................................................................................... 9 
+Process for project evaluation and selection of Green Building Certification Mortgage loans ........................................................... 9 
+Process for project evaluation and selection of Solar PV Mortgage loans ........................................................................................... 9 
+Process for project evaluation and selection of Water Efficiency loans ................................................................................................ . 9 
+I
+nvestor Disclosure .............................................................................................................................................................................. 10 
+ 
+ 
+ 
+ 
+ 
+       
+© 2024 Fannie Mae September 2024
+  
+2 
+ 
+Background and Objective1 
+Introduction 
+Fannie Mae is a government-sponsored enterprise (GSE) chartered by the United States Congress in  1938 to provide liquidity and 
+stability to the U.S. housing market and promote access to mortgage credit. We do this primarily by purchasing residential  
+mortgage loans from lenders who originate loans to borrowers. We securitize those loans into mortgage-backed securities (MBS), 
+which are purchased by investors throughout the world. We do not originate loans or lend money directly to borrowers.  
+ 
+Our mission is to facilitate equitable and sustainable access to homeownership and quality affordable rental housing across  
+America, supporting both Single-Family and Multifamily housing. Our Single-Family business provides financing to individuals 
+and families for properties that have four or fewer residential units , and our Multifamily business provides financing for 
+professionally owned and operated residential buildings with five or more units. We accomplish our mission while managing risks 
+to our firm and the U.S. housing finance system. 
+ 
+Since September 6, 2008, Fannie Mae has operated under the conservatorship of the Federal Housing Finance Agency (FHFA) and 
+subsequently entered into a senior preferred stock purchase agreement with the U.S. Department of the Treasury that permits us 
+to continue to fulfill our mission. 
+ 
+Fannie Mae Single-Family Mortgage Business 
+The Single-Family business provides liquidity to the mortgage market primarily by acquiring single-family loans from lenders and 
+securitizing those loans into Fannie Mae MBS, which are either delivered to the lenders or sold to investors or dealers. Fann ie 
+Mae’s Single-Family business also supports liquidity in the mortgage market and the businesses of our lenders through other  
+activities, such as issuing structured Fannie Mae MBS backed by Single -Family mortgage assets and buying and selling Single- 
+Family agency mortgage-backed securities. 
+ 
+The Single-Family business securitizes and purchases primarily conventional (i.e., not federally insured or guaranteed) single-  
+family mortgage loans, both fixed-rate or adjustable-rate, or mortgage-related securities backed by these types of loans. Fannie 
+Mae also securitizes, or purchases loans insured by the Federal Housing Administration, loans guaranteed by the U.S. Department 
+of Veterans Affairs, loans guaranteed by the Rural Development Housing and Community Facilities Program of the U.S.  
+Department of Agriculture, manufactured housing mortgage loans , and other mortgage-related securities. 
+ 
+Fannie Mae Single-Family Green MBS and Governance 
+Fannie Mae began issuing Single-Family Green MBS in April 2020 as an expansion of the company’s existing Green Bond Program 
+and leveraging its existing Single-Family MBS Program, including its Uniform Mortgage-Backed Securities (UMBS).  A core 
+component of Fannie Mae’s MBS Program is the ability to issue a security backed by previously issued securities.   In the case of 
+UMBS resecuritization, the underlying security collateral may have been issued solely by Fannie Mae, solely by Freddie Mac, o r a 
+combination of both entities.   As such, Fannie Mae may issue a Single-Family Green MBS securitized by previously issued Fannie 
+Mae Single-Family Green MBS and/or Freddie Mac Single-Family Green MBS.  For securities backed by Freddie Mac Single-Family 
+Green MBS, Fannie Mae relies on Freddie Mac’s determination of mortgage eligibility under its Single- Family Green Bond 
+Framework, its designation of its MBS as Single-Family Green MBS, and the alignment of its Framework with the International 
+Capital Market Association (ICMA) Green Bond Principles. 
+ 
+The Single-Family Green MBS business strategy is led by Fannie Mae’s Vice -President for Capital Markets and includes a 
+dedicated team of finance, communications, and sustainability experts. The team’s expertise includes finance , energy and water 
+efficiency technologies, renewable energy, and energy benchmarking protocols to Green Building Certifications  (including water 
+efficiency certifications). This group reports on issuance and performance of the Single-Family Green MBS business to the 
+executive leadership of Capital Markets and the Single-Family Business.  
+ 
+ 
+1 This section was updated in May 2025 to reflect recent organizational changes at Fannie Mae. 
+© 2024 Fannie Mae September 2024
+  
+3 
+ 
+Use of Proceeds 
+Fannie Mae has designed this framework to align with the International Capital Markets Association (ICMA) Green Bond Principles, 
+specifically the Green Buildings, Renewable Energy, and Energy Efficiency Project categories. The proceeds from the sale of Fannie 
+Mae’s Single-Family Green MBS are used to finance properties achieving certain environmental performance standards, such as: 
+• Green Building Certification Loans – Financing loans backed by properties that have been awarded eligible Green 
+Building Certifications (GBC), that achieve 10% more energy efficiencies than residential properties built to state energy 
+codes, at the time construction is completed or within five years from the date Fannie Mae purchased the loan, and/or 
+• Solar Loans – Financing loans backed by newly constructed properties or existing homes which use solar photovoltaic 
+(PV) systems as a source of renewable energy generation that produce a minimum of a 20% reduction of the home’s 
+electricity consumption, and/or 
+• Water Efficiency Loans – Financing loans backed by properties that have achieved a Water Certification in water 
+stressed/water scarce areas, that achieves a water use reduction of at least 30%, at the time construction or retrofits 
+are completed or within five years from the date Fannie Mae purchased the loan. 
+ 
+Green Building Certification Loans 
+To be eligible for Fannie Mae’s Green MBS program, the property backing the loan must be awarded a certification recognized by 
+Fannie Mae as achieving a minimum energy savings of 10% over the state energy codes. Properties built to the eligible 
+certifications are designed and constructed to deliver better durability, better comfort, and reduced utility and maintenance 
+costs. As of 2024, Fannie Mae recognizes nine eligible certifications (see tables below for organizations and eligible versions). On 
+an annual basis, Fannie Mae collaborates with an independent consultant to reassess all available certifications to determine if 
+new certifications should be added and to evaluate currently eligible certifications to ensure they continue to meet the minimum 
+program guidelines. This annual review process also groups the certifications into two categories, the Main Group, and the 
+Toward Zero Group. The Main Group has a baseline equivalency to  ENERGY STAR V3.1 which requires at least a 10% 
+improvement in energy savings over the state energy code where the property is located. The Toward Zero Group identifies 
+certifications which require the properties to have a greater than 50% reduction  in energy use over the state energy code where 
+the property resides. 
+ 
+Note: Beginning in January 2024, the Main Group baseline equivalency for the program increased to ENERGY STAR V3.1, and Fannie 
+Mae now requires this latest version or higher (and equivalent GBCs) for newly constructed properties completed in 2024 forward. 
+ 
+Toward Zero 
+Certifications that require a greater than 50% reduction of energy use. 
+ Organization Green Building 
+Certification Type 
+Version Levels Application Reference Standard Single-
+Family 
+Energy 
+Savings 
+vs. IECC 
+2015 
+Home Innovation 
+Research Labs 
+NGBS Green+ Net 
+Zero Energy 
+2020 Badge New 
+Construction 
+USMEDIAN 100.0% 
+International Living 
+Future Institute 
+Living Building 
+Challenge 
+3 Certified 
+Living 
+New 
+Construction 
+And Existing 
+Building 
+USMEDIAN 100.0% 
+International Living 
+Future Institute 
+Living Building 
+Challenge 
+3.1 Certified 
+Living 
+New 
+Construction 
+And Existing 
+USMEDIAN 100.0% 
+© 2024 Fannie Mae September 2024
+  
+4 
+ 
+Building 
+International Living 
+Future Institute 
+Zero Energy 1 Certified New 
+Construction 
+And Existing 
+Building 
+USMEDIAN 100.0% 
+USGBC LEED Zero LEED Zero 
+Energy 
+Zero Energy New 
+Construction 
+ENERGYSTARHOMES
+V3 
+100.0% 
+Passive House 
+Institute US (PHIUS) 
+PHIUS+ Certified 2018 PHIUS+ Core 
+ PHIUS+ 
+2018 
+ PHIUS+ Zero 
+New 
+Construction 
+PHIUS2018 69.6% 
+Passive House 
+Institute US (PHIUS) 
+PHIUS Certified 2021 PHIUS Core 
+ PHIUS Core 
+Prescriptive 
+ PHIUS Zero 
+New 
+Construction 
+PHIUS2021 65.0% 
+Passive House 
+Institute (PHI) 
+Certified Passive 
+House  
+9 Classic, Plus, 
+Premium 
+New 
+Construction 
+PHI 50.3% 
+Passive House 
+Institute (PHI) 
+Certified Passive 
+House  
+10 Classic, Plus, 
+Premium 
+New 
+Construction 
+PHI 50.3% 
+Main Group 
+ENERGY STAR v3.1 or equivalent 
+Organization Green Building 
+Certification Type 
+Version Levels Application Reference 
+Standard 
+Single-
+Family 
+Energy 
+Savings vs. 
+IECC 2015 
+Passive House 
+Institute (PHI) 
+EnerPHit Certified Retrofit 9 Classic, Plus, 
+Premium 
+Existing 
+Building 
+PHILEB 37.8% 
+Passive House 
+Institute (PHI) 
+EnerPHit Certified Retrofit 10 Classic, Plus, 
+Premium 
+Existing 
+Building 
+PHILEB 37.8% 
+Passive House 
+Institute (PHI) 
+PHI Low Energy Building 9 Certified New 
+Construction 
+and Existing 
+Building 
+PHILEB 37.8% 
+Passive House 
+Institute (PHI) 
+PHI Low Energy Building 10 Certified New 
+Construction 
+and Existing 
+Building 
+PHILEB 37.8% 
+Build it Green GreenPoint Rated New 
+Home Single Family 
+8 Certified, 
+Silver, Gold, 
+Platinum 
+New 
+Construction 
+TITLE242019 37.1% 
+Build it Green GreenPoint Rated New 
+Home Single Family 
+8.3 Certified, 
+Silver, Gold, 
+Platinum 
+New 
+Construction 
+TITLE242019 37.1% 
+© 2024 Fannie Mae September 2024
+  
+5 
+ 
+Build it Green GreenPoint Rated New 
+Home Single Family 
+9 Certified, 
+Silver, Gold, 
+Platinum 
+New 
+Construction 
+TITLE242019 37.1% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR Single-
+Family New Homes 
+3.3 Certified New 
+Construction 
+TITLE242019 37.1% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR Multifamily 
+New Construction 
+1.3 Certified New 
+Construction 
+TITLE242019 37.1% 
+International Living 
+Future Institute 
+CORE Green Building 
+Certification  
+1 Certified New 
+Construction 
+And Existing 
+Building 
+USMEDIAN 33.2% 
+International Living 
+Future Institute 
+Living Building Challenge 4 Certified Living New 
+Construction 
+And Existing 
+Building 
+USMEDIAN 33.2% 
+Green Home 
+Institute  GreenStar Homes 
+v4 Certified 
+ Silver 
+ Gold 
+ Platinum 
+New 
+Construction 
+and Existing 
+Building 
+IECC2006 33.2% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR Multifamily 
+New Construction 
+1.2 Certified New 
+Construction 
+ASHRAE2019 29.3% 
+U.S. Department of 
+Energy 
+Zero Energy Ready Home 2 Certified New 
+Construction 
+ENERGYSTARHOM
+ESV32 
+25.2% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR Single-
+Family New Homes 
+3.2 Certified New 
+Construction 
+ENERGYSTARHOM
+ESV32 
+25.2% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR NextGen 2023 Certified New 
+Construction 
+ENERGYSTARHOM
+ESV32 
+25.2% 
+ 
+International 
+Finance 
+Corporation 
+EDGE 3 EDGE 
+Advanced 
+ EDGE Zero 
+Carbon 
+ EDGE Certified 
+New 
+Construction 
+ASHRAE2016 20.9% 
+U.S. Environmental 
+Protection Agency 
+ENERGY STAR Single-
+Family New Homes 
+3.1 Certified New 
+Construction 
+ENERGYSTARHOM
+ESV31 
+10.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+© 2024 Fannie Mae September 2024
+  
+6 
+ 
+Main Group 
+ENERGY STAR v3.1 or equivalent 
+Organization Green Building 
+Certification Type Version Levels Application Reference 
+Standard 
+Single-
+Family 
+Energy 
+Savings vs. 
+HUD Code 
+U.S. 
+Environmental 
+Protection 
+Agency 
+ENERGY STAR 
+Manufactured New 
+Homes 
+V2.0 Certified New 
+Construction HUD Code 
+19% 
+ 
+U.S. 
+Environmental 
+Protection 
+Agency 
+ENERGY STAR 
+Manufactured New 
+Homes 
+ 
+V3.0 Certified 
+New 
+Construction 
+ 
+HUD Code 28-32% 
+ 
+U.S. 
+Department of 
+Energy 
+ 
+Zero Energy Ready 
+Home (ZERH) 
+Manufactured Homes 
+ 
+ 
+v1.0 Certified 
+New 
+Construction 
+ 
+HUD Code 
+34-38% 
+ 
+Northwest 
+Energy Efficient 
+Manufactured 
+Housing 
+Program 
+(NEEM) 
+NEEM v1.1 Certified 
+New 
+Construction 
+ 
+HUD Code 
+20% 
+ 
+Northwest 
+Energy Efficient 
+Manufactured 
+Housing 
+Program (NEEM 
++) 
+ 
+NEEM + V2.0 Certified 
+New 
+Construction 
+ 
+HUD Code 
+32% 
+ 
+ 
+Solar Loans 
+Loan backed by properties with Solar PV systems are eligible for Fannie Mae’s Single-Family Green MBS program. These loans can 
+be used by borrowers who are financing a home with an existing solar PV system, refinancing a home with the proceeds paying 
+off outstanding debt used for solar PV installation, or purchasing or refinancing a home with the loan proceeds being used to add  
+solar PV to the property. To be eligible for consideration in the Single-Family Green MBS, the Solar PV systems must produce a 
+minimum of a 20% reduction of the home’s electricity consumption on an annual basis.  
+ 
+Water Efficiency Loans 
+Loans backed by properties located in water stressed/water scarce areas with Water Certifications achieving a water use 
+reduction of at least 30% are eligible for Fannie Mae’s Green MBS Program. Eligible certifications maximize water efficiency at the 
+lowest-cost intervention point (e.g., for new construction, when the home is being designed and built) and reduce the impact on 
+existing water resources while providing utility savings for homeowner. In line with our current review requirements for GBCs, 
+Fannie Mae will also review and evaluate new and existing Water Certification programs to determine if new certifications meet 
+our eligibility requirements and should be included in our program , and whether currently eligible certifications continue to meet 
+the minimum program guidelines. See table below for organizations and eligible versions included in our program. 
+ 
+© 2024 Fannie Mae September 2024
+  
+7 
+ 
+Eligible Water Certifications 
+Organization Green Building 
+Certification Type 
+Version Levels Application Savings compared to 
+homes built to code 
+U.S. 
+Environmental 
+Protection 
+Agency 
+ 
+WaterSense  v2 Certified New and Existing 
+Construction 
+30% 
+ILFI Living Building 
+Challenge Core 
+v4 Certified  New and 
+Existing 
+Construction 
+30% Existing Building 
+50% New Construction 
+ 
+ILFI Living Building 
+Challenge Water Petal 
+v4 Certified New and Existing 
+Construction 
+100% 
+ 
+ 
+Process for Project Evaluation and Selection 
+To secure the Single-Family Green MBS designation, all eligible loans sold to Fannie Mae by a lender must  be backed by 
+residential properties that meet the following environmental performance standards:  
+• an approved GBC that achieves at least a 10% improvement in efficiency over the state energy code ,  
+• at least a 20% reduction in a home’s electricity usage offset by solar PV generation, and/or  
+• an eligible Water Certification with a minimum of a 30% reduction in water consumption and homes built in water 
+stressed/water scarce areas as identified by the United States Environmental Protection Agency (EPA) or other 
+industry recognized source.  
+    In addition, before the MBS is issued, Fannie Mae will independently verify: 
+• The GBC by validating the existence of a valid certification through a proprietary database developed to capture 
+certification details, and/or 
+• A minimum of 20% reduction in electricity usage by reviewing property data to analyze the percentage of electricity 
+usage offset by solar generation, and/or 
+• The Water Certification by validating the existence of a valid certification through a proprietary database 
+developed to capture certification details as well as ensuring that the property is located in a water stressed/water 
+scarce area.  
+ 
+Management of Proceeds 
+Each Fannie Mae Single-Family Green MBS supports loans backed by single-family properties that have achieved and were 
+awarded a GBC, Water Certification and/or met the performance eligibility target for Solar PV. The management of the proceeds 
+from these securities is consistent across Fannie Mae’s Single-Family securitization programs. Mortgage lenders originate eligible 
+loans and deliver those loans to Fannie Mae. Fannie Mae securitizes those loans into a fully guaranteed MBS.  As a result of the MBS 
+securitization process, proceeds received from these MBS transactions support the origin ation of the loans by replenishing capital 
+to lenders so that lenders can make loans available to borrowers in the future.  
+All mortgages in our Green MBS 1) satisfy the criteria set forth in our Selling and Servicing Guides and 2) meet the applicable 
+criteria described in this framework. Unlike a traditional corporate debt issuance where guidelines govern how we manage the 
+funds over time, these funds have already been invested toward the acquisition of a loan that meets our Green Bond criteria. 
+© 2024 Fannie Mae September 2024
+  
+8 
+ 
+Governance and Internal Audit 
+As part of the process for Fannie Mae to buy a mortgage loan from a lender, the lender is required to represent and warrant t hat 
+the loans it is selling Fannie Mae meet general criteria described in the Fannie Mae Single-Family Selling Guide. Lenders must also 
+represent that such loans have received an eligible GBC, a 20% reduction in electricity usage offset by solar PV and/or an eligible 
+Water Certification for loans to be eligible for pooling into our Single-Family Green MBS. Once the loan is delivered to Fannie Mae 
+and prior to pooling, we use the property characteristics to validate that the property did receive an eligible certification and/or 
+achieves the 20% electricity usage offset. If we find that the property backing the loan did not have a valid certification or does 
+not meet the minimum solar offset percentage, we will not allow the loan  to be pooled into a Single-Family Green MBS. However, 
+the loan would remain eligible for pooling into other single-family pools. 
+ 
+External Reporting 
+To support Fannie Mae’s Single-Family Green MBS, we maintain a webpage that provides a high-level overview of the program, 
+as well as a listing of the Green MBS issued to date. Fannie Mae provide s additional green disclosures on Fannie Mae’s Single-
+Family disclosure platform PoolTalk® that consists of attributes identifying MBS that are fully backed by properties that were 
+awarded eligible GBCs, eligible Water Certifications, and/or have Solar PV systems that meet the minimum reduction in electricity 
+usage eligibility criteria. 
+Fannie Mae also publishes an annual investor impact report for securities issued the preceding year,  providing projected annual 
+energy saved (kBTU), projected annual emissions saved (MTCO2e), and projected gallons of water saved, as well as projected annual 
+utility cost savings. To avoid double-counting, we will not provide impact reporting for securiti es backed by previously issued 
+Fannie Mae and/or Freddie Mac collateral. 
+© 2024 Fannie Mae September 2024
+  
+9 
+ 
+Appendix 
+Process for project evaluation and selection of Green Building Certification Mortgage loans 
+To secure the Single-Family Green MBS designation on a loan with an eligible GBC: 
+1. The delivered loan must conform to all requirements stated in the Fannie Mae Single-Family Selling Guide and have 
+obtained an eligible GBC. 
+2. The loan is identified as eligible by the Lender or through an automated check at delivery, which occurs after locking 
+the rate and closing the loan with the borrower. 
+3. Once the loan is delivered, Fannie Mae will independently validate the certification through a proprietary database 
+developed to capture the certification details. 
+4. Failure to meet any of the above conditions will result in the inability of the loan to be pooled in a Single-Family Green 
+MBS. 
+ 
+Process for project evaluation and selection of Solar PV Mortgage loans 
+To secure the Single-Family Green MBS designation on a Solar PV loan: 
+1. The delivered loan must conform to all requirements stated in Fannie Mae Single-Family Selling Guide and verified with a 
+minimum of 20 percent of electricity usage reduced by Solar PV.  
+2. The lender must identify these loans upon delivery to Fannie Mae, which occurs after locking the rate and closing the 
+loan with the borrower. 
+3. Once the loan is delivered, Fannie Mae will independently validate the HES report and eligibility percentage through a 
+proprietary database developed to capture the data from the HES report.  
+4. Failure to meet any of the above conditions will result in the inability of the loan to be pooled in a Single-Family Green 
+MBS. 
+ 
+Process for project evaluation and selection of Water Efficiency loans 
+To secure the Single-Family Green MBS designation on a loan with an eligible Water Certification: 
+1. The delivered loan must conform to all requirements stated in the Fannie Mae Single-Family Selling Guide, have 
+obtained an eligible Water Certification, and be located in a water stressed/water scarce area as defined by the US 
+EPA or other industry recognized source. 
+2. The loan is identified as eligible by the Lender or through an automated check at delivery, which occurs after locking 
+the rate and closing the loan with the borrower. 
+3. Once the loan is delivered, Fannie Mae will independently validate the certification through a proprietary database 
+developed to capture the certification details. 
+4. Failure to meet any of the above conditions will result in the inability of the loan to be pooled in a Single-Family Green 
+MBS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2024 Fannie Mae September 2024
+  
+10 
+ 
+Bloomberg Green 
+Bond Flag 
+Investor Disclosure 
+Fannie Mae’s Single-Family Business publishes at-issuance and ongoing data for all Single-Family MBS through a web-based 
+system called PoolTalk. T hrough PoolTalk, investors can obtain comprehensive information about single-family securities and 
+the underlying loans. Work is also in progress to incorporate attributes in the MBS disclosures identifying MBS that are fully 
+backed by properties that were awarded eligible GBCs, Water Certifications, or meet the Solar PV loan criteria. 
+ 
+In a
+ddition to maintaining the Single-Family Green MBS webpage, Fannie Mae issues disclosure files that feed third-party sites 
+such as Bloomberg, Intex, and eMBS. These third-party data providers are also working to improve their Green -related 
+disclosures. Bloomberg has updated its description (DES) screen to identify Single- Family Green MBS, enabling investors to 
+quickly determine if a bond falls under the Green Financing Business. The Bloomberg notation is identical to what is currently 
+being presented for Fannie Mae’s Multifamily Green MBS. 
+ 
+The Single-Family Green MBS team continues to work with these data providers to help investors with a Socially Responsible 
+Investment (SRI) mandate to determine the appropriateness of Green MBS as a part of their investment portfolio.

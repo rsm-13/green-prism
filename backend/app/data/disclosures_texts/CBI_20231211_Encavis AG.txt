@@ -1,0 +1,484 @@
+www.iss -corporate. com  
+© 2023 | Institutional Shareholder Services and/or its affiliates  
+  
+ 
+ 
+ 
+P O S T- I S S U A N C E  C L I M A T E  
+B O N D  C E R T I F I C A T I O N:  
+ 
+ 
+Verification Report for Post -Issuance Certification  
+for the Green Bond Issued by Encavis AG   
+ 
+ 
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  2  o f  12  
+C O N T E N T S  
+ 
+ 
+SCOPE OF WORK ...................................................................................................................................................... 3 
+CRITERIA ...................................................................................................................................................................... 3 
+ISSUER’S RESPONSIBILITY ..................................................................................................................................... 3 
+ISS-CORPORATE’S VERIFICATION PROCESS ................................................................................................. 3 
+ISS-CORPORATE’S BUSINESS PRACTICES ....................................................................................................... 4 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT .......................................................................... 4 
+OPINION ...................................................................................................................................................................... 4 
+Disclaimer .................................................................................................................................................................... 5 
+About ISS-Corporate .............................................................................................................................................. 5 
+ANNEX .......................................................................................................................................................................... 6 
+ANNEX 1: DETAILED FINDINGS .......................................................................................................................... 7 
+5. USE OF PROCEEDS ..................................................................................................................................... 7 
+6. PROCESS FOR EVALUATION AND SELECTION OF PROJECTS & ASSETS .............................. 8 
+7. MANAGEMENT OF PROCEEDS ............................................................................................................. 9 
+8. REPORTING ................................................................................................................................................ 10 
+9. CLIMATE BOND TAXONOMY ............................................................................................................. 11 
+10. TECHNICAL CRITERIA ........................................................................................................................ 12 
+ANNEX 2: DETAILED FINDINGS SOLAR POWER ........................................................................................ 12 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  3  o f  12  
+SCOPE OF WORK  
+Encavis AG  commissioned ISS Corporate Solutions (ISS -Corporate) to compile a Verifier’s 
+Report for Post-Issuance Certification of its Green Bond by the Climate Bonds Initiative (CBI). 
+The Climate Bonds Certification process includes verifying whether the provisions of the 
+Climate Bonds Standards issued by the CBI are met and obtaining evidence to suppor t the 
+verification. 
+CRITERIA  
+Relevant CBI Standards for this Climate Bonds Certification: 
+▪ Climate Bonds Standard (Version 3.0) 
+▪ Wind Energy Sector Eligibility Criteria (Version 1.3)  
+ISSUER’S RESPONSIBILITY  
+Encavis AG’s responsibility was to provide information and documentation on:  
+▪ Selection of nominated projects & assets 
+▪ Technical aspects of projects & assets 
+▪ Internal processes & controls 
+▪ Proposed reporting 
+ISS-CORPORATE ’S VERIFICATION PROCESS  
+Since 2014, ISS Group, of which ISS Corporate is part, has bui lt up a reputation as a highly -
+reputed thought leader in the green and social bond market and has become one of the first 
+CBI approved verifiers.  
+This independent Pre-Issuance Verification of the Green Bond issued by Encavis AG has been 
+conducted based on  the Climate Bonds Standard V. 3.0, and limited assurance procedures 
+based on common market practices and voluntary guidelines, in accordance with relevant 
+assurance standards such as the International Standard on Assurance Engagements, other 
+than Audits or Reviews of Historical Financial Information (ISAE 3000). 
+The approach to assess whether the Issuer’s Green Bond meets the criteria of the Climate 
+Bonds Standard V.3.0. is as follows: 
+▪ The Issuer provided an overview over the assets to be included in the Gr een Bond asset 
+pool and the relevant processes and documentation regarding the proceeds (e.g., use of 
+proceeds, management of proceeds). 
+▪ The Issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard 
+V.3.0. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  4  o f  12  
+▪ The Issuer provided background documents that elaborate further on the information 
+mentioned in the questionnaire. 
+▪ An assessment of the CBI criteria has been carried out using the questionnaire and 
+background documents. In case any answers were unclear, the issuer has been contacted 
+for more details and clarification. 
+The engagement with Encavis AG took place in October and November 2023  
+ISS-CORPORATE’S  BUSINESS PRACTICES  
+ISS Corporate has conducted this verification in strict compliance with the ISS Group Code of 
+Ethics, which lays out detailed requirements in integrity, transparency , professional 
+competence and due care, professional behavior and objectivity for the ISS business and team 
+members. It is designed to ensure that the verification is conducted independently and without 
+any conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF 
+REPORT  
+This Verification Report for Climate Bonds Certification including all documentation provided 
+alongside is intended for the use of Encavis AG and the Climate Bonds Standard Board. The 
+present document may be published by Encavis AG , CBI , and ISS Corporate . CBI and ISS 
+Corporate agree to publish the report with the consent of Encavis AG. 
+OPINION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has 
+come to our attention that causes us to believe that, in all material respects the Issuer’s 2021 
+Green Bond (DE000A3H21D9) is not in conformance with the Climate Bonds Standard’s Pre -
+Issuance Requirements. 
+ 
+ 
+M A R I J A  K R A M E R 
+ISS Corporate Solutions Business 
+Rockville, MD, 19 December 2023 
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  5  o f  12  
+Disclaimer  
+Copyright © 2023 Institutional Shareholder Services Inc. (“ISS”). This document and all of the 
+information contained in it is the property of ISS and/or its subsidiaries. The Information may 
+not be reproduced or redisseminated in whole or in part without the prior written permission 
+of ISS. Whi le we exercise due care in compiling this document, we assume no liability with 
+respect to the consequences of relying on this information for investment or other purposes. 
+ISS makes no express or implied warranties or representations with respect to the information. 
+About ISS-Corporate  
+Companies turn to ISS Corporate for expertise in designing and managing governance, 
+compensation, sustainability and cyber risk programs that align with company goals, reduce 
+risk, and manage the needs of a diverse sharehold er base by delivering best -in-class data, 
+tools, and advisory services. 
+We assess alignment with external principles (e.g. the ICMA Green / Social Bond Principles ), 
+analyse the sustainability quality of the assets and review the sustainability performance of the 
+issuer themselves. Following these three steps, we draw up an independent SPO so that 
+investors are as well informed as possible about the quality of the bond / loan from a 
+sustainability perspective. 
+Learn more: https://www.iss-corporate.com/solutions/sustainable-finance/ 
+ 
+For more information on SPO services, please contact: SPOsales@iss-corporate.com 
+ 
+Project team 
+Project lead 
+Poorvi Vedak 
+Associate Vice President  
+Sustainable Finance Research 
+Project support 
+Kushum Mehra 
+Junior Analyst  
+Sustainable Finance Research 
+Project supervision 
+Marie-Bénédicte Beaudoin 
+Associate Director 
+Head of Sustainable Finance 
+Research 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  6  o f  12  
+ANNEX  
+Annex 1: Detailed Findings 
+Annex 2: Detailed Findings Wind Power (onshore) 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  7  o f  12  
+ANNEX 1: DETAILED FINDINGS  
+5.  USE OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+5.1 
+Net proceeds 
+allocation to 
+Nominated projects  
+The full amount of the net proceeds 
+(EUR 20 million) has been allocated to 
+nominated Eligible Assets. 
+✓  
+5.2 
+Conformance with the 
+Bond’s documented 
+objectives and 
+requirements of Part B 
+of the CBI Standard 
+The full amount of the net proceeds has 
+been used to finance the onshore wind 
+energy generation facility, which 
+conforms with the relevant eligibility 
+requirements under part B of the 
+Climate Bonds Standards. 
+✓ 
+5.3 
+Allocation of proceeds 
+within 24 months of 
+issuance of the bond 
+The full amount of the net proceeds 
+was allocated within 2 months  after 
+issuance. 
+✓ 
+5.4 
+No double 
+nomination of 
+projects and assets 
+The Issuer confirms that the nominated 
+assets have not been nominated to 
+other CBI Certified Climate Bonds. 
+✓ 
+5.5 Share of financing vs 
+refinancing  
+100% of the proceeds were used for 
+financing. ✓ 
+5.6 Tracking of proceeds 
+The Issuer confirms that the Net 
+Proceeds are tracked and managed in 
+accordance to the process described in 
+the Green Finance Framework dated 
+July, 2021 and Pre -issuance 
+certification. The fund activities are 
+documented using the ‘TIS’ payment 
+system and t he bookkeeping system 
+“eGecko”. 
+✓ 
+5.7 
+Size of net proceeds 
+vs investment 
+exposure to 
+nominated projects 
+and assets  
+The Issuer confirms that the value of 
+the nominated projects exceeds the net 
+proceeds of the issuance.   
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  8  o f  12  
+5.8 Additional Projects 
+and assets  
+All nominated projects fall within the 
+same sector criteria as in the pre -
+issuance certification.  No additional 
+projects or assets have been added to 
+the nominated list. 
+✓ 
+ 
+6.  PROCESS FOR EVALUATION AND SELECTION OF PROJECTS 
+& ASSETS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+6.1 
+Documented and 
+maintained a 
+decision-making 
+process, including: 
+A statement on the 
+Climate-related 
+objectives of the Bond 
+Climate-related 
+objectives of the bond 
+in the context of the 
+issuer’s strategy 
+Issuer’s rationale for 
+issuance the bond 
+Process determining 
+that the projects/ 
+assets meet the 
+eligibility criteria 
+The Issuer confirms that the project 
+selection and evaluation process are in 
+accordance to the process mentioned 
+in the Green Finance Framework. 
+Encavis has established a Green Finance 
+Framework Council (EGFF Council) and 
+a selection process to ensure only 
+eligible and appropriate projects and 
+assets are included for nomination and 
+financing by the proceeds.  
+Encavis follows a structured investment 
+process, beginning with the selection 
+from the deal flow, pre -due diligence, 
+extensive due diligence on all relevant 
+aspects (e.g. environmental, ecological, 
+technical, commercial, legal) and finally 
+the voting of management board and 
+approval by supervisory board. 
+The Green Bonds issued by Encavis aim 
+to reduce CO2 e missions by financing 
+wind to actively contribute to climate 
+protection and to fighting climate 
+change. 
+✓  
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  9  o f  12  
+7.  MANAGEMENT OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+7.1 
+Net proceeds are 
+credited to a sub 
+account and 
+documented 
+Encavis confirms that the proceeds are 
+managed as described in the pre -
+issuance certification and Green 
+Finance Framework. The net proceeds 
+of the bonds are managed by Encavis’ 
+Treasury Department on a portfolio 
+basis, who verifies that the allocation of 
+the bond’ s net funds coincides 
+nominally with the disbursements 
+made to the Eligible Green Projects, 
+until the full allocation of funds  in 
+accordance with the use of proceeds 
+criteria and evaluation and selection 
+process. All fund activities are 
+documented in the payment system 
+"TIS " as well as in the bank account 
+statements and the bookkeeping 
+system "eGecko". 
+✓  
+7.2 Net proceeds are 
+earmarked 
+Encavis’ Corporate Finance and Project 
+Finance department maintains a "deal 
+flow list" which entails information 
+about the date, the costs details of 
+upcoming acquisition deals and how 
+the project will be financed. In this way 
+Encavis ensures the earmarking of 
+funds to nominated projects. In this 
+case the proceeds from the bond have 
+been earmarked from the beginning for 
+a single project. 
+✓ 
+7.3 Unallocated proceeds 
+The full amount of the net proceeds 
+was allocated after the issuance. 
+Issuance took place in March and 
+allocation in May. 
+✓ 
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  10  o f  12  
+8.  REPORTING  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+8.1 Timing and availability 
+of Update Reports 
+Encavis confirms to prepare the annual 
+update report until the maturity of the 
+instrument, and it will be made 
+available to holders1 of the Bond.   
+✓ 
+8.2 
+Allocation report, 
+Eligibility Report, 
+Impact Report 
+Details on both the allocation and 
+impact of the projects financed by this 
+bond are included in the report. 
+✓ 
+8.3 Allocation Reporting 
+The allocation reporting details are 
+available in the Allocation & Impact 
+Report. 
+The funds have been 100% invested in 
+the project named “Paltusmäen”. 
+The objectives of the Green Bond 
+issued by Encavis aims to reduce CO 2 
+emissions by financing wind to actively 
+contribute to climate protection and to 
+fight climate change. The Issuer 
+includes in the report the amount of 
+proceeds allocated in 2021, project 
+type and name, capacity and location. 
+✓ 
+8.4 Eligibility Reporting 
+The Issuer confirms that the eligibility 
+of the nominated projects for financing 
+are determined in accordance with the 
+eligibility criteria referred in the Green 
+Finance Framework. 
+✓ 
+8.5 Reasons for 
+confidentiality 
+Public disclosure of the nominated 
+projects and assets is not available on 
+the website as the Bond is not a public 
+instrument. However, the Issuer 
+✓ 
+ 
+1 If the Update Report cannot be made available to the public, then the Certified Climate Bond cannot be included in the green 
+bond database compiled by Climate Bonds Initiative. This database is used by index providers and other market players and has 
+minimum requirements for public disclosure (https://www.climatebonds.net/cbi/pub/ data/bonds) 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  11  o f  12  
+confirms to provide the disclosure for 
+the Bond holders. 
+8.6 Impact Reporting 
+The impact reporting details will be  
+available in the Allocation & Impact 
+Report. 
+The Issuer has reported on the 
+following impacts:  
+▪ The estimated CO2 avoidance 
+(tCO₂/a) is calculated based on the 
+IEA emission factor for Finland. 
+The funds have been invested in a 
+project named “ Paltusmäen”. It a 21.5 
+MW wind farm in Finland generating 
+66,162,754 kWh/year of power and 
+saving 4.800 t/a of CO₂. 
+✓ 
+8.7 Public Verifier Reports 
+The Issuer does not have a Verifier 
+report. The performance measures are 
+available on  
+https://www.encavis.com/en/about-
+us/our-plants  
+ 
+8.8 
+Availability of 
+information provided 
+to Verifier 
+Relevant information has been 
+provided to ISS-Corporate. ✓ 
+ 
+9.  CLIMATE BOND TAXONOMY  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+9.1 Matching of Climate 
+Bond category 
+The full amount of the net proceeds 
+was allocated to Eligible Assets which 
+fall within the areas included in the 
+Climate Bonds Taxonomy. 
+✓  
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  12  o f  12  
+10.  TECHNICAL CRITERIA  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+10.1 Sector-specific 
+eligibility criteria 
+The full amount of the net proceeds is 
+allocated to Eligible Assets related to 
+the aforementioned  categories and 
+conforms with the relevant eligibility 
+requirements under part B of the 
+Climate Bonds Standards. 
+✓  
+ 
+ANNEX 2: DETAILED FINDINGS SOLAR POWER  
+✓ 
+The Green Bond Asset complies with the Wind Criteria of the 
+Climate Bonds Initiative. 
+The project is eligible for the Climate Bonds Certification.

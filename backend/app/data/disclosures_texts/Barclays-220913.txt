@@ -1,0 +1,1883 @@
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  1  o f  31  
+ 
+ 
+ 
+PRE -ISSUANCE CLIMATE BOND 
+CERTIFICATION  
+ 
+ 
+Verification Report for Pre -Issuance Certification  
+for the Green Bond Program Issued by Barclays  
+ 
+ 
+SCOPE  
+Barclays commissioned ISS ESG to compile a Verifier’s Report for Pre-Issuance Certification of its 
+Green Bond Program by the Climate Bonds Initiative (CBI). The Climate Bonds Certification process 
+includes verifying whether the provisions of the Climate Bonds Standard issued by the CBI are met 
+and obtaining evidence to support the verification. 
+CRITERIA  
+Relevant CBI standards for this Climate Bonds Certification:  
+▪ Climate Bonds Standard (Version 3) 
+▪ Wind Criteria (Version 1.1) 
+▪ Solar Criteria (Version 2.1) 
+▪ Marine Renewable Energy Criteria (Version 1.2)  
+▪ Low Carbon Buildings Criteria (Residential) (Version 1) 
+▪ Low Carbon Transport Criteria (Version 2.0) 
+ISSUER’S RESPONSIBILITY  
+Barclays’ responsibility was to provide information and documentation on:  
+▪ Selection of nominated projects & assets 
+▪ Technical aspects of projects & assets 
+▪ Internal processes & controls 
+▪ Proposed reporting  
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  2  o f  31  
+ISS ESG ’s  VERIFICATION PROCESS  
+ISS ESG is one of the world’s leading independent environmental, social and governance (ESG) 
+research, analysis and rating houses. The company has been actively involved in the sustainable 
+capital markets for over 25 years. Since 2014, ISS ESG has built up a reputation as a highly-reputed 
+thought leader in the green and social bond market and has become one of the first CBI approved 
+verifiers.  
+ISS ESG has conducted this independent Pre-Issuance Verification of the green bond issued by 
+Barclays based on the Climate Bonds Standard V.3. limited assurance procedures in accordance with 
+relevant assurance standards such as the International Standard on Assurance Engagements, ISAE 
+3000 revised - Assurance Engagements other than Audits or Reviews of Historical Financial 
+Information, issued by the International Auditing and Assurance Standards Board. ISS ESG’s 
+approach to assess whether the issuer’s Green Bond meets the criteria of the Climate Bonds 
+Standard V.3. is as follows: 
+▪ The issuer provided an overview over the assets to be included in the Green Bond asset pool and 
+the relevant processes and documentation regarding the proceeds (e.g. use of proceeds, 
+management of proceeds) to ISS ESG.  
+▪ The issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard V.3. 
+▪ The issuer provided background documents that elaborate further on the information 
+mentioned in the questionnaire.  
+▪ Using the questionnaire and background documents, ISS ESG carried out an assessment of the 
+CBI criteria. In case any answers were unclear, ISS ESG contacted the issuer for more details and 
+clarification. 
+The engagement with Barclays took place in June – September 2022. 
+ISS ESG ’s  BUSINESS PRACTICES  
+ISS has conducted this verification in strict compliance with the ISS Code of Ethics, which lays out 
+detailed requirements in integrity, transparency and objectivity for the ISS business and team 
+members. It is designed to ensure that the verification is conducted independently and without any 
+conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT  
+This Verification Report for Climate Bonds Certification including all documentation provided 
+alongside is intended for the use of Barclays and the Climate Bonds Standard Board. The present 
+document may be published by Barclays, CBI and ISS ESG. CBI and ISS ESG agree to publish the 
+report with the consent of Barclays.  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  3  o f  31  
+OPINION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has come to 
+our attention that causes us to believe that, in all material respects Barclays’s Green Bonds Program 
+is not in conformance with the Climate Bonds Standard’s Pre-Issuance Requirements. 
+ 
+  
+R O B E R T  H A ß L E R   
+ISS ESG 
+Munich, 13 September 2022 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  4  o f  31  
+Disclaimer  
+Copyright © 2022 Institutional Shareholder Services Inc. (“ISS”). This document and all of the 
+information contained in it is the property of ISS and/or its subsidiaries. The Information may not be 
+reproduced or redisseminated in whole or in part without the prior written permission of ISS. While 
+we exercise due care in compiling this document, we assume no liability with respect to the 
+consequences of relying on this information for investment or other purposes. ISS makes no express 
+or implied warranties or representations with respect to the information. 
+ 
+About ISS ESG  
+ISS ESG is one of the world’s leading rating agencies in the field of sustainable investment. The 
+agency analyses companies and countries regarding their environmental and social performance.  
+We assess alignment with external principles (e.g. the ICMA Green / Social Bond Principles), analyse 
+the sustainability quality of the assets and review the sustainability performance of the issuer 
+themselves. Following these three steps, we draw up an independent SPO so that investors are as 
+well informed as possible about the quality of the bond / loan from a sustainability perspective. 
+Learn more: https://www.isscorporatesolutions.com/solutions/esg-solutions/green-bond-services/ 
+ 
+Contact  
+Federico Pezzolato – SPO Business Manager 
+ISS Corporate Solutions, 1 London Bridge, London, SE1 9BG 
+tel: +44 (0) 203 192 5760 
+e-mail: SPO@isscorporatesolutions.com  
+  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  5  o f  31  
+ANNEX  
+Annex 1: Detailed Findings Climate Bonds Standard Pre Issuance Requirements 
+Annex 2: Detailed Findings Solar Power 
+Annex 3: Detailed Findings Wind Power (onshore) 
+Annex 4: Detailed Findings Fully Electric Vehicles 
+Annex 5: Detailed Findings Low Carbon Buildings (Residential)  
+Annex 6: Detailed Findings Wind Power (offshore) 
+  
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  6  o f  31  
+ANNEX 1: DETA ILED FINDINGS CLIMATE BONDS STANDARD 
+PRE ISSUANCE REQUIREMENTS  
+1.  USE OF PROCEEDS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1. Documentation of 
+nominated projects & 
+assets assessed as 
+eligible.  
+Details of the eligible projects are in the Annexes.  
+ 
+1.2. Net Proceeds are 
+smaller than the 
+Issuer’s investment 
+exposure to the 
+Nominated Projects 
+& Assets. 
+As of July 2022, the portfolio under verification is 
+valued at approximately £354 million. £197m 
+worth of Certified Climate Bonds have been issued 
+to date1. Barclays has a rigorous system in place to 
+identify assets in its lending portfolio that can be 
+eligible for Climate Bonds Certification. It 
+continues to maintain the size of this verified 
+lending portfolio to be larger than its total bond 
+issuance.  
+ 
+1.3. No duplicate 
+nomination of 
+Projects & Assets to 
+multiple Certified 
+Climate Bonds or 
+labelled instruments. 
+Barclays confirms that its control systems are in 
+place to ensure assets are not nominated twice.  
+ 
+ 
+2.  PROCESS FOR EVALUATION AND SELECTION OF PROJECTS AND 
+ASSETS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+2.1. Decision-making 
+process to 
+determine 
+eligibility of 
+nominated 
+projects & assets, 
+including: 
+See below 
+N/A 
+ 
+1 https://home.barclays/investor-relations/fixed-income-investors/funding-and-liquidity/green-
+bonds/#greenstructuredandindexlinkednotes 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  7  o f  31  
+2.1.1. Statement on the 
+climate-related 
+objectives of the 
+Bond.   
+Barclays’ objective for the issuance of the green 
+bonds is to raise funds for new and existing 
+projects which deliver environmental benefits and 
+a more sustainable economy. 
+ 
+2.1.2. Climate-related 
+objectives of the 
+Bond in the 
+context of the 
+Issuer’s 
+environmental 
+strategy and 
+policies. 
+In 2020, Barclays committed to align all of its 
+financing to the goals and timeline of the Paris 
+Agreement. Its green bond issuances are part of its 
+strategy to deliver on that commitment.  
+ 
+2.1.3. Issuer’s rationale 
+for issuing the 
+Bond. 
+Barclays maintains a Green Bond issuance program 
+to provide its bond investors an opportunity to 
+support eligible green activities. Also, the pricing 
+benefits of Green Bond issuances can be passed to 
+the borrowers and developers of the eligible green 
+projects.  
+ 
+2.1.4. Process to 
+determine 
+eligibility of 
+Nominated 
+Projects & Assets 
+Barclays has developed an asset selection tool to 
+identify assets which meet the CBI criteria. When 
+necessary, the asset is reviewed by a Committee 
+that include members from the Business, Treasury, 
+Sustainability teams, Legal and Compliance.  
+The asset will then undergo third party verification 
+before it is entered in the nominated asset pool to 
+be used for any subsequent Certified Climate Bond 
+issuance.  
+ 
+2.2 Issuer should 
+include under 
+Clause 2.1 further 
+aspects of the 
+decision-making 
+process, including: 
+See below 
+N/A 
+2.2.1 Related eligibility 
+criteria to identify 
+and manage 
+potentially 
+material ESG risks 
+associated with 
+the Nominated 
+Projects & Assets. 
+For this upcoming issuance, the relevant Climate 
+Bonds Sector Criteria are: 
+▪ Wind Criteria (Version 1.1) 
+▪ Solar Criteria (Version 2.1) 
+▪ Marine Renewable Energy Criteria (Version 1.2)  
+▪ Low Carbon Buildings Criteria (Residential) 
+(Version 1) 
+▪ Low Carbon Transport Criteria (Version 2.0) 
+The Committee will consider any material negative 
+ESG risks and potentially exclude them from 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  8  o f  31  
+nominated asset pool if necessary. Barclays has an 
+overarching Enterprise Risk Management 
+Framework, which covers social and environmental 
+risks other than the environmental criteria 
+eligibility of the assets.  
+2.2.2 Green standards 
+or certifications 
+referenced in the 
+selection of 
+Nominated 
+Projects & Assets. 
+The asset eligibility and selection process focuses 
+on the Climate Bonds Criteria.   
+ 
+2.2.3 The issuer shall 
+assess all 
+Nominated 
+Projects & Assets 
+meet the 
+documented 
+objectives in 2.1.1 
+and conform to 
+the CBI eligibility 
+requirements. 
+The eligibility of the nominated assets is confirmed 
+in this verification report.  
+ 
+ 
+3.  MANAGEMENT OF PROCEEDS  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+3.1 Systems, policies 
+and processes 
+around the 
+management of 
+Net Proceeds 
+include: 
+See below 
+N/A 
+3.1.1. Process around 
+management of 
+the net proceeds  
+On a monthly basis the ESG structuring team 
+compares the issuance volumes to date with the 
+total value of verified assets to confirm that asset 
+volumes exceed bonds totals across the maturity 
+horizon. Otherwise, the net proceeds are 
+managed by Treasury as detailed in 3.1.2.  
+ 
+3.1.2. Management of 
+unallocated Net 
+Proceeds 
+Unallocated assets are maintained by Treasury as 
+cash or cash equivalents according to Barclays’ 
+liquidity policy. Where possible, Barclays will 
+invest in 'green' cash equivalents. 
+ 
+3.1.3. Earmarking process 
+used to manage 
+There are processes in place to ensure that net 
+proceeds are always smaller than the nominated  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  9  o f  31  
+allocation of 
+proceeds and 
+estimate of the 
+share of the Net 
+Proceeds being 
+used for financing 
+and refinancing.   
+asset pool, and that unallocated proceeds are 
+managed transparently and in accordance with 
+best market practice. Otherwise there is no 
+special earmarking process.   
+ 
+4.  REPORTING PRIOR TO ISSUANCE  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+4.1 Issuer’s framework 
+should include 
+without 
+limitations: 
+See below 
+N/A 
+4.1.1 Confirmation that 
+bonds issued under 
+the framework are 
+aligned with the 
+Climate Bonds 
+Standard and other 
+standards. 
+The Framework states its intention to align with 
+the Climate Bonds Standard 
+ 
+4.1.2 Summary of the 
+use of proceeds 
+and their 
+contribution to the 
+goals of the Paris 
+Climate 
+Agreement. 
+The Framework details the use of proceeds that 
+are eligible for Climate Bonds Certification and 
+their expected climate change impacts.  
+ 
+4.1.3 Description of the 
+decision-making 
+process. 
+The Framework details the Sustainability Notes 
+Committee, which is responsible for the asset 
+selection process.  
+ 
+4.1.4 Description of the 
+relevant Sector 
+Eligibility Criteria 
+and any additional 
+impact metrics. 
+The Framework does not provide substantial 
+detail of the relevant sector criteria, however the 
+details of the eligibility of the nominated assets 
+are included in the Annexes of this verification 
+report.  
+ 
+4.1.5 Summary on the 
+approach used to 
+manage 
+The Framework details the approach used to 
+manage unallocated net proceeds.  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  10  o f  31  
+unallocated net 
+proceeds. 
+4.1.6 Intended approach 
+to provide Update 
+Reports to reaffirm 
+conformance with 
+the Climate Bonds 
+Standard while the 
+Bond remains 
+outstanding.  
+The Framework details the issuer’s annual update 
+reporting commitments, which are in line with the 
+requirements of the Climate Bonds Standard.   
+ 
+4.1.7 List of proposed 
+Nominated 
+Projects & Assets 
+associated with the 
+Bond and the 
+investment areas, 
+as provided in 
+Clause 9.1, into 
+which the 
+Nominated 
+Projects & Assets 
+fall.  
+The Framework does not mention a list of 
+nominated assets, however this information may 
+be found in the Annexes of this verification report.  
+ 
+4.1.8 An estimate of the  
+proportion of 
+financing and 
+refinancing, and 
+the expected look-
+back period for 
+refinancing. 
+Due to the nature of the bank’s issuance program, 
+100% of the proceeds will be used for refinancing 
+of eligible borrowing. Barclays applies a lookback 
+period of up to 36 months.   
+4.2 Disclosure 
+Documentation 
+shall include: 
+See below 
+N/A 
+4.2.1 Investment areas, 
+of the Nominated 
+Projects & Assets  
+The Term Sheets detail the nominated use of 
+proceeds categories.   
+4.2.2 Temporary 
+investment 
+instruments for 
+unallocated Net 
+Proceeds 
+The Term Sheets details how unallocated 
+proceeds will be temporarily managed.  
+ 
+4.2.3 Verifier’s engaged 
+by the Issuer for 
+the mandatory 
+The Verifier is ISS ESG 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  11  o f  31  
+verification 
+engagements.  
+4.2.4 Intended approach 
+providing Update 
+Reports to reaffirm 
+conformance with 
+the Climate Bonds 
+Standard while the 
+Bond remains 
+outstanding, 
+including the 
+location of the 
+published 
+documents. 
+The Term Sheets details the issuer’s annual 
+update reporting commitments.  
+ 
+4.2.5 CBI Disclaimer 
+provided in the 
+Certification 
+Agreement 
+The Term Sheets include the disclaimer.  
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  12  o f  31  
+ANNEX 2 : DETAILED FINDINGS SOLAR POWER  
+ 
+ 
+The specified solar farms comply with the Solar Criteria (Version 2.2) of the Climate 
+Bonds Standard. 
+The bonds will finance and refinance a number of solar farms located across the UK 
+and India.  
+The issuer confirms that none of them have any fossil fuel generation backup. 
+ 
+ 
+ 
+ 
+ANNEX 3 : DETAILED FINDINGS WIND POWER (ONSHORE)  
+ 
+The specified wind farms comply with the Wind Criteria (Version 1.2) of the Climate 
+Bonds Standard. 
+The bonds will finance and refinance a number of wind farms located across the UK, 
+India and Ireland. 
+ 
+ 
+ 
+ANNEX 4 : DETAILED FINDINGS FULLY ELECTRIC VEHICLES  
+ 
+ 
+The specified assets comply with the Low Carbon Transport Criteria (Version 2) of 
+the Climate Bonds Standard. 
+The proceeds from the bonds will finance and refinance wholesale stocking facilities 
+for car dealerships in the UK, which are for wholly electric passenger vehicles.  
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  13  o f  31  
+ANNEX 5: DETAILED FINDINGS LOW CARBON BUILDINGS 
+(RESIDENTIAL)  
+ 
+ 
+The specified buildings comply with the Low Carbon Buildings Criteria (Version 1) of the 
+Climate Bonds Standard. 
+The bonds will finance and refinance 3 separate residential developments across England. 
+These developments have been/will be completed in 2020, 2020 and 2023 respectively.  
+For the three developments, on a weighted average basis, the emissions intensities of the 
+developments are as follows: 
+A. 9.9 kgCO2/sqm p.a. 
+B. 12.16 kgCO2/sqm p.a. 
+C. 14.91 kgCO2/sqm p.a. 
+For a 5 year bond issued in 2022, the relevant emissions threshold is 20.76 kgCO2/sqm 
+p.a., as seen in Figure 1. Therefore the 3 developments comply with the Low Carbon 
+Buildings Criteria (Residential) thresholds2 for England and Wales.  
+ 
+ 
+  
+ 
+2 https://www.climatebonds.net/standard/buildings/residential/calculator 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  14  o f  31  
+ANNEX 6: DETAILED FINDINGS WIND POWER (OFFSHORE)  
+ 
+The specified offshore wind farms comply with the Marine Renewable Energy 
+Criteria of the Climate Bonds Standard. 
+The bonds will finance and refinance 5 offshore wind farms and 2 offshore wind 
+connections located across the UK.  
+Details for the Disclosure component and Adaptation and Resilience components of 
+the Criteria are given below. 
+For Offshore Wind Farm A  
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+UK North Sea. Nearby ecosystems include Flamborough 
+Head and Filey Coast SPA, Farne Islands SPA and Forth 
+Islands SPA. 
+2 Projected lifespan of the asset/project. 35 years 
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+North sea pipeline owners & telecoms companies 
+owning subsea fibre cables crossing the project's export 
+cables, fisherman, local communities onshore along the 
+onshore cable route. 
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+Construction of an offshore wind farm 
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+1,200MW 
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+National Grid onshore substation near Creyke Beck. 
+Positive impact on grid mix expected as the project's 
+output should displace fossil fuel generators. 
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+Not been assessed yet 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  15  o f  31  
+(in kgCO2e) using recognised 
+conversion factors. 
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+Development Consent Order standards, UK planning 
+consent requirements 
+ 
+Adaptation and Resilience Component  – Project A  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+Design process takes into account the 
+potential impacts of storm surges, sea level 
+rises, earthquakes and changes in ocean 
+temperatures (including the impact on sea 
+water density). Environmental Impact 
+Assessment (EIA) process includes 
+identification of steps taken to mitigate 
+flood risk onshore. 
+ 
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+Extensive stakeholder engagement 
+programmes, including any impacts on 
+climate resilience of stakeholders, are 
+required under the conditions of the EIA and 
+DCO.  
+ 
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+The public documents show that the Project 
+is required to implement measures to 
+address any climate risks highlighted in the 
+EIA. Implementation details are included in 
+the Environmental Management and 
+Monitoring Plan 
+ 
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The ongoing maintenance contracts includes 
+statutory inspections, regular maintenance 
+and blade inspections, as well as for the 
+foundations and subsea areas.  
+ 
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+An appropriate level of stakeholder 
+engagement was undertaken during the EIA 
+process, e.g. through communities and 
+fisheries liaison activities. Consultation 
+process within the EIA was documented 
+within the Environmental Statement, and 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  16  o f  31  
+the consenting process afforded extensive 
+opportunity for stakeholder involvement.  
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+implemented to offset the 
+negative impacts 
+Habitats Regulation Assessment (HRA) is 
+undertaken as part of the consenting 
+process. No material issues were identified. 
+ 
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+The scope of the Operations Management 
+Agreement includes all waste management 
+activities. The IEA includes a Chemical Risk 
+Assessment & Waste Management Plan. 
+ 
+5.3 
+The issuer has recognized 
+and listed the potential risks 
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+The Project is required to produce and 
+adhere to a Marine Pollution Contingency 
+Plan (MPCP). Onshore pollution prevention 
+will be managed through the Construction 
+Environmental Management Plan. 
+ 
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+As part of the regulatory approvals, a 
+decommissioning program was submitted 
+and approved.  
+ 
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+500m safety zones around each turbine are 
+in place to minimise disruption to mariners 
+and other users of the sea. There are also 
+hazard lights on the turbines, and a marine 
+vessel co-ordinator to co-ordinate vessel 
+movements in the area  
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  17  o f  31  
+For Offshore Wind Farm B  
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+UK North Sea. Nearby ecosystems include 
+Flamborough Head and Filey Coast SPA, Farne 
+Islands SPA and Forth Islands SPA. 
+ 
+2 Projected lifespan of the asset/project. 35 years 
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+North sea pipeline owners & telecoms companies 
+owning subsea fibre cables crossing the project's 
+export cables, fisherman, local communities onshore 
+along the onshore cable route. 
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+Construction of an offshore wind farm 
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+1,200MW 
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+National Grid onshore substation near Creyke Beck. 
+Positive impact on grid mix expected as the project's 
+output should displace fossil fuel generators 
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+(in kgCO2e) using recognised 
+conversion factors. 
+tbc 
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+Development Consent Order standards 
+ 
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  18  o f  31  
+Adaptation and Resilience Component  – Project B  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+Design process takes into account the 
+potential impacts of storm surges, sea level 
+rises, earthquakes and changes in ocean 
+temperatures (including the impact on sea 
+water density). Environmental Impact 
+Assessment (EIA) process includes 
+identification of steps taken to mitigate 
+flood risk onshore. 
+ 
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+Extensive stakeholder engagement 
+programmes, including any impacts on 
+climate resilience of stakeholders, are 
+required under the conditions of the EIA and 
+DCO.  
+ 
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+The public documents show that the Project 
+is required to implement measures to 
+address any climate risks highlighted in the 
+EIA. Implementation details are included in 
+the Environmental Management and 
+Monitoring Plan 
+ 
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The ongoing maintenance contracts includes 
+statutory inspections, regular maintenance 
+and blade inspections, as well as for the 
+foundations and subsea areas.  
+ 
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+An appropriate level of stakeholder 
+engagement was undertaken during the EIA 
+process, e.g. through communities and 
+fisheries liaison activities. Consultation 
+process within the EIA was documented 
+within the Environmental Statement, and 
+the consenting process afforded extensive 
+opportunity for stakeholder involvement.  
+ 
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+Habitats Regulation Assessment (HRA) is 
+undertaken as part of the consenting 
+process. No material issues were identified. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  19  o f  31  
+implemented to offset the 
+negative impacts 
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+The scope of the Operations Management 
+Agreement includes all waste management 
+activities. The IEA includes a Chemical Risk 
+Assessment & Waste Management Plan. 
+ 
+5.3 
+The issuer has recognized 
+and listed the potential risks 
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+The Project is required to produce and 
+adhere to a Marine Pollution Contingency 
+Plan (MPCP). Onshore pollution prevention 
+will be managed through the Construction 
+Environmental Management Plan. 
+ 
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+As part of the regulatory approvals, a 
+decommissioning program was submitted 
+and approved.  
+ 
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+500m safety zones around each turbine are 
+in place to minimise disruption to mariners 
+and other users of the sea. There are also 
+hazard lights on the turbines, and a marine 
+vessel co-ordinator to co-ordinate vessel 
+movements in the area  
+ 
+ 
+For Offshore Wind Farm C 
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+UK North Sea. Nearby ecosystems include Flamborough 
+Head and Filey Coast SPA, Farne Islands SPA and Forth 
+Islands SPA. 
+ 
+2 Projected lifespan of the asset/project. 35 years 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  20  o f  31  
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+North sea pipeline owners & telecoms companies 
+owning subsea fibre cables crossing the project's export 
+cables, fisherman, local communities onshore along the 
+onshore cable route. 
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+Construction of an offshore wind farm 
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+1,200MW 
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+National Grid onshore substation near Lackenby. 
+Positive impact on grid mix expected as the project's 
+output should displace fossil fuel generators. 
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+(in kgCO2e) using recognised 
+conversion factors. 
+tbc 
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+Development Consent Order standards 
+ 
+Adaptation and Resilience Component  – Project C 
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+The assets have been designed using 
+MetOcean data, which explicitly considers 
+the impact of parameters such as rising sea 
+levels and storm surges. 
+Also, the Project has insurance policies to 
+cover potential damage from adverse 
+weather such as lightning and storm surges, 
+- ensuring the assets can be repaired and 
+continue to operate following an adverse 
+weather event. 
+The regulatory approvals confirms that the 
+project has taken the appropriate 
+considerations regarding climate adaptation, 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  21  o f  31  
+as laid out in the National Policy Statement 
+for Renewable Energy Infrastructure.  
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+The regulatory approvals require that the 
+project take due consideration on its 
+impacts on other stakeholders, during both 
+the planning and operational stages. This 
+includes extensive consultation with local 
+communities and fisheries.  
+ 
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+ 
+The public documents show that the Project 
+is required to implement measures to 
+address any climate risks highlighted in the 
+EIA. Implementation details are included in 
+the Environmental Management and 
+Monitoring Plan 
+ 
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The Project will be subject to regular 
+inspections during construction and 
+operations. These inspections will cover 
+both health and safety matters as well as 
+equipment technical matters. 
+ 
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+Extensive consultation and disclosure 
+occurred throughout the consenting process 
+and is ongoing through the operational 
+phase, for example through communities 
+and fisheries liaison activities. 
+ 
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+implemented to offset the 
+negative impacts 
+The regulatory approvals confirmed that 
+there should be no adverse effects on the 
+integrity of six nearby Special Protection 
+Areas (SPAs) and Special Areas of 
+Conservation (SAC). This review considered 
+the project's impact on ecology, fish and 
+marine mammals. 
+ 
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+Contractors will be contractually obliged to 
+safely dispose of all waste. The lending 
+arrangements also commit the borrower to 
+comply with all applicable environmental 
+laws and regulations. 
+ 
+5.3 The issuer has recognized 
+and listed the potential risks 
+During construction (i) specific measures will 
+be employed to avoid spills and leakages &  
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  22  o f  31  
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+(ii) good construction and management of 
+waste practices must be adhered to.  
+During operations, the project will (i) 
+securely store contaminative materials and 
+adopt robust procedures to prevent, identity 
+and report spills & (ii) regularly inspect 
+hardstandings and oil separators.  
+These measures are as required by the 
+regulatory approvals. 
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+The latest decommissioning plan, as of 2021, 
+is typical of a UK offshore wind farm, 
+including those for Wind Farm A and B, 
+where the structures above the seabed are 
+removed, and the cables and substructures 
+below the seabed are left after 
+decommissioning. The developers of this 
+wind farm have ample expertise from 
+involvement in other prior wind farms.   
+ 
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+The Project will enter into Crossing 
+Agreements with stakeholders with assets 
+which will cross the project's export cables 
+(e.g. pipelines and communications cables). 
+These Crossing Agreements will require the 
+project to act with due care, such as burying 
+the export cables to a suitable depth to 
+avoid ship anchors. 
+ 
+ 
+ 
+For Offshore Wind Farm D  
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+The wind farm is located approximately 15km off 
+Fife on the east coast of Scotland. The project is 
+not in a Marine Protect Area. The Appropriate 
+Assessment describes all local ecosystems and the 
+assessed impacts 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  23  o f  31  
+2 Projected lifespan of the asset/project. 25 years 
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+The Technical Report provided to Barclays by the 
+borrower includes details on the stakeholders 
+involved. 
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+The borrower has provided details of the projects’ 
+activities in the follow documents: 
+Technical report: Construction methods 
+Technical report: Operations and maintenance 
+Technical report: Decommissioning  
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+448MW 
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+The energy generated will be fed through an 
+onshore transformer station at Crystal Rig II. The 
+UK grid’s average carbon intensity is 0.21kg 
+CO2e/kWh. The impact on the electricity grid will 
+be significant and positive in terms of displacing 
+fossil fuel generation  
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+(in kgCO2e) using recognised 
+conversion factors. 
+Projected avoided GHG emissions compared to the 
+current average UK electricity emissions factor of 
+up to 9.9MtCO2e, across the lifecycle of the 
+project. 
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+Section 36 consent and Marine Licenses by Marine 
+Scotland 
+ 
+ 
+Adaptation and Resilience Component  – Project D 
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+The asset and planning will have to adhere 
+to the National Planning Policy Framework, 
+National Policy statements and Marine 
+Policy Statement. These require assessments 
+relating to climate change and changing 
+marine conditions  
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  24  o f  31  
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+The Environmental Impact Assessment 
+includes impacts on the resilience of other 
+stakeholders.  
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+ The public documents show that the Project 
+is required to implement measures to 
+address any climate risks highlighted in the 
+EIA. Implementation details are included in 
+the Environmental Management and 
+Monitoring Plan 
+ 
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The borrower commits to inspections and 
+audits on whether activities comply with the 
+planned arrangements and whether these 
+arrangements are implemented effectively.  
+ 
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+The Technical Report provided to Barclays by 
+the borrower includes details on stakeholder 
+engagement and collaborations. 
+ 
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+implemented to offset the 
+negative impacts 
+The Technical Report provided to Barclays by 
+the borrower includes an analysis of the 
+impact of the project on biodiversity and 
+natural resources (from project design to 
+dismantling). 
+ 
+ 
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+These details are included in the 
+Environmental Impact Assessment and 
+Operations Management Agreement  
+ 
+5.3 
+The issuer has recognized 
+and listed the potential risks 
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+These risks are mentioned as part of its 
+Marine Pollution Control Plan  
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  25  o f  31  
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+Details of appropriate decommissioning, is 
+required and approved under the Section 36 
+consent letter3  
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+The Technical Report provided to Barclays by 
+the borrower includes details on the risk 
+management plan and Health, Safety and 
+Environmental Management Plan   
+ 
+ 
+For Offshore Wind Farm E  
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+The Wind Farm is located 63km away from 
+Carnoustie. The project is not in a Marine Protect 
+Area. The EIA describes all local ecosystems and 
+the assessed impacts 
+2 Projected lifespan of the asset/project. 25 years 
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+The borrower has transparently disclosed all 
+relevant stakeholders through the Technical 
+Report. 
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+The borrower has provided details of the projects’ 
+activities in the following documents: 
+Technical report: Construction methods 
+Technical report: O&M Strategy 
+ 
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+1,140MW 
+ 
+3 https://www.legislation.gov.uk/ukpga/1989/29/section/36 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  26  o f  31  
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+The energy generated will be fed through an 
+onshore transformer station at Crystal Rig II. The 
+UK grid’s average carbon intensity is 0.21kg 
+CO2e/kWh. The wind farm’s impact be significant 
+and positive in terms of displacing fossil fuel 
+generation 
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+(in kgCO2e) using recognised 
+conversion factors. 
+Projected avoided GHG emissions compared to the 
+current average UK electricity emissions factor of 
+up to 26.6MtCO2e, across the lifecycle of the 
+project. 
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+The borrower reports and has been issued with 
+Section 36 consent and Marine Licenses by Marine 
+Scotland. 
+ 
+Adaptation and Resilience Component  – Project E  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+The asset and planning will have to adhere 
+to the National Planning Policy Framework, 
+National Policy statements and Marine 
+Policy Statement. These require assessments 
+relating to climate change and changing 
+marine conditions  
+ 
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+The Environmental Impact Assessment 
+includes impacts on the resilience of other 
+stakeholders.  
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+ 
+The public documents show that the Project 
+is required to implement measures to 
+address any climate risks highlighted in the 
+EIA. Implementation details are included in 
+the Environmental Management and 
+Monitoring Plan 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  27  o f  31  
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The borrower commits to inspections and 
+audits on whether activities comply with the 
+planned arrangements and whether these 
+arrangements are implemented effectively.  
+ 
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+The Technical Report provided to Barclays by 
+the borrower includes details on stakeholder 
+engagement and collaborations. 
+ 
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+implemented to offset the 
+negative impacts 
+The Technical Report provided to Barclays by 
+the borrower includes an analysis of the 
+impact of the project on biodiversity and 
+natural resources (from project design to 
+dismantling). 
+ 
+ 
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+These details are included in the 
+Environmental Impact Assessment and 
+Operations Management Agreement  
+ 
+5.3 
+The issuer has recognized 
+and listed the potential risks 
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+These risks are mentioned as part of its 
+Marine Pollution Control Plan  
+ 
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+Details of appropriate decommissioning, is 
+required and approved under the Section 36 
+consent letter4  
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+The Technical Report provided to Barclays by 
+the borrower includes details on the risk 
+management plan and Health, Safety and 
+Environmental Management Plan   
+ 
+4 https://www.legislation.gov.uk/ukpga/1989/29/section/36 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  28  o f  31  
+For Offshore Wind Connection 1  
+Disclosure Component  (for disclosure only; assessment is not 
+required)  
+ 
+ ITEM FACTUAL FINDINGS 
+1 Project location and size, including 
+description of marine coastal 
+ecosystem in proximity to planned 
+installations, noting for example 
+whether located in marine protected 
+areas or vulnerable marine 
+ecosystems. 
+ 
+The Triton Knoll (“TK”) OFTO project links the TK offshore 
+wind farm  in the North Sea  to the National Grid 
+transmission network. 
+The assets broadly comprise of; 
+• Two Offshore Transformer Modules (OTMs) with 
+monopile foundation structures 
+• Two 220 kV offshore export cables  
+• An onshore substation 
+The generation assets are not included . 
+ 
+The TK offshore wind farm itself is located in the Greater 
+Wash, about 20 miles off the coast of Lincolnshire , UK. 
+The wind farm is connected to the National Grid 
+Electricity Transmission substation at Bicker Fen v ia 
+50km offshore circuits, 57km onshore circuits and the TK 
+onshore substation near Bicker Fen. 
+The OFTO assets are located within a number of 
+environmentally sensitive and designated areas, 
+including Inner Dowsing Race Bank and North Ridge 
+Special Area o f Conservation (SAC) which is designated 
+for the presence of benthic reef features which are 
+afforded special protection. Potential impacts on these 
+sites have assessed in accordance with UK and EU 
+environmental law. Conditions within the transferring 
+consents establish obligations to manage risks in 
+accordance with legislation throughout the lifetime of 
+the OFTO assets. 
+2 Projected lifespan of the asset/project. Design life of 25 yrs 
+3 Key stakeholders involved, including 
+other users of the area and surrounding 
+area (sea, land or air) of the facilities. 
+• TK Offshore Windfarm 
+• NGESO/NGET 
+• OFGEM & BEIS 
+• Crown Estate 
+• Marine Management Organisation 
+• Boston Borough Council 
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  29  o f  31  
+4 Description of the project activities 
+including details on installation, 
+operation and decommissioning 
+activities. 
+Operation, maintenance, lifecycle activities & 
+decommissioning of the transmission assets linking TK 
+Offshore windfarm to the UK Transmission network 
+5 Expected/current facility capacity and 
+generation during and after the life of 
+the bond. 
+Transmission Entry Capacity is 824MWs – note the 
+OFTO is not the generator but the owner of the 
+transmission assets. 
+6 Details of where the energy generated 
+is being fed into, and estimated impact 
+of the grid mix. 
+Onshore Grid entry poin t is the Onshore NGET 
+substation at Bicker Fen 
+ 
+7 Projected avoided GHG emissions 
+compared to fossil fuel counterfactual 
+(in kgCO2e) using recognised 
+conversion factors. 
+N/A – as these are not Generation assets.   
+8 The planning standards, environmental 
+regulations and other regulations that 
+the project has been required to 
+comply with. 
+Following consents will be transferred to the OFTO 
+• Development Consent Order (DCO) /2014/00013 
+Development Consent Order Triton Knoll Electrical 
+System (S.I. 2016/880) (the OFTO DCO) 
+• Deemed Marine Licence Variation 1 (13 December 
+2018) (the OFTO dML) 
+• Planning permission (30 September 2019, 
+B/19/0281) granted by Boston Borough Council 
+The following consents will be shared with TK offshore 
+wind farm: 
+• the DCO/2013/00004 Development Consent Order 
+Triton Knoll Offshore Wind Farm (S.I. 2013No. 1734) 
+and the deemed Marine Licence for the generation 
+assets (annexed to the DCO).  
+In addition, TKOWFL was awarded a number of planning 
+permissions that run with the land, for works outside of 
+the DCO consent boundary 
+ 
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  30  o f  31  
+ 
+ 
+Adaptation and Resilience Component  – Wind Connection 1  
+ REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place to 
+assess key risks to the assets 
+from a changing climate and 
+its impact on marine 
+conditions  
+The Development Consent Order 
+requirements and EIA includes details on 
+these risks.  
+ 
+ 
+2.1 
+Processes are in place to 
+assess improvements and 
+impacts the assets have on 
+the resilience of other 
+stakeholders  
+The project planning and operations are in 
+compliance with the Development Consent 
+Order and EIA requirements regarding 
+impacts on the resilience of other 
+stakeholders. 
+ 
+3.1 
+An adaptation plan has been 
+designed and is being 
+implemented to address the 
+risks identified in the 
+assessments outlined above  
+The environmental and consents 
+management systems are in compliance 
+with legal requirements regarding 
+adaptations to climate risks.  
+ 
+3.2 
+Inspections are carried out 
+regularly and there is a 
+maintenance regime for 
+future inspections.  
+The plans have OPEX budgets which include 
+allocation for such inspections.   
+4.1 
+Issuer is involved in 
+stakeholder engagement 
+and collaboration  
+The owner of the transmission assets, ie the 
+borrower, is mostly engaged with Ofgem, 
+the UK regulator, in the process of acquiring 
+the assets from the original developer of the 
+assets. Other stakeholders include National 
+Grid. N/A 
+ 
+5.1 
+The assets or projects do not 
+put at risk or endangered 
+species or habitat or unduly 
+impact ecosystem services. 
+Where there are possible 
+negative impacts to habitats, 
+mitigation measures are 
+implemented to offset the 
+negative impacts 
+The UK Government team responsible for 
+such assessments has concluded that the 
+project would not have any adverse impacts 
+on the integrity of nearby ecosystems in the 
+North Sea.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+I S S C O R P O R A T E S O L U T I O N S . C O M / E S G  31  o f  31  
+5.2 
+Waste is responsibly dealt 
+with, including appropriate 
+disposal of construction 
+waste and oil-based 
+lubricants, including 
+recycling options where 
+possible  
+The project is in compliance with regulatory 
+requirements around waste management   
+5.3 
+The issuer has recognized 
+and listed the potential risks 
+for accidental site 
+contamination either from 
+leakage of hydraulic fluid or 
+from wreckage/debris on 
+the sea bed.   
+The Development Consent Order includes 
+planning for such risks. The company will use 
+appropriate monitoring equipment for early 
+warning 
+ 
+5.4 
+Decommissioning of the 
+plant is planned in a way 
+that considers 
+environmental impacts 
+The Decommissioning Plan has been 
+developed in accordance with the 
+requirements of the Energy Act 2004 and 
+will be updated with evolving regulatory 
+requirements 
+ 
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with other 
+users of marine and coastal 
+place.   
+The project includes burying the cable at 
+appropriate depths to avoid net snagging 
+and anchor drag issues 
+There are agreements with other cable or 
+pipeline companies to avoid crossovers.  
+These are in compliance with Marine License 
+obligations

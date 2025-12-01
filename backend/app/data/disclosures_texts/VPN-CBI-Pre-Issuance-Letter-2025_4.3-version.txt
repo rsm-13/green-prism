@@ -1,0 +1,1669 @@
+© Sustainalytics 2025  
+ 
+ 
+1 
+Victoria Power Networks 
+PROGRAMMATIC PRE-ISSUANCE VERIFICATION LETTER  
+ELECTRICAL GRIDS AND STORAGE CRITERIA OF THE CLIMATE BONDS STANDARD 
+Type of engagement: Assurance Engagement 
+Period engagement was carried out: July 2025 
+Approved verifier: Sustainalytics 
+Contact address for engagement: Hoogoorddreef 11, 1101 BA Amsterdam, Netherlands 
+Pre-Issuance Engagement Team: 
+Akshay Chandrakapure, akshay.chandrakapure@morningstar.com  
+Vipula Pandita, vipula.pandita@morningstar.com  
+ 
+Scope and Objectives 
+Victoria Power Networks  (“VPN” or the “Company” ) developed the Victoria Power Networks 
+Sustainable Financing Framework (the “Framework”) under which it intends to issue CBI Certified 
+Green Bond s to finance and refinance projects related to  the transmission and distribution of 
+electricity and storage of electricity (the “Nominated Projects”). VPN has engaged Sustainalytics 
+to review its proposed Green Bonds and verify that it meets the Pre-Issuance Requirements of the 
+Climate Bonds Standard version 4.3.1  
+Pre-Issuance Evaluation Criteria 
+Pre-Issuance requirements of the Climate Bonds Standard Version 4.3: 
+• Use of Proceeds 
+• Evaluation and Selection of Projects, including conformance with the relevant Sector 
+Criteria 
+- Electrical Grids and Storage Criteria2 
+▪ Transmission and Distribution Networks (Grids) 
+▪ Electricity Storage Facilities 
+• Management of Proceeds 
+• Reporting 
+Issuing Entity’s Responsibility  
+VPN is responsible for providing information and documents relating to: 
+• The details concerning the selection process for the Nominated Projects. 
+• The details of the Nominated Projects. 
+• The management systems for internal processes and controls for projects, including: 
+tracking of proceeds, managing unallocated proceeds and earmarking funds to projects. 
+• The details of the issuer’s commitments prior to issuance  for reporting, including: 
+investment areas, management of unallocated proceeds and frequency of periodic 
+assurance engagements. 
+ 
+1 Climate Bonds Initiative, Climate Bonds Standard Version 4.3, at: 
+https://www.climatebonds.net/files/documents/CBI_Standard_V4.3_FINAL_2025-08-20-102147_gbqn.pdf   
+2 Climate Bonds Initiative, Electrical Grids and Storage Criteria, at: https://www.climatebonds.net/files/documents/Climate-
+Bonds_Electricalal-Grids-Storage_Criteria-document_November-2021.pdf  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+2 
+Independence and Quality Control 
+Sustainalytics, a leading provider of ESG and corporate governance research and ratings to 
+investors, conducted the verification of the proposed Green Bonds to provide an independent 
+opinion on their conformance with the Pre-Issuance Requirements of the Climate Bonds Standard. 
+Sustainalytics has relied on the information and the facts presented by VPN with respect to the 
+Nominated Projects. Sustainalytics is not responsible nor shall it be held liable for any inaccuracies 
+in the opinions, findings or conclusions herein due to incorrect or incomplete data provided by VPN. 
+Sustainalytics makes all efforts to ensure the highest quality and rigor during its assessment 
+process and enlisted its Sustainability Bonds Review Committee to provide oversight over the 
+assessment of the bond. 
+Verifier’s Responsibility 
+Sustainalytics conducted the verification in accordance with the Climate Bond s Standard Version 
+4.3 and with International Standard on Assurance Engagements 3000 (ISAE 3000).  
+The work undertaken as part of this engagement included conversations with relevant  VPN 
+employees and the review of relevant documentation to assess the conformance of the proposed 
+Green Bonds with the Climate Bonds Certification Pre-Issuance Requirements. 
+Conclusion   
+VPN intends to issue its Green Financing Instruments to finance and refinance new or existing 
+electrical grid related assets and projects, including capital expenditures and, where applicable, 
+operating and other related costs. 
+Based on the limited assurance procedures conducted, nothing has come to Sustainalytics’ 
+attention that causes us to believe that, in all material aspects, the proposed Green Bonds is not in 
+conformance with the Climate Bonds Standard’s Pre-Issuance Requirements. 
+ 
+  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+3 
+Schedule 1: Overview of Nominated Projects and 
+Assets 
+Details of the Nominated Projects and Assets that will receive financing or refinancing are 
+provided below: 
+Asset or Activity Class Asset or Activity3 Eligible Assets or Activities 
+Transmissions and 
+Distribution Networks (Grids) 
+Low Voltage (LV) Network 
+Equipment to allow for 
+exchange of renewable 
+electricity between users. 
+High Voltage (HV) renewable 
+network connections, 
+including transformers 
+Equipment and 
+infrastructure where the 
+main objective is to 
+increase the generation or 
+use of renewable electricity 
+generation. 
+Operational Technology (OT) 
+systems 
+Equipment to increase the 
+controllability and 
+observability of the 
+electricity system and 
+enable the development 
+and integration of 
+renewable energy sources. 
+Smart meters 
+Equipment to provide 
+information to users, for 
+remotely acting on 
+consumption such as, but 
+not limited to, advanced 
+(also known as smart) 
+metering infrastructure, 
+including customer data 
+hubs. 
+Other electricity transmission, 
+distribution and related assets 
+ 
+Other equipment and 
+infrastructure in systems 
+which are on a trajectory to 
+full decarbonization.  
+ 
+ 
+ 
+  
+ 
+3 Detailed description of the assets is included in Appendix 1. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+4 
+Schedule 2: Conformance to the Pre-Issuance 
+Requirements of the Climate Bonds Standard4,5 
+Procedure 
+Performed Factual Findings Error or Exceptions 
+Identified 
+A.2.1. Use of 
+Proceeds 
+2.1.1 VPN has developed a list of proposed 
+Nominated Projects which comply with the 
+Electrical Grids and Storage  Criteria of the 
+Climate Bonds Standard. VPN intends to keep 
+this list updated. The proposed Nominated 
+Projects include: 
+• LV network 
+• HV renewable network connections, including 
+transformers 
+• OT systems 
+• Smart meters 
+• Other electricity transmission, distribution 
+and related assets 
+ 
+2.1.2 VPN confirms that  all the Nominated Projects 
+will meet the documented objectives of the debt 
+instrument as set out in the VPN’s Framework. 
+2.1.3 VPN confirms that it  will allocate 100% of the 
+net proceeds of the debt instrument to projects 
+and assets that meet the Electrical Grids and 
+Storage Criteria requirements of the Climate 
+Bonds Standard. 
+2.1.4 N/A 
+2.1.5 N/A 
+2.1.6 VPN confirms that the net proceeds of the debt 
+instrument will not be greater than the total 
+investment exposure to the proposed 
+Nominated Projects or the relevant proportion 
+of the total market value of the proposed 
+Nominated Projects owned or funded by VPN. 
+2.1.7 VPN’s management confirms that the 
+Nominated Projects will not be nominated to 
+other certified debt Instrument s unless VPN 
+demonstrates that distinct portions of the 
+Nominated Projects are being funded by 
+different certified debt  instruments or , the 
+present certified debt instrument is being 
+None 
+ 
+4 Climate Bonds Initiative, Climate Bonds Standard Version 4.3, at: 
+https://www.climatebonds.net/files/documents/CBI_Standard_V4.3_FINAL_2025-08-20-102147_gbqn.pdf   
+5 For ease of reference, the numbering in this section follows the numbering of the Climate Bonds Standard Version 4.3. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+5 
+refinanced via another certified debt  
+instrument. 
+A.2.2. Process 
+for Evaluation 
+and Selection 
+of Projects 
+and Assets 
+2.2.1 VPN established and documented a decision-
+making process to determine the eligibility of 
+the Nominated Projects. 
+2.2.2 VPN’s decision -making process mentioned in 
+2.2.1 above includes the following: 
+i. The climate -related objectives of the debt 
+instrument. 
+ii. How the climate-related objectives of the 
+debt instrument are positioned within the 
+context of VPN’s overarching objectives, 
+strategy, policy and processes relating to 
+environmental sustainability. 
+iii. VPN’s rationale for issuing the debt 
+instrument is  to support  VPN’s 
+sustainability objectives and support the 
+financing and refinancing of projects with 
+clear environmental benefits. 
+iv. A process to determine how the proposed 
+Nominated Projects meet the eligibility 
+requirements of the Climate Bonds 
+Standard, including the relevant Sector 
+Criteria. VPN’s Treasury Team is 
+responsible for asset identification, 
+evaluating potential Nominated Projects, 
+approving the allocation of proceeds, and 
+ensuring compliance with all aspects of the 
+Framework. 
+v. VPN has sufficient measures in place to 
+manage and mitigate environmental and 
+social risks that are commonly associated 
+with the Nominated Projects. 
+None 
+A.2.3. 
+Management 
+of Proceeds 
+2.3.1 VPN has documented and disclosed to 
+Sustainalytics the systems, policies and 
+processes it will use to manage the net 
+proceeds. 
+i. Tracking of  proceeds: VPN has a process in 
+place to track and monitor the proceeds.  
+ii. Managing unallocated proceeds:  VPN will 
+manage any unallocated net proceeds by 
+applying them to one or more of the following: 
+temporary cash or cash equivalent instruments 
+within its treasury operations; temporary 
+investments that exclude greenhouse gas -
+intensive projects inconsistent w ith the 
+transition to a low -carbon, climate -resilient 
+economy; or temporarily using them to reduce 
+None 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+6 
+revolving indebtedness, with the intention to 
+reallocate the funds to Green Projects at a later 
+stage.   
+iii. Earmarking funds to Nominated Projects: VPN 
+details the process it will use to allocate and 
+manage proceeds of the debt  instrument. This 
+will enable the estimation of the share of the net 
+proceeds being used for financing and 
+refinancing. 
+2.3.2 As the proceeds of the debt instrument must be 
+ring-fenced, VPN has confirmed that the 
+proceeds will be credited to designated bank 
+accounts that can only fund the specified 
+Nominated Projects. VPN will track and monitor 
+all payments from the designated bank 
+accounts. 
+A.2.4. Pre-
+Issuance 
+Reporting 
+2.4.1 VPN has prepared a framework and has made it 
+publicly available prior to or at the time of 
+issuance. In the case of loans and other private 
+transactions, VPN has the option to disclose 
+the Framework only to the lender(s). 
+2.4.2 The framework mentioned in 2.4.1 includes: 
+i. A statement of compliance with the 
+Climate Bonds Standard  and other 
+applicable standards, such as the Green 
+Bond Principles or the United Nations 
+Sustainability Development Goals. 
+ii. A summary of the  expected use of 
+proceeds. 
+iii. A description of VPN’s decision-making 
+process 
+iv. A d escription of VPN’s processes for 
+managing the proceeds 
+v. A d escription of VPN’s processes for 
+reporting and external review or 
+verification 
+2.4.3 VPN has confirmed the following: 
+i. VPN’s Nominated Projects conform with 
+the Electrical Grids and Storage  Criteria. 
+VPN may report on the following impact 
+metrics: a) total installed capacity of 
+renewable energy generation  on VPN’s 
+network, b) Annual GHG emissions 
+reduced/avoided in tonnes of CO 2 
+equivalent, c) Value of network and 
+technology investments in innovation, d) 
+Number of new connections, e) Residential 
+rooftop solar  (MW of rooftop systems 
+None 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+7 
+installed by residential customers and 
+number of customers with rooftop solar), f) 
+Smart meters (total and attributable 
+number) and g) Percentage availability of 
+reliable power. 
+ii. VPN will manage unallocated net proceeds 
+in accordance with Clause A.3.3.3 of the 
+Climate Bonds Standard.  
+iii. VPN has confirmed that it will report its 
+allocation and impact reporting via a green 
+bond report. The report will include a 
+description of conformance with the 
+Climate Bonds Standards criteria and on 
+its certified operations . VPN’s Nominated 
+Projects meet the Electrical Grids and 
+Storage Criteria. VPN will report on the 
+investment areas in which the Nominated 
+Projects qualify by reporting on an annual 
+basis on the allocation and impact of the 
+net proceeds of the green debt 
+instruments. 
+iv. VPN’s green financing pool currently 
+comprises a mix of refinanced and new/to 
+be financed Eligible Green Projects. Where 
+proceeds are allocated towards the 
+refinancing of assets, VPN ensures that 
+these projects are still operational, meet 
+the Eligibility Criteria under the Framework, 
+and have a remaining useful life that 
+extends beyond  the maturity of the 
+relevant Green Financing Instrument. In 
+the case of operating expenditures, VPN 
+commits to only refinancing expenses 
+incurred within two years prior to th e 
+issuance date, unless otherwise certified 
+by the Climate Bonds Initiative (CBI). The 
+specific breakdown between refinancing 
+and new financing is determined at the 
+time of each issuance and disclosed 
+accordingly, with final confirmation 
+provided through post-issuance reporting. 
+2.4.5 VPN has confirmed that it s disclosure 
+documentation will include:  
+i. Nominated Projects will conform with the 
+Electrical Grids and Storage criteria. 
+ii. The intended types of temporary 
+investment instruments for the 
+management of unallocated net proceeds 
+are in accordance with Clause A.3.3.3 of 
+the Climate Bonds Standard. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+8 
+iii. The name of the approved third -party 
+verifier engaged by VPN to obtain the 
+Climate Bonds Standard certification.  
+iv. VPN’s Nominated Projects meet the 
+Electrical Grids and Storage Criteria. VPN 
+will report on the investment areas in 
+which the Nominated Projects qualify by 
+reporting annually on the allocation and 
+impact of the net proceeds of the green 
+debt instruments. 
+v. The CBI Disclaimer provided in the 
+Certification Agreement. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+9 
+Annexure 1: CBI Electrical Grids and Storage Criteria 
+ 
+Appendix 1: Mitigation Requirements 
+ 
+Asset or Activity 
+Class Asset Name Description Overall Assessment 
+Transmission and 
+Distribution 
+Networks (Grids) 
+ 
+LV network 
+VPN’s LV network supports the 
+integration, distribution, and daily 
+transmission of renewable 
+electricity from both the 
+transmission grid and user sources. 
+It is expected to accommodate 
+increasing renewable generation 
+and includes assets such as 
+earthing systems, overhead lines, 
+poles, protection equipment, service 
+lines, switchgear, and underground 
+cables. 
+VPN’s LV network 
+automatically meets the 
+mitigation component of the 
+criteria because it allows for 
+the exchange of renewable 
+electricity between users. 
+HV renewable network 
+connections, including 
+transformers 
+VPN’s HV renewable connections 
+are designed to integrate and 
+distribute renewable electricity and 
+are expected to support growing 
+renewable generation. These 
+embedded networks include assets 
+such as earthing systems, overhead 
+lines, poles, switchgear, 
+underground cables, control 
+equipment, and zone substations. 
+VPN’s (HV) network 
+automatically meets the 
+mitigation component of the 
+criteria as its primary purpose 
+is to increase the generation or 
+use of renewable electricity. 
+OT systems 
+VPN uses OT systems, such as 
+Supervisory Control and Data 
+Acquisition (SCADA), to monitor and 
+control its electricity distribution 
+network. These systems enable 
+real-time data collection, voltage 
+management, integration of 
+renewables, and restoring power 
+after outages. 
+VPN’s OT systems 
+automatically meet the 
+mitigation component as they 
+increase the controllability and 
+observability of the electricity 
+system and enable the 
+development and integration of 
+renewable energy sources. 
+Smart meters 
+VPN’s smart meters measure actual 
+electricity use and enable two-way 
+communication, capturing both 
+electricity consumed from the grid, 
+and electricity fed into the grid. 
+Through the myEnergy portal, 
+customers can monitor and manage 
+energy consumption and enable 
+customers to be metered and 
+settled at the same time resolution 
+as the imbalance settlement period 
+in the national market. 
+VPN’s smart meters 
+automatically meet the 
+mitigation component of the 
+criteria because they are 
+equipment that carries 
+information to users for 
+remotely acting on 
+consumption. Specifically, 
+VPN’s smart meters accurately 
+measure actual electricity 
+consumption and time of use 
+information, providing two-way 
+communication of this 
+information to both household 
+and business customers and 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+10 
+energy companies, inclusive of 
+retailers and distributed 
+network service providers 
+(DNSPs) like VPN. 
+Other electricity 
+transmission, 
+distribution and related 
+assets 
+This involves other equipment 
+related to transmission and 
+distribution assets that do not 
+automatically meet eligible 
+categories for mitigation 
+requirements.  
+VPN has confirmed that for 
+transmission and distribution 
+assets not classified under the 
+‘automatically eligible 
+categories for mitigation’, they 
+will ensure that the systems on 
+which such assets are installed 
+are on a trajectory toward full 
+decarbonization. Specifically, 
+these systems will either 
+operate below the threshold of 
+100gCO₂e/kWh on a rolling 
+five-year average basis, or at 
+least 67% of the newly 
+connected generation capacity 
+will meet this threshold over 
+the same period. 
+ 
+ 
+  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+11 
+Appendix 2: Adaptation and Resilience Requirements 
+ 
+Items Proof Given Overall Assessment 
+Section 1: Clear boundaries and critical interdependencies between the infrastructure and the system it operates within 
+are identified. 
+1.1 Boundaries of the infrastructure are 
+defined using (1) a listing of all 
+infrastructure and assets and activities 
+associated with the use of the bond 
+proceeds, (2) a map of their location, and 
+(3) identification of the expected 
+operational life of the activity, asset or 
+project. 
+VPN provided the following 
+documents: 
+i. Distribution Annual 
+Planning Report6 
+ii. Asset class 
+overview for 
+CitiPower and 
+Powercor7 
+iii. Regulatory 
+Information 
+Notices for 
+CitiPower and 
+Powercor8 
+VPN has defined the project boundaries 
+and identified key interdependencies 
+between its infrastructure and the 
+broader system it operates within. The 
+Distribution Annual Planning Report 
+and asset class documentation 
+includes: 
+i. A comprehensive description of the 
+project site and its surrounding 
+environment. 
+ii. Mapped locations of relevant 
+infrastructure. 
+iii. An overview of the asset class, 
+including the expected operational life 
+of various poles are outlined in the 
+asset class documentation. 
+1.2 Critical interdependencies between the 
+infrastructure and the system within which 
+it operates are identified. Identification of 
+these interdependencies should consider 
+the potential for adverse impacts arising 
+from, but not limited to:  
+(1) the effects of supply disruption or 
+interruption on dependent electricity users 
+or populations;  
+(2) exacerbation of wildfires;  
+(3) relationships of the asset/project to 
+nearby flood zones;  
+(4) reduction in pollinating insects and 
+birds;  
+VPN provided the following 
+documents: 
+i. Bushfire Mitigation 
+Plan for CitiPower 
+and Powercor11 
+ii. Network Resilience 
+Plan12 
+iii. First People 
+Engagement 
+Report13 
+(1) VPN has identified the 
+interdependencies between its 
+infrastructure and the broader 
+energy system, with a focus on the 
+impact of supply disruptions on 
+vulnerable users, particularly those 
+dependent on electricity for life 
+support equipment. To reduce 
+adverse impacts, VPN maintains a 
+register of such customers in 
+collaboration with energy retailers, 
+ensuring they are identified, 
+informed, and protected under 
+regulations by the Essential 
+Services Commission Victoria. 
+ 
+6 VPN, “Distribution Annual Planning Report for PowerCor & CitiPower”, at: https://media.powercor.com.au/wp-
+content/uploads/2024/12/31085241/DAPR_2024_Powercor_Distribution-Annual-Planning-Report-1.zip; CitiPower : 
+https://media.powercor.com.au/wp-content/uploads/2024/12/31085532/DAPR_2024_Citipower_Distribution-Annual-Planning-Report-1.zip.   
+7 VPN, “Asset Class Overview for PowerCor and CitiPower”, at: https://www.aer.gov.au/system/files/2025-
+02/PAL%20BUS%204.01%20%E2%80%93%20Poles%20%E2%80%93%20Jan2025.pdf ; CitiPower: 
+https://www.aer.gov.au/system/files/2025-
+02/CP%20BUS%204.01%20%E2%80%93%20Poles%20%E2%80%93%20Jan2025%20%E2%80%93%20Public.pdf.  
+8 VPN, “Regulatory Information Notices for CitiPower and PowerCor”, at: CitiPower: 
+https://www.aer.gov.au/publications/reports/performance/citipower-network-information-rin-responses ; PowerCor: 
+https://www.aer.gov.au/publications/reports/performance/powercor-network-information-rin-responses.   
+11 VPN, “Bushfire Mitigation Plan for Powercor and CitiPower”, at: https://www.aer.gov.au/documents/pal-att-909-bushfire-mitigation-plan-
+version-102-oct2023 ; CitiPower: https://media.powercor.com.au/wp-content/uploads/2021/07/07181113/CP-BFM-Plan-Rev5-9Dec19-
+signed-FINAL-2.pdf  
+12 VPN, “Network Resilience Plan”, at: https://www.aer.gov.au/system/files/2025-02/PAL%20ATT%205.02%20-
+%20Network%20resilience%20plan%20-%20Jan2025.pdf  
+13 VPN, “First People Engagement Report”, at: https://hdp-au-prod-app-cp-engage-files.s3.ap-southeast-
+2.amazonaws.com/6717/3873/3986/CitiPower_-_FP_engagement_report.pdf.  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+12 
+(5) reduction in biodiversity or High 
+Conservation Value9 habitat; 
+(6) damage or reduction in value of 
+neighbouring property due to boundary 
+structures at risk of falling during storm 
+events;  
+(7) fire and other practices that affect air 
+quality; 
+(8) appropriation of land or economic 
+assets from nearby vulnerable groups10 
+Customers receive timely 
+notifications of planned or 
+unplanned outages via SMS and/or 
+email and are encouraged to 
+prepare back-up plans with 
+medical professionals. Options 
+include backup power, alternate 
+accommodation, and emergency 
+contacts. This proactive approach 
+helps safeguard vulnerable 
+populations during supply 
+interruptions. VPN has shared 
+guidance on its website to help 
+customers during power outages, 
+including specific instructions for 
+life support customers who depend 
+on electricity to operate essential 
+medical equipment.14,15 
+(2) Electricity networks inherently 
+carry a risk of fire ignition, and 
+VPN’s Powercor has identified 
+several interdependencies between 
+its infrastructure and the broader 
+environmental system that could 
+exacerbate wildfire events. Key 
+ignition risks include electrical 
+faults, hardware failures, and 
+contact with vegetation, animals, 
+or contaminated equipment. 
+Approximately 51% of Powercor’s 
+network assets are located in 
+Hazardous Bushfire Risk Areas 
+(HBRA), and bushfire mitigation 
+strategies are updated in line with 
+Country Fire Authority (CFA) fire 
+hazard mapping. VPN’s CitiPower 
+operates in areas without identified 
+HBRAs, and therefore does not 
+apply the same operational 
+restrictions or mitigation practices.  
+(3) Extreme rainfall events pose a 
+significant threat to electricity 
+infrastructure through increased 
+risk of flooding. Impacts include 
+damage to towers, poles, and 
+substations, limited access for 
+repairs, and increased outage 
+durations. Zone substations are 
+particularly critical, as they are 
+ 
+9 High Conservation Value (HCV) habitat criteria in accordance with https://www.hcvnetwork.org.  
+10 According to IFC Performance Standards. 
+14 VPN, “Life Support Services”, at: https://www.powercor.com.au/for-your-home/life-support-services/  
+15 VPN, “Emergency Advice”, at: https://www.powercor.com.au/power-outages-and-emergencies/emergency/  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+13 
+single points of failure, flooding 
+can result in widespread service 
+disruptions, affecting essential 
+services like water treatment, 
+communications, and life support 
+equipment. Flood overlays show 
+varying exposure levels across 
+networks: 
+i. CitiPower: Up to 18% of zone 
+substations intersect with 
+flood zones, notably in areas 
+like St Kilda and Fitzroy. 
+ii. Powercor: High-risk areas 
+include parts of Barwon 
+Southwest and Shepparton, 
+with up to 13% of zone 
+substations intersecting flood 
+zones. 
+(4) VPN takes proactive steps in its 
+standard construction designs to 
+help prevent electrical contact, 
+especially in areas at higher risk. 
+This includes using bird diverters 
+and covers to protect both the 
+network and local wildlife. 
+(5) VPN has implemented procedures 
+to assess the biodiversity impacts 
+of new assets and upgrades, 
+aiming to minimize these impacts 
+wherever possible and secure the 
+necessary regulatory approvals. 
+VPN is also strengthening its 
+maintenance and line clearance 
+practices by enhancing staff 
+training and improving the 
+identification of areas with 
+protected flora and fauna. 
+Additional details are available in 
+VPN’s Environment and Heritage 
+Framework. 
+(6) VPN has a clear process in place 
+for handling damage claims related 
+to property or possessions that are 
+affected by power supply issues or 
+activities carried out as part of its 
+operations. Information on how to 
+make a claim is available on its 
+website.16   
+(7) Bushfires can damage overhead 
+network assets, disrupt electricity 
+supply, and create major safety 
+ 
+16 VPN, “Claims”, at: https://www.powercor.com.au/contact-us/claims/.  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+14 
+risks for the public. Smoke and 
+airborne particles can also affect 
+sensitive equipment and increase 
+operational challenges. To manage 
+these risks, VPN has developed 
+Bushfire Mitigation Plans aimed at 
+reducing the threat of bushfires as 
+much as possible. 
+(8)  VPN engages with local 
+community groups and 
+stakeholders to reduce the impact 
+of its activities on Aboriginal, 
+historical, natural, and industrial 
+sites. The approach and processes 
+are detailed on VPN’s website.  For 
+projects located in areas with 
+known or high cultural heritage 
+value, VPN ensures engagement 
+with Traditional Owner Groups and 
+carries out appropriate surveys and 
+monitoring, as outlined in its First 
+People Engagement report.  
+Section 2: An assessment has been undertaken to identify the key physical climate hazards to which the infrastructure 
+will be exposed and vulnerable to over its operating life. 
+2.1 Key physical climate risks and 
+indicators of these risks are identified in 
+line with the following guidelines.  
+• Risks are identified based on  
+(a) a range of climate hazards, and (b) 
+information about risks in the current local 
+context, including reference to any 
+previously identified relevant hazard 
+zones, e.g., flood zones. 
+ 
+In order to be confident that assets and 
+activities are robust and flexible in the 
+face of climate change uncertainties, it is 
+essential that the climate risks being 
+assessed and addressed cover those that 
+are of greatest relevance to T&D grids and 
+electrical energy storage. The physical 
+characteristics of climate change that 
+must be considered in the risk assessment 
+include: 
+• Temperature rise 
+o High temperatures can impact on 
+the electrical rating of assets, reducing 
+transmission capacity and potentially 
+reducing the ability of the network to 
+meet demand. 
+VPN provided the following 
+proof of documents: 
+i. Network Resilience 
+Plan 
+ii. Climate Change 
+study for Victorian 
+Electricity 
+Distribution 
+Businesses-Phase 
+117 
+ 
+VPN’s Network Resilience Plan and the 
+AECOM Climate Change Study for Victorian 
+Electricity Distribution Businesses – Phase 
+1 outline the company’s approach to 
+identifying and managing key physical 
+climate hazards. 
+The most significant physical climate risks 
+for VPN include severe storms, heatwaves, 
+bushfires, and flooding. Based on the 
+characteristics and geographic distribution 
+of VPN’s network assets, the following 
+physical climate risks are considered 
+immaterial or not applicable: 
+• Landslides/ground movement 
+• Increased lightning activity 
+• Sea-level rise 
+• Increased snow, sleet, ice, and 
+freezing fog 
+• Increased coastal and river erosion 
+ 
+Bushfires 
+Bushfire risk is a key physical climate 
+hazard for electricity networks, and VPN has 
+assessed this using the Forest Fire Danger 
+Index (FFDI). Bushfires, supported by hot 
+ 
+17 VPN, “Climate Change Study for Victorian Electricity Distribution Business Phase 2”, at: https://www.aer.gov.au/system/files/2025-
+02/PAL%20ATT%205.01%20-%20AECOM%20-%20Methodology%20report%20-%20May2024.pdf. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+15 
+o Increasing temperatures can also 
+result in extension of overhead lines, 
+which reduces the clearance above 
+trees. 
+o Increased temperatures may also 
+result in changes to the load on 
+assets, due to increased cooling 
+demands (higher summer peak 
+demands) and less winter heating 
+(reduced winter peak). 
+• Increased heavy rainfall  
+o Heavy rainfall can result in flash 
+pluvial flooding, which could 
+significantly impact electrical assets, 
+particularly ground mounted assets. 
+• Sea-level rises  
+o Potential for flooding of coastal 
+infrastructure and assets at risk from 
+storm surge events. 
+• Increased lightning  
+o Lightning strikes have potential to 
+cause transient outages due to power 
+surges. 
+• Increased winds / gales  
+o Strong winds can cause damage to 
+overhead transmission and 
+distribution lines and supporting 
+infrastructure (pylons and poles).  
+o Up-rooting of trees and vegetation 
+can also have an impact on power 
+lines. 
+• Increased snow, sleet, ice, freezing fog 
+ o Ice and snow accretion can make 
+overhead power lines vulnerable to 
+highwinds  
+o Snow and ice can also impede 
+access to sites for repairs in the event 
+of a fault. 
+• Increased coastal / river erosion  
+o Risk to assets in coastal or riverbank 
+locations 
+• Wildfires  
+o Wildfires present a risk to electricity 
+infrastructure in affected areas and 
+can significantly inhibit access to 
+repair damaged infrastructure.  
+o Electricity infrastructure can also be 
+a cause of wildfires. For example, 
+contact between transmission lines 
+and dry vegetation has potential to 
+start fires. 
+• Landslides / ground movement 
+and windy conditions, can significantly 
+damage or destroy exposed overhead 
+assets, including communications 
+equipment, overhead distribution lines, 
+poles, and substations, often resulting in 
+multiple outages and substantially delayed 
+response efforts. In addition, bushfires can 
+cause prolonged smoky conditions, which 
+limit solar energy production and thereby 
+impact local network demand and load 
+balancing. 
+ 
+Flooding 
+Flooding from intense rainfall events is also 
+a key concern. Heavy and sustained 
+precipitation can cause major flooding, 
+including flash or surface flooding, which 
+may damage exposed assets such as 
+substations and poles, and reduce 
+clearance and access to overhead 
+powerlines, affecting network reliability and 
+restoration times. VPN evaluates this risk 
+using baseline data for 1% and 2% Annual 
+Exceedance Probability (AEP) 24-hour 
+rainfall events, sourced from the Bureau of 
+Meteorology’s Australian Rainfall and 
+Runoff Data Hub. 
+ 
+Heatwaves 
+Extreme heat is a key physical climate risk, 
+particularly for electricity infrastructure, 
+which can be vulnerable to overheating and 
+equipment stress. Heatwaves increase grid 
+stress, raise summer peak demand, 
+accelerate asset ageing, and cause 
+overhead line sag, requiring derating. 
+Sustained high temperatures especially 
+high overnight temperature can lead to 
+asset failures, outages, and affect 
+communications and protection systems. 
+They also disrupt field operations and 
+workforce safety. 
+Projections for temperature rise and heat-
+related impacts are based on  
+the Victorian Climate Projections 2019, 
+which provide data across different 
+scenarios and timeframes. The selection of 
+the specific variable will be dependent on 
+the cause of asset failure being considered. 
+ 
+Severe Storms 
+Severe storms and high winds are key 
+physical climate risks for electricity 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+16 
+ o Potential to risk to both 
+underground and above ground 
+infrastructure from ground movement.  
+o Potential for access to be impeded 
+for repairs. 
+Issuers might consider the climate risks 
+posed through specific interdependencies 
+which might include, for example: 
+• Availability of 
+telecommunications for control 
+systems and operational / field 
+staff communications when 
+dealing with extreme weather 
+events, where the 
+telecommunications rely on third 
+party providers and 
+infrastructure. 
+• Flood risk and resilience will 
+likely have interdependencies 
+with local and national agencies, 
+for example related to local flood 
+defences, coastal flood risk 
+management, shoreline 
+management plans etc. 
+Optional guidance for carrying out risk 
+assessments: 
+• Users should apply climate 
+scenarios based on 
+representative concentration 
+pathway (RCP) 4.5 and 8.5 or 
+similar / equivalent to ensure 
+consideration for worst case 
+scenario. 
+• A broad range of models can be 
+used to generate climate 
+scenarios. 
+• Time horizons for assessing 
+climate risk in agriculture can be 
+based on annual seasonal 
+forecasts and every ten years for 
+the lifetime of the assets and 
+projects. Where accurate 
+assessments of climate 
+variability for specific locations 
+are not possible, use worst-case 
+scenarios. 
+• Risks can be characterized by 
+the associated annual probability 
+of failure or annual costs of loss 
+or damage. 
+• For risk assessment, the TCFD 
+The Use of Scenario Analysis in 
+Disclosure of Climate Related 
+networks, with the potential to damage 
+poles, lines, and critical infrastructure. 
+Storms can also generate debris including 
+falling trees that may damage exposed 
+assets or place excessive structural loads 
+on network components, leading to outages 
+and increasing the risk to public safety or 
+bushfires. 
+To assess these risks, historical baseline 
+wind data has been sourced from the 
+Electricity Sector Climate Information (ESCI) 
+Project, acknowledging the limited 
+availability of downscaled wind projections 
+in Victoria’s current datasets. This includes 
+coarse-scale historic data relevant to asset 
+exposure. For future conditions, extreme 
+wind data from CLIM systems have been 
+used for the 2030 and 2070 timeframes to 
+better understand the potential impact on 
+network resilience. 
+ 
+Optional guidance for carrying out risk 
+assessments 
+VPN’s Network Resilience Plan and 
+AECOM’s Climate Change Study for 
+Victorian Electricity Distribution Businesses 
+- Phase 1 has been produced in alignment 
+with the TCFD Framework: 
+ • Climate scenarios of RCP 4.5 and RCP 8.5 
+were applied.  
+• Projections were modelled for the years 
+2050 and 2070. 
+As climate forecast data improves, VPN 
+plans to conduct further physical climate-
+related risk assessments using scenario 
+analysis. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+17 
+Risks and Opportunities is 
+recommended. 
+Section 3: The measures that have or will be taken to address those risks, mitigate them to a level such that the 
+infrastructure is suitable to climate change conditions over its operational life. 
+3.1 The following are examples of risk 
+management activities that bond issuers 
+might consider, or that might be adopted 
+as part of regulations (e.g. codes and 
+standards). This list is not exhaustive and 
+bond issuers should fully assess the 
+mitigation measures that are relevant to 
+the climate risks and impacts identified in 
+the risk assessment. 
+ 
+Temperature: 
+ - Design standards that maintain 
+equipment rating over its lifetime 
+performance in the face of all potential 
+ranges of temperature rise 
+ - Manage vegetation under power 
+lines to ensure adequate clearance is 
+maintained 
+ - Assess changing demand profile 
+(milder winters, increased summer 
+cooling) over equipment lifetime 
+Rainfall:  
+- Design for resilience to pluvial 
+flooding 
+ - Assessment of site drainage 
+requirements - Impact of restricted 
+access to sites / lines due to flooding 
+Increased lightning: 
+ - Design of electrical equipment to 
+withstand lightning impulses, 
+including shielding and surge 
+suppression devices 
+ - Redundancy 
+Increased winds / gales: 
+ - Design to withstand extreme winds 
+ - Cut vegetation regularly to safe 
+distance to reduce risk from up-rooting 
+ - Invest in storm and hurricane 
+forecasting tools 
+ - Consider placing cables underground 
+ - Redundancy 
+Increased snow, sleet, ice, freezing fog: 
+ - Design equipment for ice loading  
+- Suitable vehicles for access to sites 
+in heavy snow / icy conditions 
+Increased flooding: 
+ - Flood risk assessment and planning.  
+- Site ground installations outside of 
+potentially affected zones 
+VPN provided the following 
+proof of documents: 
+i. Network Resilience 
+Plan 
+VPN’s Network Resilience Plan details its 
+approach to identifying and managing 
+climate-related physical risks, including 
+measures for preparedness, mitigation, and 
+adaptation. The plan focuses on addressing 
+the impacts of extreme weather events, 
+particularly flooding, bushfires, and severe 
+windstorms. It also highlights community 
+resilience programmes, which serve as 
+broader risk reduction efforts not tied to any 
+single climate hazard. 
+ 
+Bushfires 
+VPN has established measures to prevent 
+bushfires originating from its assets; 
+however, with the increasing threat of fires 
+from external sources, the focus is now 
+expanding to enhance the resilience of the 
+network itself. 
+To support this, VPN is implementing a 
+range of targeted, cost-effective actions: 
+• Replacing wooden poles in high fire-risk 
+areas with non-combustible 
+alternatives at end-of-life. 
+• Treating existing wooden poles with 
+fire-retardant products to extend 
+protection. 
+• Using catastrophic bushfire mapping to 
+prioritise resilience upgrades like 
+undergrounding or covering conductors 
+in the highest risk areas. 
+These measures aim to ensure that VPN’s 
+network can continue to operate safely and 
+reliably as bushfire risks grow under future 
+climate conditions. 
+ 
+Flooding 
+While flood behaviour is becoming more 
+unpredictable due to climate change, clearly 
+defined flood plains enable targeted 
+preparation. VPN’s flood resilience strategy 
+focuses on assessing asset vulnerabilities 
+and implementing site-specific remedial 
+actions rather than broad, high-cost 
+interventions. 
+Key measures include: 
+• Integrating flood risk overlays into GIS 
+systems to raise awareness of the 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+18 
+ - Ensure flood defence systems and 
+coastal management plans are 
+adequate  
+- Consideration of site access during 
+flooding events 
+Increased coastal / river erosion: 
+- Shoreline management plans / 
+coastal erosion assessment 
+Wildfires: 
+ - Management of vegetation around 
+electricity infrastructure to ensure 
+adequate clearance 
+Landslides / ground movement: 
+ - The potential for ground movement 
+and landslides should be taken into 
+account when assessing sites for 
+installing grid infrastructure. 
+General risk mitigation measures:  
+- Business continuity plans 
+ - System restoration plans 
+ - Black start 
+ - Islanded operation / microgrids 
+ - System security standards 
+future asset sites and ensure design 
+standards specifically include checks 
+for flood plans.   
+• Upgrading existing zone substations 
+exposed to current 1-in-100-year flood 
+risks. 
+• Addressing future flood risks 
+opportunistically during major site 
+upgrades. 
+• Reviewing HV and sub-transmission 
+line crossings in flood-prone areas to 
+ensure emergency access and safety 
+protocols are in place. 
+• Improving flood modelling to keep 
+historical benchmarks relevant under 
+future climate scenarios. 
+Given the cost implications, relocating or 
+undergrounding major assets are not 
+considered viable based solely on future 
+projections. Instead, VPN’s approach 
+focuses on practical, risk-based mitigation 
+to ensure flood resilience over the asset 
+lifecycle. 
+ 
+Heatwaves 
+Most of VPN’s network assets are designed 
+to withstand ambient temperatures up to 
+40°C. However, with climate projections 
+indicating an increase in the number of days 
+exceeding this threshold, VPN is taking 
+proactive, cost-effective steps to adapt 
+infrastructure and operations without 
+premature asset replacement. 
+Key measures include: 
+• Reviewing and updating equipment 
+ratings for thermally sensitive assets 
+and adjusting operational limits where 
+needed. 
+• Revising equipment procurement 
+standards to ensure new equipment is 
+suited to higher temperatures. 
+• Enhancing zone substation designs to 
+better manage internal temperatures 
+through, for example, improved 
+ventilation, insulation, and energy-
+efficient solutions. 
+• Seasonal readiness planning ahead of 
+summer, including maintenance 
+completion, inventory checks, and 
+updates to contingency and resourcing 
+plans. 
+• Installing temperature monitoring on 
+select critical assets to track 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+19 
+performance during extreme heat 
+events. 
+• Improving climate modelling to improve 
+forecasting and better understand 
+operational impacts and 
+consequences. 
+Full-scale asset replacement based on 
+future heat scenarios is not considered cost 
+effective; instead, VPN’s focus is on 
+practical upgrades and preparedness to 
+maintain reliability during increasingly 
+frequent and intense heatwaves. 
+ 
+Severe Storms 
+Compared to hazards like bushfires and 
+floods, windstorm projections are less 
+precise, making it challenging to identify 
+specific high-risk areas in advance. As a 
+result, VPN’s approach to storm resilience 
+focuses on strengthening the network over 
+time, using improved design standards and 
+data-driven maintenance. 
+Key actions include: 
+• Updating design standards for new and 
+existing overhead lines (AS7000:2016) 
+to reduce HV line clashing during high 
+winds. 
+• Using Light Detection and Ranging 
+(LiDAR) assessments to identify and 
+address at-risk areas, with targeted 
+interventions like installing HV 
+spreaders to maintain safe clearances. 
+• Continuing LiDAR monitoring to ensure 
+ongoing compliance and vegetation 
+management. 
+• Investing in better climate modelling to 
+understand the future impacts of 
+windstorms on the network. 
+Given current uncertainties and high costs, 
+it is not considered cost-effective to 
+proactively replace underground assets, or 
+to clear vegetation well beyond current 
+regulatory requirements based solely on 
+future wind projections. 
+VPN’s strategy reflects a pragmatic and 
+adaptive approach, building resilience 
+gradually while responding to evolving 
+climate data and storm patterns. 
+3.2 Risk reduction measures must be tolerant to a range of climate hazards and not lock-in conditions that could result 
+in maladaptation. 
+Section 4: The infrastructure enhances the climate resilience of the defined system it operates within, as indicated by 
+the boundaries of and critical interdependencies with that system as identified in item 1 in this checklist. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+20 
+4.1 Issuers are to assess the climate 
+resilience benefits of system focused 
+assets and activities and demonstrate 
+they are ‘fit for purpose’, in the sense that 
+they enhance climate resilience at a 
+systemic level, with the flexibility to take 
+into account the uncertainty around future 
+climate change impacts.  
+ 
+The assessment is conducted according 
+to the principle of best available evidence 
+during the investment period taking into 
+account the infrastructure’s boundaries 
+and critical interdependencies as defined 
+in Criteria 1. ‘Fit for purpose’ is defined as 
+measures that mitigate the following 
+effects:  
+(1) the effects of supply disruption or 
+interruption on dependent electricity users 
+or populations; 
+ (2) exacerbation of wildfires;  
+(3) relationships of the asset/project to 
+nearby flood zones;  
+(4) reduction in pollinating insects and 
+birds;  
+(5) reduction in biodiversity or High 
+Conservation Value18 habitat;  
+(6) damage or reduction in value of 
+neighbouring property due to boundary 
+structures at risk of falling during storm 
+events;  
+(7) fire and other practices that affect air 
+quality; (8) appropriation of land or 
+economic assets from nearby vulnerable 
+groups19 
+VPN provided the following 
+proof of document: 
+i. Network Resilience 
+Plan 
+VPN has established a robust set of plans, 
+programmes, and management systems 
+aimed at maintaining network reliability and 
+strengthening the resilience of 
+infrastructure, the workforce, and 
+communities. The climate-related risk 
+mitigation actions are specifically designed 
+to address the growing threats from 
+extreme weather events. 
+ 
+VPN’s Network Resilience Plan recognises 
+that each climate variable presents distinct 
+risks to network assets and customer 
+reliability. However, there are common 
+resilience-building strategies that can be 
+applied across all hazards. The plan 
+outlines a proactive approach to managing 
+the long-term impacts of climate change by 
+embedding climate considerations into 
+asset design, planning, and investment 
+decisions. Given that network infrastructure 
+typically operates for decades, ensuring it 
+remains fit for purpose under future climate 
+conditions is critical to long-term system 
+performance and community reliability. 
+ 
+To support this, VPN is implementing a 
+suite of system-wide measures designed to 
+enhance resilience regardless of the 
+specific climate threat: 
+ 
+• Integrating climate change into all 
+business decision-making processes 
+and business cases, ensuring future 
+conditions are factored into asset 
+planning and approval. 
+• Revising specifications for new 
+equipment and construction standards 
+to account for increased exposure to 
+extreme heat, wind, and fire, including 
+the use of higher-rated assets that 
+exceed historical design assumptions. 
+• Applying the “Build Back Better” 
+principle by replacing end-of-life assets 
+with non-like-for-like, climate-resilient 
+alternatives that improve overall 
+system robustness. 
+• Reviewing and maintaining strategic 
+spare parts and mobile equipment, 
+ 
+18 High Conservation Value (HCV) habitat criteria in accordance with https://www.hcvnetwork.org.  
+19 According to IFC Performance Standards. 
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+21 
+such as generators, to enable a faster 
+and more flexible emergency response. 
+• Updating contingency and resourcing 
+plans, ensuring resource deployment 
+strategies are optimized for extreme 
+weather scenarios and evolving climate 
+risks. 
+• Ensuring operational continuity through 
+resilient Control Centre arrangements, 
+including uninterruptible power supply 
+(UPS) systems, backup generators, and 
+alternate control rooms to support 
+network operations if primary sites are 
+compromised. 
+Section 5: The issuance is required to demonstrate that there will be ongoing monitoring and evaluation of the relevance 
+of the risks and resilience measures and related adjustments to those measures will be taken as needed. 
+5.1: Indicators for risks identified under 
+item 2 in this checklist are provided.  VPN closely monitors a range of 
+performance indicators including those 
+linked to climate risks through a continuous 
+improvement process. Daily event reporting 
+helps identify causes and impacts, while 
+significant issues are escalated to 
+management monthly or as needed. 
+Performance is tracked both broadly, using 
+network-wide metrics like System Average 
+Interruption Frequency Index (SAIDI), 
+System Average Interruption Frequency 
+Index (SAIFI), and Momentary Average 
+Interruption Frequency Index (MAIFI), and in 
+detail, through fault cause and asset type 
+data. Historic trends are used to determine 
+whether the existing programmes provide 
+sufficient controls to meet VPN’s current 
+business objectives and whether they will 
+continue to meet the company’s objectives 
+in the future. 
+In addition to overall network performance, 
+VPN also considers individual customer 
+experiences, with risks reflected through the 
+Guaranteed Service Level (GSL) incentive 
+scheme, which compensates customers for 
+poor supply reliability. 
+ 
+5.2: Indicators for risk mitigation 
+measures identified under item 3 in this 
+checklist are provided. 
+ 
+5.3: Indicators for “fit for purpose” 
+resilience benefit measures identified 
+under item 4 in this checklist are provided. 
+VPN provided the following 
+proof of document: 
+i. Value of Network 
+Resilience20 
+ 
+VPN operates under national and state 
+legislation, with resilience benefits guided 
+by the Australian Energy Regulator (AER). In 
+2024, the AER released a Value of Network 
+Resilience document21 focused on 
+prolonged outages beyond 12 hours 
+ 
+20 VPN, “Value of Network Resilience”, at: https://www.aer.gov.au/industry/registers/resources/reviews/value-network-resilience-2024.  
+21 VPN, “Network Resilience Plan”, at: https://www.aer.gov.au/system/files/2025-02/PAL%20ATT%205.02%20-
+%20Network%20resilience%20plan%20-%20Jan2025.pdf.  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+22 
+duration for economic assessment of 
+resilience investment. VPN have adopted 
+this regulated resilience benefit stream for 
+its assessments 
+5.4: Issuers have a viable plan to annually 
+monitor (a) climate risks linked to the 
+infrastructure, (b) climate resilience 
+performance, (c) appropriateness of 
+climate resilience measure(s) and to 
+adjust as necessary to address evolving 
+climate risks. 
+ 
+VPN annually reports on the average 
+number of minutes customers are without 
+power due to planned and unplanned 
+outages during the calendar year. VPN is 
+working to minimise potential electricity 
+disconnections due to climate risks and 
+improve the resilience of its distribution 
+network. 
+Network performance is also presented to 
+the Board quarterly for executive oversight. 
+5.5: Where electricity supply has been 
+interrupted, the number of customer 
+interruptions and customer minutes lost 
+(i.e. aggregate duration of supply 
+interruptions) should be measured and 
+reported, together with the cause of the 
+interruption. Any actions taken to reduce 
+the risk of further impacts should also be 
+recorded. 
+ 
+VPN’s Advanced Distribution Management 
+System (ADMS) captures detailed data for 
+every customer interruption, including the 
+number of customers affected, the duration 
+of the outage, and the root cause. 
+The causes and impacts of these events are 
+reviewed during monthly governance 
+meetings, where actions are assigned for 
+further investigation or, where feasible, 
+immediate resolution. Reliability events are 
+reported daily, providing visibility into their 
+causes and business impact, while 
+significant incidents are escalated to 
+management on a monthly or as-needed 
+basis. 
+ 
+  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+23 
+About Morningstar Sustainalytics 
+Morningstar Sustainalytics is a leading ESG research, ratings and data firm that supports investors 
+around the world with the development and implementation of responsible investment strategies. 
+For more than 30 years, the firm has been at the forefront of  developing high-quality, innovative 
+solutions to meet the evolving needs of global investors. Today, Sustainalytics works with 
+hundreds of the world’s leading asset managers and pension funds, which incorporate ESG and 
+corporate governance information and  assessments into their investment processes. 
+Sustainalytics also works with hundreds of companies and their financial intermediaries to help 
+them consider sustainability in policies, practices and capital projects. For more information, visit 
+www.sustainalytics.com. 
+  
+Pre-Issuance Verification Letter  
+Victoria Power Networks  
+  
+ 
+ 
+  
+ 
+ 
+24 
+Disclaimer 
+Copyright ©2025 Sustainalytics, a Morningstar company. All rights reserved. 
+The information, methodologies, data and opinions contained or reflected herein (the “Information”) 
+are proprietary to Sustainalytics and/or its third-party content providers and may be made available 
+to third parties only in the form and format disclosed by Sustainalytics. The Information is not 
+directed to, nor intended for distribution to or use by India -based clients and/or users, and the 
+distribution of Information to India resident individuals and entities is not permitted. 
+The Information is provided for informational purposes only and (1) does not constitute an 
+endorsement of any product, project, investment strategy or consideration of any particular 
+environmental, social or governance related issues as part of any investment strategy; (2) does not 
+constitute investment advice nor recommends any particular investment, nor represents an expert 
+opinion or negative assurance letter; (3) is not part of any offering and does not constitute an offer 
+or indication to buy or sell s ecurities, to select a project nor enter into any kind of business 
+transaction; (4) is not an assessment of the  economic performance, financial obligations nor 
+creditworthiness of any entity; (5) is not a substitute for professional advice; (6) has not be en 
+submitted to, nor received approval from, any relevant regulatory or governmental authority. Past 
+performance is no guarantee of future results. 
+The Information is based on information made available by third parties, is subject to continuous 
+change and no warranty is made as to its completeness, accuracy, currency, nor the fitness of the 
+Information for a particular purpose. The Information is provided “as is” and reflects Sustainalytics’ 
+opinion solely at the date of its publication. 
+Neither Sustainalytics nor its third -party content providers accept any liability in connection with 
+the use of the Information or for actions of third parties with respect to the Information, in any 
+manner whatsoever, to the extent permitted by applicable law. 
+Any reference to third party content providers’ names is solely to acknowledge their ownership of 
+information, methodologies, data and opinions contained or reflected within the Information and 
+does not constitute a sponsorship or endorsement of the Inform ation by such third-party content 
+provider. For more information regarding third -party content providers visit 
+http://www.sustainalytics.com/legal-disclaimers  
+Sustainalytics may receive compensation for its ratings, opinions and other services, from, among 
+others, issuers, insurers, guarantors and/or underwriters of debt securities, or investors, via 
+different business units. Sustainalytics maintains measures designed to safeguard the objectivity 
+and independence of its opinions. For more information visit Governance Documents or contact 
+compliance@sustainalytics.com.  
+This deliverable, in particular the images, text and graphics contained therein, and the layout and 
+company logo of Sustainalytics are protected under copyright and trademark law. Any use thereof 
+shall require express prior written consent. Use shall be deemed to refer in particular to the copying 
+or duplication of the opinion wholly or in part, the distribution of the opinion, either free of charge 
+or against payment, or the exploitation of this opinion in any other conceivable manner. 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for 
+their implementation and monitoring.

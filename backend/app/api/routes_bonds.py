@@ -8,7 +8,7 @@ router = APIRouter()
 
 
 @router.get("/bonds", response_model=List[Dict[str, Any]])
-def get_bonds(limit: int = 20):
+def get_bonds(limit: int = 100):
     return list_bonds(limit=limit)
 
 
@@ -22,12 +22,11 @@ def get_bond_detail(bond_id: str):
     disclosure_text = str(bond.get("use_of_proceeds") or "")
     claimed = bond.get("claimed_impact_co2_tons")
 
+    # score_disclosure currently accepts: text, claimed_impact_co2_tons, mode
+    # Pass only supported args to avoid unexpected keyword errors.
     scores = score_disclosure(
-        disclosure_text,
+        text=disclosure_text,
         claimed_impact_co2_tons=claimed,
-        external_review=bond.get("external_review"),
-        reporting_practices=bond.get("reporting_practices"),
-        certification=bond.get("certification"),
     )
 
 

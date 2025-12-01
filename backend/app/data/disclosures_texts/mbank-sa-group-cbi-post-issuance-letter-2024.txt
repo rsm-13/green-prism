@@ -1,0 +1,414 @@
+mBank S.A. Group 
+POST-ISSUANCE VERIFICATION LETTER  
+LOW CARBON BUILDINGS, WIND ENERGY AND SOLAR ENERGY CRITERIA OF THE CLIMATE 
+BONDS STANDARD 
+Type of engagement: Assurance Engagement 
+Period engagement was carried out: August 2024 
+Approved verifier: Sustainalytics 
+Contact address for engagement: De Entrée 35-37 – 1101 BH, P.O. Box 22703 – 1100 DE, 
+Amsterdam, The Netherlands 
+Post-Issuance Engagement Leader: Siga Wu, siga.wu@morningstar.com, (+31) 205 602 936 
+Post-Issuance Engagement Support: Astrid Bruchou, astrid.bruchou@morningstar.com  
+ 
+Scope and Objectives 
+In September 2023, mBank S.A. Group (“mBank”) issued green bond series 121 (the “Green Bond”) 
+under the mBank S.A. Group Green Bond Framework2 to finance and refinance residential buildings 
+and renewable energy projects aimed at improving the sustainability performance of its real estate 
+and renewable energy portfolios in Poland. In August 2024, mBank engaged Sustainalytics to review 
+the projects financed through the  Green Bond  between September 2023 and July 2024 (the 
+“Nominated Projects”), and provide an assessment as to whether the Nominated Projects meet the 
+Post-Issuance Requirements of the Climate Bonds Standard Version 3.0.3 
+The Nominated Projects include:  
+• Low Carbon Buildings 
+o  Single-family houses 
+o  Multi-family houses 
+• Renewable Energy  
+o Solar photovoltaics 
+o Wind farms 
+Schedule 1 provides details of the Nominated Projects and disbursement of proceeds. 
+Post-Issuance Evaluation Criteria 
+Post-issuance Requirements of the Climate Bonds Standard Version 3.0: 
+• Use of Proceeds 
+• Evaluation and Selection of Projects , including conformance with the relevant Sector 
+Criteria 
+- Low Carbon Buildings 
+ 
+1 mBank S.A. Group green bond series 12 (ISIN XS2680046021), at: https://www.mbank.pl/en/investor-relations/ratings-debt-
+instruments/green-bonds/ 
+2 mBank S.A. Group Green Bond Framework (February 2022), at: https://www.mbank.pl/en/investor-relations/ratings-debt-instruments/green-
+bonds/ 
+3 Climate Bonds Initiative, Climate Bonds Standard Version 3.0, at: https://www.climatebonds.net/files/files/climate-bonds-standard-v3-
+20191210.pdf 
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+2 
+▪ Residential Buildings4 
+- Renewable Energy  
+▪ Wind Energy5 
+▪ Solar Energy (Solar Photovoltaic)6 
+• Management of Proceeds 
+• Reporting 
+Issuing Entity’s Responsibility  
+mBank is responsible for providing accurate information and documentation relating to the details 
+of projects, including description, total development cost of each project and disbursed amounts. 
+Independence and Quality Control  
+Sustainalytics, a leading provider of ESG and corporate governance research and ratings to investors, 
+conducted the verification of mBank’s Green Bond to provide an independent opinion on its  
+conformance with the Post-Issuance Requirements of the Climate Bonds Standard. 
+Sustainalytics has relied on the information and the facts presented by mBank with respect to the 
+Nominated Projects. Sustainalytics is not responsible nor shall be held liable for any inaccuracies in 
+the opinions, findings or conclusions herein due to incorrect or incomplete data provided by mBank.  
+Sustainalytics makes all efforts to ensure the highest quality and rigor during its assessment process 
+and enlisted its Sustainability Bonds Review Committee to provide oversight over this assessment. 
+Verifier’s Responsibility 
+Sustainalytics conducted the verification in accordance with the Climate Bonds Standard Version 3.0 
+and with International Standard on Assurance Engagements 3000 (ISAE 3000). 
+The work undertaken as part of this engagement included conversations with relevant mBank 
+employees and review of relevant documentation to assess conformance of mBank’s Green Bond 
+with the Post-Issuance Requirements of the Climate Bonds Standard Version 3.0. 
+Exceptions 
+No exceptions were identified. All projects meet the Post -Issuance Requirements of the Climate 
+Bonds Standard Version 3.0 and the Low Carbon Buildings, Wind Energy and Solar Energy criteria.  
+Conclusion 
+Based on the limited assurance procedures conducted and evidence obtained, nothing has come to 
+Sustainalytics’ attention that causes us to believe that, in all material respects, the allocation of EUR 
+750 million net proceeds from mBank’s Green Bond is not in conformance with the Post -Issuance 
+Requirements of the Climate Bonds Standard 3.0.  
+  
+ 
+4 Climate Bonds Standard, Low-Carbon Buildings Criteria under the Climate Standard, at: 
+https://www.climatebonds.net/files/files/Residential%20Proxy%20Poland%281%29.pdf 
+5 Climate Bonds Standard, Wind Energy Criteria under the Climate Standard, at: 
+https://www.climatebonds.net/files/files/standards/Wind/Sector%20Criteria%20-%20Wind%20Energy%20%28April%202023%29.pdf  
+6 Climate Bonds Standard, Solar Energy Criteria under the Climate Standard. See more, at: 
+https://www.climatebonds.net/files/files/standards/Solar/Sector%20Criteria%20-%20Solar%20%28April%202023%29.pdf  
+ 
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+3 
+Schedule 1: Overview of Nominated Projects 
+In September 2023, mBank raised EUR 750 million under the Green Bond issuance. Of this, 75% (EUR 
+562.5 million) was allocated to refinancing existing projects and 25% (EUR 187.5 million) to financing 
+new projects. 
+ 
+Table 1. Details of Nominated Projects and allocation of proceeds 
+ 
+Project Category Project Type Number of 
+Loans 
+Committed Amount  
+(PLN million)7 
+Committed Amount  
+(EUR million)8 
+Residential 
+Buildings 
+Multi-family 
+house 2,784 1,273.83 295.20  
+Single-family 
+house 2,523 1,292.00 299.73 
+Total  5,307 2,565.83  594.93  
+Renewable 
+Energy  
+Wind Farm 7 345.11  80.02  
+Solar 
+Photovoltaic 13 474.75  110.07  
+ Total 20 819.86 190.09 
+Total Amount Allocated (EUR million) 785.029 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+7 Polish zloty (PLN) is the official currency of Poland. 
+8 EUR/PLN exchange rate of 4.3130 as of 28 June 2024, is used for calculating the committed amount.  
+9 Sustainalytics notes that the committed amount (EUR 785.02 million) exceeds the amount raised under the Green Bond (EUR 750 million). 
+mBank has communicated to Sustainalytics that the excess allocation amount (EUR 35.02 million) is from off-balance sheet assets that is yet 
+to be disbursed as of June 28, 2024, and is expected to be covered by loan repayments. 
+ 
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+4 
+Schedule 2A: Post-Issuance Requirements of the 
+Climate Bonds Standard 
+Use of 
+Proceeds 
+5.1 The Net Proceeds of the Bond shall be allocated to the Nominated Projects & Assets. 
+5.2 All nominated Projects & Assets shall meet the documented objectives of the Bond 
+as stated under Clause 6.1.1 and shall be in conformance with the requirements of 
+Part C of the Climate Bonds Standard. 
+5.3 The Issuer shall allocate the Net Proceeds to Nominated Projects & Assets within 24 
+months of issuance of the Bond, or the Issuer shall disclose in post -issuance 
+reporting as per clause 8.3 the estimated timeline for allocation of net proceeds to 
+Nominated Projects & Assets. Net proceeds may be reallocated to other Nominated 
+Projects & Assets at any time while the Bond remains outstanding. 
+5.4 Nominated Projects & Assets shall not be nominated to other Certified Climate 
+Bonds, Certified Climate Loans, Certified Climate Debt Instruments, green bonds, 
+green loans or other labelled instruments (such as social bonds or SDG bonds) 
+unless it is demonstrated by the Issuer that: 
+5.4.1. distinct portions of the Nominated Projects & Assets are being funded by 
+different Certified Climate Bonds, Certified Climate Loans, Certified Climate Debt 
+Instruments, green bonds, green loans or other labelled instruments or; 
+5.4.2. the existing Certified Climate Bond, Certified Climate Loan or Certified Climate 
+Debt Instrument is being refinanced via another Certified Climate Bond, Certified 
+Climate Loan or Certified Climate Debt Instrument. 
+5.5 Where a proportion of the Net Proceeds of the Bond are used for refinancing, the 
+Issuer shall track the share of the Net Proceeds used for financing and refinancing 
+and identify which Nominated Projects & Assets may be refinanced. This may also 
+include the expected look-back period for refinanced Nominated Projects & Assets. 
+5.6 The Net Proceeds of the Bond shall be tracked by the Issuer following a formal 
+internal process which is documented in accordance with Clause 3.1. 
+5.7 The Net Proceeds of the Bond shall be no greater than the Issuer’s total investment 
+exposure or debt obligation to the Nominated Projects & Assets, or the relevant 
+proportion of the total Market Value of the Nominated Projects & Assets which are 
+owned or financed by the Issuer. 
+5.8 Additional Nominated Project & Assets may be added to, or used to substitute or 
+replenish, the portfolio of Nominated Project & Assets as long as the additional 
+Nominated Project & Assets are eligible under Part C of the Climate Bonds Standard 
+and are consistent with the Bond’s objective as set out in Clause 6.1.1. 
+5.8.1. Where additional Nominated Projects & Assets are covered by Sector Eligibility 
+Criteria which were not included in the scope of either the Pre -Issuance Verification 
+or the Post-Issuance Verification engagements, the Issuer shall engage a Verifier to 
+provide a Verifier’s Report covering at least the conformance of the additional 
+Nominated Projects & Assets with the relevant Sector Eligibility Criteria under Part C 
+of the Climate Bonds Standard. 
+Process for 
+Evaluation 
+and Selection 
+of Projects & 
+Assets 
+6.1 The Issuer shall document and maintain a decision-making process which it uses to 
+determine the continuing eligibility of the Nominated Projects & Assets. This 
+includes, without limitation: 
+6.1.1. A statement on the climate-related objectives of the Bond; 
+6.1.2. How the climate -related objectives of the Bond are positioned within. the 
+context of the Issuer’s overarching objectives, strategy, policy and/or processes 
+relating to environmental sustainability; 
+6.1.3. The Issuer’s rationale for issuing the Bond; 
+6.1.4. A process to determine whether the Nominated Projects & Assets meet the 
+eligibility requirements specified in Part C of the Climate Bonds Standard; 
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+5 
+6.1.5. Other information provided by the Issuer as described in Clause 2.2 
+Management 
+of Proceeds 
+7.1 The Net Proceeds of the Bond shall be credited to a sub account, moved to a sub - 
+portfolio or otherwise identified by the Issuer in an appropriate manner, and 
+documented. 
+7.2 The Issuer of the Bond shall maintain the earmarking process to manage and 
+account for allocation of Net Proceeds to the Nominated Projects & Assets as 
+described in Clause 3.1.3 
+7.3 While the Bond remains outstanding, the balance of the tracked Net Proceeds shall 
+be reduced by amounts allocated to Nominated Projects & Assets. Pending such 
+allocations to Nominated Projects & Assets, the balance of unallocated Net 
+Proceeds shall be: 
+7.3.1. Held in temporary investment instruments that are cash, or cash equivalent 
+instruments, within a Treasury function; or 
+7.3.2. Held in temporary investment instruments that do not include greenhouse gas 
+intensive projects which are inconsistent with the delivery of a low carbon and 
+climate resilient economy; or 
+7.3.3. Applied to temporarily reduce indebtedness of a revolving nature before being 
+redrawn for investments or disbursements to Nominated Projects & Assets. 
+Reporting – 
+Post-issuance  
+8.1 The Issuer shall prepare an Update Report at least annually while the Bond remains 
+outstanding. 
+8.1.2. The Update Report shall be made available to holders of the Bond and to the 
+Climate Bonds Standard Board. 
+8.1.3. The Issuer should provide an Update Report to holders of the Bond on a timely 
+basis in case of material developments. 
+  
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+6 
+Schedule 2B: Conformance to the Post-Issuance 
+Requirements of the Climate Bonds Standard 
+Evaluation 
+Criteria 
+Factual Findings Error or 
+Exceptions 
+Identified 
+Use of 
+Proceeds  
+5.1 A list of Nominated Projects is provided in Schedule 1. 
+ 
+5.2 The Nominated Project  meets the documented objectives of the 
+finance and are in conformance with the requirements of Part C of 
+the Climate Bonds Standard. 
+5.3 The Net Proceeds have been allocated to Nominated Projects within 
+24 months of issuance of the bond.  
+5.4 mBank confirms that  the Nominated Projects have not been 
+nominated to other Certified Climate Bonds, Certified Climate 
+Loans, Certified Climate Debt Instruments, green bonds, green loans 
+or other labelled instruments (such as social bonds or SDG bonds). 
+5.5 mBank confirms that it has tracked the share of the Net Proceeds 
+used for financing and refinancing. 
+5.6 mBank’s Green Bond Framework documents that the Net Proceeds 
+are tracked following a formal internal process.  
+5.7 mBank has confirmed that  the Net Proceeds raised are no greater 
+than the total investment exposure or debt obligation to the 
+Nominated Projects & Assets which are owned or financed by the 
+Issuer. 
+5.8 N/A  
+5.9 N/A  
+None 
+Process for 
+Evaluation and 
+Selection of 
+Projects & 
+Assets  
+6.1 mBank’s Green Bond Framework documents a decision -making 
+process which it uses to determine the continuing eligibility of the 
+Nominated Projects. This includes, without limitation: 
+6.1.1 A statement on the climate -related objectives of the green 
+bond; 
+6.1.2 How the climate -related objectives of the green bond  are 
+positioned within the context of the mBank’s overarching 
+objectives, strategy, policy and/or processes relating to 
+environmental sustainability; 
+6.1.3 mBank’s rationale for issuing the green bond; 
+6.1.4 A process to determine whether the Nominated Project meet 
+the eligibility requirements specified in the Climate Bonds 
+Standard; 
+6.1.5 Other information provided by mBank as described in Clause  
+2.2 
+None 
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+7 
+Management 
+of Proceeds 
+7.1 mBank’s confirmation that the  Net Proceeds of the bond were 
+credited to a sub account, moved to a sub -portfolio or otherwise 
+identified by mBank in an appropriate manner, and documented. 
+7.2 mBank confirmed that it maintained an earmarking process to 
+manage and account for allocation of Net Proceeds to the 
+Nominated Projects  
+7.3 mBank has confirmed that  while the financing remained 
+outstanding, the balance of the tracked Net Proceeds were reduced 
+by amounts allocated to Nominated Projects. Pending allocation, 
+the Net Proceeds were invested in its liquidity portfolio in money 
+market instruments. 
+None 
+Reporting – 
+Post-issuance 
+8.1. mBank is committed to preparing an Update Report at least annually 
+while the financing remains outstanding. 
+8.1.2 The Update Report will be made available to the lenders and to 
+the Climate Bonds Standard Board. 
+8.1.3 mBank will provide an Update Report to the lenders on a timely 
+basis in case of material developments 
+None 
+ 
+  
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+8 
+Disclaimer 
+Copyright ©2024 Sustainalytics, a Morningstar company. All rights reserved. 
+The information, methodologies, data and opinions contained or reflected herein are proprietary of 
+Sustainalytics and/or content providers, and may be made available to third parties only in the form 
+and format disclosed by Sustainalytics. They are not directed to, or intended for distribution to or use 
+by India-based clients or users and their distribution to Indian resident individuals or entities is not 
+permitted. 
+They are provided for informational purposes only and (1) shall not be considered as being a 
+statement, representation, warranty or argument either in favor or against the truthfulness, reliability 
+or completeness of any facts or statements that the issuer has made available to Sustainalytics for 
+the purpose of this deliverable, in light of the circumstances under which such facts or statements 
+have been presented; (2) do not constitute an endorsement of any product , project, investment 
+strategy or consideration of any particular environmental, social or governance related issues as part 
+of any investment strategy; (3) do not constitute investment advice, financial advice, or a prospectus, 
+nor represent an “expert opinion” or “negative assurance letter” as these terms are commonly 
+understood or defined by any applicable legislation; (4) are not part of any offering and do not 
+constitute an offer or indication to buy or sell securities, to select a project or make any kind of 
+business transactions; (5) do not  represent an assessment of the issuer’s economic performance, 
+financial obligations nor of its creditworthiness; (6) are not a substitute for professional advice; (7) 
+past performance is no guarantee of future results; (8) have not been submitted to, nor received 
+approval from, any relevant regulatory body; (9) have not and cannot be incorporated into any offering 
+disclosure, unless otherwise agreed in writing. 
+These are based on information made available by the issuer and therefore are not warranted as to 
+their merchantability, completeness, accuracy, up -to-datedness or fitness for a particular purpose 
+Sustainalytics has not independently verified any such info rmation or data. The deliverables are 
+provided “as is” and reflect Sustainalytics’ opinion at the date of their elaboration and publication. 
+Sustainalytics does not undertake any obligation to update or revise any of the statements in the 
+deliverable to reflect events, circumstances, changes in expectations which may occur after the date 
+of the opinion or any statements included in the opinion. Neither Sustainalytics/Morningstar nor their 
+content providers accept any liability from the use of the informatio n, data or opinions contained 
+herein or for actions of third parties in respect to this information, in any manner whatsoever, except 
+where explicitly required by law. Sustainalytics does not assume any responsibility shall the bond 
+default. Any reference to content providers’ names is for appropriate acknowledgement of their 
+ownership and does not constitute a sponsorship or endorsement by such owner. A list of our 
+content providers and their respective terms of use is available on our website. For more information, 
+visit http://www.sustainalytics.com/legal-disclaimers. 
+Sustainalytics may receive compensation for its ratings, opinions and other deliverables, from, 
+among others, issuers, insurers, guarantors and/or underwriters of debt securities, or investors, via 
+different business units. Sustainalytics believes it has p ut in place appropriate measures designed 
+to safeguard the objectivity and independence of its opinions. For more information, visit Governance 
+Documents or contact compliance@sustainalytics.com.  
+This deliverable, in particular the images, text and graphics contained therein, and the layout and 
+company logo of Sustainalytics are protected under copyright and trademark law. Any use thereof 
+shall require express prior written consent. Use shall be deemed to refer in particular to the copying 
+or duplication of the opinion wholly or in part, the distribution of the opinion, either free of charge or 
+against payment, or the exploitation of this opinion in any other conceivable manner. 
+The issuer is fully responsible for certifying and ensuring compliance with its commitments, for their 
+implementation and monitoring. 
+  
+Post-Issuance Verification Letter  
+mBank S.A. Group  
+  
+ 
+ 
+© Sustainalytics 2024  
+ 
+9 
+About Morningstar Sustainalytics 
+Morningstar Sustainalytics is a leading ESG research, ratings and data firm that supports investors 
+around the world with the development and implementation of responsible investment strategies. 
+For more than 30 years, the firm has been at the forefront of  developing high-quality, innovative 
+solutions to meet the evolving needs of global investors. Today, Sustainalytics works with hundreds 
+of the world’s leading asset managers and pension funds, which incorporate ESG and corporate 
+governance information and  assessments into their investment processes. Sustainalytics also 
+works with hundreds of companies and their financial intermediaries to help them consider 
+sustainability in policies, practices and capital projects. For more information, visit 
+www.sustainalytics.com.

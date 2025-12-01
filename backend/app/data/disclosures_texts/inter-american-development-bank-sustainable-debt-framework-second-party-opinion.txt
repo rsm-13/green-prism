@@ -1,0 +1,1528 @@
+© Sustainalytics 2024 
+ 
+ 
+Second-Party Opinion 
+Inter-American Development Bank 
+Sustainable Debt Framework 
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the Inter-American Development Bank 
+Sustainable Debt Framework is credible, impactful and aligned with the Sustainability 
+Bond Guidelines 2021, Green Bond Principles 2021 and Social Bond Principles 2023. 
+This assessment is based on the following: 
+ USE OF PROCEEDS The eligible categories1 for the use of proceeds 
+are aligned with those recognized by the Green Bond Principles , and 
+Social Bond Principles. Sustainalytics considers that investments in 
+the eligible categorie s will lead to positive environmental or social 
+impacts and advance the UN Sustainable Development Goals, 
+specifically SDGs 2, 3, 4, 6, 7, 8, 10, 11, 13, 15, 16 and 17.  
+  IDB’s treasury division, in 
+collaboration with the Bank’s office of strategic planning and 
+development effectiveness, selects projects in line with the 
+Framework’s eligibility criteria. As part of the project evaluation and 
+selection process, the Bank’s tr easury division consults its internal 
+lending specialists. All activities financed under the Framework will 
+be screened for potential environmental and social risks by IDB’s 
+Environmental and Social Risk Management Unit. Sustainalytics 
+considers the project selection process in line with market practice. 
+ MANAGEMENT OF PROCEEDS IDB will be managing proceeds on a 
+portfolio basis. An amount equal to the net proceeds will be recorded 
+in a separate sub -account and allocated to credible investments . 
+IDB’s Treasury department  will be responsible for management of 
+proceeds. IDB will allocate proceeds fully within 36 months of each 
+issuance. In the case that the selected projects no longer comply with 
+the eligibility criteria in the Framework, IDB will reallocate proceeds 
+to other eligible projects. Pending full allocation, temporary proceeds 
+will be held in cash and cash equivalents, in accordance with IDB’s 
+conservative liquidity investment guidelines. 
+ REPORTING IDB will make an annual allocation and impact report 
+available on IDB Investor website until full allocation of proceeds . 
+Allocation reporting will include the amount of net proceeds allocated 
+per project or category. Sustainalytics considers the allocation and 
+impact reporting commitments as aligned with market practice. 
+ 
+ 
+Evaluation Date December 9, 2024 
+Issuer Location Washington, DC 
+United States  
+ 
+Report Sections 
+ 
+ 
+Introduction ............................................. 2 
+Sustainalytics’ Opinion ........................... 3 
+ 
+ 
+For inquiries, contact the Sustainable 
+Corporate Solutions project team: 
+Manali Vaidya (Toronto) 
+Project Manager 
+manali.vaidya@morningstar.com 
+(+1) 416 861 0403 
+Gizem Celik Bayar (Toronto) 
+Project Support 
+Carlos Vinueza (Toronto) 
+Project Support 
+Lindsay Brent (Toronto) 
+Client Relations 
+susfinance.americas@sustainalytics.com 
+(+1) 646 518 9623 
+ 
+  
+ 
+1 The use of proceeds categories are: i) Energy Efficiency; ii) Renewable Energy; iii) Environmentally Sustainable Management of Living Natural Resources 
+and Land Use; iv) Climate Adaptation and Mitigation; v) Clean Transportation; vi) Sustainable Water and Wastewater Management; vii) Pollution Prevention 
+and Control; viii) Access to Essential Services; ix) Access to Basic Infrastructure; x) Socioeconomic Advancement and Empowerment; xi) Cultural Heritage 
+Preservation; xii) Employment Generation – employment generation and programmes designed to prevent and alleviate unemployment stemming from 
+socioeconomic crises, climate transition projects and other considerations for a just transition ; xiii) Food Security and Sustainable Food Systems; xiv) 
+Security, Justice and Conflict Resolution; and xv) State Modernization.  
+
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+2 
+Introduction 
+The Inter-American Development Bank (“IDB” or the “ Bank”), a member of the Inter-American Development 
+Bank Group, is a multilateral development bank headquartered in Washington, DC, United States. T he Bank 
+aims to contribute to accelerating economic and social development in its 26 borrowing countries in Latin 
+America and the Caribbean. In addition to the 26 borrowing members in Latin America and the Caribbean, IDB 
+has 22 non-borrowing members in Asia, Europe and North America.2  
+IDB has developed the Inter-American Development Bank Sustainable Debt Framework dated December 2024 
+(the “Framework”) under which it intends to issue green, social and sustainability bonds, and use the proceeds 
+to finance and refinance, in whole or in part, existing and future public sector projects expected to lead to 
+positive environmental and social advancements in Latin America and the Caribbean.3  
+The Framework defines eligibility criteria under the following environmental categories: 
+1. Energy Efficiency 
+2. Renewable Energy  
+3. Environmentally Sustainable Management of Living Natural Resources and Land Use 
+4. Climate Adaptation and Mitigation 
+5. Clean Transportation 
+6. Sustainable Water and Wastewater Management 
+7. Pollution Prevention and Control 
+The Framework defines eligibility criteria under the following social categories: 
+8. Access to Essential Services 
+9. Access to Basic Infrastructure 
+10. Socioeconomic Advancement and Empowerment 
+11. Cultural Heritage Preservation 
+12. Employment Generation – employment generation and program mes designed to prevent and 
+alleviate unemployment stemming from socioeconomic crises, climate transition projects and other 
+considerations for a just transition 
+13. Food Security and Sustainable Food Systems 
+14. Security, Justice and Conflict Resolution 
+15. State Modernization  
+ 
+IDB engaged Sustainalytics to review the Framework and provide a Second-Party Opinion on the Framework’s 
+environmental and social credentials and its alignment with the Sustainability Bond Guidelines 2021 (SBG), 
+Green Bond Principles 2021 (GBP) and Social Bond Principles 2023 (SBP)4. The Framework will be published 
+in a separate document.5  
+Scope of work and limitations of Sustainalytics’ Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent6 opinion on the alignment of the 
+reviewed Framework with current market standards and the extent to which the eligible project categories are 
+credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with th e Sustainability Bond Guidelines 2021, Green Bond Principles 
+2021, and Social Bond Principles 2023, as administered by ICMA; 
+ 
+2 IDB, “Annual Report 2023 Financial Statements”, at: https://publications.iadb.org/en/inter-american-development-bank-annual-report-2023-financial-
+statements 
+3 IDB may extend funding to first -tier public intermediary financial institutions, which in turn provide funding to second -tier public financial institutions 
+(such as microfinance institutions) which on-lend to MSMEs. 
+4 The Sustainability Bond Guidelines, Green Bond Principles and Social Bond Principles are administered by the International Capital Market Association 
+and are available at: https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/ 
+5 The Inter-American Development Bank Sustainable Debt Framework will be available on IDB’s website at: https://www.iadb.org/en/how-we-can-work-
+together/investors  
+6 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore p ut in place a robust conflict management 
+framework that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial and research (and 
+engagement) teams, data protection and systems separation. Last but not the least, analyst compensation is not directly tied to specific commercial 
+outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+3 
+• The credibility and anticipated positive impacts of the use of proceeds; and 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version 1.17, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+As part of this engagement, Sustainalytics held conversations with various members of IDB’s management 
+team to understand the sustainability impact of their business processes and planned use of proceeds, as 
+well as management of proceeds and reporting aspects of the Framework. IDB representatives have 
+confirmed (1) they understand it is the sole responsibility of IDB to ensure that the information provided is 
+complete, accurate and up to date; (2) that they have provided Sustainalytics with all relevant information and 
+(3) that any provided material information has been duly disclosed in a timely manner. Sustainalytics also 
+reviewed relevant public documents and non-public information. 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. Any update of the present Second -Party Opinion will be conducted according to the agreed 
+engagement conditions between Sustainalytics and IDB. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with market 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects but does not measure the actual impacts . The measurement and reporting of the impact achieved 
+through projects financed under the Framework is the responsibility of the Framework owner. 
+In addition, the Second-Party Opinion opines on the potential allocation of proceeds but does not guarantee 
+the realized allocation of proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument, either in favour or against the truthfulness, reliability 
+or completeness of any facts or statements and related surrounding circumstances that IDB has made 
+available to Sustainalytics for the purpose of this Second-Party Opinion.  
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the Inter-American Development Bank 
+Sustainable Debt Framework 
+Sustainalytics considers the Inter-American Development Bank Sustainable Debt Framework to be credible, 
+impactful and align ed with the  SBG and the  four core components of the  GBP and SBP. Sustainalytics 
+highlights the following elements of the Framework: 
+• Use of Proceeds:  
+- The eligible categories  are aligned with those recognized by the GBP and SBP. The eligible 
+categories are: Energy Efficiency; Renewable Energy; Environmentally Sustainable Management 
+of Living Natural Resources and Land Use; Climate Adaptation and Mitigation; Clean 
+Transportation; Sustainable Water and Wastewater Management; Pollution Prevention and 
+Control; Access to Essential Services; Access to Basic Infrastructure; Socioeconomic 
+Advancement and Empowerment; Cultural Heritage Preservation; Employment Generation – 
+employment generation and program mes designed to prevent and alleviate unemployment 
+stemming from socioeconomic crises, climate transition projects and other considerations for 
+a just transition; Food Security and Sustainable Food Systems; Security, Justice and Conflict 
+Resolution; and State Modernization. 
+- IDB has defined a 36-month look-back period for refinancing, which Sustainalytics considers to 
+be in line with market practice. 
+- Under the Energy Efficiency category,  IDB may finance or refinance the following projects 
+intended to promote the efficient use of energy resources: i) LED lighting, HVAC upgrades, smart 
+building retrofits, sensors and controls ; ii) smart meters7 and remote monitoring, control and 
+ 
+7 IDB has confirmed to Sustainalytics that smart meters exclude smart gas meters 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+4 
+automation equipment for electrical transmission grids ; iii) investments in management and 
+operation of electrical transmission grids with the purpose of improving efficiency and 
+decreasing grid technical losses;8 and iv) street lighting improvements and upgrades.  
+▪ IDB has confirmed to Sustainalytics that : i) street lighting upgrades will be limited to 
+conversion of street lighting to LED; ii) energy efficiency equipment and technologies 
+will not be designed nor intended for processes that are inherently carbon intensive; iii) 
+equipment will not run on  fossil fuels  and will not be applied to transmission lines 
+connected or dedicated to power produced from fossil fuel.  
+▪ Sustainalytics considers investments under this category to be aligned with market 
+practice.  
+- Under the Renewable Energy category, IDB may finance or refinance renewable energy 
+generation and green transmission infrastructure projects as per the following eligibility criteria: 
+▪ Renewable energy generation projects include:  
+• Wind generation, solar PV and concentrated solar projects where at least 85% 
+of the electricity generation is derived from solar energy.  This is aligned with 
+market practice. 
+• Hydropower projects, including: i) small run-of-river hydropower projects with 
+an installed capacity of 25 MW with no or limited impoundment ; and ii) 
+refurbishment and repower  of existing large hydropower  plants. For all 
+hydropower projects , an environmental and social risk and impact 
+assessment will be undertaken by a credible body and there will be no 
+controversies surrounding the projects. IDB may finance the refurbishment or 
+repowering of existing large hydropower facilities, to extend the facilities’ 
+useful life or to enhance their energy storage and production capacity with 
+improved efficiency. Sustainalytics notes that the emissions intensities from 
+hydropower project s can vary widely with the median average of 23 
+gCO2/kWh. Furthermore, hydropower plants can have lifetimes beyond 100 
+years, effectively lock ing in power generation for decades. Hence, 
+Sustainalytics considers the life cycle em issions intensity threshold to be a 
+crucial environmental consideration for hydropower facilities. Sustainalytics 
+encourages IDB to favour projects with low life cycle emissions intensity and 
+to report, where possible, on the intensity of such refurbished and repowered 
+hydropower projects. 
+▪ Green transmission infrastructure projects include: 
+• Direct connections to and associated grid upgrades required for the 
+interconnection of renewable electricity generation sources. 
+• Regional interconnections to support the dispatch of renewable energy from 
+regions with surplus renewable power to load centres, grids and networks. 
+• Grids and networks in line with the following criteria: i) the average life cycle 
+emission factor of the grid is below 100  gCO2e/kWh over a rolling five-year 
+period; or ii) more than 67% of the newly connected generation capacity on 
+the grid is below 100 gCO2e/kWh, measured on a life cycle basis, over a rolling 
+five-year period. 
+• Sustainalytics views the above expenditures related to green transmission 
+infrastructure projects to be aligned with market practice. 
+- Under the Environmentally Sustainable Management of Living Natural Resources and Land Use 
+category, IDB may finance or refinance projects as per the following criteria: 
+▪ Financing to support sustainable agriculture and marine production , including  the 
+following: 
+• Surveillance and control to prevent introduction and mitigate impact of pests 
+and diseases. IDB has confirmed to Sustainalytics that use of herbicides or 
+insecticides to control or eradicate invasive pests  or plants will be excluded. 
+ 
+8 IDB has communicated to Sustainalytics that investments in management and operation of electrical transmission grids relate to smart grid components 
+and will include: i) technology for smart grids, such as components for wide area monitoring systems (WAMS), measurement equipment, supervisory  
+control and data acquisition (SCADA) systems, smart meters to measure electricity consumption, monitoring and control automat ion devices, and big 
+data and computing platforms; ii) metering systems and intelligent electricity systems that manage the intermittency of renewable energy; and iii) retrofit 
+of transmission and distribution networks to reduce energy use and technical losses, avoid electricity cuts, facilitate integration of renewable energy into 
+the grid and improve energy efficiency. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+5 
+Moreover, hunting, trapping, poisoning and culling of vertebrate animals 
+considered as pests will be excluded.  Sustainalytics considers this to be in 
+line with market practice. 
+▪ Efficient irrigation techniques that promote efficient water allocation, water recycling 
+and rainwater harvesting.  IDB has confirmed to Sustainalytics that : i) recy cled water 
+will exclude  treated wastewater from fossil fuel operations and ii) systems and 
+facilities dedicated to industrial scale livestock are excluded. Sustainalytics considers 
+this to be in line with market practice. 
+▪ Production of certified crops and commodities in line with the following certifications: 
+Rainforest Alliance, 9 Bonsucro,10 Round Table for Responsible Soy ( RTRS),11 
+ProTerra,12 4C,13 Forest Stewardship Council (FSC),14 Program for the Endorsement of 
+Forest Certification (PEFC),15 CERFLOR;16 and aquaculture investments certified by the 
+Aquaculture Stewardship Council (ASC),17 Global G.A.P. Aquaculture, Best Aquaculture 
+Practices (2 stars or above)18 and Marine Stewardship Council (MSC),19 Best Seafood 
+Practices certification by Global Seafood Alliance, 20 UTZ21 and any nationally 
+designated organic standard. Sustainalytics notes that it is market expectation to 
+specify all eligible schemes and certifications and encourages IDB to report on any 
+specific schemes and certifications achieved by the projects financed under the 
+Framework. 
+▪ Regenerative agriculture that contributes to rebuilding soil organic matter and restoring 
+degraded soil biodiversity.  
+• IDB has communicated to Sustainalytics that it will finance agroforestry units 
+and smallholder farms, which  will be accompanied by a sustainable forest 
+management plan, enabling family producers to comply with requirements 
+that would have otherwise been met through Forest Stewardship Council 
+(FSC) or Programme for the Endorsement of Forest Certification (PEFC) 
+certification.22 This is in line with market practice. 
+▪ Financing to support marine and coastal economy: Eligible projects will include green 
+ports infrastructure projects related to low-carbon marine bunkerin g facilities and 
+shore-to-ship power.  
+• IDB has confirmed to Sustainalytics that vessels will not be financed under 
+this category and low-carbon fuel will be limited to green methanol, hydrogen, 
+biofuel or ammonia.  
+• IDB has communicated to Sustainalytics that it may finance water treatment 
+equipment and facilities for all blackwater and greywater generated from 
+ports, shipping and cruising vessels , and solid waste receiver facilities at 
+ports and terminals for the collection of garbage . IDB has further confirmed 
+to Sustain alytics that : i) infrastructure in ports dedicated to fossil fuel 
+shipping and exports as well as waste collection vehicles will not be financed 
+under the Framework; ii) wastewater treatment equipment will not be installed 
+on vessels; iii) the waste receiver facilities will segregate waste at source; iv) 
+waste-to-energy facilities financed under the Framework wil l segregate 
+recyclables; and v) the activity may include financing waste recycling 
+facilities.  
+ 
+9 Rainforest Alliance: https://www.rainforest-alliance.org/about/ 
+10 Bonsucro: https://bonsucro.com/production-standard/ 
+11 RTRS: https://responsiblesoy.org/?lang=en 
+12 ProTerra: https://www.proterrafoundation.org/ 
+13 4C: https://www.commonshare.com/standards/4c 
+14 FSC: https://ca.fsc.org/en-ca 
+15 PEFC: https://www.pefc.org/standards-implementation 
+16 CERFLOR: http://www.inmetro.gov.br/qualidade/cerflor.asp 
+17 ASC: https://asc-aqua.org/business/chain-of-custody-standard/ 
+18 Best Aquacultural Practices: https://www.bapcertification.org/ 
+19 MSC: https://www.msc.org/standards-and-certification/fisheries-standard 
+20 Best Seafood Practices: https://bspcertification.org/ 
+21 UTZ: https://www.rainforest-alliance.org/utz/ 
+22 Sustainalytics highlights that forestry-related assets or projects certified by either FSC or PEFC integrate appropriate management plans related to soil 
+health, water and fire management, riparian area protection, biodiversity management, species selection, as well as chemicals use. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+6 
+o Sustainalytics recognizes that energy from waste may take out of 
+circulation potentially recyclable materials and undermine key 
+objectives of a zero -waste circular economy , namely waste 
+prevention and recycling. Additionally, the composition of residual 
+waste, particularly fossil carbon content, is a crucial consideration  
+for such projects to have low emissions intensities . However, 
+Sustainalytics also notes that energy from waste offer s a better 
+residual waste management option than landfills in many cases, due 
+to constraints on recycling in many parts of the world. Sustainalytics 
+recommends IDB to promote the removal of increasing amounts of 
+recyclables, especially plastics and metals, and the monitoring of the 
+thermal efficiency of the financed facilities. 
+o For recycling facilities  financed under this category, IDB has 
+confirmed to Sustainalytics that: i) recycling e-waste from electrical 
+and electronic equipment will be accompanied by robust waste 
+management processes to mitigate associated risks;  and ii) plastic 
+recycling activities will be financed only when: a) the activity includes 
+production with at least 90% recycled, renewable or bio -based input 
+where biogenic input will be sustainably sourced; b) the activity may 
+include mechanical and chemical  recycling; and c) single -use 
+plastics will be excluded. Further,  IDB has communicated to 
+Sustainalytics that , in addition to the  abovementioned criteria,  
+chemical recycling of plastics will also align with the following 
+criteria: i) the recycled product will have life cycle emissions lower 
+than the life cycle emissions from the production of virgin plastic; ii) 
+the process will be accompanied by robust waste management 
+procedures to mitigate risks associated with the resulting hazardous 
+wastes; and iii) plastic-to-fuel conversion will be excluded.  
+• Sustainalytics considers these expenditures to be aligned with market 
+practice. 
+▪ Financing to support land and marine ecosystems conservation  will include the 
+following: 
+• Conservation, development and restoration of key biodiversity areas through 
+the establishment of recognized protected areas and green spaces, such as 
+parks, as well as wetlands and marine areas, such as seagrass beds, coral 
+and mangroves. 
+• Traceability technologies used to prevent deforestation and monitor 
+biodiversity benefits , such as satellites and satellite imagery, and artificial 
+intelligence for anomalies’ detection.  
+• Afforestation or reforestation projects, preservation or restoration of natural 
+landscapes certified by FSC, PEFC or Rainforest Alliance.  
+• Rewilding through creating or restoring habitats or wildlife , including 
+reforestation and biodiversity corridors. 
+• Research initiatives targeting conservation and restoration of marine and 
+coastal ecosystems.  
+• IDB has communicated to Sustainalytics that : i) all reforestation and 
+conservation initiatives financed under this category will use tree species that 
+are well  adapted to the site conditions ; and ii) the use of agrochemicals 
+(herbicides or insecticides) as well as hunting, trapping, poisoning and culling 
+of vertebrate animals considered as pests  will not be financed to control or 
+eradicate invasive plants or insects.  
+• Sustainalytics views expenditures related to land and marine ecosystems 
+conservation to be aligned with market practice.  
+- Under the Climate Adaptation and Mitigation category, IDB may finance or refinance  activities 
+that reduce the vulnerability of human or natural systems against the adverse impacts of climate 
+change and climate-related risks, by means of building resilience or strengthening adaptation to 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+7 
+deal with the effect s of climate-aggravated floods, wildfires, landslides, droughts, earthquakes 
+and tsunamis, including:  
+▪ Grid infrastructure hardening to address climate adaptation risks , including improved 
+resiliency in electrical systems. IDB has confirmed to Sustainalytics that financing will 
+exclude transmission lines directly connected to fossil fuel power.  
+▪ Programmes to support vulnerability assessments and recovery planning for areas 
+damaged or at risk of damage by natural disasters.  
+▪ Measures to c onserve and restor e ecosystems, such as drought -resistant seeds, 23 
+nutrient cycling, ecotone levees, floodplain restoration, storm water drainage, water 
+storage with watershed restoration or conservation. 
+▪ Projects to strengthen national monitoring, forecasting and alert capacities for natural 
+disasters, including early warning systems for natural disasters and atmospheric 
+forecasting to predict timelines and paths of hurricanes. 
+▪ Shoreline stabilization and coastal flooding control measures, including the 
+development of offshore breakwater, groynes  and headlands to coastal regions  to 
+prevent flooding.  
+▪ Conservation or restoration of mangroves, wetlands to reduce flooding, soil and water 
+salination; and coral reefs to reduce storms surges and flooding.24  
+▪ Fire management program mes that finance management and interventions that 
+directly reduce fire threats . IDB has confirmed to Sustainalytics that financing will be 
+limited to wildfire or bushfire management programmes in native areas.  
+▪ IDB has communicated to Sustainalytics that all  climate change adaptation projects 
+financed under this category will be subject to completing a climate risk assessment 
+to identify the potential risks involved and establishing an adaptation plan to respond 
+to the conclusions of the risk assessment of areas prone to climate risks.  
+▪ Sustainalytics considers investments under this category to be aligned with market 
+practice.  
+- Under the Clean Transportation category, IDB may finance or refinance low-carbon transport and 
+electric mobility infrastructure, including: 
+▪ Electric vehicles, hybrid vehicles and public low-carbon transport, with direct emissions 
+intensity below 50 gCO2e/pkm.  
+▪ IDB has communicated to Sustainalytics that it will  use the World Harmonized Light -
+duty Vehicle Test Procedure (WLTP) to identify credible assets on a best-effort basis. 
+Different test procedures can achieve varying results in actual vehicles’ CO2 emissions, 
+whether they intend to replicate real-driving conditions, such as WLTP, or are based on 
+theoretical driving profile, such as NEDC. 25 Hence, Sustainalytics further encourages  
+IDB to report on the test procedure used to determine the emissions intensity of 
+financed vehicles, where feasible.  
+▪ Freight rail with direct emissions intensity below 25 gCO2e/tkm. IDB has confirmed to 
+Sustainalytics that: i) the primary purpose of the freight rail is not transporting fossil 
+fuel freight; and ii) rail lines and operations where fossil fuels account for more than 
+50% of the freight in mass are excluded.  
+▪ Transportation infrastructure that supports the transportation vehicles meeting the 
+Framework criteria, such as charging stations, new, extended and renovated railroads, 
+walkways and bike paths . IDB has confirmed to Sustainalytics that parking facilities 
+will not be financed under the Framework.  
+▪ Sustainalytics views these expenditures to be aligned with market practice.  
+ 
+23 IDB has communicated to Sustainalytics that genetically modified seeds will be excluded from financing under the Framework. 
+24 IDB has communicated to Sustainalytics that: i) there is a sustainable management plan in place for the conservation and restoration activity, which 
+may be certified by FSC  or PEFC ii) all restoration and conservation initiatives financed under this category will use tree  or plant species that are well 
+adapted to the site conditions; and iii) the use of agrochemicals (herbicides or insecticides) as well as hunting, trapping, poisoning and culling of vertebrate 
+animals considered as pests will not be financed to control or eradicate invasive plants or insects. 
+25 The WLTP (World Harmonized Light-duty Vehicle Test Procedure) test cycle uses real-driving data to replicate actual driving conditions, while the 
+NEDC (New European Driving Cycle) test determines values based on a theoretical driving profile, which can lead to material differences in terms of 
+tailpipe emissions.  
+European Commission, “From NEDC to WLTP: effect on the type-approval CO2 emissions of light-duty vehicles”, (2017), at: 
+https://publications.jrc.ec.europa.eu/repository/handle/JRC107662  
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+8 
+- Under the Sustainable Water and Wastewater Management category, IDB may finance or 
+refinance expenditures related to water use efficiency and disposal of wastewater, including:  
+▪ Investments to ensure sustainable use of water, including water supply optimization in 
+agricultural production, 26 manufacturing and construction. IDB has confirmed to  
+Sustainalytics that : i) water efficiency systems will not be applied to fossil fuel and 
+hard-to-abate sectors; ii) equipment and methods will not be dependent on fossil fuels; 
+and iii) systems and measures to provide water for fossil fuel operations, fracking and 
+mining operations will not be financed under the Framework.   
+▪ Infrastructure supporting operational efficiency of sewerage systems  as well as 
+infrastructure dedicated to sanitation services , including sanitary and storm water 
+sewerage and wastewater treatment services.  
+• IDB has confirmed to Sustainalytics that : i) treatment of wastewater from 
+fossil fuel operations and industrial-scale livestock , as well as desalination 
+facilities will not be financed under this category; and ii) sewerage systems 
+will be limited to systems that feed into the treatment services meeting the 
+criteria in the Framework.   
+▪ Sustainalytics considers investments under this category to be aligned with market 
+practice.  
+- Under the Pollution Prevention and Control category, IDB may finance or refinance expenditures 
+related to waste prevention, reduction and recycling, including:  
+▪ Infrastructure dedicated to solid waste reuse, recycling or recovery.  
+• IDB has confirmed to Sustainalytics that energy -from-waste projects will not 
+be financed under this category.  
+• For recycling facilities  financed under this category , IDB has confirmed to 
+Sustainalytics that : i) recycling e-waste from electrical and electronic 
+equipment will be accompanied by robust waste management processes to 
+mitigate associated risks ; and ii) plastic recycling activities will be financed 
+only when: a) the  activity include s production with at least 90% recycled, 
+renewable or bio -based input where biogenic input will be sustainably 
+sourced; b) the activity may include mechanical and chemical recycling; and 
+c) single-use plastics will be excluded. Furthermore, IDB has communicated 
+to Sustainalytics that , in addition to the abovementioned criteria, chemical 
+recycling of plastics will be financed in line with the following criteria : i) the 
+recycled product will  have life cycle emissions lower than the life cycle 
+emissions from th e production of virgin plastic; ii) the process is  
+accompanied by robust waste management procedures to mitigate 
+associated risks of the resulting hazardous wastes ; and iii) plastic -to-fuel 
+conversion will be excluded. 
+▪ Flood mitigation measures  and urban drainage systems  that prevent plastic, solid 
+waste or pollutants runoff into freshwater and marine habitats. IDB has communicated 
+to Sustainalytics that a vulnerability assessment and an adaptation plan will be utilized 
+to support the need of these investments.  
+▪ Air quality monitoring systems that will monitor GHG emissions and other air pollutants 
+such as NOx, SOx and PM pollution . IDB has confirmed to Sustainalytics that these 
+systems will not be applied to fossil fuel industries and technologies that inherently 
+rely on fossil fuels.  
+▪ Sustainalytics considers investments under this category to be aligned with market 
+practice.  
+- The Framework defines three groups for the social use of proceeds categories:  
+▪ Vulnerable Populations include: 
+• People facing economic challenges or vulnerability due to disability, health, 
+gender identity, sexual orientation, religion, age, economic disadvantage or 
+social condition such as victims of violence. 
+• Vulnerable groups of people who may be more adversely affected by project 
+impacts than others . These groups will include p eople belonging to an 
+ 
+26 Agricultural production excludes industrial-scale livestock production. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+9 
+Indigenous population or belonging to historically marginalized groups based 
+on race, colour or ethnicity, including such people living in urban settings.  
+• Women-headed households. 
+▪ Underserved Populations include: 
+• Marginalized populations or populations with limited access to essential 
+services and basic infrastructure.  
+• Poor and low-income population: IDB has defined as poor those living below 
+the national poverty line , and low-income population as people living below 
+the national median income but above the national poverty line. 
+• People living in rural areas . These may also include l andless individuals and 
+single-headed households  living in rural areas . IDB has communicated to 
+Sustainalytics that the Bank will be relying on governments’ definitions of rural 
+areas. 
+• Refugees and displaced persons who may lack protection under national or 
+international law. 
+• Natural resource -dependent communities: IDB has communicated to 
+Sustainalytics that natural resource-dependent communities are populations 
+that rely on local ecosystems for their livelihoods, including small-scale 
+activities such as  agriculture, fishing, foraging and forestry. Their direct 
+dependence on natural resources makes these communities vulnerable to 
+environmental impacts and to economic shocks, both of which can threaten 
+their livelihoods. 
+• Populations living in areas highly exposed to crime and violence: IDB has 
+communicated to Sustainalytics that it refers to government or local 
+authorities’ published databases to identify such areas. 
+▪ SMEs and MSMEs that adhere to the following criteria: 
+• MSMEs are defined based on the government definition in the host country27 
+(including one-person businesses identified as MSMEs) or the definition used 
+by the financial intermediaries supported, to categorize their loan portfolio 
+according to the size of sub-borrowers.28 
+• Women or diversity-owned enterprises, defined as enterprises owned at least 
+51% by women or another minority. 
+• Smallholder farmers and agricultural MSMEs: IDB has communicated to 
+Sustainalytics that the Bank will be following the FAO’s definition of 
+smallholder farmers.29 IDB has further communicated to Sustainalytics that 
+agricultural MSMEs will adhere to the definition of MSMEs as prescribed by 
+the governments.  
+- Under the Access to Essential Services category IDB may finance or refinance education and 
+healthcare projects that adhere to the following eligibility criteria: 
+▪ Education related expenditures will include: i) programmes aimed at improving quality 
+of education and access to nurseries, schools, basic, secondary and higher education; 
+ii) improving access to education for rural areas, iii) skills development program mes 
+for teachers and public service employees ; and iv) construction, expansion and 
+improvement of public schools, universities and other public education services. 
+• IDB has communicated to Sustainalytics that the expenditures related to 
+education projects will be limited to public facilities and services and will be 
+accessible to all regardless of ability to pay. IDB has also communicated to 
+Sustainalytics that education projects financed under the Framework will 
+target Vulnerable Populations and Underserved Populations. 
+ 
+27 IDB defines host country as the country in which the project will be operated. 
+28 IDB has communicated with Sustainalytics that most Latin Americas and Caribbean countries have a government -recognized definition for MSMEs 
+which the Bank will follow for projects financed under the Framework. However, in rare cases when a host country does not have a government-recognized 
+definition for MSMEs, IDB  will collaborate with relevant intermediaries (such as the government and other multilateral development bank s) to conduct 
+market studies and analyses. Based on such market studies, IDB, along with the host country government and the intermediary, will together decide the 
+definition for MSMEs to be followed for projects financed under the Framework. 
+29 FAO, “Smallholders and Family Farmers”, (2013), at: https://www.fao.org/family-farming/detail/en/c/273864/ 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+10 
+• Sustainalytics views the expenditures related to education projects to be 
+socially impactful.  
+▪ Healthcare related expenditures will include: i) programmes supporting public medical 
+centres, laboratories, hospitals, clinics, health equipment and supplies for primary and 
+specialized healthcare; ii) emergency medical equipment and personal protection 
+elements (PPE) for pandemics ; and iii) programmes that help reduce maternal and 
+infant mortality, and non-communicable diseases. 
+• IDB has communicated to Sustainalytics that expenditures related to 
+healthcare projects will be limited to public facilities and services to support 
+borrowing countries progress towards universal healthcare coverage. IDB has 
+further communicated to Sustainalytics that such investments will be 
+targeted at improving access to healthcare facilities and services to the 
+Underserved Populations and will be accessible to all regardless of ability to 
+pay. IDB has further communicated to Sustainalytics that healthcare services 
+will be available to the target populations either free of cost or at a subsidized 
+rate.30 
+• Sustainalytics acknowledges that healthcare systems in  many countries in  
+Latin America and the Caribbean  have structural challenges, such as limited 
+institutional capacity , insufficient funding, segmentation of patients 
+according to ability to pay, and high out-of-pocket costs, hindering access and 
+coverage.31  
+• Considering the above, Sustainalytics views IDB’s investments related to 
+healthcare projects in Latin American and Caribbean countries  to be socially 
+impactful.  
+- Under the Access to Basic Infrastructure category , IDB may finance or refinance water and 
+sanitation, energy, transport, housing and climate disaster recovery projects as per the following 
+criteria: 
+▪ Water and Sanitation  projects include: i) water management, storage, production, 
+treatment plants and distribution facilities to expand access to potable water; ii) 
+infrastructure to expand access to sanitation services, including sanitary and 
+stormwater sewerage , and wastewater treatment services; iii) improve sanitary 
+conditions and reduce pollution in urban waterways and rivers; and iv) comprehensive 
+environmental and sanitation education programmes. 
+• IDB has communicated to Sustainalytics that water treatment  projects 
+financed under this category may also include desalination projects that: i) 
+have an appropriate waste management plan for brine disposal; ii) exclude 
+integrated water and power plant s with fossil fuel power ; and iii) exclude 
+desalination plants with dedicated on -site fossil fuel power.  Sustainalytics 
+notes positively that the desalination facilities to be financed will be primarily 
+powered by renewable electricity.   
+• Sustainalytics considers these expenditures to be socially impactful. 
+▪ Energy projects related expenditures include investments for enabling affordable 
+access to electricity grid infrastructure and projects to expand access to electricity to 
+marginal and rural areas.32 IDB has communicated to Sustainalytics that investments 
+in energy projects will be limited to areas with no access or substantially inadequate 
+access to electricity.33 
+• IDB has confirmed to Sustainalytics that it will exclude transmission grids 
+connected to dedicated fossil fuel power plants and power generation plants.  
+• Sustainalytics notes that the richest 10% of the population account for 40% of 
+the total GHG emissions in Latin America and the Caribbean, while 17 million 
+ 
+30 IDB has communicated to Sustainalytics that relevant terms to ensure affordability of healthcare facilities and services will be included in the terms and 
+conditions of the agreements between IDB and the borrowing country or borrowing public entity. 
+31 United Nations Economic Commission for Latin America and the Caribbean , “The urgency of investing in health systems in Latin America and the 
+Caribbean to reduce inequality and achieve the Sustainable Development Goals ”, (2024), at: https://www.cepal.org/en/publications/80764-urgency-
+investing-health-systems-latin-america-and-caribbean-reduce-inequality 
+32 IDB has confirmed to Sustainalytics that the Bank will be following governments’ definitions of rural and marginal areas. 
+33 IDB has communicated to Sustainalytics that areas with substantially inadequate access to electricity will be those where access is not stable as a 
+result of repeated power cuts, among other reasons. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+11 
+people lack access to electricity. 34 Considering the inequalities regarding 
+access to electricity  in Latin America n and Caribbean  countries, 
+Sustainalytics views IDB’s financing of energy projects as per the above 
+criteria to be socially impactful. 
+▪ Transport related expenditures will include construction, upgrade and maintenance of 
+road transportation infrastructure for: i) improving connectivity to low -income rural 
+areas lacking accessibility to essential services ; and ii) supporting economic 
+development of disadvantaged regions by improving access to economic centres. 
+• All such projects will be accompanied by an environmental and social impact 
+evaluation at the level of individual road corridors. 
+• IDB has confirmed to Sustainalytics that expenditures will exclude 
+construction, upgrade and maintenance of major roads or highways and will 
+be limited to roads in underdeveloped rural or Indigenous communities that 
+lack connectivity because of unpaved or ungraded roads, lack of pathways or 
+because they are remotely located or isolated.  
+• Sustainalytics views this expenditure to be socially impactful. 
+▪ Housing related e xpenditures will include financing to support construction, 
+refurbishing or improvement of affordable housing. 
+• IDB has communicated to Sustainalytics that affordable housing projects will 
+adhere to the definition of affordable housing set by the governments of the 
+borrowing countries. Moreover, IDB has confirmed that each country’s 
+regulations will require that the housing remain affordable after 
+refurbishments. 
+• IDB has further communicated to Sustainalytics that the target population for 
+the affordable housing projects will be the Underserved Populations.  
+• More than 37% of the households in Latin American and Caribbean countries 
+lack adequate housing. The housing deficit in many countries in the region is 
+exacerbated by rapid urbanization, economic inequalities and vulnerability to 
+natural disasters. 35 Sustainalytics acknowledges the need for improving 
+access to affordable housing in Latin American and Caribbean countries and 
+notes that the role of IDB is limited to providing financing to governments and 
+public institutions for the development, refurbishing and improvement of 
+affordable housing . Sustainalytics further notes that IDB  does not have 
+control over the detailed criteria and mechanisms for determining 
+affordability and encourages the Bank  to provide further disclosure on the 
+positive social impact s of its financing allocated to below -median income 
+populations, where feasible. 
+▪ Climate Disaster Recovery  projects will include financing for the redevelopment and 
+reconstruction of public basic infrastructure as well as residential and commercial 
+buildings for all target population groups defined in the Framework  and impacted by 
+climate disasters.36 
+• IDB has confirmed to Sustainalytics that : i)  financing for redevelopment 
+projects will be limited to disaster-impacted areas ; ii) basic public 
+infrastructure will include hospitals, schools, sanitation facilities and roads 37 
+and iii) disaster relief housing projects may also include providing basic 
+housing kits 38 for the target population s as an interim solution before 
+providing them with permanent housing.  
+• IDB has confirmed to Sustainalytics that public basic infrastructure financed 
+as part of this activity will be accessible to all, regardless of ability to pay and 
+that disaster relief response, including interim and permanent housing 
+ 
+34 IEA, “Latin America Energy Outlook 2023”, at: https://www.iea.org/reports/latin-america-energy-outlook-2023/state-of-play 
+35 World Bank, “El costo y la asequibilidad de las soluciones de vivienda en América Latina y el Caribe”, (2022), at: 
+https://documents1.worldbank.org/curated/en/099808304282219845/pdf/IDU059c3b27b0eff8040c40b5320b7c4c151513b.pdf 
+36 IDB has communicated to Sustainalytics that reconstruction of disaster-impacted buildings will exclude industrial facilities and buildings designed for 
+the purpose of extraction, storage, transportation or manufacture of fossil fuels.  
+37 In case of road infrastructure, only public road infrastructure may be included to the extent that it is necessary for provid ing relief. Major roads and 
+highways will not be financed where road connectivity is adequate. 
+38 IDB defines basic housing kit as kits for prefabricated housing and basic building materials. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+12 
+solutions, will be made available free of cost to the disaster -impacted target 
+populations. Moreover,  IDB will ensure that the infrastructure remains 
+affordable to the target population s by including relevant clauses in the 
+agreements signed with each borrowing country. 
+• Sustainalytics views expenditures related to climate disaster recovery to be 
+socially impactful. 
+- Under the Socioeconomic Advancement and Empowerment category, IDB may finance or 
+refinance the following: 
+▪ Projects aimed at improving youth employability, social inclusion  and gender equality, 
+as well as reducing  poverty.39 IDB has communicated to Sustainalytics that such 
+projects will target providing technical vocational education to Vulnerable Populations.  
+▪ Programmes supporting cultural education to promote social inclusion. IDB has 
+communicated to Sustainalytics that these programmes will be either subsidized or 
+available free of cost to the Vulnerable Populations, aiming to improve accessibility to 
+cultural education among them.  
+▪ Social work programmes for families forced to resettle due to urban project 
+developments. IDB has communicated to Sustainalytics that expenditures related to 
+social work programmes will include  construction and operation of counselling 
+centres, rehabilitation centres and related services. IDB has also communicated to 
+Sustainalytics that these programmes will be either subsidized or available free of cost 
+to the Vulnerable Populations, aiming to improve accessibility and affordability of such 
+social work programmes for the target groups. 
+▪ Skills development programmes, apprenticeships and internships. IDB has 
+communicated to Sustainalytics that these programmes will be either subsidized or 
+available free of cost to youth belonging to the Vulnerable Populations, aiming  to 
+support in closing skills gaps. 
+▪ Programmes aimed at improving access to finance and microfinance and financing to 
+minority and women-owned MSMEs.  
+• IDB has communicated to Sustainalytics that the expenditures under these 
+activities will be limited to SMEs and MSMEs to support them in improving 
+productivity.  
+• IDB has confirmed to Sustainalytics that expenditures related to these 
+programmes will be financed through intermediary financial institutions40 that 
+have responsible lending practices in place.  
+• IDB’s Environmental and Social Policy Framework applies to all financing 
+decisions. Financing to SMEs and MSMEs will exclude activities involving 
+child labour, poor working conditions  and negative impact activities such as 
+tobacco, firearms or weapons, palm oil and fossil fuel operations.  
+• Sustainalytics notes that even though MSMEs account for 99% of formal 
+enterprises in Latin American and Caribbean countries, they contribute to only 
+3.2% of the region’s combined GDP, highlighting their need to adopt 
+technologies and improvement s in production processes. Furthermore, 75% 
+of the financial needs of MSMEs in Latin America and the Caribbean remain 
+unfunded. Sustainalytics acknowledges the important role of development 
+finance institutions in improving access to finance for MSMEs, including in 
+supporting them to enhance productivity.41 Nevertheless, Sustainalytics 
+encourages IDB to report on the definition of MSMEs used in each country as 
+well as the achieved impact. 
+▪ Digital inclusion including access to fixed or mobile broadband. IDB has communicated 
+to Sustainalytics that the digital inclusion projects will target  the Vulnerable 
+Populations, living in areas with no  access to or substantially inadequate access to 
+fixed or mobile broadband. IDB has communicated to Sustainalytics that  populations 
+ 
+39 IDB has confirmed to Sustainalytics that employment opportunities provided as part of such projects will exclude activities related to oil and gas. 
+40 In case of indirect financing provided to MSMEs, IDB extends funding to first -tier intermediary financial institutions, which in turn provide funding to 
+second-tier public financial institutions (such as microfinance institutions), which on-lend to MSMEs. 
+41 OECD, “Latin American Economic Outlook 2023”, at: https://www.oecd-ilibrary.org/development/latin-american-economic-outlook-2023_8c93ff6e-en 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+13 
+living in areas with substantially inadequate access to fixed or mobile broadband would 
+include areas without 3G or above mobile broadband.  
+▪ Considering the above, Sustainalytics views expenditures under this category to be 
+socially impactful. 
+- Under the Cultural Heritage Preservation category, IDB may finance or refinance the following  
+projects: i) renovation of historical buildings; ii) training, consulting services and project 
+management systems provided to heritage foundations that manage historical buildings ; iii) 
+development and maintenance of urban spaces for artistic and cultural expression , such as 
+atriums, markets, museums and squares.  
+▪ IDB has communicated to Sustainalytics that the historical buildings and urban spaces 
+will be accessible to all, regardless of ability to pay. Moreover, individuals belonging to 
+the Vulnerable Populations will have access either free of cost or at a lower cost to 
+ensure affordability. 
+▪ Sustainalytics views expenditures under this category to be impactful and contributing 
+towards preserving cultural heritage in Latin American and Caribbean countries. 
+- Under the Employment Generation category, IDB may finance or refinance activities related to: 
+▪ Projects aimed at improving employability . IDB has communicated to Sustainalytics 
+that these projects may include vocational training programmes and job fairs. IDB has 
+communicated to Sustainalytics that expenditures related to this activity  will target 
+individuals belonging to the V ulnerable Populations and U nderserved Populations. 
+Moreover, the job fairs will mostly target supporting SMEs and MSMEs in their 
+recruitment processes. 
+▪ Financing to MSMEs will include: 
+• Programmes to subsidize MSMEs’ climate transition. As part of this activity, 
+SMEs and MSMEs will have access to finance at a subsidized rate  for 
+investing in energy efficiency technologies, products or equipment.42  
+• Development of equality policies and practices . IDB has communicated to 
+Sustainalytics that expenditures related to this activity will include training, 
+career development and policy -level changes that support or promote such 
+training and career development for the Vulnerable Populations. 
+• Programmes to promote the development of sustainable tourism projects to 
+benefit rural and low-income regional economies. IDB has communicated to 
+Sustainalytics that financing under these programmes will be limited to SMEs 
+and MSMEs operating in the sustainable tourism sector. 
+▪ Expenditures under this category will either be direct financing provided to borrowing 
+countries or states for implementing policy-level changes or indirect financing provided 
+to MSMEs through intermediary financial ins titutions.43 IDB has confirmed to 
+Sustainalytics that for all expenditures related to financing of SMEs and MSMEs, IDB 
+will ensure  that the intermediary financial institutions have responsible lending 
+practices.44  
+▪ Sustainalytics notes that IDB's Environmental and Social Policy Framework is 
+applicable to all financing decisions made by the Bank under the Framework and 
+financing to SMEs and MSMEs will exclude activities involving  child labour, poor 
+working conditions, and negative-impact activities such as tobacco, firearms or 
+weapons, palm oil and fossil fuel operations. 
+▪ Sustainalytics notes that MSMEs account for 66% of formal employment in Latin 
+American and Caribbean countries  and acknowledges the key role of development 
+finance institutions  in improving access to finance for MSMEs  and supporting  
+employment generation in these countries.45  
+ 
+42 IDB has communicated to Sustainalytics that energy-efficient technologies designed or intended for processes that are inherently carbon intensive or 
+powered by fossil fuels will be excluded. 
+43 In case of indirect financing provided to MSMEs, IDB extends funding to first -tier intermediary financial institutions, which in turn provide funding to 
+second-tier public financial institutions (such as microfinance institutions), which on-lend to MSMEs. 
+44 IDB has communicated to Sustainalytics that having responsible lending practices will be embedded in the terms and conditions of each loan agreement 
+signed with a borrowing intermediary financial institution. 
+45 OECD, “Latin American Economic Outlook 2023”, at: https://www.oecd-ilibrary.org/development/latin-american-economic-outlook-2023_8c93ff6e-en 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+14 
+▪ Considering the above, Sustainalytics views the expenditures under this category to be 
+socially impactful. Nevertheless, Sustainalytics  encourages IDB to report on the 
+definition of SMEs and MSMEs used in each country. 
+- Under the Food Security and Sustainable Food Systems category, IDB may finance or refinance 
+the following: i) provision of subsidies to smallholder farmers and agricultural MSMEs for food 
+production, aiming to promote food security and access to markets; ii) projects aimed at 
+building climate change resilience for smallholder farmers and agricultural MSMEs in rural 
+areas, such as enhancing the efficiency of water use in irrigation systems and reducing the risk 
+of rural economic losses due to floods; and iii) development of research programmes, initiatives 
+and agro-technology projects dedicated to agricultural t ransformation to increase food safety 
+and productivity. 
+▪ IDB has communicated to Sustainalytics that financing provided to smallholder 
+farmers and agricultural MSMEs will occur through intermediary financial institutions. 
+IDB will ensure that the borrowing intermediary financial institutions adhere to 
+responsible lending practices.  
+▪ Sustainalytics notes that IDB follows the definition of FAO for smallholder farmers and 
+encourages the Bank to report on the definition of agricultural MSMEs. Sustainalytics 
+notes the key role of the agriculture sector in the economic growth of Latin American 
+and Caribbean countries, and views expenditures under this category to be contributing 
+to improving food security in those countries. 
+- Under the Security, Justice and Conflict Resolution category , IDB may finance or refinance  
+programmes aimed at improving safety for the Vulnerable Populations and Underserved 
+Populations. 
+▪ Programmes to address societal fragility, conflict and criminal violence will include the 
+following: 
+• Programmes and training to provide knowledge, skills and opportunities for 
+residents of target communities to challenge and change attitudes that 
+promote or tolerate violence. IDB has communicated with Sustainalytics that 
+such programmes will be aimed at increasing awareness about crime 
+reporting and laws among women and the Vulnerable Populations. These may 
+also include community-led programmes for the prevention of  violence 
+against women. These may be implemented by non -profit organizations and 
+expenditure will include the programme s’ implementation, monitoring and 
+evaluation costs. 
+• Programmes for the social inclusion of young people who have high risk 
+factors associated with violence or organized crime . IDB has communicated 
+to Sustainalytics that these programmes  involve cognitive therapy for 
+juveniles, prisoners or at-risk adolescents46 for changing their attitude 
+towards drug abuse and violence.  
+• Programmes that support victims in claims processing, accessing social 
+services and preventing revictimization . IDB has communicated to 
+Sustainalytics that examples of expenditures related to these programmes 
+may also include counselling support for victims, legal aid and compensation. 
+In case of women victims of domestic violence, the support programmes may 
+also include offering guidance on finances, employment , health and 
+temporary housing assistance aiming to improve economic and social 
+autonomy for women victims. 
+▪ Programmes to avoid crime recidivism will include: 
+• Rehabilitation program mes that facilitate reintegration in  society, prevent 
+crime recidivism and combat organized crime . IDB has communicated to 
+Sustainalytics that examples of such rehabilitation programmes may include 
+providing legal aid , education , vocational training to former combatants or 
+persons released from the prison system. 
+ 
+46 IDB has communicated to Sustainalytics that at -risk adolescents are  adolescents who: i)  belong to the Vulnerable Populations and Underserved 
+Populations groups; ii) live in areas with high prevalence of crime as per government data; and iii) are at risk of drug abuse, violence or crime recruitment. 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+15 
+• Construction and operation of socio-cultural centres. IDB has communicated 
+to Sustainalytics that such socio -cultural centres can be accessed by all 
+regardless of ability to pay and the programmes or sessions organized at the 
+socio-cultural centres target adolescents belonging to the target population 
+and at-risk of organized crime . These programmes  aim to prevent incidents 
+of violence, drug abuse, among others. 
+• Rehabilitation of human capital through family care program mes for 
+adolescent offenders . IDB has communicated to Sustainalytics that family 
+care programmes will include afterschool programmes  for adolescents. 
+Sustainalytics acknowledges that children living in areas with high prevalence 
+of crime are at risk of being exposed to crime or engaging in violence. After-
+school programmes can potentially reduce the participants’ violent behaviour 
+inside as well as  outside of school . Moreover, research indicates that after-
+school programmes can indirectly help in  improving their attendance, 
+attitudes toward school as well as learning and academic outcomes.47  
+▪ IDB has communicated to Sustainalytics that expenditures under this category will 
+exclude judicial infrastructure and law enforcement infrastructure.  
+▪ Approximately 20% of the population in Latin American and Caribbean countries 
+consider violence to be the most pressing problem in their country. Moreover, violence 
+from organized crime is viewed to be a critical issue facing the ir well-being.48 IDB 
+estimates that crime and violence lead to an average reduction of 3.5% in the GDP of 
+the region.49 Considering that crime and violence can hind er overall socio-economic 
+development, Sustainalytics acknowledges the need for programmes intended to 
+address societal fragility and avoid crime recidivism. Nevertheless, Sustainalytics  
+encourages IDB to report on the details of the projects financed under this category 
+and on the associated social impacts achieved. 
+- Under the State Modernization category , IDB may finance or refinance  the following activities 
+targeting the Vulnerable Populations, Underserved Populations and SMEs and MSMEs: 
+▪ Upgrade and digitalization of public information systems dedicated to the modification, 
+development and implementation of targeted public policies for the Vulnerable 
+Populations, Underserved Populations and SMEs and MSMEs with the intention of 
+making the resource distribution process for such populations more efficient.  
+Examples of eligible expenditures may include upgrades to public information systems 
+that provide information on subsidies or tax reimbursements which are relevant for the 
+target populations. 
+▪ Programmes supporting the digital transformation of public services and improving 
+digital connectivity to target populations to improve use of public services. Examples 
+of eligible programmes may include digital transformation of cash transfer systems 
+and programmes to improve access to digital payments.  
+▪ Expenditures related to the development and implementation of systems and 
+processes that are specifically dedicated to bringing equity and efficiency in tax 
+systems for the target populations. IDB has communicated with Sustainalytics that 
+examples of such expenditures may include specific platforms that enable relevant tax 
+subsidies and outreach programmes for such populations. 
+▪ Programmes that support governments in incorporating climate change into the 
+design and implementation of fiscal policies to promote a just and equitable transition 
+to green economies . IDB has communicated to Sustainalytics that expenditures may 
+include: i) employment generation programmes for people who have been impacted by 
+climate change; ii) financing of public initiatives for training and creating awareness 
+among local communities living in areas prone to natural disasters; iii) engaging with 
+ 
+47 IDB, “When emotion regulation matter s: The Efficacy of Socio -emotional Learning to Address School -based Violence in Central America ”, (2024), at: 
+https://publications.iadb.org/en/when-emotion-regulation-matters-efficacy-socio-emotional-learning-address-school-based-violence#:~:text=Back-
+,When%20Emotion%20Regulation%20Matters%3A%20The%20Efficacy%20of%20Socio%2DEmotional%20Learning,Based%20Violence%20in%20Central%
+20America&text=interventions.,are%20well%2Dbehaved%20at%20school.  
+48 World Bank, “Competition: The Missing Ingredient for Growth?”, (2024), at: 
+https://openknowledge.worldbank.org/server/api/core/bitstreams/184bce21-8fec-4b14-acad-9ee256e7db93/content 
+49 IDB, “IDB Proposes Regional Alliance to Strengthen Security in Latin America and the Caribbean”, (2024), at: https://www.iadb.org/en/news/idb-
+proposes-regional-alliance-strengthen-security-latin-america-and-caribbean 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+16 
+communities to create local disaster management plans in areas that are most 
+vulnerable to natural calamities ; and iv) development and update of relevant local 
+government plans to improve emergency response readiness. 
+▪ IDB has identified inefficient bureaucracy and inadequate digital progress as two of the 
+key challenges that limit the technical and operational capacity of states in Latin 
+America and the Caribbean.  
+▪ Sustainalytics views expenditures under this category to be contributing to improving 
+access to public systems and services for the target populations, and encourages IDB 
+to report on the details of the projects financed under this category and on the 
+associated social impacts achieved. 
+• IDB’s exclusions list in the Bank’s Environmental and Social Policy Framework (ESPF) applies to all 
+projects financed under the Framework . The ESPF prohibits activities related to weapons, tobacco, 
+gambling, pesticides, thermal coal mining , coal-fired power generation , and upstream oil and gas 
+exploration, among others.50 
+• Project Evaluation and Selection:  
+- IDB’s treasury division, in collaboration with the Bank’s office of strategic planning and 
+development effectiveness, selects projects in line with the Framework’s eligibility criteria . As 
+part of the project evaluation and selection process, t he Bank’s treasury division consults its 
+internal lending specialists.  
+- To address environmental  and social risks associated with the projects financed under the 
+Framework, all projects financed are screened for potential environmental and social risks in 
+line with IDB’s Environmental and Social Policy Framework by the Environmental and Social Risk 
+Management Unit  and monitored with two progress report s per year.  Furthermore, IDB’s 
+environmental and social specialists classify and rate projects according to the associated 
+environmental and social risks.  Sustainalytics considers these risk management processes to 
+be adequate. For additional details, refer to Section 2. 
+- Based on an established process for project evaluation and selection and the presence of a risk 
+management system, Sustainalytics considers this process to be in line with market practice. 
+• Management of Proceeds: 
+- IDB has communicated to Sustainalytics that it will be managing proceeds on a portfolio basis. 
+An amount equal to net proceeds of the issued instruments under the Framework will be 
+recorded in a separate sub -account and allocated to credible investments . IDB has 
+communicated to Sustainalytics that the Bank’s Treasury department will be responsible for 
+management of  proceeds. In the case that the selected projects no longer comply with the 
+eligibility criteria in the Framework, IDB will reallocate proceeds to other eligible projects. 
+- The Bank will allocate  proceeds fully within 36 months of each issuance. Until full allocation, 
+temporary proceeds will be held in cash and cash equivalents, in accordance with IDB’s liquidity 
+investment guidelines.  
+- Based on the presence of an internal tracking system and disclosure of the temporary use of 
+proceeds, Sustainalytics considers this process to be in line with market practice. 
+• Reporting: 
+- IDB will make an annual allocation and impact report available on IDB Investor Website until full 
+allocation of proceeds.  
+- Allocation reporting will include the amount of net proceeds from the issued instruments 
+allocated to eligible projects per project or category. 
+- Impact reporting may include impact indicators such as annual energy savings in MWh ( for 
+electricity), annual GHG emissions reduced (tCO2), number of families benefiting from social 
+housing, number of students benefited by education projects, number of MSMEs and minority-
+owned businesses financed and number of jobs created.  
+- Based on the commitments for allocation and impact reporting , Sustainalytics considers this 
+process to be in line with market practice. 
+ 
+50 While IDB’s ESPF allows for financing of upstream gas exploration projects under certain circumstances, all such projects will be excluded from financing 
+under the Framework.  
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+17 
+Alignment with Sustainability Bond Guidelines 2021 
+Sustainalytics has determined that the Inter-American Development Bank Sustainable Debt Framework aligns 
+with the SBG and the four core components of the GBP and SBP. 
+Section 2: Sustainability Strategy of IDB  
+Contribution to IDB’s sustainability strategy  
+IDB’s institutional strategy is built on three core objectives : i) reducing poverty and inequality; ii) addressing 
+climate change; and iii) bolstering sustainable growth. The strategy also focuses on the following seven 
+environmental and social areas: i) biodiversity, natural capital and climate action; ii) gender equality and 
+inclusion; iii) social protection and human capital development ; i v) institutional capacity ; v) sustainable, 
+resilient and inclusive infrastructure; vi) productivity and innovation; and vii) regional integration.51 
+As of 31 December 2023, IDB’s active portfolio of sovereign guaranteed loans included 616 projects with an 
+undisbursed balance of USD 32.2 billion.52 The Bank renewed its partnership with the UNDP in 2024 to 
+streamline processes and support governments in achieving lasting development impacts through SDG -
+aligned tools and joint project implementation. 53 IDB’s social development programmes in 2023 included: i) 
+healthcare projects to enhance comprehensive coverage and quality of health services in Argentina, Brazil, 
+Honduras and Paraguay; ii) education programmes in Argentina, Belize, Brazil, Ecuador, Guatemala, Haiti and 
+Guyana with the aim of enrolling 32,000 new students in the education systems, enhancing the learning 
+environment for 64,000 children and improving connectivity to 3,000 schools in remote areas; and iii) technical 
+and vocational education projects and training in 15 countries  to enable 25,000 ind ividuals to acquire skills 
+for high-quality jobs. 54 Internally, t he Bank’s 2023-2028 Diversity, Equity , and Inclusion Framework sets 
+specific targets for 2028, including having 50% representation of women in senior roles, 10% for Afro -
+descendants, 8% each for people with disabilities and LGBTQ+ representation across the organization , and 
+5% for Indigenous individuals.55 
+To support climate change mitigation and adaptation, in 2021, IDB announced its Climate Change Action Plan 
+2021-2025 setting a target to have at least 30% of its total approvals dedicated to climate finance by 2025.56 
+In 2023,  IDB financed USD 3.53 billion worth of projects related to environment and  climate finance , 
+representing 45% of the Bank’s total approvals .57 At COP26 in 2021,  IDB announced its alignment with the 
+Paris Agreement and committed to providing USD 24 billion in climate and green finance until 2025. In 2023, 
+the Bank launched IDB CLIMA, a result-based approach to stimulate investments in biodiversity and climate 
+in Latin American and Caribbean countries by way of offering loan discounts for meeting climate goals.58  
+Sustainalytics is of the opinion that the Inter-American Development Bank Sustainable Debt Framework is 
+aligned with the Bank’s overall sustainability strategy and initiatives , and will further IDB’s action on its key 
+environmental and social priorities.  
+Approach to managing environmental and social risks associated with the projects  
+Sustainalytics recognizes that the proceeds from the instruments issued under the Framework will be directed 
+towards eligible projects that are expected to generate positive environmental and social impacts. However, 
+Sustainalytics is aware that such eligible projects could also lead to negative environmental and social 
+outcomes. Some key environmental and social risks possibly associated with the eligible projects may include 
+issues involving : i) land use and biodiversity; ii) emissions in l arge-scale infr astructure development; iii) 
+effluents and waste generated in construction; iv) occupational health and safety; v) community relations and 
+stakeholder participation; and vi) lending and business ethics. Sustainalytics acknowledges that IDB plays a 
+limited role in the development and implementation of specific projects, but notes that it is exposed to risks 
+associated with the companies and projects to which it provides lending and financing. 
+ 
+51 IDB, “IDBStrategy+”, at: https://www.iadb.org/en/who-we-are/institutional-strategy 
+52 IDB, “Inter-American Development Bank Annual Report 2023: The Year in Review”, (2024), at: https://publications.iadb.org/en/inter-american-
+development-bank-annual-report-2023-year-review 
+53 UNDP, “IDB and UNDP Enhance Collaboration”, (2024), at: https://www.undp.org/latin-america/press-releases/idb-and-undp-enhance-collaboration 
+54 IDB, “Inter-American Development Bank Annual Report 2023: The Year in Review”, (2024), at: https://publications.iadb.org/en/inter-american-
+development-bank-annual-report-2023-year-review 
+55 Ibid. 
+56 IDB, “Climate Change Action Plan – 2021-2025”, at: https://publications.iadb.org/en/publications/english/viewer/Inter-American-Development-Bank-
+Group-Climate-Change-Action-Plan-2021-2025.pdf 
+57 IDB, “Inter-American Development Bank Annual Report 2023: The Year in Review”, (2024), at: https://publications.iadb.org/en/inter-american-
+development-bank-annual-report-2023-year-review 
+58 IDB, “Inter-American Development Bank Annual Report 2023: The Year in Review”, (2024), at: https://publications.iadb.org/en/inter-american-
+development-bank-annual-report-2023-year-review 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+18 
+Sustainalytics is of the opinion that IDB is able to manage or mitigate potential risks through implementation 
+of the following:  
+• To manage risks associated with land use and biodiversity, IDB follows its Environment and 
+Biodiversity Sector Framework Document , which sets strategies for landscape management and 
+securing property rights to combat deforestation. 59 In addition, the  Guidance for Assessing and 
+Managing Biodiversity Impacts and Risks  in Inter -American Development Bank Supported 
+Operations document includes the Environmental and Social Safeguard Policies (OP -703) which 
+require environmental assessments and use of a mitigation hierarchy to manage biodiversity 
+impacts. IDB also requires projects with significant risks to develop biodiversity action plans, and 
+environmental and social management plans for ongoing monitoring and adaptive management. The 
+precautionary principle and biodiversity offsets are also applied to compensate for residual impacts, 
+supported by early biodiversity screening and classification systems.60  
+• Regarding emissions in large -scale infrastructure development, the Bank’s ESPF provides a 
+comprehensive approach to managing environmental and social risks, and identifying and mitigating 
+potential negative impacts on the environment and society. The ESPF also addresses a wide range 
+of issues, including human rights, health and safety, biodiversity protection and environmental 
+sustainability, mandating projects to follow best practices and legal requirements.61  
+• The IDB’s Water and Sanitation Sector Framework Document mandates the integration of water 
+resources management in sanitation services, focusing on the mitigation of pollution, proper waste 
+disposal and the improvement in resilience to climate risks. The document also requires projects to 
+have measures to safeguard water quality, prevent overexploitation and improve the efficiency of 
+service providers.62 
+• Regarding occupational health and safety,  IDB addresses workplace hazards through its 
+Environmental and Social Safeguards Unit. This  unit is in charge of monitoring and enforcing the 
+safety measures and protocols for project activities that might expose workers to risks . IDB’s 
+Community Health and Safety guidelines require projects to have measures such as the provision of 
+protective equipment, safety training and the monitoring of working conditions to improve safety 
+outcomes. IDB integrates these requirements into its environmental and social impact assessments 
+and project management processes to mitigate occupational health risks.63, 64 
+• The IDB’s Guidelines on Consultation and Stakeholder Engagement provide support to borrowers in 
+carrying out public consultations in IDB -financed projects. These guidelines complement IDB’s 
+safeguard policies, advising borrowers on how to engage with affected communities, convey project 
+impacts and establish grievance mechanisms. These measures are designed to manage social risks 
+and foster meaningful participation, particularly in projects with significant environmental or social 
+impacts.65  
+• IDB addresses lending and business ethics risks through its Office of Institutional Integrity (OII), 
+which investigates and prevents prohibited practices , such as fraud, corruption and money 
+laundering. The OII is responsible for conducting Integrity Due Diligence assessments and ensuring 
+compliance with the Bank’s Anti -Money Laundering and Combating the Financing of Terrorism 
+standards.66 Additionally, the IDB’s Integrity Framework sets guidelines for managing integrity risks 
+in its operations, including the investigation of prohibited practices and the imposition of sanctions 
+when necessary. 67 These processes are supported by the Independent Consultation and 
+Investigation Mechanism which provides a formal channel for addressing non-compliance with IDB’s 
+ 
+59 IDB, “Environment and Biodiversity Sector Framework Document”, at: https://www.iadb.org/en/who-we-are/topics/environment-and-natural-
+resources/sector-framework-environment-and-natural 
+60 IDB, “Guidance for Assessing and Managing Biodiversity Impacts and Risks in Inter-American Development Bank Supported Operations”, (2015), at: 
+https://publications.iadb.org/en/guidance-assessing-and-managing-biodiversity-impacts-and-risks-inter-american-development-bank 
+61 IDB, “Environmental and Social Policy Framework”, at: https://www.iadb.org/en/who-we-are/topics/environmental-and-social-
+solutions/environmental-and-social-policy-framework 
+62 IDB, “Water, Sanitation and Solid Waste Sector Framework Document”, at: https://www.iadb.org/en/who-we-are/topics/water-and-sanitation/sector-
+framework-water-and-sanitation 
+63 IDB, “Occupational Safety and Health in Latin America and the Caribbean: Overview, Issues and Policy Recommendations”, at: 
+https://publications.iadb.org/en/occupational-safety-and-health-latin-america-and-caribbean-overview-issues-and-policy 
+64 IDB, “Community Health and Safety: Recommendations and Tools”, (2011), at: https://publications.iadb.org/en/community-health-and-safety-
+recommendations-and-tools 
+65 IDB, “Guidelines on Consultation and Stakeholder Engagement in IDB Projects”, at: 
+https://publications.iadb.org/en/publications/english/viewer/Guidelines-on-Consultation-and-Stakeholder-Engagement-in-IDB-Projects.pdf 
+66 IDB, “The Office of Institutional Integrity”, at: https://www.iadb.org/en/who-we-are/transparency/sanctions-system/office-institutional-integrity 
+67 IDB, “Integrity Framework”, at: https://www.iadb.org/en/who-we-are/transparency/sanctions-system/sanctions-system-key-documents 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+19 
+operational policies.68 Additionally, the Bank’s Code of Ethics requires employees to avoid conflicts 
+of interest, disclose potential conflicts and ensure transparency in financial dealings.69 
+Based on these policies, standards and assessments, Sustainalytics is of the opinion that IDB has 
+implemented adequate measures and is well  positioned to manage and mitigate environmental and social 
+risks commonly associated with the eligible categories. 
+Section 3: Impact of Use of Proceeds  
+All use of proceeds categories are aligned with those recognized by  the GBP and SBP. Sustainalytics has 
+focused on two below where the impact is specifically relevant in the local context. 
+Importance of improved access to education in Latin America and the Caribbean  
+Access to school in Latin America and the Caribbean improved from 1 in 4 children being out of school in 
+1989 to 1 in 10 in 2019.70 However, less than 50% of students finish secondary school, showing that learning 
+outcomes did not improve in the region at the same rate as access to primary school. 71 Socio-economic 
+disparities and regional inequalities are major factors behind these outcomes, particularly in rural areas, where 
+only 30% of students from the poorest income quintiles complete secondary education.72 Moreover, after the 
+Covid-19 pandemic learning poverty in Latin American and Caribbean countries is now estimated to be much 
+higher than 50%.73  
+To effectively support expanded access to good quality education, UNESCO recommends bringing education 
+expenditures to 15-20% of public expenditure.74 Countries in Latin America and the Caribbean currently direct 
+15% of their GDP per capita for primary and secondary education, and 26% for tertiary education, trailing 
+behind Europe  and the US and Canada , where government spending per student is among the highest 
+globally.75 In response, IDB, in conjunction with another multilateral development bank, is investing more than 
+USD 500 million to advance digital education  in Latin American and Caribbean countries , aiming to connect 
+3.5 million students and train 350,000 teachers across 16 countries. This initiative includes: i) building digital 
+skills; ii) increasing access to connectivity and devices ; and iv) creating resources to improve educational 
+outcomes. An additional USD 400 million is planned to further expand these programmes over the next two 
+years. These efforts aim to build resilient  and equitable education systems and reduce the learning crisis in 
+the region .76 Additionally, in the Santiago Declaration of 2024 , governments in Latin America and the 
+Caribbean have committed to increasing educational financing through tax reforms, debt relief and public -
+private partnerships to achieve the 2030 Agenda ’s educational goals , with recovery strategies focused on 
+digital infrastructure and teacher training.77  
+In this context, Sustainalytics is of the opinion that IDB’s investments in education will significantly enhance 
+access to quality education throughout Latin America and the Caribbean. 
+ 
+Importance of financing renewable energy projects in Latin America and the Caribbean 
+In 2023, two-thirds of the energy used in Latin America and the Caribbean  was derived from fossil fuels. 78 
+Even though the region accounts for just 5% of global cumulative energy-related GHG emissions and the share 
+of coal in the region’s energy mix is low, oil use remains relatively high. 79 Moreover, transitioning energy 
+ 
+68 MICI, “Policy of the Independent Consultation and Investigation Mechanism of IDB”, (2021), at: https://mici.iadb.org/en/guide-filing-complaint  
+69 IDB, “Code of Ethics and Professional Conduct”, at: https://www.iadb.org/en/who-we-are/transparency/ethics-and-professional-conduct 
+70 World Bank, “Tackling the Learning Crisis in Latin America and the Caribbean”, (2024), at: https://www.worldbank.org/en/results/2024/03/22/tackling-
+the-learning-crisis-in-latin-america-and-the-caribbean 
+71 Results for development, “Reducing Secondary School Dropouts in Latin America and the Caribbean: Policy Lessons and Recommendations”, at: 
+https://r4d.org/projects/reducing-secondary-school-dropouts-latin-america-caribbean-policy-lessons-recommendations/ 
+72 Ibid. 
+73 World Bank Group,” What is Learning Poverty?”, at: https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty\ 
+74 UNESCO, “Education in Latin America and the Caribbean at a crossroads”, (2022), at: 
+https://repositorio.cepal.org/bitstream/handle/11362/48154/3/S2200833_en.pdf 
+75 Ibid. 
+76 World Bank Group, “IDB and World Bank to Boost Digital Transformation in Education in Latin America and the Caribbean”, (2023), at: 
+https://www.worldbank.org/en/news/press-release/2023/10/30/world-bank-idb-digital-transformation-education-latin-america-caribbean 
+77 United Nations ECLAC, “ Education can’t wait: Enabling conditions and investment for a better future in Latin America and the Caribbean ”, (2024), at: 
+https://www.cepal.org/en/events/education-cant-wait-enabling-conditions-and-investment-better-future-latin-america-and  
+78 IEA, “Latin America Energy Outlook 2023”, at: https://www.iea.org/reports/latin-america-energy-outlook-2023/executive-summary  
+79 IEA, “Latin America Energy Outlook 2023”, at: https://www.iea.org/reports/latin-america-energy-outlook-2023/state-of-play 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+20 
+sectors in Latin American and Caribbean countries  is expected to be challenging , with energy demand 
+projected to rise by more than 50% by 2050 from 2023.80  
+Sixteen of 33 countries in Latin America and the Caribbean  have pledged to achieve net zero emissions by 
+2050, considering the region’s rich natural resources and the high potential for the development of renewable 
+energy generation projects, such as bioenergy, solar and wind.81 Achieving these targets, however, will require 
+a boost in investments in clean energy technologies  and international support, including increased climate 
+finance.82 A relatively slow period of GDP growth over the past decade slowed the realization of the region’s 
+untapped energy potential, but in an effort to increase investment, governments have started introducing GHG 
+mitigation initiatives.83 In 2024, Brazil and Chile were among the  top 20 countries in the world in terms of 
+progress on the energy transition , having increased renewable energy  generation and the share of clean 
+energy in the ir energy mix, in addition to  enhancing a supportive regulatory environment for the energy 
+transition, among other measures. 84 All countries in  the region have submitted their first NDC and 29 have 
+updated them to set more ambitious targets, with one -third expli citly mentionin g an absolute or relative 
+emissions reduction target.85 However, despite this momentum, to meet the net zero emissions targets by 
+2050, the region will need to significantly accelerate clean energy investments , quadrupling them between 
+2026 and 2030 in comparison with the preceding decade.86 
+Considering the above, Sustainalytics is of the opinion that IDB’s investments in renewable energy projects 
+are expected to have a positive effect on the reduction of GHG emissions in Latin America and the Caribbean. 
+Contribution to SDGs 
+The Sustainable Development Goals were adopted in September 2015 by the United Nations General 
+Assembly and form part of an agenda for achieving sustainable development by 2030. The instruments issued 
+under the Inter-American Development Bank Sustainable Debt Framework are expected to help advance the 
+following SDGs and targets:  
+Use of Proceeds 
+Category SDG SDG target 
+Energy and Resource 
+Efficiency 
+7. Affordable and Clean 
+Energy  
+7.3 By 2030, double the global rate of 
+improvement in energy efficiency  
+Renewable Energy 7. Affordable and Clean 
+Energy  
+7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix  
+Environmentally 
+Sustainable Management 
+of Living Natural 
+Resources and Land Use 
+15. Life on Land 
+15.1 By 2020, ensure the conservation, 
+restoration and sustainable use of terrestrial 
+and inland freshwater ecosystems and their 
+services, in particular forests, wetlands, 
+mountains and drylands, in line with 
+obligations under international agreements 
+15.2 By 2020, promote the implementation of 
+sustainable management of all types of 
+forests, halt deforestation, restore degraded 
+forests and substantially increase afforestation 
+and reforestation globally 
+Climate Adaptation and 
+Mitigation 13. Climate Action 
+13.1 Strengthen resilience and adaptive 
+capacity to climate-related hazards and natural 
+disasters in all countries 
+Clean Transportation  11. Sustainable Cities and 
+Communities  
+11.2 By 2030, provide access to safe, 
+affordable, accessible and sustainable 
+transport systems for all, improving road 
+safety, notably by expanding public transport, 
+ 
+80 World Bank Blogs, “From potential to action: energy efficiency in Latin America”, at: https://blogs.worldbank.org/en/energy/potential-action-energy-
+efficiency-latin-america  
+81 IEA, “Latin America Energy Outlook 2023”, at: https://www.iea.org/reports/latin-america-energy-outlook-2023/state-of-play 
+82 IEA, “World Energy Investment 2024”, at: https://www.iea.org/reports/world-energy-investment-2024/latin-america-and-the-caribbean  
+83 Ibid. 
+84 World Economic Forum, “How Brazil and Chile are leading Latin America’s energy transition”, (2024), at: 
+https://www.weforum.org/agenda/2024/07/brazil-chile-latin-america-energy-transition/ 
+85 IEA, “World Energy Investment 2024”, at: https://www.iea.org/reports/world-energy-investment-2024/latin-america-and-the-caribbean 
+86 IEA, “Latin America and the Caribbean”, at: https://www.iea.org/reports/world-energy-investment-2024/latin-america-and-the-caribbean   
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+21 
+with special attention to the needs of those in 
+vulnerable situations, women, children, persons 
+with disabilities and older persons  
+Sustainable Water and 
+Wastewater 
+Management  
+6. Clean Water and 
+Sanitation 
+6.3 By 2030, improve water quality by reducing 
+pollution, eliminating dumping and minimizing 
+release of hazardous chemicals and materials, 
+halving the proportion of untreated wastewater 
+and substantially increasing recycling and safe 
+reuse globally  
+Pollution Prevention and 
+Control  
+11. Sustainable Cities and 
+Communities 
+11.6 By 2030, reduce the adverse per capita 
+environmental impact of cities, including by 
+paying special attention to air quality and 
+municipal and other waste management 
+Access to Essential 
+Services  
+3. Good Health and Well-
+being  
+3.8 Achieve universal health coverage, 
+including financial risk protection, access to 
+quality essential health-care services and 
+access to safe, effective, quality and affordable 
+essential medicines and vaccines for all 
+4. Quality Education 
+4.1 By 2030, ensure that all girls and boys 
+complete free, equitable and quality primary 
+and secondary education leading to relevant 
+and effective learning outcomes 
+Access to Basic 
+Infrastructure  
+6. Clean Water and 
+Sanitation 
+6.4 By 2030, substantially increase water-use 
+efficiency across all sectors and ensure 
+sustainable withdrawals and supply of 
+freshwater to address water scarcity and 
+substantially reduce the number of people 
+suffering from water scarcity 
+7. Affordable and Clean 
+Energy 
+7.1 By 2030, ensure universal access to 
+affordable, reliable and modern energy 
+services 
+11. Sustainable Cities and 
+Communities 
+11.1 By 2030, ensure access for all to 
+adequate, safe and affordable housing and 
+basic services and upgrade slums. 
+13. Climate Action 
+13.1 Strengthen resilience and adaptive 
+capacity to climate-related hazards and natural 
+disasters in all countries 
+Socioeconomic 
+Advancement and 
+Empowerment  
+8. Decent Work and 
+Economic Growth 
+8.3 Promote development-oriented policies 
+that support productive activities, decent job 
+creation, entrepreneurship, creativity and 
+innovation, and encourage the formalization 
+and growth of micro-, small- and medium-sized 
+enterprises, including through access to 
+financial services 
+10. Reduce Inequalities 
+10.2 By 2030, empower and promote the 
+social, economic and political inclusion of all, 
+irrespective of age, sex, disability, race, 
+ethnicity, origin, religion or economic or other 
+status 
+Cultural Heritage 
+Preservation  
+11. Sustainable Cities and 
+Communities 
+11.4 Strengthen efforts to protect and 
+safeguard the world’s cultural and natural 
+heritage 
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+22 
+Employment Generation  
+4.Quality Education 
+4.4 By 2030, substantially increase the number 
+of youth and adults who have relevant skills, 
+including technical and vocational skills, for 
+employment, decent jobs and entrepreneurship 
+8. Decent Work and 
+Economic Growth 
+8.5 By 2030, achieve full and productive 
+employment and decent work for all women 
+and men, including for young people and 
+persons with disabilities, and equal pay for 
+work of equal value 
+Food Security and 
+Sustainable Food 
+Systems  
+2. Zero Hunger  
+2.1 By 2030, end hunger and ensure access by 
+all people, in particular the poor and people in 
+vulnerable situations, including infants, to safe, 
+nutritious and sufficient food all year round 
+Security, Justice and 
+Conflict Resolution  
+16. Peace, Justice and 
+Strong Institutions 
+16.1 Significantly reduce all forms of violence 
+and related death rates everywhere  
+State Modernization  17. Partnerships for the 
+Goals 
+17.1 Strengthen domestic resource 
+mobilization, including through international 
+support to developing countries, to improve 
+domestic capacity for tax and other revenue 
+collection 
+Conclusion  
+IDB has developed the Inter-American Development Bank Sustainable Debt Framework, under which the Bank 
+intends to issue green, social and sustainability bonds and use the proceeds to finance and refinance, in whole 
+or in part, existing and future public sector projects that are expected to generate positive environmental and 
+social impacts.  
+The Framework outlines a process for the tracking, allocation and management of proceeds and makes 
+commitments for reporting on allocation and impact. Sustainalytics considers that the Framework is aligned 
+with IDB’s overall sustainability strategy and that the use of proceeds will contribute to advance UN 
+Sustainable Development Goals 2, 3, 4, 6, 7, 8, 10, 11, 13, 15, 16 and 17 . Additionally, Sustainalytics is of the 
+opinion that IDB has adequate measures to identify, manage and mitigate environmental and social risks 
+commonly associated with the eligible projects.  
+Based on the above, Sustainalytics is confident that Inter-American Development Bank is well positioned to 
+issue green, social and sustainability bonds and that the Inter-American Development Bank Sustainable Debt 
+Framework is robust, transparent and in alignment with the four core components of the Green Bond 
+Principles 2021 and Social Bond Principles 2023. 
+ 
+  
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+23 
+Disclaimer 
+Copyright ©2024 Sustainalytics, a Morningstar company. All rights reserved. 
+The information, methodologies, data and opinions contained or reflected herein are proprietary of 
+Sustainalytics and/or content providers, and may be made available to third parties only in the form and format 
+disclosed by Sustainalytics. They are not dir ected to, or intended for distribution to or use by India -based 
+clients or users and their distribution to Indian resident individuals or entities is not permitted. 
+They are provided for informational purposes only and (1) shall not be considered as being a statement, 
+representation, warranty or argument either in favor or against the truthfulness, reliability or completeness of 
+any facts or statements that the issuer has made available to Sustainalytics for the purpose of this deliverable, 
+in light of the circumstances under which such facts or statements have been presented; (2) do not constitute 
+an endorsement of any product , project, investment strategy or consideration of any particular environmental, 
+social or governance related issues as part of any investment strategy; (3) do not constitute investment 
+advice, financial advice, or a prospectus, nor represent an “expert opinion” or “negative assurance letter” as 
+these terms are commonly understood or defined by any applicable legislation; (4) are not part of any offering 
+and do not constitute an offer or indication to buy or sell securities, to select a project or make any kind of 
+business transactions; (5) do not  represent an assessment of the issuer’s economic performance, financial 
+obligations nor of its creditworthiness; (6) are not a substitute for professional advice; (7) past performance 
+is no guarantee of future results; (8) have not been submitted to, nor received approval from, any relevant 
+regulatory body; (9) have not and cannot be incorporated into any offering disclosure, unless otherwise agreed 
+in writing. 
+These are based on information made available by the issuer and therefore are not warranted as to their 
+merchantability, completeness, accuracy, up -to-datedness or fitness for a particular purpose Sustainalytics 
+has not independently verified any such information or data. The deliverables are provided “as is” and reflect 
+Sustainalytics’ opinion at the date of their elaboration and publication. Sustainalytics does not undertake any 
+obligation to update or revise any of the statements in the deliverable to re flect events, circumstances, 
+changes in expectations which may occur after the date of the opinion or any statements included in the 
+opinion. Neither Sustainalytics/Morningstar nor their content providers accept any liability from the use of the 
+information, data or opinions contained herein or for actions of third parties in respect to this information, in 
+any manner whatsoever, except where explicitly required by law. Sustainalytics does not assume any 
+responsibility shall the bond default. Any reference to content providers’ names is for appropriate 
+acknowledgement of their ownership and does not constitute a sponsorship or endorsement by such owner. 
+A list of our content providers and their respective terms of use is available on our website. For more 
+information, visit http://www.sustainalytics.com/legal-disclaimers. 
+Sustainalytics may receive compensation for its ratings, opinions and other deliverables, from, among others, 
+issuers, insurers, guarantors and/or underwriters of debt securities, or investors, via different business units. 
+Sustainalytics believes it has p ut in place appropriate measures designed to safeguard the objectivity and 
+independence of its opinions. For more information, visit Governance Documents  or contact 
+compliance@sustainalytics.com.  
+This deliverable, in particular the images, text and graphics contained therein, and the layout and company 
+logo of Sustainalytics are protected under copyright and trademark law. Any use thereof shall require express 
+prior written consent. Use shall be de emed to refer in particular to the copying or duplication of the opinion 
+wholly or in part, the distribution of the opinion, either free of charge or against payment, or the exploitation 
+of this opinion in any other conceivable manner. 
+The issuer is fully responsible for certifying and ensuring compliance with its commitments, for their 
+implementation and monitoring. 
+  
+Second-Party Opinion  
+Inter-American Development Bank Sustainable Debt Framework  
+  
+ 
+  
+ 
+24 
+About Morningstar Sustainalytics 
+Morningstar Sustainalytics is a leading ESG research, ratings and data firm that supports investors around 
+the world with the development and implementation of responsible investment strategies. For more than 30 
+years, the firm has been at the forefront of  developing high-quality, innovative solutions to meet the evolving 
+needs of global investors. Today, Sustainalytics works with hundreds of the world’s leading asset managers 
+and pension funds, which incorporate ESG and corporate governance information and assessments into their 
+investment processes. Sustainalytics also works with hundreds of companies and their financial 
+intermediaries to help them consider sustainability in policies, practices and capital projects. For more 
+information, visit www.sustainalytics.com.

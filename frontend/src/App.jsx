@@ -30,6 +30,8 @@ export default function App() {
   const [claimed, setClaimed] = useState("");
   const [analysis, setAnalysis] = useState(null);
   const [loading, setLoading] = useState(false);
+  // scoring mode: "rule" | "ml" | "blend"
+  const [mode, setMode] = useState("rule");
 
   // market-related state
   const [selectedEtf, setSelectedEtf] = useState("grnb");
@@ -37,10 +39,26 @@ export default function App() {
   const [prices, setPrices] = useState([]);
   const [yieldInfo, setYieldInfo] = useState(null);
 
+  // UI state for searchable bond selection (large CSV)
+  const [bondFilter, setBondFilter] = useState("");
+  const filteredBonds = React.useMemo(() => {
+    if (!bondFilter) return bonds || [];
+    const q = bondFilter.toString().toLowerCase();
+    return (bonds || []).filter((b) => {
+      return (
+        (b.issuer_name || "").toString().toLowerCase().includes(q) ||
+        (b.bond_id || "").toString().toLowerCase().includes(q) ||
+        (b.isin || "").toString().toLowerCase().includes(q)
+      );
+    });
+  }, [bonds, bondFilter]);
+
 
   // Load sample bonds on mount
   useEffect(() => {
-    fetchBonds()
+    // Request a larger limit so the searchable dropdown can find across the
+    // full dataset instead of defaulting to 20 rows.
+    fetchBonds(5000)
       .then(setBonds)
       .catch(console.error);
   }, []);
@@ -103,6 +121,8 @@ export default function App() {
       if (claimed) {
         payload.claimed_impact_co2_tons = parseFloat(claimed);
       }
+      // include selected scoring mode
+      payload.mode = mode;
       const res = await analyzeText(payload);
       setAnalysis(res);
     } catch (err) {
@@ -194,30 +214,105 @@ export default function App() {
         {/* LEFT SIDE — Sample Bonds */}
         <div>
           <h2>Sample Bonds</h2>
-          <ul style={{ listStyle: "none", padding: 0 }}>
-            {bonds.map((b) => (
-              <li
-                key={b.bond_id}
+          {/* Search + dropdown for large bond lists */}
+          <div style={{ marginBottom: "0.5rem" }}>
+            <label style={{ display: "block", marginBottom: 6 }}>
+              <small>Search bonds (issuer, bond id, ISIN):</small>
+            </label>
+            <input
+              type="search"
+              placeholder="Type to filter bonds..."
+              value={bondFilter || ""}
+              onChange={(e) => setBondFilter(e.target.value)}
+              style={{
+                width: "100%",
+                padding: "0.5rem",
+                borderRadius: 6,
+                border: `1px solid ${cardBorder}`,
+                marginBottom: "0.5rem",
+                backgroundColor: theme === "dark" ? "#020617" : "#fff",
+                color: textColor,
+              }}
+            />
+
+            <div style={{ marginBottom: 6, fontSize: 12, color: "#6b7280" }}>
+              Showing {Math.min(filteredBonds.length, 200)} of {filteredBonds.length} matching bonds
+              {filteredBonds.length > 200 ? " (showing first 200)" : ""}
+            </div>
+
+            {/* Table-like selectable results */}
+            <div
+              role="listbox"
+              aria-label="Bond search results"
+              style={{
+                width: "100%",
+                border: `1px solid ${cardBorder}`,
+                borderRadius: 6,
+                overflow: "hidden",
+                backgroundColor: cardBg,
+                color: textColor,
+              }}
+            >
+              {/* Header */}
+              <div
                 style={{
-                  padding: "0.75rem",
-                  marginBottom: "0.5rem",
-                  borderRadius: 8,
-                  border: `1px solid ${cardBorder}`,
-                  cursor: "pointer",
-                  backgroundColor:
-                    selectedBondId === b.bond_id
-                      ? theme === "dark"
-                        ? "#1e293b"
-                        : "#eef"
-                      : cardBg,
+                  display: "flex",
+                  gap: 12,
+                  padding: "0.5rem",
+                  borderBottom: `1px solid ${cardBorder}`,
+                  fontSize: 12,
+                  color: "#6b7280",
                 }}
-                onClick={() => setSelectedBondId(b.bond_id)}
               >
-                <strong>{b.issuer_name}</strong> ({b.currency})<br />
-                <small>{b.use_of_proceeds}</small>
-              </li>
-            ))}
-          </ul>
+                <div style={{ flex: 3 }}>Issuer</div>
+                <div style={{ flex: 1 }}>Currency</div>
+                <div style={{ flex: 1 }}>Years</div>
+                <div style={{ flex: 2 }}>Amount</div>
+              </div>
+
+              {/* Body (scrollable) */}
+              <div style={{ maxHeight: 300, overflow: "auto" }}>
+                {filteredBonds.slice(0, 200).map((b) => {
+                  const isSelected = selectedBondId === b.bond_id;
+                  return (
+                    <div
+                      key={b.bond_id}
+                      role="option"
+                      aria-selected={isSelected}
+                      onClick={() => setSelectedBondId(b.bond_id)}
+                      style={{
+                        display: "flex",
+                        gap: 12,
+                        padding: "0.5rem",
+                        cursor: "pointer",
+                        alignItems: "center",
+                        backgroundColor: isSelected
+                          ? theme === "dark"
+                            ? "#1e293b"
+                            : "#eef"
+                          : "transparent",
+                        borderBottom: `1px solid ${cardBorder}`,
+                      }}
+                    >
+                      <div style={{ flex: 3 }}>
+                        <div style={{ fontWeight: 600 }}>{b.issuer_name}</div>
+                        <div style={{ fontSize: 12, color: "#6b7280" }}>{(b.use_of_proceeds || "").slice(0, 80)}{(b.use_of_proceeds||"").length>80?"…":""}</div>
+                      </div>
+                      <div style={{ flex: 1 }}>{b.currency}</div>
+                      <div style={{ flex: 1 }}>
+                        {b.issue_year || "?"} → {b.maturity_year || "?"}
+                      </div>
+                      <div style={{ flex: 2, color: "#374151" }}>
+                        {b.amount_issued_usd
+                          ? `$${Number(b.amount_issued_usd).toLocaleString()}`
+                          : b.amount_issued || "—"}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
 
           {/* Bond Details */}
           {bondDetail && (
@@ -234,6 +329,45 @@ export default function App() {
               <p>
                 <strong>Use of proceeds:</strong>{" "}
                 {bondDetail.bond.use_of_proceeds}
+              </p>
+
+              <h4>Bond metadata</h4>
+              <p style={{ margin: 0 }}>
+                <strong>Bond ID:</strong> {bondDetail.bond.bond_id || "—"}
+                <br />
+                <strong>ISIN:</strong> {bondDetail.bond.isin || "—"}
+                <br />
+                <strong>Dataset:</strong> {bondDetail.bond.source_dataset || "—"}
+                <br />
+                <strong>Amount issued:</strong>{" "}
+                {bondDetail.bond.amount_issued_usd
+                  ? `$${Number(bondDetail.bond.amount_issued_usd).toLocaleString()}`
+                  : bondDetail.bond.amount_issued || "—"}
+                <br />
+                <strong>Issue → Maturity:</strong>{" "}
+                {(bondDetail.bond.issue_year || "?") +
+                  " → " +
+                  (bondDetail.bond.maturity_year || "?")}
+              </p>
+
+              <p style={{ marginTop: 8 }}>
+                <strong>External review:</strong>{" "}
+                {bondDetail.bond.external_review_type || "None"}
+                <br />
+                <strong>Certification:</strong>{" "}
+                {bondDetail.bond.certification || "None"}
+              </p>
+
+              <h4>Impact reported</h4>
+              <p style={{ margin: 0 }}>
+                <strong>Claimed CO₂ (tons):</strong>{" "}
+                {bondDetail.bond.claimed_impact_co2_tons || "—"}
+                <br />
+                <strong>Actual CO₂ (tons):</strong>{" "}
+                {bondDetail.bond.actual_impact_co2_tons || "—"}
+                <br />
+                <strong>Impact source:</strong>{" "}
+                {bondDetail.bond.impact_source || "—"}
               </p>
 
               <h4>Transparency Score</h4>
@@ -285,6 +419,27 @@ export default function App() {
               flexWrap: "wrap",
             }}
           >
+            {/* Mode toggle */}
+            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+              <small style={{ marginRight: 8, color: "#6b7280" }}>Mode:</small>
+              {[["rule","Rule"],["ml","ML"],["blend","Blend"]].map(([m,label]) => (
+                <button
+                  key={m}
+                  onClick={() => setMode(m)}
+                  style={{
+                    padding: "0.25rem 0.6rem",
+                    borderRadius: 999,
+                    border: mode === m ? "1px solid #2962FF" : `1px solid ${cardBorder}`,
+                    backgroundColor: mode === m ? "#e3f2fd" : theme === "dark" ? "#020617" : "#ffffff",
+                    color: textColor,
+                    cursor: "pointer",
+                    fontSize: 12,
+                  }}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
             <label>
               Claimed CO₂ avoided (tons):{" "}
               <input
@@ -332,17 +487,24 @@ export default function App() {
             >
               <h3>Analysis Results</h3>
               <p>
-                <strong>Transparency score:</strong>{" "}
-                {analysis.transparency_score}
+                <strong>Mode used:</strong> {analysis.mode || "rule"}
+                <br />
+                <strong>Transparency score:</strong> {analysis.transparency_score}
+                <br />
+                <strong>Rule-based score:</strong> {analysis.rule_based_score ?? "—"}
+                {analysis.ml_score != null && (
+                  <>
+                    <br />
+                    <strong>ML score:</strong> {analysis.ml_score}
+                  </>
+                )}
                 <br />
                 <strong>Risk:</strong> {analysis.greenwashing_risk}
               </p>
 
               {analysis.impact_prediction && (
                 <p>
-                  <strong>Impact:</strong>{" "}
-                  Claims {analysis.impact_prediction.claimed} → Predicted{" "}
-                  {analysis.impact_prediction.predicted}
+                  <strong>Impact:</strong> Claims {analysis.impact_prediction.claimed} → Predicted {analysis.impact_prediction.predicted}
                 </p>
               )}
 

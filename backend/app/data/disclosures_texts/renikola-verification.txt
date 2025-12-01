@@ -1,0 +1,1256 @@
+Sdn Bhd 
+ 
+   
+ 
+ 
+PRE-ISSUANCE VERIFICATION REPORT 
+ 
+ 
+ 
+ 
+ 
+SECOND OPINION REPORT 
+22 July 2019 
+ 
+ 
+ 
+ 
+SECOND OPINION REPORT 
+22 July 2019 
+Verification Team 
+Darrel Tiang     Intan Aasyeerin      
+(603) 3385 2569    (603) 3385 2547 
+darrel@ram.com.my   aasyeerin@ram.com.my  
+ 
+reNIKOLA SOLAR II SDN BHD 
+ 
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+ 
+In preparing this report, RAM Sustainability Sdn Bhd (RAM Sustainability) relied on information provided by the issuer. Therefore, 
+RAM Sustainability does not warrant that the information contained herein is complete, accurate or up to date. The report is prepared 
+for consumption of the readers and RAM Sustainability will not be liable for damage arising from the use of our Verification Report 
+and/or the information contained in the report.  
+ 
+Our report is not a recommendation to buy or sell securities. It is also not a credit assessment on the proposed Green Financing.  
+ 
+This Verification Report may not be reproduced, transmitted or published in any form or by any means (except by the Climate Bonds 
+Initiative) without the prior written permission of RAM Sustainability. All rights are reserved by RAM Sustainability. 
+ 
+RAM Sustainability receives compensation for its opinion services which are normally paid by the issuers of this instrument. The 
+receipt of this compensation has no influence on RAM Sustainability’s assurance process, diligence and professional opinion. In all 
+instances, RAM Sustainability is committed to preserving the objectivity, integrity and independence of its opinion.  
+ 
+RAM Sustainability is not aware of any conflict of interest relating to the opinion it provides in this report. RAM Sustainability will 
+adequately disclose all related information in the report if there are such instances.
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   3 
+ 
+ABOUT RAM SUSTAINABILITY  
+ 
+RAM Sustainability Sdn B hd (RAM Sustainability) is a provider of sustainability services and environment, social and 
+governance (ESG) analytics. Incorporated on 31 May 2000, RAM Sustainability is a wholly owned subsidiary of RAM 
+Holdings Berhad (RAM Group). RAM Sustainability is the first ASEAN -based provider of sustainability ratings and 
+second opinions, and has the distinction of being the first Registered Observer of the International Capital Market 
+Associations’ (ICMA) Green Bond Principles (GBP), Social Bond Principles (SBP) and Sustainability Bond Guidelines in 
+ASEAN. On 12 August 2020, RAM Sustainability became an Approved Verifier for the certification of climate bonds 
+under the Climate Bonds Standard and Certification Scheme after having been awarded the status by the Clim ate 
+Bonds Standards Board. For further details, please refer to https://www.ram.com.my/sustainability. 
+ 
+About the RAM Group 
+ 
+The RAM Group is a leading provider of independent credit ratings, research, training, risk analysis and bond pricing. 
+Formerly known as Rating Agency Malaysia Berhad, the RAM Group was established in November 1990 as a catalyst 
+for the domestic debt capital market and as the nation’s first credit rating agency. On 1 July 2007, its rating operations 
+were novated to RAM Rating Services Berhad (RAM Ratings). RAM Ratings is a wholly owned subsidiary of the RAM 
+Group. 
+ 
+RAM Ratings is the leading and largest cre dit rating agency in both Malaysia and ASEAN. Established in 1990 by the 
+central bank of Malaysia as part of the “institutional infrastructure” to support the development of Malaysia’s bond 
+market, RAM Ratings has rated over USD45 0 billion of bonds issued by over 7 50 entities. Its rating portfolio 
+encompasses corporates, sovereign nations, financial institutions, insurance companies, project finance and 
+structured finance obligations. 
+ 
+RAM Ratings is also the world’s leading rating agency for securities iss ued under Islamic principles, or sukuk. RAM 
+Ratings’ experience in and contributions to the fast-growing sukuk market has won numerous awards, including Best 
+Rating Agency (South-East Asia 2017) from CPI Financial and Best Islamic Rating Agency in 2016 from Islamic Finance 
+News. On 26 May 2016, RAM Ratings joined the line -up of pioneer credit rating agency signatories to the United 
+Nations-supported Principles for Responsible Investment’s Statement on ESG in Credit Ratings. The Statement on ESG 
+in Credit Ra tings is a way for RAM Ratings to communicate its commitment to a more systematic and transparent 
+incorporation of ESG into credit ratings and analysis. 
+ 
+RAM Solutions, with effect from 1 March 2023, has integrated sustainability  solutions to its existing credit opinion 
+business, working independently of any second opinion providers or external reviewers . As a subsidiary of RAM 
+Holdings, Bond Pricing Agency Malaysia Sdn Bhd is the sole provider of bond -pricing and valuation data on the 
+Malaysian bond market. For further details, please refer to https://www.ram.com.my. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   4 
+ 
+CORPORATE PROFILE AND OBJECTIVES  
+reNIKOLA Solar II Sdn Bhd (reNIKOLA Solar II or the Issuer) is a wholly owned subsidiary of reNIKOLA Holdings Sdn Bhd 
+(reNIKOLA or the Group). reNIKOLA Solar II was incorporated on 26 October 2021 to raise funds for the refinancing of 
+two solar photovoltaic (PV) plants in Malaysia under their wholly owned subsidiaries, BGMC Bras Power Sdn Bhd 
+(BBPSB) and Idiwan Solar Sdn Bhd ( ISSB), (collectively, the Project Companies ). reNIKOLA is an investment holding 
+company principally engaged in the renewable energy (RE) industry. The Group aims to expand its business in the RE 
+industry through organic growth and targeted strategic acquisitions, and currently has a portfolio of large -scale solar 
+(LSS), biogas and hydro power plants in operation and/or under development. 
+ 
+reNIKOLA has established a Green Financing Framework (the Framework), with the intention to document the Group’s 
+sustainable financing approach, facilitate the broadening of investments into other renewable energy sources, and 
+contribute towards a low -carbon and climate-resilient future. Through this Framework, reNIKOLA may issue various 
+green financing including, green sukuk, green bonds, and green loans, for allocation to eligible investments. The first 
+issuance under the Framework is reNIKOLA Solar II’s issuance of Islamic medium-term notes of up to RM390 million in 
+nominal value (the reNIKOLA II ASEAN Green SRI Sukuk or the Green Sukuk). 
+ 
+The proceeds of the Green Sukuk will be used to partially finance/reimburse the total development costs incurred for 
+two solar PV power plants (collectively, the Solar Plants) located in Kuala Muda, Kedah and Machang, Kelantan, as well 
+as the costs relating to the issuance.  
+SCOPE 
+RAM Sustainability has been appointed as an Approved Verifier to review and verify that reNIKOLA Solar II’s Green 
+Sukuk meets the Pre-Issuance Requirements under the Climate Bonds Standard. The reNIKOLA II ASEAN Green SRI 
+Sukuk is expected to be the first Climate Bonds Certified Green Sukuk in Malaysia , and the world . The engagement 
+with reNIKOLA Solar II took place from June to July 2023. 
+CRITERIA 
+Relevant Climate Bonds Standard and Sector Criteria for this Climate Bonds Certification are: 
+  
+(i)  Climate Bonds Standard (Version 4)1  
+(ii) Solar Sector Criteria (Version 2.3) 
+  
+ISSUER’S RESPONSIBILITY 
+reNIKOLA Solar II is responsible for providing information and documents relating to: 
+ 
+(i) The details concerning the selection process for the nominated projects and assets 
+(ii) The details and technical aspects of the nominated projects and assets 
+(iii) The management systems for internal processes and controls for nominated projects and assets , such as  
+tracking of proceeds, managing unallocated proceeds and earmarking of funds   
+(iv) The commitments for reporting prior to issuance, such as investment areas, methodology for impact reporting 
+and frequency of periodic assurance engagements 
+ 
+VERIFIER’S RESPONSIBILITY 
+The work undertaken as part of this engagement included discussions with key reNIKOLA employees and review of 
+relevant documentation to confirm that the Green Sukuk is in line with the Climate Bonds Standard Pre-Issuance 
+Requirements, which include conformance to: 
+ 
+(i) Climate Bonds Standard (Version 4) 
+(ii) Solar Sector Criteria (Version 2.3) 
+ 
+1 Climate Bond Standard v4: https://www.climatebonds.net/climate-bonds-standard-v4  
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   5 
+ 
+ 
+RAM Sustainability also undertook the verification in accordance  with the International Standard on Assurance 
+Engagements 3000 – Assurance Engagements other than Audits or Reviews of Historical Information’s  limited 
+assurance procedures. 
+ 
+INDEPENDENCE AND QUALITY CONTROL 
+RAM Sustainability is committed to preserving the objectivity, integrity and independence of its opinion . We are not 
+aware of any conflict of interest relating to the opinion we provide in this report. RAM Sustainability will adequately 
+disclose all related information in the report if there are such instances. 
+ 
+RAM Sustainability has conducted this engagement in acc ordance with applicable standards and requirements. The 
+work is carried out by a team of multi -disciplinary background. RAM Sustainability relied on information provided by 
+the Issuer.  
+ 
+BASIS OF THE OPINION 
+RAM Sustainability conducted the verification in accordance with the Climate Bonds Standard Version 4 and with 
+International Standard on Assurance Engagements 3000 – Assurance Engagements other than Audits or Reviews of 
+Historical Information.  
+ 
+RAM Sustainability  planned a nd performed the verification by obtaining evidence and other information and 
+explanations that RAM Sustainability considers necessary to give limited assurance that the reNIKOLA II ASEAN Green 
+SRI Sukuk meets the requirements of the Climate Bonds Standard.  
+ 
+CONCLUSION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has come to our attention that 
+causes us to believe that, in all material respects, the reNIKOLA II ASEAN Green SRI Sukuk is not in conformance with 
+the Climate Bonds Standard’s Pre-Issuance Requirements. 
+ 
+ 
+ 
+ 
+ 
+ 
+Gladys Chua 
+Chief Executive Officer 
+ 
+Kuala Lumpur, 27 July 2023 
+RAM Sustainability Sdn Bhd 
+ 
+ 
+Appendix: 
+ 
+1. Detailed Overview of Nominated Projects and Assets for Solar Power 
+ 
+2. Conformance to the Pre-Issuance Requirements of the Climate Bonds Standard 
+ 
+  
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   6 
+ 
+APPENDIX 1: DETAILED OVERVIEW OF NOMINATED PROJECTS AND ASSETS FOR SOLAR POWER 
+ 
+Details of the nominated projects are provided below: 
+Eligible 
+Activities2 
+reNIKOLA Solar II’s Nominated  
+Projects and Assets 
+RAM’s Procedure and 
+Documents Reviewed 
+Eligibility to the 
+sector criteria 
+Onshore solar 
+electricity 
+generation 
+facilities 
+Proceeds of the Green Sukuk will be used to finance and/or refinance 
+development costs associated with the following Solar Plants as well as 
+the costs relating to the issuance of the Green Sukuk:  
+ 
+i. 30 MWac Large Scale Solar PV plant located in Machang, 
+Kelantan (the Machang Plant) 
+ii. 30 MWac  Large Scale Solar PV plant located in Kuala Muda, 
+Kedah (the Kuala Muda Plant) 
+100% of  electricity generated  and exported to the grid  from the Solar 
+Plants are from  solar energy  resources. The Solar Plants however, 
+maintains backup  generator set s that ru n on diesel to power the 
+monitoring systems of the Solar Plants in the event of power shortages. 
+Reviewed reNIKOLA 
+Solar II’s Green Sukuk 
+draft principal terms and 
+conditions (PTC) dated 
+10 July 2023. 
+Sighted the Use of 
+Proceeds section of 
+reNIKOLA’s Framework. 
+Site visit to the Machang 
+plant in Kelantan, 
+Malaysia on 2 May 2023. 
+Obtained confirmation 
+from reNIKOLA Solar II, 
+dated 26 July 2023, that 
+100% of electricity 
+generated and exported 
+to the grid from the 
+Solar Plants are from 
+solar energy resources. 
+ 
+ 
+APPENDIX 2: CONFORMANCE TO THE PRE-ISSUANCE REQUIREMENTS OF THE CLIMATE BONDS STANDARD  
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+1. Utilisation of Proceeds 
+1.1 The Issuer must document the 
+nominated projects and assets which 
+are eligible  to be associated with the 
+debt instrument. The Issuer must 
+compile a list of nominated projects and 
+assets which must be kept up to date 
+during the term of the Bond. 
+Reviewed reNIKOLA’s 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+Conducted a site visit 
+to the Machang plant 
+on 2 May 2023. 
+The Framework includes solar power as an 
+eligible asset/project. The PTC also details 
+the use of proceeds for the Solar Plants. 
+The PTC lists the  proposed nominated 
+projects and assets refinanced by the 
+Green Sukuk as the Solar Plants, described 
+in Appendix 1 above.  
+reNIKOLA Solar II’s  proposed nominated 
+projects and assets  are eligible under the 
+Solar Sector Criteria. 
+ 
+1.2 The expected Net Proceeds of the debt 
+instrument must be no greater than the 
+Issuer’s total Investment Exposure to 
+the proposed nominated projects and 
+assets or the relevant proportion of the 
+total Market Value of the proposed 
+nominated projects and assets owned or 
+funded by the Issuer. 
+Sighted reNIKOLA 
+Solar II’s Project Cost 
+and Utilisation of 
+Funds spreadsheet, 
+dated 7 July 2023. 
+Sighted the Green 
+Sukuk PTC. 
+According to reNIKOLA Solar II’s Project 
+Cost and Utilisation of Funds spreadsheet, 
+the total Project Cost including the 
+development cost of the Solar Plants, land 
+cost, and other funding expenses related 
+to the development of the Solar Plants , is 
+RM512 million. 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Based on CBI’s Solar Criteria (Version 2.3) 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   7 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+ 
+The Green Sukuk proceeds have been 
+earmarked in the PTC is as follows: 
+Details on 
+Utilisation 
+Nominal Amount 
+(RM’ million) 
+To partially 
+finance/reimburse 
+the total 
+development 
+costs incurred for 
+the Solar Plants 
+325 
+To part reimburse 
+the cost of the 
+lands. 
+40 
+To prefund the 
+initial deposit of 
+the Finance 
+Service Reserve 
+Account (FSRA) 
+Minimum 
+Required Balance  
+and the amount to 
+be remitted into 
+the Project 
+Companies 
+maintenance 
+reserve account 
+(Project 
+Companies MRA) 
+(if applicable) 
+respectively under 
+the Green Sukuk 
+15 
+To pay and 
+reimburse fees, 
+expenses and all 
+other amounts 
+payable related to 
+the Green Sukuk 
+10 
+Total 390 
+According to the Green Sukuk PTC , one of 
+the conditions precedent include that the 
+Sponsor (i.e. reNIKOLA  Holdings Sdn Bhd, 
+the controlling parent company) needs to 
+have an equity contribution of 20% or 
+more of the total project costs. Therefore, 
+the Green Sukuk will fund 80% or less of 
+the total project costs. 
+Based on the findings, t he expected Net 
+Proceeds of the Green Sukuk is not greater 
+than the Issuer’s tot al investment 
+exposure to the Solar Plants. 
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   8 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+1.3 Nominated projects and assets must not 
+be nominated to other Certified debt  
+instruments, unless the Issuer 
+demonstrates that distinct portions of 
+the nominated projects and assets  are 
+being funded by different Certified debt 
+Instruments or, the existing  Certified 
+debt Instrument is being refinanced via 
+another Certified debt Instrument. 
+Obtained confirmation 
+from reNIKOLA Solar II 
+dated 26 July 2023. 
+reNIKOLA Solar II  confirms that the 
+nominated projects and assets  will not be 
+nominated to other Certified Climate 
+Bonds, Certified Climate Loans, Certified 
+Climate Debt Instrument, green bonds, 
+green loans or other labelled instruments. 
+ 
+2. Process for Evaluation and Selection of Projects and Assets 
+2.1 The Issuer must establish, document, 
+and maintain a decision-making process 
+which it uses to determine the eligibility 
+of the nominated projects and assets . 
+The decision -making process must 
+include, without limitation: 
+ 
+Reviewed reNIKOLA’s 
+Framework. 
+Conducted interview 
+with reNIKOLA’s 
+management to 
+understand the 
+decision-making 
+process in place that is 
+used to determine the 
+eligibility of the 
+nominated projects 
+and assets. 
+Sighted reNIKOLA’s 
+Management 
+Framework. 
+Obtained confirmation 
+from reNIKOLA Solar II 
+dated 26 July 2023. 
+reNIKOLA’s process for evaluation and 
+selection of projects and assets are 
+described in the Framework . As part of 
+project evaluation and screening process, 
+the Group will conduct applicable 
+environmental and social impact 
+assessments to identify and manage 
+potential impacts on the environment and 
+communities surrounding the project site. 
+During the interview with reNIKOLA’s 
+management, we understand that the 
+Green Financing Committee will assess the 
+eligibility of the projects/assets  and make 
+recommendations of eligible projects for 
+approval by the Board of Directors. 
+The Group’s decision -making process is 
+guided by a Management Framework 
+which drives their investment decision 
+processes, compliance to regulations and 
+management of environmental, social and 
+financial risks. 
+reNIKOLA Solar II has also confirmed that 
+the assessment and evaluation of eligible  
+projects/assets are overseen and 
+approved by the Board of Directors. 
+ 
+2.1.1 A statement on the climate -related 
+objectives of the debt instrument. 
+Reviewed the Green 
+Sukuk PTC. 
+Reviewed reNIKOLA’s 
+Framework. 
+reNIKOLA Solar II 's Green Sukuk PTC  
+contains the following statement on the  
+climate-related objectives of the Green 
+Sukuk: 
+“The Issuer through the Project Companies 
+aims to play a role in the global drive to 
+create a low -carbon, climate -resilient 
+future and sustainable world by 
+undertaking renewable energy projects 
+and thus contributing to reducing the 
+nation’s dependence on power generated 
+using fossil fuels which is aligned with 
+several national roadmaps such as 
+National Energy Policy and Malaysia 
+Energy Transition Outlook that aims to 
+boost renewable energy share to 70% in 
+Malaysia’s installed capacity mix by 20 50. 
+The electricity generated/ to be generated 
+from the Plants is expected to contribute 
+towards sustainable electricity supply and 
+the reduction of carbon emission in 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   9 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+Malaysia which is in line with the National 
+Renewable Energy Policy and National 
+Green Technology Policy of Malaysia.” 
+reNIKOLA also listed out in the Framework 
+the alignment of its Eligible Projects to UN 
+Sustainable Development Goals (SDG) 7: 
+Affordable and Clean Energy , 9 : Industry, 
+Innovation and Infrastructure , and 13: 
+Climate Action.  
+2.1.2 How the climate -related objectives of 
+the debt instrument are positioned 
+within the context of the Issuer’s 
+overarching objectives, strategy, policy 
+and/or processes  relating to 
+environmental sustainability. 
+Reviewed reNIKOLA’s 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+reNIKOLA's Framework contain s the 
+following statement on the climate-related 
+objectives of the Group’s green financing 
+strategy: 
+“As a pure RE player, sustainability remains 
+the centrepiece of our corporate strategy, 
+and reNIKOLA is keen to play a leading role 
+in directing investments into green 
+projects and activities that will create long-
+term values for the environment, local 
+economies, and pe ople. These 
+investments will generate positive impacts 
+through the creation of employment, the 
+development of social projects and the 
+production of 100% RE that is aligned with 
+several national roadmaps such as 
+National Energy Policy and Malaysia 
+Energy Transition Outlook to reduce the 
+nation’s dependence on power generated 
+using fossil fuels and boost renewables 
+share to 70% in Malaysia’s installed 
+capacity mix by 2050.” 
+This is in line with the climate -related 
+objectives of the Green Sukuk which is to 
+play a role in creating  a low -carbon, 
+climate-resilient future  and sustainable 
+world by undertaking renewable energy 
+projects i.e. the Solar Plants . As per the 
+Green Sukuk PTC, the principal activities of 
+the Issuer are to provide operations and 
+maintenance, treasury and management 
+services for solar power plants. 
+ 
+2.1.3 The Issuer’s rationale for issuing the 
+Bond. 
+Reviewed reNIKOLA’s 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+reNIKOLA Solar II’s rationale for issuing the 
+Green Sukuk  is to part refinance  the 
+project costs of the Solar Plants, as well as 
+the costs relating to the issuance. The Solar 
+Plants are eligible projects under the 
+Framework. 
+ 
+2.1.4 A process to determine whether the 
+nominated projects and assets meet the 
+eligibility requirements of the Climate 
+Bonds Standard. 
+Reviewed reNIKOLA’s 
+Framework. 
+reNIKOLA has documented in the 
+Framework the process to determine 
+whether the nominated projects and 
+assets meet the eligibility criteria, 
+including that  of the Climate Bonds 
+Standard for relevant green financing of 
+projects/assets.  
+The selection of eligible projects is 
+managed by a Green Financing Committee, 
+comprising of senior management 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   10 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+representatives from Sustainability, 
+Finance, and Projects departments , using 
+the Eligibility Criteria  described in the 
+Framework. 
+The energy gener ated by the Solar Plants 
+are 100% RE and contributes directly to 
+national energy roadmaps mentioned in 
+2.1.2 above. 
+2.1.5 Related Sector Criteria, including any 
+exclusion criteria and any other process, 
+applied to identify and manage 
+potentially material environmental or 
+governance risks associated with the 
+nominated projects and assets. 
+Reviewed reNIKOLA’s 
+Framework. 
+Sighted reNIKOLA’s 3-
+year ESG Plan. 
+Included in the Framework is the following: 
+“The certification by CBI of compliance of 
+the Green Sukuk and/or other applicable 
+Green Financing (if any) with the Climate 
+Bonds Standard will be related to the 
+sector criteria falling under Solar Energy, 
+Hydropower or Bioenergy.” 
+The Framework also describes an exclusion 
+criteria against the financing of any fossil 
+fuel energy generation. 
+According to reNIKOLA’s 3 -year ESG Plan 
+(2021-2024), reNIKOLA plans to certify 
+their operations under ISO 9001 (Quality 
+Management System) by 2023, and ISO 
+45001:2018 (Occupational Health  and 
+Safety Management System), and ISO 
+14001:2015 (Environmental Management 
+System) by 2024.  
+ 
+2.1.6 Any green standards or certifications 
+referenced in the selection of 
+nominated projects and assets. 
+Reviewed reNIKOLA’s 
+Framework. 
+The Framework references green assets 
+that are aligned with the Green Bond 
+Principles, Green Loan Principles, ASEAN 
+Green Bond Standards, Sustainable and 
+Responsible Investment Sukuk Framework, 
+ASEAN Taxonomy for Sustainable Finance, 
+and Principles -Based S ustainable and 
+Responsible Investment Taxonomy. 
+ 
+ 
+3. Management of Proceeds 
+3.1 The Issuer must document and disclose 
+to the Approved Verifier the systems,  
+policies, and processes they will use to 
+manage the Net Proceeds. These must 
+include arrangements for the following 
+activities: 
+Reviewed reNIKOLA’s 
+Framework. 
+reNIKOLA’s process for management of 
+proceeds is described in the Framework. 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   11 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+3.1.1 The Net Proceeds of the debt 
+instrument can be credited  to a sub -
+account, moved to a sub-portfolio, or 
+otherwise tracked by the Issuer in an  
+appropriate manner and documented. 
+Reviewed reNIKOLA’s 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+As documented under the Management of 
+Proceeds section of the Framework: 
+ “The net proceeds of the Green Financing 
+will be deposited into designated 
+accounts, with an equivalent amount 
+earmarked for identified Eligible 
+Investments. The designated accounts for 
+disbursement of proceeds of the Green 
+Financing earmarked for Eligible 
+Investments will be oper ated by the 
+security trustee or agent  and will be 
+Shariah compliant bank accounts in the 
+case where the Green Financing is Islamic 
+Financing.” 
+As described in the Green Sukuk PTC , the 
+Green Sukuk’s proceeds will be deposited 
+to a designated account known a s the 
+Issuer Disbursement Account (Issuer DA), 
+with an equivalent amount to be 
+earmarked against the Solar Plants. The 
+Issuer DA will be operated by the security 
+trustee, Malaysian Trustees Bhd.  
+ 
+3.1.2 The balance of unallocated Net 
+Proceeds can be  managed as per the 
+requirements in Clause A.3.3.3. 
+Reviewed reNIKOLA’s 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+The Framework states that any 
+unallocated proceeds in the designated 
+accounts will be invested in fixed deposits, 
+money market instruments, treasury bills, 
+or other approved instruments. For Islamic 
+Green Financing, the investments will be 
+Shariah-compliant and approved by 
+relevant Shariah Advisory Councils. 
+The Green Sukuk PTC describes that 
+unallocated proceeds of the Green Sukuk  
+may be used for Permitted Investments . 
+Permitted Investments shall be  Shariah-
+compliant investment products approved 
+by the  Securities Commission’s (SC) 
+Shariah Advi sory Council ( SAC) and/or 
+Bank Negara Malaysia’s (BNM) SAC and/or 
+such other recognised Shariah authorities. 
+ 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   12 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+3.1.3 An earmarking process can  be used to 
+manage and account for funding to the 
+nominated projects and assets  and 
+enables estimation of the share of the 
+Net Proceeds being used for financing  
+and refinancing. 
+Reviewed reNIKOLA's 
+Framework. 
+Reviewed the Green 
+Sukuk PTC. 
+reNIKOLA’s Green Financing Framework 
+describes the process used to allocate and 
+manage Green Sukuk proceeds: 
+“reNIKOLA will track the use of proceeds of 
+Green Financing to make sure that they are 
+used to finance or refinance Eligible 
+Investment projects described under 
+section “Use of Proceeds ” in this 
+Framework. The disbursement of proceeds 
+of the Green Financing earmark ed for 
+Eligible Investments will be supported by 
+the relevant documentary evidence, such 
+as invoices, billings, and/or other 
+documentary evidence as may be 
+requested by the security trustee or 
+agent.” 
+The Green Sukuk proceeds have been 
+earmarked in the PTC is as follows: 
+Details of 
+Utilisation 
+Nominal Amount 
+(RM’ million) 
+To partially 
+finance/reimburse 
+the total 
+development 
+costs incurred for 
+the Solar Plants 
+325 
+To part reimburse  
+the cost of the 
+lands. 
+40 
+To prefund the 
+initial deposit of 
+the Finance 
+Service Reserve 
+Account (FSRA) 
+Minimum 
+Required Balance  
+and the amount to 
+be remitted into 
+the Project 
+Companies MRA 
+(if applicable) 
+respectively under 
+the Green Sukuk 
+15 
+To refinance fees, 
+expenses and all 
+other amounts 
+payable related to 
+the Green Sukuk 
+10 
+Total 390 
+ 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   13 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+3.2 Where the prospectus requires the 
+proceeds to be ring -fenced, they must 
+be credited to designated bank accounts 
+that can only fund the specified 
+nominated projects and assets . The 
+Issuer must track and monitor all 
+payments from the  designated bank 
+accounts. 
+Reviewed the Green 
+Sukuk PTC. 
+Reviewed reNIKOLA’s 
+Framework 
+As described in the Green Sukuk PTC, the 
+Green Sukuk’s proceeds will be deposited 
+to a designated account known as the 
+Issuer Disbursement Account (Issuer DA), 
+with an equivalent amount to be 
+earmarked against the Solar Plants. The 
+Issuer DA will be operated by the security 
+trustee, Malaysian Trustees Bhd.  
+The Framework describes that 
+disbursement of funds from the 
+designated account will be  supported by 
+documentation such as invoices, billings 
+and/or other evidence which may be 
+requested by the security trustee. 
+ 
+4. Reporting Prior to Issuance 
+4.1 The Issuer must prepare a Green 
+Finance Framework and make it publicly 
+available prior to, or at the time of, 
+issuance. The Green Finance Framework 
+must be provided to the  Climate Bonds 
+Standard Secretariat as one of the 
+certification documents.  The Green 
+Finance Framework must include: 
+ 
+Sighted reNIKOLA’s 
+Framework. 
+reNIKOLA has prepared a Green Financing 
+Framework, which will be made publicly 
+available on their website, at the time of 
+the Green Sukuk’s issuance.  The Green 
+Sukuk is guided by reNIKOLA’s Green 
+Financing Framework and is issued by 
+reNIKOLA Solar II, a wholly owne d 
+subsidiary or reNIKOLA. 
+ 
+4.1.1 A statement of compliance with the 
+Climate Bonds Standard and/or other  
+applicable standards such as the Green 
+Bond Principles or the United Nations  
+Sustainability Development Goals. 
+Sighted the 
+confirmation on 
+alignment with 
+Climate Bonds 
+Standard in the 
+Framework. 
+It is stated in the Framework that: 
+“reNIKOLA Group has sought a Climate 
+Bonds Initiative (CBI) certification for its 
+upcoming Green Sukuk, and may seek the 
+CBI certification for its other Green 
+Financing in the future (if any). The 
+certification by CBI of compliance of the 
+Green Sukuk and/or other a pplicable 
+Green Financing (if any) with the Climate 
+Bonds Standard will be related to the 
+sector criteria falling under Solar Energy, 
+Hydropower, or Bioenergy.” 
+The Framework has also stated that  any 
+Green Financing (in this case, Green Sukuk) 
+issued under the Framework is intended to 
+align with the Green Bond Principles, 
+Green Loan Principles, ASEAN Green Bond 
+Standards, Sustainable and Responsible 
+Investment Sukuk Framework, ASEAN 
+Taxonomy for Sustainable Finance, and 
+Principles-Based Sustainable an d 
+Responsible Investment Taxonomy. 
+ 
+4.1.2 A summary of the expected use of 
+proceeds. 
+Sighted the expected 
+use of proceeds under 
+reNIKOLA’s 
+Framework and the 
+Green Sukuk’s PTC. 
+Proceeds from the Green Sukuk will be 
+used to part finance/reimburse the total  
+development costs incurred for  the Solar 
+Plants, which are eligible projects under 
+the Framework. Please refer to the 
+breakdown of the use of proceeds under 
+3.1.3. 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   14 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+4.1.3 A description of the decision -making 
+process for project selection. 
+Sighted the 
+description of the 
+decision-making 
+process under 
+reNIKOLA's 
+Framework. 
+ 
+The Framework provides detail on its 
+decision-making process. 
+ 
+4.1.4 A description of the Issuer’s processes 
+for managing the proceeds. 
+Reviewed reNIKOLA's 
+Framework. 
+reNIKOLA’s process for management of 
+proceeds is described in the Framework. 
+ 
+4.1.5 A description of the Issuer’s processes 
+for reporting and external review or  
+verification. 
+Reviewed reNIKOLA's 
+Framework. 
+reNIKOLA’s process for reporting and 
+external review or verification is described 
+in the Framework. 
+ 
+4.2 The Green Finance Framework should also include, without limitation: 
+4.2.1 Information on the methodology and 
+assumptions to be used for confirming 
+that the characteristics or performance 
+of the nominated projects and assets  
+conform to the relevant Sector Criteria, 
+where required, and any other 
+additional impact metrics that the Issuer 
+will define. 
+Reviewed the Green 
+Sukuk PTC. 
+Reviewed reNIKOLA's 
+Framework. 
+reNIKOLA Solar II’s nominated projects and 
+assets under the Green Sukuk  are eligible 
+under the Solar sector criteria. 
+They are also eligible under reNIKOLA’s 
+Framework.  
+reNIKOLA Solar II  may report on the 
+following impact metrics: 
+i) Total installed capacity of the Solar 
+Plants (MWh) 
+ii) Estimated annual GHG emissions 
+avoided (tCO2 eq/year). 
+iii) Annual renewable energy generation 
+(MWh or GWh) 
+ 
+ 
+4.2.2 A summary of the approach to manage 
+unallocated Net Proceeds in accordance 
+with Clause A.3.3.3. 
+Sighted the approach 
+to the management of 
+unallocated net 
+proceeds under 
+reNIKOLA's 
+Framework. 
+ 
+reNIKOLA has disclosed its approach in the 
+management of unallocated proceeds in 
+accordance with Clause A.3.3.3. 
+ 
+4.2.3 The intended approach to provide 
+Update Reports to reaffirm 
+conformance with  the Climate Bonds 
+Standard while the debt instrument 
+remains outstanding. 
+ 
+Sighted the intended 
+approach to providing 
+Update Reports under 
+reNIKOLA's 
+Framework. 
+reNIKOLA has stated in the Framework 
+their approach to issue annual update 
+reporting of applicable Bonds/Sukuk to 
+reaffirm their conformance with th e 
+Climate Bonds Standard: 
+“reNIKOLA Group will also issue annual 
+update reporting of such certification  to 
+reaffirm conformance with the said 
+Standard The pre issuance and post 
+issuance reports will also be made 
+available on reNIKOLA's website” 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   15 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+4.2.4 The list of proposed nominated projects 
+and assets  associated with the debt  
+instrument and the investment areas 
+into which the nominated projects and 
+assets fall. Where there are limits on the 
+detail that can be made publicly 
+available about specific nominated 
+projects and assets , information 
+disclosed must include  the investment 
+areas into which the nominated projects 
+and assets fall and an explanation of why 
+detail on nominated projects and assets 
+is limited. 
+Sighted the list of 
+proposed nominated 
+projects and assets in 
+the Green Sukuk PTC 
+and the investment 
+areas under 
+reNIKOLA’s 
+Framework. 
+reNIKOLA Solar II has listed the Solar Plants 
+as nominated projects and assets  in the 
+Green Sukuk  PTC. reNIKOLA Solar II ’s 
+nominated projects and assets  fall under 
+the Solar sector criteria and are considered 
+eligible projects under the eligibility 
+criteria of reNIKOLA’s Framework. 
+ 
+4.2.5 Where a proportion of the Net Proceeds 
+are used for refinancing, an estimate  of 
+the respective shares of the Net 
+Proceeds used for financing and 
+refinancing, and the relevant nominated 
+projects and assets or investment areas 
+which may be refinanced. This may also 
+include the expected look -back period 
+for refinanced  nominated projects and 
+assets. 
+Sighted the Green 
+Sukuk PTC. 
+reNIKOLA Solar II 's states in i ts PTC of the 
+Green Sukuk  that that 83.3% (RM325 
+million) will be used to partially 
+finance/reimburse the total development 
+cost incurred by the Solar Plants. A portion 
+of the proceeds (RM4 0 million or 1 0.3 %) 
+will be used to part reimburse the cost of 
+the lands. The remainder (RM25 million or 
+6.4%) will be used (i) to pre-fund the FSRA 
+and the amount to be remitted into the 
+Project Companies MRA and, (ii) to pay and 
+reimburse fees, expenses and all other 
+amounts payable under or related to the 
+issuance of the Green Sukuk. 
+ 
+4.3 The Issuer must include in the Disclosure Documentation: 
+4.3.1 The investment areas into which the 
+nominated projects and assets fall. 
+Sighted the 
+investment areas 
+under reNIKOLA's 
+Framework and the 
+PTC of the Green 
+Sukuk. 
+reNIKOLA's Framework describes the 
+investment areas which the nominated 
+projects and assets fall which are 
+renewable energy projects, namely Solar, 
+Bioenergy and Hydro. 
+The proceeds of the Green Sukuk issued 
+under the Framework will be used to 
+refinance the development costs of the 
+Solar Plants. 
+ 
+
+ 
+ 
+                                           reNIKOLA Solar II Sdn Bhd   16 
+ 
+No. Requirement 
+RAM’s Procedures 
+and Documents 
+Reviewed 
+Findings Conformance to 
+the Standard 
+4.3.2 The intended types of temporary 
+investment instruments for the 
+management of  unallocated Net 
+Proceeds in accordance with Clause 
+A.3.3.3. 
+Sighted the intended 
+types of temporary 
+investment 
+instruments for the 
+management of 
+unallocated Net 
+Proceeds under 
+reNIKOLA's 
+Framework. 
+Sighted the Green 
+Sukuk PTC. 
+ 
+The intended types of temporary 
+investment instruments for the 
+management of unallocated Net Proceeds 
+disclosed under the Framework are in 
+accordance with Clause A.3.3.3 of the 
+Climate Bonds Standard. 
+The Framework states that a ny 
+unallocated proceeds in the designated 
+accounts will be invested in fixed deposits, 
+money market instruments, treasury bills, 
+or other approved instruments. For Islamic 
+Green Financing, the investments will be 
+Shariah-compliant and approved by 
+relevant Shariah Advisory Councils. 
+The Green Sukuk PTC describes that 
+unallocated proceeds of the Green Sukuk 
+may be used for Permitted Investments. 
+Permitted Investments shall be Shariah-
+compliant investment products approved 
+by the SC’s SAC and/or BNM’s SAC and/or 
+such other recognised Shariah authorities. 
+ 
+ 
+ 
+4.3.3 The Approved Verifier engaged by the 
+Issuer for the mandatory  Verification 
+Engagements. 
+Reviewed the Green 
+Sukuk PTC. 
+Reviewed reNIKOLA’s 
+Framework. 
+reNIKOLA has stated in the Framework and 
+the Green Sukuk PTC that it has appointed 
+RAM Sustainability, who is an approved 
+verifier for the certification of Climate 
+Bonds under Climate Bonds Standard and 
+Certification Scheme,  to carry out a pre - 
+and post-issuance verification exercise on 
+the Green  Sukuk based on the Climate 
+Bonds Standard requirements. 
+ 
+4.3.4 The intended approach to provide 
+Update Reports to reaffirm 
+conformance with the Climate Bonds 
+Standard while the debt instrument 
+remains outstanding,  including the 
+location of the published documents. 
+Sighted the intended 
+approach to providing 
+Update Reports under 
+reNIKOLA's 
+Framework. 
+reNIKOLA has disclosed in the Framework 
+that it will do the mandatory pre -issuance 
+and post -issuance certifications  for 
+Bonds/Sukuk pursuing or having Climate 
+Bonds Standard Certifications . reNIKOLA 
+also intends to issue annual update reports 
+to reaffirm conformance with the Climate 
+Bond Standard, while the  applicable 
+Bond/Sukuk remains outstanding. 
+ 
+4.3.5 The Climate Bonds Initiative Disclaimer 
+provided in the Certification Agreement. 
+Sighted the CBI 
+Disclaimer provided in 
+the draft Information 
+Memorandum. 
+ 
+RAM Sustainability has sighted the CBI 
+Disclaimer on 27 July 2023  in the draft 
+Information Memorandum of the Green 
+Sukuk.

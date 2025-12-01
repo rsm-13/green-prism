@@ -1,0 +1,1494 @@
+Kestrel Verifiers | Verifier’s Report | June 2020 A-1 
+ 
+ 
+ 
+ 
+ 
+ 
+VERIFIER’S REPORT 
+ 
+ 
+Milwaukee Metropolitan Sewerage District  
+General Obligation Sewerage System Refunding Bonds 
+Series 2020D (Green Bonds) – “Series 2020D Green Bonds” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for: Milwaukee Metropolitan Sewerage District 
+ 
+June 3, 2020 
+ 
+ 
+ 
+ 
+ 
++1 541.399.6286          info@kestrelverifiers.com            www.kestrelverifiers.com          2700 Wells Drive, Hood River, OR 97031  
+
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-2 
+VERIFIER’S REPORT 
+ 
+Milwaukee Metropolitan Sewerage District General Obligation Sewerage System Refunding 
+Bonds, Series 2020D (Green Bonds) 
+ (“Series 2020D Green Bonds”)  
+ 
+Issuer: Milwaukee Metropolitan Sewerage District 
+Project: Capital Improvements 
+Green Category: Water Infrastructure 
+Location: 200 Waterfront Place, City of West Milwaukee, Wisconsin, USA 
+Financing value: Approximately $28 million* 
+Evaluation Date:  June 3, 2020 
+Lead Verifier: Evan Smith, M.S. 
+ 
+CONTENTS 
+Transaction Overview ................................................................................................................................... 3 
+About the Issuer ............................................................................................................................................ 3 
+About the Verification Engagement ............................................................................................................. 4 
+MMSD’s Responsibilities for Climate Bonds Verification ......................................................................... 4 
+Verifier’s Responsibilities .......................................................................................................................... 4 
+Relevant Climate Bonds Sector Criteria and Other Standards .................................................................. 4 
+Independence and Quality Control ........................................................................................................... 4 
+Assurance Approach ................................................................................................................................. 5 
+Conformance with the Climate Bonds Standard .......................................................................................... 5 
+Project Description .................................................................................................................................... 5 
+Alignment with United Nations Sustainable Development Goals ............................................................ 8 
+Use of Proceeds ........................................................................................................................................ 8 
+Project Evaluation and Selection .............................................................................................................. 9 
+Management of Proceeds ......................................................................................................................... 9 
+Reporting ................................................................................................................................................ 10 
+Opinion ........................................................................................................................................................ 11 
+ 
+Appendix A. Climate Bonds Standard Water Infrastructure Adaptation & Resilience Scorecard 
+ 
+ 
+ 
+* The financed amount is subject to change until the Guaranteed Maximum Price is finalized and the bonds are sold. However, 
+the total amount financed shall not exceed $28 million. 
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-3 
+TRANSACTION OVERVIEW  
+Milwaukee Metropolitan Sewerage District (MMSD)  plans to issue  approximately $28 million in 
+Milwaukee Metropolitan Sewerage District General Obligation Sewerage System Refunding Bonds, Series 
+2020D (Green Bonds) (“Series 2020D Green Bonds”). 
+MMSD proposes refunding capital improvements from the General Obligation Sewerage System Bonds , 
+Series 2010L (Taxable Build America Bonds -Direct Payment) (“Series 2010L Build America Bonds”)  with 
+Certified Climate Bonds, an internationally accepted green bond standard. MMSD’s 2020D Bonds will pay 
+for the remaining called portion of the Series 2010L Bonds. This original financing involves a variety of 
+capital projects from 2010-2014, part of the 2010 -2020 Capital Improvement Plan,  ranging from water 
+reclamation facilities to conveyance and storage system upgrades, and green infrastructure to reduce 
+flooding and stormwater runoff. The capital improvements will result in increased operational efficiency, 
+reduced energy use, improved sanitation services, reduced flooding, and improved water quality  in the 
+greater Milwaukee, Wisconsin area. 
+This Verifier’s Report reflects Kestrel Verifier s’ view of MMSD’s projects and financing, allocation and 
+oversight, and conformance of the bonds with the Climate Bonds Standard (V3.0), and the  Water 
+Infrastructure sector criteria. In our opinion, the Series 2020D Green Bonds to be issued by MMSD  are 
+completely aligned with the Climate Bonds Standard and the Water Infrastructure criteria. 
+ABOUT THE ISSUER 
+The Milwaukee Metropolitan Sewerage District (M MSD or the District ) provides sewerage services in 
+Milwaukee, Wisconsin. MMSD captures and treats 98.5% of the wastewater generated across the service 
+area along the southwestern shore of Lake Michigan. MMSD ranks among the largest sewerage utilities 
+in the country, encompassing a service area of nearly 411 square miles , serving 28 municipalities with a 
+total population of about 1.1 million people.   
+MMSD’s primary mission  is to protect public health and the environment through world -class, cost-
+effective water resource management, leadership, and partnership . MMSD operates and maintains an 
+extensive array of facilities. The organization’s two water reclamation facilities —Jones Island and South 
+Shore, with a combined maximum plant capacity of 630 million gallons daily—are the centers of MMSD’s 
+services. 
+MMSD has set aggressive goals to improve its environmental impact and sustainability through the MMSD 
+2035 Vision , a plan  which envisions a healthier Milwaukee region and a cleaner Lake Michigan 
+accomplished through leadership in attaining zero sewage overflows, zero basement sewage backups, 
+and improved storm water management . The District also adopted an Urban Biodiversity Plan, a 
+Sustainability Plan, an Energy Plan, and a Resilience Plan. The organization has an updated GHG Emissions 
+Inventory and a robust Climate Change Vulnerability Analysis conducted in 2014.  MMSD has a laudable 
+goal to reduce its carbon footprint by 90% from baseline conditions by 2035. 
+MMSD intends to use the proceeds  of the Series 2020D Green Bonds exclusively to refund the Series 
+2010L Build America Bonds  and the associated  capital improvement projects, capitalized interest and 
+financing costs, which are described more fully later in this report.  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-4 
+ABOUT THE VERIFICATION ENGAGEMENT 
+MMSD engaged Kestrel Verifiers to provide a pre-issuance, independent verification on the alignment of 
+the Series 2020D Green Bonds with the Climate Bonds Standard and Certification Scheme—which includes 
+the Climate Bonds Standard (V3.0) and Water Infrastructure sector criteria. The Series 2020D Bonds are 
+the first to be issued under MMSD’s Programmatic Certification Scheme. The Climate Bonds Initiative (the 
+“CBI”) administers the standard and sector criteria.  
+Kestrel Verifiers is a Climate Bonds Initiative Approved Verifier. The Kestrel review team included a water 
+resources engineer and other environmental scientists . We performed a Reasonable Assurance 
+engagement for MMSD’s Series 2020D Green Bonds to provide an independent verification as to whether 
+the subject matter meets, in all material respects, the relevant criteria, defined later. Additionally, Kestrel 
+Verifiers examined alignment of the Series 2020D Gree n Bonds with the United Nations Sustainable 
+Development Goals (“SDGs”).  
+For this engagement, Kestrel Verifiers reviewed MMSD ’s green bond framework  and relevant plans,  
+examined public and non -public information, and interviewed members of MMSD ’s management and 
+finance teams. Our goal was to understand sustainability impacts of the business, the planned use of 
+proceeds, procedures for managing proceeds, and plans and prac tices for reporting. This document 
+contains Kestrel’s opinion of the Series 2020D Green Bonds. 
+MMSD’s Responsibilities for Climate Bonds Verification 
+MMSD is responsible for providing detailed information and documents relating to: 
+• the details of the capital improvements and the corresponding project selection process; 
+• record keeping and internal controls;  
+• how the projects meet the criteria; and 
+• reporting and procedures for reporting on the Series 2020D Green Bonds. 
+Verifier’s Responsibilities 
+Kestrel Verifiers’ responsibilities for confirming alignment of the Series 2020D Green Bonds  with the 
+Climate Bonds Standard and Water Infrastructure criteria include:  
+• assess and certify MMSD ’s internal processes and controls , including s election process for 
+projects and assets, internal tracking of proceeds, and the allocation system for funds; 
+• assess policies and procedures established by MMSD, including reporting;  
+• assess the readiness of MMSD to meet the Climate Bonds Standard ( V3.0) and Water 
+Infrastructure sector criteria; and 
+• express a Reasonable Assurance conclusion. 
+Relevant Climate Bonds Sector Criteria and Other Standards 
+The Series 2020D Green Bonds align with the Climate Bond Initiative’s Climate Bonds Standard (V3.0) and 
+Water Infrastructure criteria.  
+  
+Independence and Quality Control 
+Kestrel Verifiers is providing an independent opinion on the conformance of these Series 2020D Green 
+Bonds with the Water Infrastructure  criteria of the Climate Bonds Standard. For almost twenty years, 
+Kestrel has worked at the intersection of finance and sustainability, helping clients to advance water, 
+
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-5 
+energy, and environmental projects. Kestrel relies on our experienced team of dedicated profess ionals, 
+our qualified judgment , and our attention to detail to ensure the highest quality assessment and 
+verification. Kestrel Verifiers certifies that there is no affiliation, involvement, financial or non -financial 
+interest in the issuer or the projects discussed. Language in the offering disclosure supersedes any 
+language included in this Verifier’s Report. 
+Assurance Approach 
+Kestrel Verifiers’ responsibility was to conduct a Reasonable Assurance engagement to determine 
+whether MMSD’s Series 2020D Green Bonds met, in all material respects, the requirements of the Climate 
+Bonds Standard. Our reasonable assurance was conducted in accordance with the Climate Bonds 
+Standard (V3.0) and the International Standard on Assurance Engagements (ISAE) 3000: Assurance 
+Engagements Other than Audits or Reviews of Historical Financial Information.  Reasonable Assurance 
+engagements offer a high level of scrutiny over the bond -financed activities and allow the Verifier to 
+positively conclude whether those activities meet the specified criteria. 
+Kestrel Verifiers has relied on information provided by MMSD . There are inherent limitations in 
+performing assurance, and fraud, error or non -compliance may occur and not be detected. Kestrel 
+Verifiers is not responsible or liable for any opinions, findings or conclusions that are incorrect. Our 
+assurance is limited to MMSD’s policies and procedures in place as of June 3, 2020, ahead of the issuance 
+of the Series 2020D Green Bonds . The distribution and use of this assurance report are  at the sole 
+discretion of MMSD. Kestrel Verifiers does not accept or assume any responsibility for distribution to any 
+other person or organization. 
+CONFORMANCE WITH THE CLIMATE BONDS STANDARD 
+Project Description 
+The Milwaukee Metropolitan Sewerage District General Obligation Sewerage System Refunding Bonds , 
+Series 2020D (Green Bonds), herein referred to as the “Series 2020D Green Bonds” is MMSD’s second 
+green bond.  The Series 2020D Green Bonds  will refund financing fo r MMSD’s 2010-2014 capital 
+improvements, which are described in Appendix A of the Green Bond Framework and fall in these general 
+categories: 
+• Jones Island Water Reclamation Facility 
+• South Shore Water Reclamation Facility 
+• Interplant Pipeline 
+• Conveyance 
+• Inline Storage System 
+• Watercourse and Flood Management 
+• Laboratory Equipment 
+• Facilities Planning 
+ 
+Project Highlights: 
+MMSD has multiple innovative projects and progressive approaches to water resource management 
+that have been funded in whole or in part with bonds previously issued by MMSD. 
+. 
+ 
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-6 
+Water Reclamation Facility Upgrades: Both the Jones Island and South Shore Water Reclamation Facilities 
+required equipment upgrades and replacements to ensure that MMSD would continue to meet its high 
+standards for water reclamation. These projects reduced energy use and improved operational efficiency, 
+and included: 
+• Secondary Clarifier Drive Replacement 
+• Dewatering & Drying Belt Variable-frequency Drive Replacement 
+• Gas Turbine Replacement 
+• Aeration Control System Upgrade 
+• Improvements to the Central Control System 
+• Sewer System Capacity Improvements 
+• Aeration Basin Diffuser Replacement 
+• Computer Room HVAC Replacement 
+• SCADA Back-up Communications Systems 
+Watershed Restoration Projects: MMSD works to provide environmentally responsible flood protection 
+and has discretionary authority to make improvements to watercourses contained in the six watersheds 
+within their service area. Flood abatement projects, sediment transport studies, and stream restoration 
+were all part of the capital improvements funded by the Series 2010L Build America Bonds. These projects  
+help to improve community health and the natural environment by reducing the risk of flooding. 
+Greenseams® Natural Areas Program  and Green Infrastructure : The Series 2020L Build America Bonds 
+partially funded the District’s Greenseams ® project. Greenseams® is an innovative flood management 
+program that permanently protects key lands containing water- absorbing soils, and sequesters carbon. 
+MMSD has implemented this program to help municipalities  in the District meet their commitments to 
+address stormwater runoff and improve water quality.  Green infrastructure also helps reduce inflows to 
+the MMSD system.  Green infrastructure projects are a high priority for the District going forward due to 
+their multiple community benefi ts that align with the District’s various sustainability plans.  The District 
+plans to implement Phase 2 of the Greenseams Program in the future, additional Community Based Green 
+Infrastructure Projects, and many other watercourse and flood management projects. 
+ 
+Milorganite® Production : MMSD has been recycling  biosolids since 1926 to make a nutrient -rich 
+byproduct that is transformed into a highly effective fertilizer and sold commercially. The District produces 
+Milorganite®—a premier organic fertilizer which is all-natural, pesticide-free, and free of mined resources 
+and synthetics. Milorganite production is currently the most cost -effective solution for disposal of 
+biosolids from the Jones Island and South Shore Water Reclamation Facilities , and  MMSD plans to 
+continue to improve these facilities in the future.  
+ 
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-7 
+Sector Criteria 
+Water Infrastructure Criteria 
+MMSD’s bond-financed activities align with the Water Infrastructure Criteria under the Asset Class “Water 
+Treatment/Installation or upgrade of water treatment infrastructure ” as shown in Figure 1 . An orange 
+circle indicates that the eligibility of these assets or projects is conditional on meeting  specific 
+requirements per the Mitigation and/or Adaptation and Resilience requirements of the Criteria. 
+ 
+Figure 1. Eligible Asset Types 
+Source: Climate Bonds Standard – Water Infrastructure Criteria, April 2018, Table I  
+ 
+• Water Infrastructure Mitigation Requirements  
+As per CBI,  “The Mitigation Component of the Water Infrastructure Criteria is intended to provide 
+transparency over the impact that the use of proceeds will have on GHG emissions and the degree of 
+mitigation that will be delivered over the operational lifetime of the project or asset. For use of 
+proceeds subject to a Mitigation Assessment as indicated by an orange circle, they are eligible for 
+certification only if: No net GHG emissions impact is expected, and the issuer discloses the justification 
+for this decision.” 
+It is Kestrel Verifiers’ opinion that there will be no net increase in GHG emissions as a result of financed 
+projects. MMSD’s Green Bond Framework Appendix A  shows many projects that  will result in  
+increased operational and energy efficiency. Since the treatment capacity remains the same, n o net 
+GHG emissions increase is expected. Furthermore, addition of natural areas and open space through 
+the Greenseams Program, can be seen as a net negative for GHG emissions impact.  
+• Water Infrastructure Adaptation and Resilience Requirements  
+As per CBI, “The Adaptation & Resilience Component of the Water Infrastructure Criteria is intended 
+to provide transparency over the asset’s resilience to climate change as well as its impact on other 
+stakeholders’ resilience to climate change. Such stakeholder impacts include their access to water in 
+sufficient quantity and sufficient quality. From this perspective, ecosystems are also conside red a 
+stakeholder.” 
+Assets and projects that are demarcated with an orange circle in the Adaptation and Resilience 
+column of Figure 1 and have an expected or remaining operational lifespan of more than 20 years are 
+subject to a Vulnerability Assessment / A daptation Plan Evaluation. Figure 2 shows the CBI decision 
+tree for this component of the criteria. 
+
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-8 
+ 
+Figure 2. Decision tree for the Adaptation & Resilience component of the Water 
+Infrastructure Criteria 
+Source: CBI Water Infrastructure Criteria, April 2018, Figure 1. 
+ 
+As the operational  life for the wastewater treatment plants and related infrastructure  is greater than 
+20 years, a vulnerability assessment was conducted. This is attached in Appendix A of this Verifier’s 
+Report. MMSD scored 78 points out of 100  points, exceeding the threshold of 60% in each category as 
+required for certification. This is shown in the summary table in Figure 2. 
+Alignment with United Nations Sustainable Development Goals 
+In a related area, and recognized by MMSD, the 2030 Agenda for Sustainable Development adopted by all 
+United Nations member states in 2015 provides “a shared blueprint for peace and prosperity for people 
+and the planet.” The United Nations’ Agenda describes 17 Sustainable Development Goals (SDGs).  As 
+shown in MMSD’s framework and operations, the goals and practices of MMSD align with many of the 
+SDGs. For the purposes of the  Series 2020D Green Bonds offering, the projects align most closely with 
+three SDGs: 
+ 
+SDG 6: Clean Water and Sanitation, which includes targets to achieve access to adequate and 
+equitable sanitation and hygiene for all and improve water quality by reducing pollution, 
+eliminating dumping and minimizing release of hazardous chemicals and materials.  
+ 
+SDG 11: Sustainable Cities and Communities,  which includes targets to make cities and human 
+settlements inclusive, safe, resilient and sustainable. 
+ 
+SDG 13: Climate Action,  which includes targets to take urgent action to combat climate change 
+and its impacts. 
+Use of Proceeds 
+The Series 2020D Green Bonds will be used to refund the Series 2010L Build America Bonds that funded 
+the capital improvements listed in Appendix A  of MMSD’s Green Bond Framework , which are eligible 
+
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-9 
+green projects as defined by the Climate Bonds Initiative’s Standard and Certification Scheme ( Water 
+Infrastructure criteria).  
+Project Evaluation and Selection  
+MMSD believes in transparency to both constituents and investors regarding its process for project 
+evaluation and selection. It is part of MMSD’s approval process to ensure that all of its financed activities 
+comply with internal environmental and social directives. All of MMSD’s environmental and social policies 
+and related reports can be found at: www.mmsd.com/what-we-do/sustainability 
+In addition to meeting MMSD’s long-term needs, the Series 2020D Green Bonds were used for projects 
+that address and meet the following objectives: 
+1. Support MMSD’s mission to protect public health and the environment through world -class, 
+cost-effective water resource management, leadership, and partnership. 
+2. Address resilience and sustainability issues  in the City of Milwaukee  through efforts such as 
+prioritizing green infrastructure and urban biodiversity, incorporating renewable energy 
+solutions, and building energy efficiency into capital improvements. 
+3. By certifying the Bonds as Climate Bonds in the category of Water Infrastructure, MMSD 
+hopes to inform investors of the environmentally beneficial and climate-aligned aspects of 
+projects and the District’s responsible management of water resources, cognizant of climate 
+change. 
+MMSD utilizes a robust and transparent annual process to prioritize capital improvements  for financing, 
+and the District  maintains long -range financing plans for its Operation and Maintenance and Capital 
+Projects budgets. The Strategic Plan for FY 2019-2021 identifies the project list, presented in Appendix A 
+of MMSD’s Green Bond Framework , as a priority for bond financing.  Projects selected for financing are 
+also reviewed against MMSD’s Environment Statement.   
+Projects to be financed are evaluated and selected based on:  
+a) Alignment with the current Strategic Plan, the Total Maximum Daily Load (TMDL) for the 
+Milwaukee River Basin, and the MMSD 2035 Vision;  
+b) Business case studies and community benefits (identify need, options, and preferred solution); 
+c) A thorough vetting process which includes stakeholder consultation; and 
+d) Review by Budget Staff and final approval by Executive Director and Commissioners.   
+MMSD staff compiles project recommendations which are presented to the Operations Committee 
+annually. The Operations Committee reviews project details and operating procedures.  
+As an organization, MMSD is committed to public health and the environment through world-class, cost-
+effective wastewater treatment. MMSD considers the local and regional impacts of its practices. MMSD’s 
+guiding beliefs associated with sustainability support the vision of reducing environmental impacts. The 
+projects to be financed with the Series 2020D Green Bonds meet this vision and subsequent criteria.  
+Management of Proceeds  
+MMSD’s management of proceeds follows Generally Accepted Accounting Principles and Government 
+Finance Officers Association (GFOA) recommendations for best practices. Net proceeds will be tracked by 
+MMSD’s Finance team and 100% of funds will be allocated to refunding capitalized interest and financing 
+costs.  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-10 
+Proceeds from Green Bonds will be specifically directed to pay the costs of refunding the remaining called 
+portion of the Series 2010L Build America Bonds  and other related expenses necessary for the selected 
+green bond-eligible projects. Ensuring that green bond proceeds are allocated only to green designated 
+refunding will be the responsibility of MMSD’s Director of Finance, Mickie Pearsall.   
+MMSD provides a Comprehensive Annual Financial Statement (CAFR) which is prepared by an 
+independent auditor. The Government Finance Officers Association awarded a Certificate of Achievement 
+for Excellence in Financial Reporting to the District for its CAFR for the fiscal year ended December 31, 
+2017. This was the 40th consecutive year that the District has received this prestigious award. 
+Reporting  
+ 
+Continuing Disclosures and Voluntary Impact Reporting 
+So long as the Series 2020D Green Bonds are outstanding, Milwaukee Metropolitan Sewerage District will 
+submit continuing disclosures to the Municipal Securities Rulemaking Board (MSRB) . This reporting will 
+be done annually on the Electronic Municipal Market Access (EMMA) system operated by the MSRB.  
+MMSD will also voluntarily produce an annual report detailing how the Green Bond proceeds were used 
+to finance the selected projects, a description of the selected projects, and details of the environmental 
+benefits resulting from the projects. MMSD may also voluntarily provide information as to progress 
+toward the 17 United Nations’ Sustainable Development Goals. Such information will be posted to the 
+EMMA system of the Municipal Securities Rul emaking Board, accessible at emma.msrb.org
+. This report 
+will be posted along with other MMSD filings.  
+Within 24 months of the bonds closing, Kestrel Verifiers will provide one post-issuance Update Report to 
+the Climate Bonds Initiative . In line with the Climate Bonds Programmatic Certification scheme , Kestrel 
+Verifiers will produce an annual report encompassing the entire MMSD Climate Bonds program including 
+the Series 2020D Green Bonds and subsequent Climate Bonds in the program. MMSD will also voluntarily 
+post these reports on EMMA. 
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-11 
+OPINION 
+Based on the Reasonable Assurance procedures  we have conducted, in our opinion, the MMSD  Series 
+2020D Green Bonds conform, in all material respects, with the Climate Bonds Standard , and the bond -
+financed activities are aligned with the Water Infrastructure  sector specific criteria and United Nations 
+Sustainable Development Goals 6, 11 and 13.  
+MMSD’s vision of a healthier, cleaner, more resilient region is supported with the capital improvements, 
+which exceed the requirements of the Climate Bonds Standard.  
+It is the opinion of Kestrel Verifiers that MMSD ’s Series 2020D Green Bonds are in complete alignment 
+with the Water Infrastructure criteria of the Climate Bonds Standard, and qualify to be Certified Climate 
+Bonds. MMSD is demonstrating leadership with the implementation of these beneficial projects. 
+ 
+Sincerely, 
+ 
+ 
+ 
+Evan Smith, Lead Technical Verifier  
+Kestrel Verifiers  
+June 3, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For 20 years Kestrel has been a trusted consultant in environmental finance. Kestrel 
+Verifiers, a division of Kestrel 360, Inc. is a Climate Bonds Initiative Approved Verifier 
+qualified to verify transactions in all asset classes. Kestrel is a US-based Woman-Owned 
+Small Business and a certified Women’s Business Enterprise. 
+For more information, visit www.kestrelverifiers.com 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-12 
+APPENDIX A. Climate Bonds Standard Water Infrastructure Adaptation & Resilience Scorecard 
+ 
+CRITERIA: The project must score at least 60% of the maximum potential score in all parts of the 
+Scorecard. Section 4 only needs to be completed for “Nature Based and Hybrid Infrastructure” only 
+(see Criteria for detail) 
+ 
+ 
+Vulnerability Assessment SECTION 1: ALLOCATION 
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+1.1 
+Are there accountability mechanisms in 
+place for the management of water 
+allocation that are effective at a sub -basin 
+and/or basin scale?  
+1 1 Disclosure 
+There are several plans outlining management of water the most 
+relevant and adopted internationally is the Great Lakes Compact  
+• https://dnr.wi.gov/topic/GreatLakes/documents/Congress_Compact
+_Consent.pdf 
+ 
+• https://www.sewrpc.org/SEWRPC/Environment/RegionalWaterSuppl
+yPlan.htm  
+ 
+Regional Water Supply Plan: 
+In 1979, the Commission completed and adopted a regional water 
+quality management plan. The plan was designed, in part, to meet the 
+Congressional mandate that the waters of the United States be made 
+“fishable and swimmable” to the extent practical. Continued eligibility of 
+local units of government for Federal and State loans and grants in 
+partial support of sewerage system development and redevelopment;  
+ 
+From the last quarter of 2003 through December 2007, SEWRPC 
+prepared an update of the regional water quality management plan for 
+the Greater Milwaukee Watersheds and was amended in “ 2013-A 
+REGIONAL WATER QUALITY MANAGEMENT PLAN UPDATE FOR THE 
+GREATER MILWAUKEE WATERSHEDS”-Amended May 2013 
+ 
+https://dnr.wi.gov/topic/WaterUse/compact.html Great Lakes Compact  
+1.2 
+Are the following factors taken into 
+account in the definition of the available 
+resource pool?  
+ 
+a) Non-consumptive  uses (e.g., 
+navigation, hydroelectricity  
+ 
+b) Environmental flow  requirements  
+ 
+c) Dry season minimum flow  requirements  
+ 
+d) Return flows (how much water should 
+be returned to the resource pool, after 
+use) 
+ 
+e) Inter-annual and inter -seasonal 
+variability 
+ 
+f) Connectivity with other water  bodies 
+ 
+g) Climate change  impacts 
+7 5 Evidence 
+As MMSD only receives water used, their plan does not determine 
+allocation, however they are subject to: 
+ 
+A) WQ pg. 383 addresses navigation and dam regulation in the plan as 
+does the Great Lakes Compact 
+B)  
+C)  
+D) City of Waukesha has return flow plan through MMSD 
+http://www.waukesha-
+water.com/downloads/4_City_of_Waukesha_Return_Flow_Plan.pd
+f 
+E) Pp. 60-61 of water supply plan looks at seasonal temperature and 
+precipitation 
+F) Yes, connectivity of Lake Michigan with other Lakes and St. 
+Lawrence is heavily discussed 
+G) Discussed and considered as part of adapting plans in the future  
+1.3 
+Are arrangements  in place to 
+accommodate  the potentially adverse 
+impacts of climate change on the resource 
+pool? (E.g. using best available science to 
+plan for future changes in availability, 
+undertaking periodic monitoring and 
+updating of available pool.)  
+1 1 Evidence 
+Pg. 377 Water Supply and pg. 854 Water Quality and on the amendment 
+discusses Climate Change and impacts on resource pool, p g. 856 the 
+sections of the plan updated to accommodate changes  
+ 
+https://www.sewrpc.org/SEWRPC/Environment/ClimateChange.htm  
+Wisconsin Initiative on Climate Change 
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-13 
+Vulnerability Assessment SECTION 1: ALLOCATION 
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+1.4 
+Is there a distinction between the 
+allocation regimes used in “normal” times 
+and in times of “extreme/severe” water 
+shortage? 
+1 1 Evidence Pg. 284 Water Quality Management Plan discusses water quality changes in 
+wet and dry weather and outflows consistent with this.  
+1.5 
+Are there plans to define “exceptional” 
+circumstances, such as an extended 
+drought, that influence the allocation 
+regime? (E.g., triggers water use 
+restrictions, reduction in allocations 
+according to pre -defined priority uses, 
+suspension of the regime plan, etc.)  
+1 1 Evidence 
+There are triggers during extreme wet events to discharge more under 
+blending practices. Pg. 62 water supply plan defines drought and pg . 131 
+discusses limitations during these times 
+1.6 
+For international / trans boundary basins, 
+is there a legal mechanism in place to 
+define and enforce water basin allocation 
+agreements?  
+1 1 Disclosure 
+Pg. 357 Water Supply Plan describes Water Resources Development Act 
+that enforces Lake Michigan water allocations 
+ 
+Great Lakes Compact includes Canadian Premier  
+1.7 
+Are water delivery agreements defined on 
+the basis of actual in situ seasonal / annual 
+availability instead of volumetric or 
+otherwise inflexible mechanisms?  
+1 1 Evidence 
+Lake Michigan water levels are consistent seasonally, however new 
+pumping or diversions are subject to seasonal or annual variations when 
+there are lower lake water levels. Water Supply Plan  
+1.8 
+Has a formal environmental flows (e-  
+flows)/sustainable diversion limits or other 
+environmental allocation been defined for 
+the relevant sub- basin or basin? (If there is 
+a pre-existing plan, then has the 
+environmental flows program been 
+updated to account for the new project?)  
+1 1 Evidence 
+There is a ban on diversions out of the basin with limited exceptions with 
+the Great Lakes Compact, and all water is returned to the Lake. The 
+program has not been updated to account for the project, but amounts will 
+not be affected. 
+1.9 
+Have designated environmental flows / 
+allocation programs been assured / 
+implemented?  
+1 1 Evidence or   
+Disclosure Yes, Great Lakes Compact is implemented and followed for diversions  
+1.1
+0
+ 
+Has a mechanism been defined to update 
+the environmental flows plan periodically 
+(e.g., every 5 to 10 years) in order to 
+account for changes in allocation, water 
+timing, and water availability?  
+1 1 Evidence 
+Pg. 50 Great Lakes Compact update every 5 years or each time the 
+incremental Basin Water losses reach 50 million gallons per day average in 
+any 90-day period  
+1.1
+1
+ 
+Is the amount of water available for 
+consumptive use in the resource pool 
+linked to a public planning document?  
+(E.g., a river basin management plan or 
+another planning document – please 
+indicate) 
+1 1 Evidence 
+SEWRPC Regional Water Supply Plan and shown in 
+https://www.sewrpc.org/SEWRPCFiles/Environment/watersupply/2011 -
+05-24-RWSP-presentation-to-wauk-co-board-of-supervisors.pdf update 
+1.1
+2
+ 
+If present, is the river basin plan a 
+statutory instrument that must be 
+followed rather than a guiding document?  
+1 1 Disclosure Yes, signed by U.S. Congress and is statutory law. 
+Total Allocation Score  16 /18   
+Eligibility Criterion 1 passed/not passed   89 %   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-14 
+ 
+Vulnerability Assessment SECTION 2: Governance 
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+2.1 
+Have water entitlements  been defined according 
+to one of the following?  
+ Purpose that water may be used for 
+ Maximum area that may be  irrigated 
+ Maximum volume that may be taken in a 
+nominated period 
+ Proportion of any water allocated to  a defined 
+resource pool  
+1 1 Disclosure 
+Great Lakes Compact gives limits of withdrawal of 100,000 
+gallons per day or greater average over any 90-day period 
+or new or Increased Consumptive Use of 5 million gallons 
+per day or greater average over any 90-day period. 
+2.2 
+Is the surface water system currently considered to be 
+neither over allocated nor over -used? N.B. Over -
+allocated would be if e.g. current use is within 
+sustainable limits but there would be a problem if all 
+legally approved entitlements to abstract water were 
+used. Over-used would be if existing abstractions 
+exceed the estimated proportion of the resource that 
+can be taken on a sustainable basis.  
+1 1 Evidence Not considered either over-used or over-allocated and 
+new user and diversions outside the lake are prohibited  
+2.3 
+If monitored and the investment uses groundwater, is 
+the groundwater water system currently considered to 
+be neither over - allocated nor over -used?  
+ 
+N.B. Over-allocated would be if e.g. current use is within 
+sustainable limits but there would be a problem if all 
+legally approved entitlements to abstract water were 
+used. Over-used would be if existing abstractions exceed 
+the estimated proportion  of the resource that can be 
+taken on a sustainable basis.  
+1 1 Evidence 
+SEWRPC considers the Deep Sandstone Aquifer overused, 
+but majority of water supply is coming from the great 
+lakes and the greater area groundwater is not considered 
+over-allocated. 
+http://www.sewrpc.org/SEWRPCFiles/Environment/water
+supply/2005-09-19_water_supply_planni.pdf 
+2.4 Is there a limit to the proportion (e.g. percentage) of 
+water that can be abstracted?  1 0 Evidence No regulations stating % of Lake Michigan 
+2.5 
+Are governance arrangements in place for dealing  with 
+exceptional circumstances  (such as drought, floods, or 
+severe pollution events), especially around coordinated 
+infrastructure operations?  
+1 1 Disclosure 
+Pp.9 and 10 of 
+http://docs.legis.wisconsin.gov/statutes/statutes/281.pdf  
+Wisconsin legislation on great lakes compact put in place 
+arrangements for flooding 
+2.6 
+Is there a process for re -evaluating recent decadal 
+trends in seasonal precipitation and flow OR recharge 
+regime, in order to evaluate “normal” baseline 
+conditions? 
+1 
+1 Evidence Pg. 50 Great Lakes compact addresses climate change 
+impacts every 5 years and changes to supply regime  
+2.7 Is there a formal process for dealing with new entrants?  1 1 Disclosure Yes, Great Lakes Compact has formal process on new 
+applicants and proposals 
+2.8 For existing entitlements,  is there a formal process  for 
+increasing, varying, or adjusted use(s)?  1 1 Disclosure 
+Yes, pg. 34 outlines all new or increased diversions are 
+prohibited except in outlined in the Compact for 
+straddling communities 
+2.9 
+Is there policy coherence across sectors (agriculture, 
+energy, environment, urban) that affect water resources 
+allocation, such as a regional, national, or basin- wide 
+Integrated Water Resources Management (IWRM) plan?  
+1 1 Evidence 
+The compact is the defining document for managing the 
+international Water Resource and it considers urban, 
+agriculture, and environment. Pg. 10 of the Compact 
+2.10 Are obligations for return flows and discharges specified 
+and enforced?  
+1 1 Disclosure 
+Return flows are discussed in water supply plans and great 
+lakes compact all flows are required to be returned after 
+use 
+2.11 
+Is there a mechanism to address impacts from users 
+who are not required to hold a water entitlement but 
+can still take water from the resource pool?  
+1 1 Disclosure No users outside of compact are entitled to diversions 
+from Lake Michigan 
+2.12 
+Is there a pre-defined set of priority uses within the 
+resource pool? (E.g., according to or in addition to an 
+allocation regime) 
+1 0 Disclosure Not readily available 
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-15 
+Vulnerability Assessment SECTION 2: Governance 
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+2.13 
+If there are new entrants and/if entitlement holders 
+want to increase the volume of water they use in the 
+resource pool and the catchment is open, are these 
+entitlements conditional on either assessment of third 
+party impacts, an Environmental Impact Assessme nt 
+(EIA) or an existing user(s) forgoing use?  
+1 1 Evidence 
+Pg. 5 Environmentally Sound and Economically Feasible 
+Water Conservation Measures that include addressing 
+environmental impact (does not specify EIA) i) are 
+environmentally sound, ii) reflect best practices applicable 
+to the water use sector, iii) are technically feasible and 
+available, iv) are economically feasible and cost effective 
+based on an analysis that considers direct and avoided 
+economic and environmental costs and v) consider the 
+particular facilities and processes involved, taking into 
+account the environmental impact, age of equipment and 
+facilities involved, the processes employed, energy 
+impacts and other appropriate factors. 
+2.14 Are withdrawals monitored, with clear and legally 
+robust sanctions?  1 1 Evidence Yes, Great Lakes Compact requires each party to monitor 
+withdrawals pg. 26 
+2.15 Are there conflict resolution mechanisms in place?  1 1 Disclosure Yes, pg. 54 dispute resolution in Great Lakes Compact 
+Total Governance Score  13 /15   
+Eligibility Criterion 2 passed / not passed  87 %   
+ 
+ 
+ 
+Vulnerability Assessment SECTION 3: TECHNICAL DIAGNOSTICS  
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+1 
+Does a water resources model of the proposed 
+investment and ecosystem (or proposed modifications 
+to existing investment and ecosystem) exist? Specify 
+model types, such as WEAP, SWAT, RIBASIM, USACE 
+applications). Scale should be at least sub-basin. 
+1 1 Evidence 
+Regional groundwater model created with USGS and 
+SEWRPC 
+http://www.sewrpc.org/SEWRPCFiles/Publications/TechR
+ep/tr-041_aquifer_simulation_model.pdf 
+ 
+USACE HEC-RAS model developed by SEWRPC for 
+hydraulic and flood analysis 
+http://www.sewrpc.org/SEWRPCFiles/Publications/mr/m
+r-172-milw-river-watercourse-system-plan.pdf 
+ 
+NOAA Great Lakes 
+https://www.glerl.noaa.gov/res/Programs/ipemf/GLCFS_
+nextgen.html 
+ 
+A Lake Michigan PRMS model was constructed over the 
+entire Lake Michigan Basin area. The model was 
+constructed and parameterized using available 
+geographic information system (GIS) datasets, and 
+calibrated using available observed (measured) 
+streamflow, solar radiation, and potential 
+evapotranspiration data. Four different emissions 
+scenarios were used. 
+3.2 
+Can the system model the response of the managed 
+water system to varied hydrologic inputs and varied 
+climate conditions?
+ 
+1 1 Evidence 
+Considers varied hydrologic conditions and climatic 
+variability but does not account for progressive climate 
+change 
+ 
+Pg. 54 Milwaukee watercourse system plan  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-16 
+Vulnerability Assessment SECTION 3: TECHNICAL DIAGNOSTICS  
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+3.3 
+Are environmental performance limits (ecosystem, 
+species, ecological community) and/or ecosystem 
+services specified?  
+1 1 Evidence 
+EcoDyn modeling consists of nowcasts and scenario-
+based forecasts to predict the effects of invasive species, 
+climate, nutrient loadings, and meteorology on Great 
+Lakes food webs, fish
+eries productivity, and water quality. 
+Data, observations and related process studies are used 
+in ecosystem models to forecast the effects of stressors 
+and management options. Part of NOAA GLCFS 
+https://www.glerl.noaa.gov/res/Programs/eco_dyn/eco_
+dyn.html 
+3.4 Can these performance  limits be defined and quantified  using the water resources model?  1 0 Evidence No 
+3.5 Have these limits been defined based on expert knowledge and/or scientific analysis?  1 1 Evidence Yes, linked to long-term ecological observations, targeted 
+fundamental research on ecological processes  
+3.6 Are these performance limits linked to infrastructure 
+operating parameters?
+ 1 0 Evidence No 
+3.7 Are these limits linked to an environmental flows 
+regime?
+ 1 0 Evidence No 
+3.8 For new projects, is there an ecological baseline 
+evaluation describing the pre -impact state? 1 0 Evidence No 
+3.9 
+For rehabilitation / reoperation projects, is there an 
+ecological baseline evaluation available before the 
+projects was developed?
+ 
+1 0 Evidence No 
+3.10 
+Has there been an analysis that details impacts  related 
+to infrastructure construction and operation that has 
+been provided?  
+1 0 Evidence No 
+3.11 
+Are lost species and/or lost or modified ecosystem  
+functions specified for restoration in the 
+environmental  evaluation?  
+1 1 Evidence 
+Suggestions including mitigating water storage of water 
+during wet years for use during drier years, which in turn 
+provides additional resiliency to the associated aquatic 
+ecosystems. Pg. 67 PRMS USGS Model Lake Michigan 
+3.12 
+Have regional protected areas / nature reserves been 
+included in the analysis for impacts from the 
+investment asset and future climate impacts?  
+1 0 Evidence No 
+3.13 
+Does the model include analysis of regression 
+relationships between climate parameters and flow 
+conditions using time series of historical climate and 
+stream flow data?  
+1 1 Evidence 
+Yes, using streamflow data and SPARROW model 
+regression analysis pg. 68 PRMS USGS Model 
+3.14 
+Does the model include climate information from a 
+multi modal ensemble of climate projections (eg from 
+the Climate Wizard or the World Bank’s Climate Portal) 
+to assess the likelihood of climate risks for the 
+specified investment horizons (s)?  
+1 1 Evidence 
+Yes, https://pubs.usgs.gov/sir/2014/5175/pdf/sir2014-
+5175.pdf USGS Lake Michigan PRMA model includes many 
+emissions scenarios and multi-modal climate projections 
+to determine Great Lakes conditions 
+3.15 
+Are changes in the frequency and severity of rare 
+weather events such as droughts and floods included?  1 1 Evidence  Yes, pg. 36 PRMS addresses high streamflow and low 
+streamflow events 
+3.16 
+Are sub-annual changes in precipitation seasonality 
+included? 1 1 Evidence 
+Yes, pg. 22 PRMS seasonal variability in radiation 
+evapotranspiration and precipitation 
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-17 
+Vulnerability Assessment SECTION 3: TECHNICAL DIAGNOSTICS  
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+3.17 
+Is GCM climate data complemented with an analysis of 
+glacial melt water and sea level rise risks, where 
+appropriate (e.g., high or coastal elevation sites)?  
+  Evidence N/A 
+3.18 
+Is paleo-climatic data (e.g., between 10,000 and >1000 
+years before present) included?  1 0 Evidence No 
+3.19 
+Is the number of model runs and duration of model 
+runs disclosed?  1 1 Evidence GLOFS is run 4 times/day, 6 hours 
+3.20 
+Has a sensitivity analysis been performed to 
+understand how the asset performance and 
+environmental impacts may evolve under shifting 
+future flow conditions?  
+1 
+1 Evidence 
+Pg.21 PRMS model addresses sensitivity of model, but 
+does not directly discuss the asset 
+3.21 
+Is directly measured climate data available for more 
+than 30 years and incorporated into the water 
+resources model? 
+1 1 Evidence 
+Yes, climate data from 1969-2008 in PRMS model 
+3.22 
+Has evidence demonstrated that climate change has 
+already had an impact on operations and 
+environmental targets? Are these impacts specified 
+and, to the extent possible, quantified? These impacts 
+should be responded to directly in the Adaptation 
+Plan. 
+1 0 Evidence 
+No 
+3.23 
+Does the evidence suggest that climate change will 
+have an impact on operations and environmental 
+targets over the operational lifespan? Are these 
+impacts specified and, to the extent possible, 
+quantified? These impacts should be responded to 
+directly in the Adaptation Plan.  
+1 1 Evidence 
+On the impacts of MMSD and operations of treatment, no 
+as the large portion of water supply is pumped and 
+MMSD only handles treatment of water in use. 
+3.24 
+Is there a discussion of the uncertainties associated 
+with projected climate impacts on both operations and 
+environmental impacts?  
+1 1 Evidence 
+Pg.22 PRMS discusses uncertainty calculation and p g. 63 
+uncertainty in climate scenarios 
+Total Governance Score  14 /23   
+Eligibility Criterion passed / not passed  61 %   
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-18 
+SECTION 4: NATURE BASED SOLUTIONS 
+(to be completed for nature -based solutions and hybrid water infrastructure only)  
+Ie this section only needs to be completed if:  
+A. As a nature based solution, the asset reflects the intentional use of natural and / or nature based features, processes, and functions, 
+as an integral part of addressing a human need and doing so in a manner that protects, manages, restores, and / or enhances natural 
+features, processes, and systems in a functioning and sustainable manner.  
+B. Where feasible, the asset prioritises natural features over na ture – based features. Such features include the protection, restoration, 
+expansion, and / or creation of natural systems and processes as an explicit component of the desired project outcomes.  
+SECTION 4.1: SITE INVENTORY 
+How well do we understand the systems and processes at the project site?  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence and/or 
+Disclosure 
+Comments 
+4.1.1 
+Is this a “greenfield site” (i.e., undeveloped land used for 
+agriculture, landscape design, or left to evolve naturally)? If so, 
+will existing ecosystem services be expanded / supported / 
+maintained? 
+1 1 Evidence 
+Yes, undeveloped land left naturally. Description on 
+website https://www.mmsd.com/what-we-do/flood-
+management/greenseams 
+4.1.2 Has an eco-hydrological model been developed?  4 4 Evidence 
+Department of Natural Resources (WDNR) used 
+“down-scaled” global climate models that indicated a 
+warming trend and predicted climatic changes in 
+Wisconsin. 
+https://www.freshcoastguardians.com/application/fi
+les/4315/5386/6421/MMSD_Urban_Biodiversity_Pla
+n.pdf p.8  
+ 
+Also University of Wisconsin developed eco-
+hydrological model 
+https://dc.uwm.edu/cgi/viewcontent.cgi?article=311
+6&context=etd 
+4.1.3 Specify model type, such as WEAP, SWAT, RIBASIM, USACE.  1 0 Evidence 
+Type not specified. The methodology used in these 
+analyses is similar to that used in the 4th National 
+Climate Assessment (USGCRP, 2017), and is based on 
+the analyses of observational datasets for past 
+changes and from modeling and downscaled 
+datasets for projections produced for NCA4. 
+Projections use a weighting system for global climate 
+models, that are then statistically downscaled for 
+temperature and precipitation at about 6 km 
+resolution across the continental United States.  
+4.1.4 
+Have sources of pollution been analysed for the following 
+(even if none have been found)? 
+• Point source 
+• Nonpoint source 
+2 2 Evidence The Urban biodiversity plan reviewed SEWRPC plans 
+with information on sources of pollution 
+Total Site Inventory Score  8 7   
+Eligibility Criterion passed / not passed  88 %   
+ 
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-19 
+SECTION 4.2: ECOLOGICAL BASELINES FOR MANAGEMENT 
+Do we understand how the ecological characteristics of the site will evolve over time?  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+4.2.1 Is there an inventory of species that can be used as a baseline for 
+vegetation and animal species? 
+1 1 Evidence 
+Yes, pg. 11 of MMSD urban biodiversity 
+plan 
+4.2.2 
+If there is an inventory of species that can be used as a baseline for 
+vegetation and animal species, does it specify or identify endangered / 
+threatened species, ecological communities, or categories of species?  
+1 1 Evidence 
+Yes, pg.10 and 11 and pg.49 discusses 
+endangered species 
+4.2.3 Have studies on current or potential climate impacts on key species 
+(e.g., endangered or threatened species) been included?  1 0 Evidence 
+Not disclosed 
+4.2.4 Is the flow regime used as a basis for ecological management?  1 1 Evidence 
+Pg. 18 reviews stream conditions and how 
+different factors will have impacts on 
+species 
+4.2.5 Is there a climate trends analysis for the site or region based on at least 
+30 years of climate data? 1 1 Disclose 
+Yes, look for climate effects to habitat 
+through 2050 
+4.2.6 Is there an assessment of exotic invasive species?   1 1 Evidence Yes, pg. 5 and 49 
+4.2.7 If there is an assessment of exotic invasive species, has a plan been 
+developed to cope with exotic invasive species? 1 1 Evidence 
+Pg. 49 references immediate 
+management step to control invasive 
+Asian worm 
+4.2.8 Has there been an assessment of trade-offs between reliability vs 
+environmental benefits to support decision making processes?  1 0 Evidence 
+Not disclosed 
+Total Ecological Management Score  8 6 /8   
+Eligibility Criterion passed / not passed  75 %   
+ 
+ 
+SECTION 4.3: DATA INVENTORIES OF LOCALISED & INDIGENOUS ASSETS  
+Do we have access to adequate, credible data about the project site?  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+4.3.1 Is there an inventory of existing water-related ecosystem services based 
+on 30 or more years of data? 
+1 0 Evidence 
+Inventory, but does not states years 
+4.3.2 
+Does any existing inventory of water-related ecosystem services related 
+to runoff / land-use include the following data? 
+• Fire regime 
+• Sediment / erosion load 
+• Nutrient load 
+• Land-use change 
+3 3 Evidence 
+Pg. 8 sediment loading 
+Pg. 8 nutrient loading 
+Pg. 7 land use change 
+4.3.3 
+Do inventories of water-related ecosystem services related to water 
+quality include the following data: 
+• Water quality for environmental services (e.g., habitat, ecological 
+communities, erosion) 
+• Water quality for human needs / services (e.g., drinking water, 
+agriculture) 
+2 2 Evidence 
+Pg. 17 WQ for habitat and ecology 
+Pg. 27 drinking water and human health 
+4.3.4 
+Is there an existing inventory of water-related ecosystem services related 
+to water quantity? 
+• Water quantity for environmental services (e.g., habitat, flow 
+regime) 
+• Water quality for human needs / services (e.g., service reliability)  
+2 2 Evidence 
+Pg. 17 WQ for habitat and ecology 
+Pg. 27 drinking water and human health 
+Total Existing Inventories Score  8 7/8   
+Eligibility Criterion passed / not passed  88 %   
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-20 
+ 
+SECTION 4.4: BROADER ECOSYSTEM IMPACTS 
+Do we understand how the project’s impacts may extend beyond the site?  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+4.4.1 
+Has there been a determination of proposed / estimated 
+impacts from project construction and operations 
+regarding local, upstream, and downstream species / 
+ecological communities? 
+1 1 Evidence 
+Pg. 43 and several instances look at impact of Greenseams 
+4.4.2 
+Has there been a determination of proposed / estimated 
+impacts on existing local, upstream, and downstream 
+eco-hydrological systems from modification regarding: 
+• Pollution 
+• Downstream flow regime 
+• Groundwater impacts 
+• Land tenure (e.g., public vs private) 
+4 4 Disclose 
+Yes 
+Yes 
+Yes 
+Yes, looks at private land and public private partnerships  
+4.4.3 
+Has there been a determination of proposed / estimated 
+impacts and benefits on eco-hydrological systems from 
+changes in allocation via the following? 
+• Relevant environmental flows management plans 
+• Groundwater management plans 
+2 0 Disclose 
+Not disclosed in this report 
+4.4.4 Has the monitoring system contributed to the 
+development and goals of the basin management plan?  1 1 Disclose 
+Yes, the basin management plan includes many goals 
+involving monitoring of ecological communities and this 
+program fits it perfectly 
+Total Broader Impacts Systems Score  8 6/8   
+Eligibility Criterion passed / not passed   75%   
+ 
+SECTION 4.5: MONITORING & MANAGEMENT SYSTEMS 
+Do we have effective management processes and tools to maintain ecological integrity over time?  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+4.5.1 
+Have target performance indicators been explicitly 
+defined for: 
+• Infrastructure services 
+• Ecosystem services 
+1 1 Evidence 
+Yes, for ecosystem services pp.17-23 
+Page V for infrastructure services 
+4.5.2  Is there a monitoring plan in place for infrastructure 
+performance indicators? 2 2 Evidence 
+Pp. 45-46 Monitoring Framework 
+4.5.3 Is there a monitoring plan in place for ecosystem 
+performance indicators? 2 2 Evidence 
+Pp. 45-46 Monitoring Framework 
+4.5.4 Are monitoring outcomes connected to the decision 
+making and management / operations process? 1 0 Evidence 
+Not stated 
+4.5.5 Is there a multi-stakeholder basin management plan?  1 Disclose 
+Yes, SEWRPC 
+Total Monitoring and Management Systems Score  6 5/6   
+Eligibility Criterion passed / not passed  83 %   
+ 
+  
+ 
+Kestrel Verifiers | Verifier’s Report | June 2020 A-21 
+ 
+Section 5: ADAPTATION PLAN 
+(To be completed for all Water Infrastructure assets)  
+  Max 
+Score 
+Actual 
+Score 
+Requirement: 
+Evidence 
+and/or 
+Disclosure 
+Comments 
+AP.1 Is there a plan to restore or secure lost/modified 
+ecosystem functions / species?  1 1 Evidence 
+MMSD adopted in 2019 a Resilience Plan designed to adapt 
+infrastructure to changing climatic conditions with ecosystem 
+functions in mind 
+https://www.freshcoastguardians.com/static/Resilience_Plan_2
+019_F.pdf 
+AP.2 
+Is the adaptation plan for environmental targets / 
+infrastructure robust across specified observed / 
+recent climate conditions? Confer VA  
+1 1 Evidence 
+Yes, adapting to increasing population and other factors to 
+coincide with observed and recent climate conditions as well as 
+addressing recent storms. 
+AP.3 
+Is the adaptation plan for environmental targets / 
+infrastructure robust across specified projected 
+climate conditions? Confer VA  
+1 1 Evidence 
+Yes, pg. 13 addresses projected changes in regional climate  
+AP.4 
+Is there a monitoring plan designed to track 
+ongoing progress and impacts to inform future 
+decisions? 
+1 1 Evidence 
+Page 60 Action 17 revolves around monitoring progress  
+AP.5 
+Is there a plan to reconsider on a periodic basis the 
+VA for operational parameters, governance and 
+allocation shifts, and environmental performance 
+targets? 
+1 0 Evidence 
+No 
+TOTAL ADAPTATION PLAN SCORE: 4 5/5   
+Eligibility Criterion passed / not passed 28 %   
+ 
+ 
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pre-Issuance Certification Checklist 
+2  
+Climate Bonds Standard Version 3.0 Pre-Issuance Certification Checklist 
+ 
+1. Use of Proceeds 
+Climate Bonds Standard Requirement Findings Requirement 
+Met 
+1.1 The Issuer shall document the Nominated Projects & Assets which are  proposed 
+to be associated with the Bond and which have been assessed as likely to be Eligible 
+Projects & Assets. The Issuer shall establish a list of Nominated Projects &  Assets 
+which can be kept UpToDate during the term of the Bond. 
+MMSD has a sophisticated list of nominated projects and assets 
+which has been updated and reviewed by Kestrel as of 
+publication of Verifier’s Report 
+X 
+1.2. The expected Net Proceeds of the Bond shall be no greater than the Issuer’s 
+total investment exposure to the proposed Nominated Projects & Assets, or the 
+relevant proportion of the total Market Value of the proposed Nominated Projects  
+& Assets which are owned or funded by the Issuer. 
+Net Proceeds are less than total investment exposure X 
+1.3 Nominated Projects & Assets shall not be nominated to other Certified Climate 
+Bonds, Certified Climate Loans, Certified Climate Debt Instruments, green bonds, 
+green loans or other labelled instruments (such as social bonds or SDG bonds)  
+unless it is demonstrated by the Issuer that:  
+ 
+ 
+X 
+1.3.1 Distinct portions of the Nominated Projects & Assets are being funded by 
+different Certified Climate Bonds, Certified Climate Loans, Certified Climate  
+Debt Instruments, green bond, green loans or other  labelled instruments or; 
+The bonds are not nominated for any other green and/or climate 
+bonds. 
+ 
+X 
+1.3.2 The existing Certified Climate Bond, Certified Climate Loan or Certified 
+Climate Debt Instrument is being refinanced via another Certified Climate 
+Bond, Certified Climate Loan or Certified Climate Debt Instrument.  
+No separate portions or re-financing involved X 
+3  
+2. Process for Evaluation and Selection of Projects and Assets 
+Climate Bonds Standard Requirement Findings Requirement 
+Met 
+2.1. The Issuer shall establish, document and maintain a decision -making process 
+which it uses to determine the eligibility of the Nominated Projects & Assets. The 
+decision-making process shall include, without limitation: 
+  
+2.1.1. A statement on the climate-related objectives of the Bond. Included in objectives X 
+2.1.2 How the climate-related objectives of the Bond are positioned within the 
+context of the Issuer’s overarching objectives, strategy, policy and/or processes 
+relating to environmental sustainability.  
+Aligned with MMSD Vision 2035 and Sustainability practices X 
+2.1.3 Issuer’s rationale for issuing the Bond. To reduce financing costs with previous obligations. The original 
+bond was to reduce energy costs and improve operational 
+efficiency within their system.  
+X 
+2.1.4 A process to determine whether the Nominated Projects & Assets meet the 
+eligibility requirements specified in Part C of the Climate Bonds Standard. 
+Review of sector criteria and taxonomy was performed by 
+MMSD and reviewed by Kestrel 
+X 
+2.2 Issuer should include under Clause 2.1 further aspects of the decision-making 
+process, including: 
+  
+2.2.1 Related eligibility criteria, including, if applicable, exclusion criteria or any 
+other process, applied to identify and manage potentially material 
+environmental, social or governance risks associated with the Nominated  
+Projects & Assets. 
+No exclusion criteria adopted, but risk assessments included 
+with project process 
+X 
+2.2.2 Green standards or certifications referenced in the selection of Nominated 
+Projects & Assets. 
+Green standards were a goal stated X 
+2.2.3 The issuer shall assess that all proposed Nominated Projects & Assets to be 
+associated with the Bond meet the documented objectives as stated under Clause 
+2.1.1 and are likely to conform to the relevant eligibility requirements under Part C of 
+the Climate Bonds Standard. 
+Projects align with climate objectives X 
+4  
+3. Management of Proceeds 
+Climate Bonds Standard Requirement Findings Requirement 
+Met 
+3.1 The systems, policies and processes to be used for management of the Net 
+Proceeds shall be documented by the Issuer and disclosed to the Verifier, and shall  
+include arrangements for the following activities: 
+  
+3.1.1 The Net Proceeds  of the Bond can be credited  to a sub- account, 
+moved to a sub-portfolio, or otherwise tracked by the Issuer in an appropriate 
+manner and documented. 
+Yes, all MMSD bond proceeds overseen by the Treasurer, 
+proceeds are credited to a sub-account and tracked while limited 
+to State investment policy as outlined in Report. Furthermore, as 
+a refunding, proceeds are allocated to debt service immediately. 
+X 
+3.1.2 The balance of unallocated Net Proceeds can be managed as per the  
+requirements in Clause 7.3. 
+All proceeds allocated to refunding X 
+3.1.3 The earmarking process can be used to manage and account for funding 
+to the Nominated Projects & Assets and enables estimation of the share  of 
+the Net Proceeds being used for financing and refinancing.  
+Yes, earmarked for refunding, disbursed immediately X 
+5  
+4. Reporting Prior To Issuance 
+Climate Bonds Standard Requirement Findings Requirement 
+Met 
+4.1 The Issuer shall prepare a Green Bond Framework and make it publicly available 
+prior to Issuance or at the time of Issuance. The Green Bond Framework shall  
+include, without limitation: 
+  
+4.1.1 Confirmation that the Bonds issued under the Green Bond Framework 
+are aligned with the Climate Bonds Standard. This may include statements of 
+alignment with other applicable standards, such as the EU Green Bond 
+Standard, the ASEAN Green Bond Standard, Chin ese domestic regulations, 
+Japanese Green Bond Guidelines, etc. 
+Yes, stated in framework seeking climate bond certification X 
+4.1.2 A summary of the expected use of proceeds, as defined under Clause 
+1.1, andthe expected contribution of the relevant sectors or sub -sectors to 
+the rapid transition required to achieve the goals of the Paris Climate  
+Agreement. 
+Summary of projects and use of proceeds included with sectors 
+addressed and use of proceeds already done 
+X 
+4.1.3 A description of the decision-making process, as defined under Clause 
+2.1, with particular reference to the requirements in Clause 2.1.2.  
+Yes, project evaluation decision making process included X 
+4.1.4 on the methodology and assumptions to be used for: confirming, where 
+required by relevant Sector Eligibility Criteria, the characteristics or 
+performance of Nominated Projects & Assets required to conform to the 
+relevant eligibility requirements under Part  C of the Climate Bonds Standard; 
+and any other additional impact metrics that the issuer will define.  
+MMSD committed to continuing disclosures and voluntarily 
+reporting on how projects met criteria and towards UN SDGs 
+X 
+4.1.5 A summary of the approach to the management of unallocated Net 
+Proceeds in accordance with Clause 3.1. 
+Investment policy is described, but all proceeds allocated to 
+refunding 
+X 
+4.1.6 The intended approach to providing Update Reports to reaffirm 
+conformance with the Climate Bonds Standard while the Bond remains  
+outstanding. 
+Posted to EMMA X 
+4.1.7 The list of proposed Nominated Projects & Assets associated with the Bond 
+and the investment areas, as provided in Clause 9.1, into which the Nominated 
+Projects & Assets fall. Where there are limits on the amount of detail that can be 
+made available about specific Nominated Projects & Assets, information shall be 
+presented on the investment areas which the Nominated Projects & Assets fall  
+into, provided in Clause 9.1, and the Issuer shall provide an explanation of why 
+details on Nominated Projects & Assets is limited. 
+Projects listed and broken into sector as will be invested X 
+ 
+6  
+4.1.8 Where a proportion of the Net Proceeds are used for refinancing, an 
+estimate of the share of the Net Proceeds used for financing and refinancing, 
+and the relevant Nominated Projects & Assets or investment areas which 
+may be refinanced. This may also include the expected look -back period for 
+refinanced Nominated Projects & Assets.  
+100% refinancing X 
+4.2 The Issuer shall include in the Disclosure Documentation:    
+4.1.1 The investment areas, as provided in Clause 9.1, into which the 
+Nominated Projects & Assets fall. 
+Yes, project specific details provided X 
+4.1.2 The intended types of temporary investment instruments for the 
+management ofunallocated  Net Proceeds in accordance with Clause 7.3. 
+No investment of funds as used for refunding X 
+4.1.3 The Verifier engaged by the Issuer for the mandatory verification 
+engagements. 
+Kestrel Verifiers X 
+4.1.4 The intended approach to providing Update Reports to reaffirm 
+conformance with the Climate Bonds Standard while the Bond remains 
+outstanding, including the location of the published documents.  
+Posted to EMMA X 
+4.1.5 The CBI Disclaimer provided in the Certification Agreement.  Signed and agreed X

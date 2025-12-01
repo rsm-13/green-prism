@@ -1,0 +1,576 @@
+www.iss -corporate. com  
+© 202 4 | Institutional Shareholder Services and/or its affiliates  
+  
+ 
+ 
+ 
+POST-ISSUANCE VERIFICATION 
+REPORT FOR CLIMATE BONDS 
+INITIATIVE USE OF PROCEEDS 
+CERTIFICATION:  
+ 
+ 
+Verification Report for Post -Issuance Certification  
+for the Green Bond s Issued by SNCF SA  
+ 
+ 
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  2  o f  14  
+C O N T E N T S  
+ 
+ 
+SCOPE OF WORK ...................................................................................................................................................... 3 
+CRITERIA ...................................................................................................................................................................... 3 
+ISSUER’S RESPONSIBILITY ..................................................................................................................................... 3 
+ISS-CORPORATE’S VERIFICATION PROCESS ................................................................................................. 3 
+ISS-CORPORATE’S BUSINESS PRACTICES ....................................................................................................... 4 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT .......................................................................... 4 
+OPINION ...................................................................................................................................................................... 4 
+Disclaimer .................................................................................................................................................................... 5 
+About ISS-Corporate .............................................................................................................................................. 5 
+ANNEXES ..................................................................................................................................................................... 6 
+ANNEX 1: DETAILED FINDINGS .......................................................................................................................... 7 
+4. NOMINATED POJECTS & ASSETS ........................................................................................................ 7 
+5. USE OF PROCEEDS ..................................................................................................................................... 8 
+6. NON-CONTAMINATION OF PROCEEDS ........................................................................................... 9 
+7. CONFIDENTIALITY ................................................................................................................................... 10 
+8. REPORTING ................................................................................................................................................ 10 
+9. CLIMATE BOND TAXONOMY ............................................................................................................. 12 
+10. TECHNICAL CRITERIA ........................................................................................................................ 12 
+11. PROJECT HOLDING ............................................................................................................................ 13 
+12. SETTLEMENT PERIOD ........................................................................................................................ 13 
+13. EARMARKING ....................................................................................................................................... 13 
+ANNEX 2: DETAILED FINDINGS LOW CARBON TRANSPORT CRITERIA ........................................... 14 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  3  o f  14  
+SCOPE OF WORK  
+SNCF SA (“SNCF“, or “the Issuer“) commissioned ISS Corporate Solutions (ISS -Corporate) to 
+compile a Verifier’s Report for Post-Issuance Certification of its Green Bond s by the Climate 
+Bonds Initiative (CBI). The Climate Bonds Certification process includes verifying whether the 
+provisions of the CBI’s Climate Bonds Standards are met and obtaining evidence to support 
+the verification. 
+CRITERIA  
+Relevant CBI Standards for this Climate Bonds Certification: 
+▪ Climate Bonds Standard (Version 2.0) 
+▪ Low-Carbon Transport Sector Criteria (Version 1) 
+ISSUER’S RESPONSIBILITY  
+SNCF’s responsibility was to provide information and documentation on:  
+▪ Selection of nominated projects & assets 
+▪ Technical aspects of projects & assets 
+▪ Internal processes & controls 
+▪ Proposed reporting 
+ISS-CORPORATE’S VERIFICATION PROCESS  
+Since 2014, ISS Group, of which ISS-Corporate is part, has built up a reputation as a highly -
+reputed thought leader in the green and social bond market and has become one of the first 
+CBI approved verifiers.  
+This independent P ost-Issuance Verification of the Green Bonds (FR001400J0T4, 
+FR001400HIK6, CH1277028440, FR0014002PI1 and FR001400DNU4) issued by SNCF has been 
+conducted based on the Climate Bonds Standard V. 2.0, and limited assurance procedures 
+based on common market practices and voluntary guidelines, in accordance with relevant 
+assurance standards such as the International Standard on Assurance Engagements, other 
+than Audits or Reviews of Historical Financial Information (ISAE 3000). 
+The approach to assess whether the Issuer’s Green Bond s meet the criteria of the Climate 
+Bonds Standard V.2.0. is as follows: 
+▪ The Issuer provided an overview over the assets to be included in the Green Bond s asset 
+pool and the relevant processes and documentation regarding the proceeds (e.g., use of 
+proceeds, management of proceeds). 
+▪ The Issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard V.2.0. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  4  o f  14  
+▪ The Issuer provided backgrou nd documents that elaborate further on the information 
+mentioned in the questionnaire. 
+▪ An assessment of the CBI criteria has been carried out using the questionnaire and 
+background documents. In case any answers were unclear, the issuer has been contacted 
+for more details and clarification. 
+The engagement with SNCF took place from June to October 2024. 
+ISS-CORPORATE’S BUSINESS PRACTICES  
+ISS-Corporate has conducted this verification in strict compliance with the ISS Group Code of 
+Ethics, which lays out detailed requirements in integrity, transparency, professional 
+competence and due care, professional behavior and objectivity for the ISS business and team 
+members. It is designed to ensure that the verification is conducted independently and without 
+any conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF 
+REPORT  
+This Verification Report for Climate Bonds Certification including all documentation provided 
+alongside is intended for the use of SNCF and the Climate Bonds Standard Board. The present 
+document may be published by SNCF, CBI and ISS-Corporate. CBI and ISS-Corporate agree to 
+publish the report with the consent of SNCF. 
+OPINION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has 
+come to our attention that causes us to believe that, in all material respects the Issuer’s 2023 
+Green Bond  emissions (FR001400J0T4, FR001400HIK6, CH1277028440, FR0014002PI1 and 
+FR001400DNU4) is not in conformance with the Climate Bonds Standard’s P ost-Issuance 
+Requirements. 
+ 
+ 
+M A R I J A  K R A M E R 
+ISS Corporate Solutions Business 
+Rockville, MD, 25 October 2024 
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  5  o f  14  
+Disclaimer  
+Copyright © 2024 Institutional Shareholder Services Inc. (“ISS”). This document and all of the 
+information contained in it is the property of ISS and/or its subsidiaries. The Information may 
+not be reproduced or redisseminated in whole or in part without the prior written permission 
+of ISS. While we exercise due care in compiling this document, we assume no liability with 
+respect to the consequences of relying on this information for investment or other purposes. 
+ISS makes no express or implied warranties or representations with respect to the information. 
+About ISS-Corporate  
+Companies turn to ISS -Corporate for expertise in designing and managing governance, 
+compensation, sustainability and cyber risk programs that align with company goals, reduce 
+risk, and manage the needs of a diverse shareholder base by delivering best -in-class data, 
+tools, and advisory services. 
+We assess alignment with external principles (e.g. the ICMA Green / Social Bond Principles), 
+analyse the sustainability quality of the assets and review the sustainability performance of the 
+issuer themselves. Following these three steps, we draw up an independent SPO so that 
+investors are as well informed as possible about the quality of the bond / loan from a 
+sustainability perspective. 
+Learn more: https://www.iss-corporate.com/solutions/sustainable-finance/ 
+ 
+For more information on SPO services, please contact: SPOsales@iss-corporate.com 
+ 
+Project team 
+Project lead 
+João Ferreira 
+Associate 
+Sustainable Finance Research 
+Project support 
+Antoine Brisson 
+Analyst 
+Sustainable Finance Research 
+Project supervision 
+Marie-Bénédicte Beaudoin 
+Associate Director 
+Head of Sustainable Finance 
+Research 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  6  o f  14  
+ANNEXES  
+Annex 1: Detailed Findings 
+Annex 2: Detailed Findings Low Carbon Transport 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  7  o f  14  
+ANNEX 1: DETAILED FINDINGS  
+4.  NOMINATED POJECTS & ASSETS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+4.1 
+Decision-making 
+process to determine 
+the continuing 
+eligibility of 
+nominated projects 
+and assets 
+The EUR 2 ,109 million invested on 
+renewal of the most heavily used and 
+100% electric rail network (UIC 1 to 6), 
+will lead to 13753 tCO 2e avoided 
+emissions and a carbon impact of -
+12906 tCO2e (footprint minus avoided 
+emissions) over 40 years. 
+Eligible projects are selected by SNCF’s 
+finance and treasury division in 
+coordination with the group’s 
+accounting and management control 
+division and sustainable development 
+division based on the ability to avoid 
+CO2e emissions while promoting 
+affordable transportation. Th e full 
+criteria is available in the f ramework 
+supporting the issuance on SNCF’s 
+website.  
+✓ 
+4.2 
+Conformance with the 
+Bonds’ documented 
+objectives and 
+requirements of Part B 
+of the CBI Standard 
+The net proceeds are dedicated to 
+investments in the most heavily used 
+and 100% electric rail network (UIC 1 
+to 6) covering tracks, sidings and key 
+sites, operation and signaling systems, 
+central network control facilities, 
+traction power supply infrastructure 
+and tunnels, bridges and earthworks 
+(engineering), which conform with the 
+relevant eligibility requirements under 
+Part B of the Climate Bonds Standard. 
+✓ 
+4.3 
+No double 
+nomination of 
+projects and assets 
+The projects and assets refinanced by 
+the proceeds of these bonds have not 
+been nominated to another CBI 
+certified climate bond or loan. By 
+earmarking projects, SNCF has  
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  8  o f  14  
+designed a process to ensure that 
+projects are not nominated twice.  
+SNCF also incorporates allocation rules 
+to avoid double counting of avoided 
+emissions. This implies  that (i) 
+regardless of the financed project, 80% 
+of emissions are attributed to 
+infrastructure and 20% to rolling stock, 
+and (ii) in th e case of partially 
+subsidized or co -financed projects, 
+SNCF allocates the share of avoided 
+emissions in proportion to the 
+financing provided. 
+ 
+5.  USE OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+5.1 
+Net proceeds 
+allocation to 
+Nominated projects  
+The full amount of the net proceeds 
+(total EUR 2,109 million)1 has been  
+allocated in 2023 to nominated eligible 
+assets. The pool of eli gible assets for 
+SNCF exceeds the allocated amount. 
+ISS-Corporate was, however, unable to 
+comprehensively verify reported 
+allocation levels by investment 
+category, due to partial mapping of the 
+asset value data.2 
+✓3 
+5.2 
+Allocation of proceeds 
+within 24 months of 
+issuance of the bonds 
+The proceeds were allocated in 2023 to 
+nominated eligible assets, within 24 
+months of the bonds’ issuance. 
+✓ 
+5.3 Share of financing vs 
+refinancing  
+The percentage of the proceeds used 
+for finance and refinancing was not 
+disclosed in the report. 
+ 
+ 
+1 Exchange rates used to convert CHF (1.028) and AUD (0.5967) to EUR. 
+2 Such limitation has been flagged to CBI. 
+3 The assessment is based on the information provided in the Issuer’s report and its mapping to the green bonds reporting asset 
+list. The Issuer is responsible for the preparation of the documents, including the application of methods and procedures designed 
+to ensure that the subject matter is free from material misstatement. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  9  o f  14  
+5.4 Tracking of proceeds 
+SNCF tracks the proceeds using an 
+internal IT system. Allocation is 
+reviewed annually. Until allocation, 
+proceeds are earmarked in the 
+treasury. By earmarking projects, SNCF 
+has designed a process to manage and 
+account for funding to the nominated 
+projects and assets as defined in the 
+pre-issuance certification. 
+✓ 
+5.5 
+Size of net proceeds 
+vs investment 
+exposure to 
+nominated projects 
+and assets  
+SNCF has fully allocated the bond s 
+proceeds to eligible projects from a 
+portfolio of eligible assets with a value 
+greater than the net proceeds of the 
+bonds. 
+✓ 
+ 
+6.  NON -CONTAMINATIO N OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+6.1 Tracking of proceeds 
+SNCF tracks the proceeds using an 
+internal IT system and through a 
+specific audit. Net proceeds are 
+earmarked and identified  by SNCF’s 
+treasury. An ad -hoc audit mission is 
+provided annually and concluded by 
+audit assurance advice. 
+✓ 
+6.2 Unallocated proceeds 
+Proceeds have been fully allocated. 
+Until allocation , any unallocated 
+proceeds were temporarily placed into 
+cash, cash equivalents, bank deposits 
+and other money -market products, in 
+line with SNCF’s cash management 
+policies and guidelines. 
+✓ 
+6.3 Cases of force majeure Not applicable. All proceeds have been 
+allocated within 24 months of issuance. ✓ 
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  10  o f  14  
+7.  CONFIDENTIALITY  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+7.1 
+Disclosure of 
+information to ISS-
+Corporate 
+Information about the eligible projects 
+and assets has been conveyed to ISS -
+Corporate by SNCF  which confirmed 
+compliance with the low carbon 
+transport sector criteria. Additionally,  
+the pool of eligible assets for SNCF 
+exceeds the allocated amount. ISS-
+Corporate was, however, unable to 
+comprehensively verify reported 
+allocation levels by investment 
+category, due to partial mapping of the 
+asset value data.4 
+✓5 
+7.2 
+Disclosure of 
+information to the 
+market 
+SNCF published details on both the 
+allocation and impact of the projects 
+financed by th ese bonds in chapter 5 
+and 6 of the Green Securities Report 
+2023. SNCF publishes both Impact and 
+Allocation reporting annually on its 
+website.  
+✓ 
+ 
+8.  REPORTING  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+8.1 Description of reporting 
+The Issuer discloses the following 
+information in the Green Securities 
+Report 2023: ✓ 
+ 
+4 Such limitation has been flagged to CBI. 
+5 The assessment is based on the information provided in the Issuer’s report and its mapping to the green bonds reporting asset 
+list. The Issuer is responsible for the preparation of the documents, including the application of methods and procedures designed 
+to ensure that the subject matter is free from material misstatement. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  11  o f  14  
+▪ The amount of proceeds allocated in 
+the period of 2021 -2023 broken 
+down by project category; 
+▪ An estimate of the share of the net 
+proceeds used for financing and 
+refinancing was not disclosed in the 
+report6; 
+▪ A look back period of two years 
+▪ Projects’ location (France) 
+Public disclosure of allocation and 
+impact reporting of eligible projects per 
+project category is published on Green 
+Securities Report 2023 and available on 
+SNCF’s website. 
+The impact reporting details are 
+provided in Chapter 6 of the 2023 
+Green Securities Report.  
+The Issuer has reported on its carbon 
+footprint ratios and on the estimated 
+CO2 emissions avoided (in tCO2e) for its 
+expenditures in renewal of the most 
+heavily used and 100% electric rail 
+network (UIC 1 to 6) covering tracks, 
+lineside equipment, fixed electric 
+traction installations, signaling ratios 
+and engineering projects. The Issuer 
+also discloses the methods of 
+calculation used in the preparation of 
+the performance indicators and metrics.7 
+Given the sheer number of projects 
+carried out each year, SNCF does not 
+measure the impact of each project 
+separately. Instead, SNCF uses a basket 
+of representative projects and 
+extrapolates these values across its 
+portfolio, reporting per million euros 
+ 
+6 Disclosing the estimated share of the net proceeds used for financing and refinancing is a requirement from CBI, yet since 
+SNCF is not computing it (please refer to 5.3 above), they will therefore not be able to disclose it. 
+7 The methodology is available at: https://www.groupe-sncf.com/medias-publics/2024-03/methodology-green-bonds-sncf-
+reseau-06-23.pdf  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  12  o f  14  
+invested. For extrapolation purposes, 
+SNCF employs a series of ratios (per 
+million euros invested) to calculate the 
+carbon impact of its projects. These 
+ratios are liable to change  from one 
+year to the next, based on SNCF ’s in-
+house analysis and research. 
+ 
+9.  CLIMATE BOND TAXONOMY  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+9.1 Matching of Climate 
+Bonds category 
+The full amount of the net proceeds 
+was allocated to eligible assets that fall 
+within low carbon transport (land), 
+investment area. 
+✓ 
+ 
+10.  TECHNICAL CRITERIA  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+10.1 Sector-specific 
+eligibility criteria 
+The full amount of the net proceeds is 
+allocated to eligible assets that meet 
+the low carbon transport criteria 
+requirements. 
+✓ 
+10.2 
+Bonds covering 
+several sector-
+specific criteria 
+Not applicable  as, there is only one 
+relevant sector criteria for th e bonds 
+covered in the Green Securities Report 
+2023. 
+- 
+ 
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  13  o f  14  
+11.   PROJECT HOLDING  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+11.1 
+Holding of assets with 
+a fair market value at 
+least of the original 
+amount at time of 
+issuance 
+SNCF is responsible for the financing 
+needs of the relevant railway 
+infrastructure for the long term , and 
+there has been no recent change of 
+ownership in the projects and assets. 
+✓ 
+ 
+12.  SETTLEMENT PERIOD  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+12.1 
+Description of the 
+process and timeline 
+of distribution of 
+proceeds 
+The proceeds were allocated in 2023 to 
+nominated eligible assets within 24 
+months of the bonds issuance. 
+✓ 
+12.2 
+Description of process 
+regarding unallocated 
+proceeds after 24 
+months 
+Not applicable. All proceeds have been 
+allocated within 24 months of issuance. - 
+ 
+13.  EARMARKING  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+13.1 Description of internal 
+earmarking process 
+Net proceeds are earmarked and 
+identified by SNCF’s treasury. ✓ 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  14  o f  14  
+ANNEX 2: DETAILED FINDINGS LOW CARBON 
+TRANSPORT  CRITERIA  
+ 
+✓ 
+The green bonds asset pool complies with the low carbon transport 
+sector criteria (Version 1) of the Climate Bonds Initiative. 
+The proceeds have been used to investments in the most heavily used and 
+100% electric rail network (UIC 1 to 6) covering tracks, sidings and key sites, 
+operation and signaling systems, central network control facilities, traction 
+power supply infrastructure and tunnels, bridges and earthworks 
+(engineering). 
+The eligible projects and assets financed by the bonds relate only to 
+electrified rail infrastructure and linked systems necessary for the electrified 
+rail network utilization. The Issuer confirmed that dedicated freight lines are 
+not funded and that the primary purpose of the infrastructure is not for 
+transporting fossil fuels. Furthermore , the Issuer confirmed biofuel rolling 
+stock traffic usage of such assets corresponds to less than 5%.

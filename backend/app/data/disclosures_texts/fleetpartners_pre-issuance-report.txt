@@ -1,0 +1,268 @@
+DNV Business Assurance Australia Pty. Ltd. Level 4, 181 Miller Street, North Sydney, NSW Australia, 2060. Ph: +61 (2) 9922 1966 https://www.dnv.com/assurance/  
+ 
+ 
+  
+FLEETPARTNERS GROUP LIMITED 
+PRE-ISSUANCE VERIFICATION OPINION 
+ 
+ 
+ 
+Document Title: FleetPartners Group Pre-Issuance Verification Opinion 
+Prepared By: DNV Business Assurance Australia Pty Ltd 
+Location: Sydney, Australia 
+Date of First Draft: 26/03/2024 
+Date of Last Revision: 11/04/2024 
+Project Number: 10491915 
+ 
+
+ 
+ 
+Page 2 of 8 
+ 
+   
+ 
+FLEETPARTNERS GROUP GREEN BOND FRAMEWORK 
+DNV VERIFICATION OPINION 
+Scope and Objectives  
+FleetPartners Group Limited  (“FleetPartners”, the “Customer”  or the “Issuer”) is a leading provider of 
+vehicle leasing, fleet management, heavy commercial vehicles, salary packaging and novated leasing, 
+operating across Australia and New Zealand. With decades of experience, FleetPartners manages over 
+88,000 (as of September 2023) vehicles on behalf of its customers. They help businesses of all sizes access 
+funds, acquire, commission, and effectively manage their vehicles. FleetPartners also help everyday 
+Australians maximize their salary through salary packaging benefits and novated leasing. 
+FleetPartners has established a Green Bond Framework , January 2024  (the “Framework”) to guide the 
+issuance of Green Asset Backed Securities (“Green ABS”) , from its AUD FP Turbo ABS Programme and 
+NZD FP Ignition ABS Programme (the “Programmes”) . FleetPartners intends to exclusively apply an 
+amount equivalent to the net proceeds from Green ABS issued pursuant to this Framework to finance or 
+refinance, in part or in full, new, and existing assets, projects or activities that fall under the Eligible 
+Category: 
+• Clean Transportation Eligible Green Project Category under Green Bond Principles 2022 (“GBP”) 
+• Low Carbon Transportation Sector Criteria as defined by Climate Bonds Initiative (“CBI”)  
+Green ABS will be issued in Australia under the FP Turbo Programme by Perpetual Corporate Trust Limited 
+(ABN 99 000 341 533), acting as the Trustee, using trusts established periodically under a master trust 
+deed. Green ABS will also be issued in New Zealand under the FP Ignition Programme by NZGT (“FP”)  
+serving as the trustee of the FP Ignition Trust 2011 – 1 New Zealand ("NZGT"), for any series established 
+periodically. The issuance of Green ABS will encompass both public and private term securitisation 
+transactions within the Australian and New Zealand asset-backed securitisation capital markets. This Pre-
+Issuance Verification Opinion is for the Green ABS from FleetPartners’ Programmes. 
+FleetPartners has commissioned DNV Business Assurance Australia Pty Ltd  (“DNV”) to carry out the 
+verification of the Green ABS which has been issued in accordance with the terms of the Framework. This 
+report contains the findings from the verification and a verification statement regarding compliance with 
+the CBI with the Climate Bond Standard (“CBS”). 
+ 
+No assurance is provided regarding the financial performance of instruments issued via the Framework, 
+the value of any investments, or the long-term environmental benefits of the transaction. DNV’s objective 
+has been to provide an assessment that the Framework has met the criteria established on the basis set 
+out below. 
+ 
+Responsibilities of the Management of FleetPartners and DNV 
+The management of FleetPartners has provided the information and data used by DNV during the delivery 
+of this review. Our statement represents an independent opinion and is intended to inform FleetPartners’ 
+management and other interested stakeholders in the Framework as to whether the Framework is aligned 
+with the GBP. In our work we have relied on the information and the facts presented to us by FleetPartners. 
+DNV is not responsible for any aspect of the nominated assets referred to in this opinion and ca nnot be 
+held liable if estimates, findings, opinions, or conclusions are incorrect. Thus, DNV shall not be held liable 
+if any of the information or data provided by FleetPartners’ management and used as a basis for this 
+assessment were not correct or complete. 
+ 
+ 
+Page 3 of 8 
+ 
+   
+ 
+Basis of DNV’s Opinion 
+DNV has conducted the verification against the CBS V4.0 and associated Sector Technical Criteria through 
+the creation and execution of a verification protocol addressing each requirement of the CBS V4.0 and the 
+relevant technical criteria. The detail of areas covered in the DNV verification is summarised in Schedule 
+2 below. 
+DNV has conducted the verification against the GBP and relevant project criteria  in parallel to the CBS 
+V4.0 Pre-Issuance Verification.  
+Work Undertaken 
+Our work constituted a high-level review of the available information, based on the understanding that 
+this information was provided to us by FleetPartners in good faith. We have not performed an audit or 
+other tests to check the veracity of the information provided to us. The work undertaken to form our 
+opinion included: 
+• Creation and execution of a Climate Bond s Standard Protocol, adapted to include the relevant 
+Sector Technical Criteria for the Green ABS’s nominated projects and assets, as described above 
+and in Schedule 2 to this Opinion; 
+• Assessment of documentary evidence provided by FleetPartners on the Green ABS  and 
+supplemented by a high-level desktop research,  
+• Documentation of findings against each element of the criteria. Our opinion as detailed below is a 
+summary of these findings. 
+ 
+Findings and DNV’s Opinion 
+DNV has performed the Pre-Issuance Verification of the Green ABS. It is DNV’s responsibility to provide 
+an independent verification statement on the compliance of the Bonds with the Climate Bonds Standard 
+V4.0 and the GBP dated 2022, collectively referred to as the Principles & Standards. 
+DNV conducted the verification in accordance with the Principles & Standards  and with International 
+Standard on Assurance Engagements 3000 Assurance Engagements other than Audits or Reviews of 
+Historical Information . The verification included i) checking whether the provisions of the Principles & 
+Standards were consistently and appropriately applied and ii) the collection of evidence supporting the 
+verification. 
+DNV’s verification approach draws on an understanding of the risks associated with conforming with the 
+Principles & Standards  and the controls in place to mitigate these. DNV planned and performed the 
+verification by obtaining evidence and other information and explanations that DNV considers necessary 
+to give limited assurance that the Framework, and other associated documentation, meet the requirements 
+of the Principles & Standards. 
+Based on the limited assurance procedures conducted, nothing has come to our attention that causes us 
+to believe that the Green Bonds are not, in all material respects, in accordance with the Pre-Issuance 
+requirements of the CBS, the associated Low Carbon Transportation sector criteria, and the GBP. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 8 
+ 
+   
+ 
+For DNV Business Assurance Australia Pty. Ltd. 
+Sydney, Australia, 11th April 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+Thomas Leonard 
+Assurance Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+David McCann 
+Lead Verifier 
+ 
+ Parina Mehta 
+Verifier 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About DNV 
+Driven by our purpose of safeguarding life, property and the environment, DNV enables organisations to 
+advance the safety and sustainability of their business. Combining leading technical and operational 
+expertise, risk methodology and in-depth industry knowledge, we empower our customers’ decisions and 
+actions with trust and confi dence. We continuously invest in research and collaborative innovation to 
+provide customers and society with operational and technological foresight. With our origins stretching 
+back to 1864, our reach today is global. Operating in more than 100 countries,  our 16,000 professionals 
+are dedicated to helping customers make the world safer, smarter and greener. 
+
+ 
+ 
+Page 5 of 8 
+ 
+   
+ 
+SCHEDULE 1: DESCRIPTION OF NOMINATED ASSETS  
+ 
+CBS Sector Criteria Eligible Criteria and Description Location 
+Low Carbon Transportation  
+ 
+Eligible Assets that are automatically eligible: 
+• Most fully electric, hydrogen, or other zero-direct emissions transport - including 
+private vehicles, passenger trains, urban subway/metro, trams, and their directly 
+supporting infrastructure. 
+ 
+Australia 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Page 6 of 8 
+ 
+   
+ 
+SCHEDULE 2: CLIMATE BONDS STANDARD VERIFICATION CRITERIA 
+Summary criteria for assertions of compliance with the Climate Bonds Standard V4.0 
+A full verification is provided in the associated Verification protocol. 
+The criteria against which FleetPartners and its nominated projects & assets have been reviewed prior to inclusion in the Bonds are grouped under the 
+requirements as detailed within the CBS including: 
+Part A: Pre-Issuance Requirements  
+1. Area 2. Requirement 
+3. Use of Proceeds 4. Nominated projects & assets which are proposed to be associated with the Bonds and which have been assessed as 
+eligible activities under the CBS related Sector Criteria 
+5. Project Selection  6. Establish, document and maintain a decision -making process which it uses to determine the eligibility of the 
+Nominated Projects & Assets 
+7. Management of Proceeds 8. The systems, policies and processes to be used for management of the Net Proceeds shall be documented by the 
+Issuer 
+9. Reporting Prior to Issuance  Issuer shall prepare a Green Financing Framework and make it available prior to Issuance or at the time of issuance 
+to lenders 
+Reporting Reporting on use of proceeds and nominated projects and assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 8 
+ 
+   
+ 
+Part B: Post-Issuance Requirements 
+Use of Proceeds 1. Nominated Projects & Assets which are proposed to be associated with the Bonds and which have been 
+assessed as likely to be Eligible Projects & Assets  
+2. Project Selection  3. Establish, document and maintain a decision -making process which it uses to determine the eligibility of the 
+Nominated Projects & Assets  
+4. Management of Proceeds 5. The systems, policies and processes to be used for management of the Net Proceeds shall be documented by the 
+Issuer  
+6. Reporting 7. Reporting on use of proceeds and nominated projects and assets 
+ 
+Part C: Eligible Projects and Physical Assets 
+Nominated projects and assets include financing or refinancing of or investments in equipment and systems which enable the mitigation of greenhouse gases, as 
+detailed in Schedule 1. 
+Climate Bonds Standard Sector 
+Criteria 
+Eligible Criteria and Description 
+Low Carbon Transport Automotive financing products (operating, novated and finance leases) for new or used motor vehicles or 
+Motorised Equipment, including:  
+• Battery Electric Vehicle; 
+• Battery Electric Vehicle + Range Extender; 
+• Fuel Cell Electric Vehicle;  
+• Hybrid Electric Vehicle where the combined tailpipe emissions are less than 50 grams of CO2 per 
+kilometre (“Low Emission Vehicles”); or 
+• Electric Motorised Equipment. 
+ 
+ 
+ 
+Page 8 of 8 
+ 
+   
+ 
+ 
+Part D: Certification under the Climate Bonds Standard 
+ 
+1. Area 2. Requirement 
+3. Pre-Issuance Certification 4. The Issuer of a Climate Bonds Standard Certification must satisfy the Pre-Issuance Certification requirements 
+including the completion of all forms, Pre-Issuance Verification by an approved verifier and provision of relevant 
+information 
+5. Post-Issuance Certification 6. The Issuer of a Climate Bonds Standard Certification must satisfy the Post-Issuance Certification requirements 
+including the completion of all forms, Post-Issuance Verification by an approved verifier and provision of relevant 
+information 
+7. Maintaining Certification 8. The Issuer shall provide annual reporting to the CBI and comply with non-conformance correction as required

@@ -1,0 +1,586 @@
+1 
+ 
+ 
+ING commissioned ISS-oekom to compile a Verification Report for Pre-Issuance Certification of its Green 
+Bond by the Climate Bond s Initiative (CBI). The Climate Bond s Certification process includes  verifying 
+whether the provisions of the Climate Bonds Standard issued by the CBI are met and obtaining evidence 
+to support the verification.  
+ 
+Relevant CBI Standards for this Climate Bonds Certification:  
+• Climate Bonds Standard (Version 2.1) 
+• Wind – Sector Criteria ( Version 1.1) 
+• Solar – Sector Criteria (V ersion 2.1) 
+• Residential and Commercial Buildings Methodologies  (Version 1.0) 
+• Marine Renewable Energy Sector Eligibility Criteria  (status 10/2017)  
+ 
+ 
+ING’s responsibility was to provide information and documentation on:  
+• Selection of nominated projects & assets 
+• Internal processes & controls 
+• (Proposed) reporting  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 October 2018  
+Criteria 
+Scope 
+ING’s Responsibility 
+ 
+Verification Report for Pre-Issuance Certification of the  
+Green Bond  
+by ING 
+Scope 
+Scope 
+ 
+ 
+ 2 
+ 
+ISS-oekom reviewed the information and documentation provided and developed by ING to assess the 
+Green Bond’s alignment with the CBI requirements:  
+• Conformance with the selection of nominated projects & assets requirements  
+• Conformance with the internal processes & controls requirements  
+• Conformance with the reporting requirements   
+ 
+ISS-oekom’s approach to assess whether the issuer meets the criteria of the CBI standard was as 
+follows: 
+ 
+• The issuer provided an overview over the assets to be included in the Green Bond asset pool 
+and the relevant  processes regarding the proceeds (e.g. use of proceeds,  management of 
+proceeds) to ISS -oekom.  
+• The issuer filled in a questionnaire that covers all  criteria of the Climate Bond s Standard 2.1.  
+• The issuer provided background documents that elaborate further on the information 
+mentioned in the questionnaire.  
+• Using the questionnaire and back ground documents, ISS -oekom carried out a n assessment 
+of the CBI criteria. In case any answers were unclear, ISS-oekom contacted the issuer for more 
+details and clarification.  
+ 
+ 
+This Verification Report for Climate Bond s Certification is intended for the use of ING and the Climate 
+Bonds Standard Board. CBI and ISS-oekom agree to only publish the report with the consent of ING.  
+ 
+ 
+ 
+Based on the limited assurance procedures conducted and evidence obtained , nothing has come to our 
+attention that causes us to believe that, in all mat erial respects the Issuer’s 2018 Green  Bond is not in 
+conformance with the Climate Bonds Standard’s Pre -Issuance Requirements.  
+ 
+Robert Haßler  
+ISS-oekom 
+Munich, 22 October 2018  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opinion 
+Restriction on Distribution and Use of Report 
+ISS-oekom’s Responsibility as a Verifier 
+ 
+ 3 
+ 
+ 
+Disclaimer 
+Copyright © 2018 Institutional Shareholder Services Inc. (“ISS”). This document and all of the information contained in it is  the 
+property of ISS and/or its subsidiaries. The Information may not be reproduced or redisseminated in whole or in part without 
+the prior written permission of ISS. While we exercise due care in compiling this document, we assume no liability with 
+respect to the consequences of relying on this information for investment or other purposes. ISS makes no express or implied 
+warranties or representations with respect to the information.  
+ 
+About ISS-oekom  
+Since March 2018, ISS -oekom has been a member of the ISS family, providing high quality solutions for sustainable and 
+responsible investment and corporate governance. Originally founded i n 1993 and formerly known as oekom research, the 
+company is one of the world’s leading ESG research and rating agencies for sustainable investments with an unsurpassed 
+rating methodology and quality recognition. ISS -oekom analyzes businesses and countries with respect to their environmental 
+social and governance performance. As an experienced partner of institutional investors and financial service providers, we 
+analyse the level of responsibility exercised by equity and bond issuers towards society and the  environment. Under the new 
+ownership, ISS -oekom completes the ESG research and RI services offerings of ISS, making it a worldwide pure -player in the 
+area of RI Research & Solutions. ISS -oekom is headed by Robert Haßler, former CEO and co -founder of oekom -research. 
+More information: www.oekom -research.com and www.issgovernance.com.  
+Contact  
+ISS-oekom, Goethestraße 28, 80336 Munich, Germany, tel: +49 89 54 41 84 -90, e-mail: info@ISS-oekom.com  
+ 
+  
+ 
+ 4 
+ 
+Annex 
+ 
+• Annex 1: Detailed Findings 
+• Annex 2: Detailed Findings Marine Renewable Energy Standards 
+• Annex 3: Detailed Findings Green Buildings  
+• Annex 4: Detailed Findings Solar Power 
+• Annex 5: Detailed Findings Wind Power (onshore) 
+  
+ 
+ 5 
+ 
+1. Selection of nominated projects & assets 
+ 
+Requirement Factual Findings 
+Analysis 
+against 
+Requirements 
+1.1. Decision-making process to 
+determine eligibility of 
+nominated projects & 
+assets. 
+Projects financed and/or refinanced 
+through the Green Bond proceeds are 
+evaluated and selected based on 
+compliance with the Eligibility Criteria by 
+the ING Green Bond Committee.  
+✓ 
+1.2. Assessment of proposed 
+nominated projects & 
+assets.  
+ING ensures that all selected eligible loans 
+comply with official national and 
+international environmental and social 
+standards and local laws and regulations 
+on a best effort basis. It is part of ING’s 
+ESR transaction approval process to 
+ensure, that all its loans comply with 
+internal environmental and social 
+directives, including those financed with 
+the proceeds of the Green Bonds.  
+✓ 
+1.3. Documentation of eligibility 
+of nominated projects & 
+assets. 
+ING has established a selection process 
+based on detailed eligibility criteria. A list 
+of nominated assets is documented 
+internally and updated regularly”. Projects 
+financed and/or refinance d through the 
+Green Bond proceeds are evaluated and 
+selected based on compliance with the 
+Eligibility Criteria by ING Green Bond 
+Committee. The Green Bond Committee 
+will be composed of representatives from 
+Group Treasury, Group Sustainability, 
+Sustainable Finance, Sustainable Markets 
+as well as subject matter experts from the 
+various sectors of allocated assets  
+✓ 
+1.4. No double nomination of 
+projects & assets . 
+The Green bond proceeds will be 
+managed by ING in a portfolio approach 
+(to avoid double accounting) . ING will 
+strive, over time, to achieve a level of 
+allocation for the Eligible Green Loan 
+Portfolio which matches or exceeds the 
+balance of net proceeds from its 
+✓ 
+ 
+ Annex 1: Detailed Findings  
+ 
+ 6 
+outstanding Green Bonds. Additional 
+Eligible Green Loans will be add ed to 
+ING’s Eligible Green Loan Portfolio to the 
+extent required to ensure that the net 
+proceeds from outstanding Green Bonds 
+will be allocated to Eligible Green Loans.  
+1.5. Net proceeds in relation to 
+issuer’s debt obligation. 
+ING will strive to achieve an allocation level 
+for the Eligible Green Loan Portfolio which 
+matches the balance of net proceeds from 
+its outstanding Green Bonds. Additional 
+Eligible Green loans will be added to the 
+Issuer’s Eligible Green Loan Portfolio to the 
+extent required to ensure that the net 
+proceeds from outstanding Green Bonds will 
+be allocated to Eligible Green Loans.  
+✓ 
+ 
+2. Internal Processes & Controls  
+ 
+Requirement Factual Findings 
+Analysis 
+against 
+Requirements 
+2.1.1. Tracking of proceeds  The Green bond proceeds will be managed 
+by ING in a portfolio approach.  
+ING intends to allocate the proceeds from 
+the Green Bonds to a n Eligible Green Loan 
+Portfolio, selected in accordance with the 
+use of proceeds criteria and evaluation and 
+selection process set out in their Green 
+Bond Framework . 
+✓ 
+2.1.2. Managing unallocated 
+proceeds  
+Whilst any Green Bond net proceeds remain 
+unallocated, ING will hold and/or invest, at 
+its own discretion, in its treasury liquidity 
+portfolio, in cash or other short term and 
+liquid instruments, the balance of net 
+proceeds not yet allocated to the Eligible 
+Green Loan Portfolio.  
+✓ 
+2.1.3. Earmarking funds to 
+nominated projects & 
+assets 
+ING will strive, over time, to achieve a level 
+of allocation for the Eligible Green Loan 
+Portfolio which matches the balance of net 
+proceeds from its outstanding Green Bonds. 
+Additional Eligible Green loans w ill be 
+added to ING’s Eligible Green Loan Portfolio 
+to the extent required to ensure that the net 
+proceeds from outstanding Green Bonds will 
+be allocated to Eligible Green Loans.  
+✓ 
+ 
+ 
+ 7 
+3. Reporting Prior to Issuance 
+ 
+Requirement Factual Findings 
+Analysis 
+against 
+Requirements 
+3.1.1. Disclosure on investment 
+areas  
+ING has confirmed that it will report prior to 
+issuance that all nominated assets fall into 
+one project category as listed in Clause 
+9.1 of the Climate Bond s Standard.  
+✓ 
+3.1.2. Disclosure on intended 
+types of temporary 
+investment instruments  
+Whilst any Green Bond net proceeds 
+remain unallocated, ING will hold and/or 
+invest, at its own discretion, in its treasury 
+liquidity portfolio, in cash or other short 
+term and liquid instruments, the balan ce of 
+net proceeds not yet allocated to the 
+Eligible Green Loan Portfolio.  
+✓ 
+3.1.3. Disclosure regarding pre-
+issuance verification  
+ING has confirmed that it will report prior to 
+issuance on its pre -issuance verification 
+procedure.  
+✓ 
+3.1.4. Disclosure on periodic 
+assurance engagements  
+ING may request on an annual basis, 
+starting one year after issuance and until 
+maturity (or until full allocation), a limited 
+assurance report of the allocation of the 
+bond proceeds to eligible assets, provided 
+by its external auditor (KPMG or any 
+subsequent external auditor).  
+✓ 
+ 
+ 
+ 
+ 8 
+ 
+1. Disclosure Component 
+Requirement 
+Disclosure evidence 
+(Information publicly available)  
+Fulfils the 
+requirements Comment 
+Project location and size, 
+including description of 
+marine coastal ecosystem 
+in proximity to planned 
+installations, noting for 
+example whether located 
+in marine protected areas 
+or vulnerable marine 
+ecosystems. 
+Projects 1, 2 & 3: These 
+details are available on the 
+respective projects’ websites. 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+Projected lifespan of the 
+asset/project. 
+Projects 1, 2 & 3: All projects 
+have a lifespan of 25 years. x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+Key stakeholders 
+involved, including other 
+users of the area and 
+surrounding area (sea, 
+land or air depending  on 
+what is applicable) of the 
+facility (ies).  
+Projects 1-3: Major and minor 
+stakeholders were involved 
+and communicated with.  
+ 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+Description of the project 
+activities including details  
+on installation, operation 
+and decommissioning  
+activities. 
+Projects 1, 2 & 3: Description 
+of the project activities are 
+available on the project s’ 
+websites. 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+Expected/current facility 
+capacity and generation 
+during and after the life of 
+the bond. 
+Projects 1, 2 & 3: These details 
+are available on the respective 
+projects’ websites. 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+ 
+ Annex 2: Detailed findings Marine Renewable Energy Standard 
+ 
+ 9 
+Details of where the 
+energy generated is being  
+fed into, and estimated 
+impact of the grid  mix. 
+Projects 1, 2 & 3: These 
+details are available on the 
+respective projects’ websites. 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+Projected avoided GHG 
+emissions compar ed to 
+fossil fuel counterfactual  
+(in kgCO2e) using 
+recognised conversion 
+factors. 
+ING engaged a 3 rd party 
+consultant to calculate the 
+annual avoided GHG 
+emissions for the total ING 
+Renewable Energy portfolio. 
+The impact report will be 
+published on ING’s website  
+✓  
+The planning standards, 
+environmental regula tions 
+and other regulations that 
+the project has been 
+required to comply with.  
+Projects 1, 2 & 3: EIAs are 
+available for all projects on 
+their respective websites.  
+ 
+x 
+ING confirms all 
+requirements are met . 
+The reports for 
+projects 4-7 are not 
+available due to legal 
+restrictions. 
+ 
+1. Mitigation Component 
+ 
+The issuer’s Green Bond Asset Pool is in line with the Mitigation Component of the Climate Bond s 
+Initiative as it is entirely dedicated to renewable energy.  
+ 
+ 
+2. Adaptation & Resilience Requirements  
+ 
+ Requirement Factual Findings 
+Analysis 
+against 
+Requirements 
+1 Processes are in place to assess 
+key risks to the assets from a 
+changing climate a nd its impact 
+on marine conditions . 
+Environmental and stakeholder 
+considerations are addre ssed in 
+applicable reports and during 
+development, construction and 
+operation of renewable assets. ING 
+confirms all assets are constructed in 
+line with applicable regulations . 
+✓ 
+2 Processes are in place to assess 
+improvements and impacts the 
+assets have on the resilience of 
+other stakeholders.  
+Environmental and stakeholder 
+considerations are addre ssed in 
+applicable reports and during 
+development, construction and 
+operation of renewable assets. ING 
+confirms all assets are constructed in 
+line with applicable regulations . 
+✓ 
+ 
+ 10 
+3 An adaptation plan has been 
+designed and is being 
+implemented to address the risks 
+identified in assessments 
+outlined above. 
+Environmental and stakeholder 
+considerations are addre ssed in 
+applicable reports and during 
+development, construction and 
+operation of renewable assets. ING 
+confirms all assets are constructed in 
+line with applicable regulations . 
+✓ 
+3.1 Inspections are carried out 
+regularly and there is a 
+maintenance regime for future 
+inspection. 
+Environmental and stakeholder 
+considerations are addre ssed in 
+applicable reports and during 
+development, construction and 
+operation of renewable assets. ING 
+confirms all assets are constructed in 
+line with applicable regulations . 
+✓ 
+4 Involvement in stakeholder 
+engagement and collaboration  
+Four projects, accounting for 100% of 
+the Asset Pool, have carried out close 
+collaborations with stakeholders in 
+order to promote resilience and 
+adaptation. 
+✓ 
+5 The assets do not put at risk or 
+endangered species or habitats 
+or unduly impact ecosystem 
+services. If so, mitigation 
+measures have been 
+implemented. 
+Four projects, accounting for 100% of 
+the Asset Pool, have avifauna 
+monitoring plans and other mitigation 
+measures in place to minimise impact 
+on endangered species and the 
+ecosystem, or are subject to existing 
+regulatory requirements ( EIAs and 
+Environmental Permits ) covered by 
+national law (Germany and 
+Netherlands). 
+✓ 
+5.1 Waste is responsibly dealt with. 
+Recycling is in place where 
+possible. 
+Four projects, accounting for 100% of 
+the Asset Pool, include waste 
+disposal measures , or are subject to 
+regulatory requirements ( EIAs and 
+Environmental Permits ) covered by 
+national law (Germany and 
+Netherlands).  
+✓ 
+5.2 Potential risks for accidental site 
+contamination have been 
+recognised. Steps have been 
+taken to minimise these risks.  
+Four projects, accounting for 100% of 
+the Asset Pool, include measures to 
+minimise risks for accidental site 
+contamination, or are subject to 
+regulatory requirements ( EIAs and 
+Environmental Permits ) covered by 
+national law (Germany and 
+Netherlands). 
+✓ 
+ 
+ 11 
+5.3 Decommissioning of the plant is 
+planned in a way that considers 
+the environmental impacts . 
+Four projects, accounting for 100% of 
+the Asset Pool, include measures for 
+responsible decommissioning.  
+✓ 
+5.4 Plans and processes are in place 
+to effectively manage and 
+minimise conflicts with other 
+users of the marine and coastal 
+space. 
+Four projects, accounting for 100% of 
+the Asset Pool, include measures to 
+minimise navigational risks to 
+maritime traffic and aviation . 
+✓ 
+ 
+ 
+ 
+ 
+✓ The Green Bond Asset Pool complies with the Low Carbon Buildings  criteria of the 
+Climate Bonds Initiative. 
+All buildings in this portfolio belong to top 10% of low carbon buildings in the Netherlands 
+(according to EPCs and CFP reports) and as such they are automatically eligible for the Climate 
+Bonds Initiative. 
+ 
+ 
+ 
+ 
+✓ The Green Bond Asset Pool complies with the Solar Power criteria of the Climate Bonds 
+Initiative. 
+All onshore solar parks are automatically eligible for the Climate Bonds Initiative  
+ 
+ 
+ 
+ 
+ 
+✓ The Green Bond Asset Pool complies with the Wind Power criteria of the Climate Bonds 
+Initiative. 
+All onshore wind farms are automatically eligible for the Climate Bonds Initiative  
+ 
+ 
+ Annex 3: Detailed findings Green Buildings  
+ 
+ 
+ Annex 4: Detailed findings Solar Power 
+ 
+ 
+ Annex 5: Detailed findings Wind Power (onshore)

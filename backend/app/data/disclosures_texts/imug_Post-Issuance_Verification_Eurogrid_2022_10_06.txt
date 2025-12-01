@@ -1,0 +1,770 @@
+Post-Issuance Verifier’s Report 
+  
+ 
+Post-Issuance Requirements  
+Use of Proceeds 
+Process for Evaluation and Selection of Projects & Assets   
+Management of Proceeds 
+Reporting 
+ 
+Eligibility of Projects & Assets  
+Climate Bonds Taxonomy  
+Sector Eligibility Criteria  
+ 
+Eurogrid GmbH 
+Post-Issuance Verifier’s Report – October 2022 
+ Green Bond.  The findings below are based on our 
+assessment of the Green B ond, the related Nomi-
+nated Projects & Assets and the Issuer’s internal sys-
+tems and procedures in accordance w ith the Cli-
+mate Bonds Standard Version 3.0 from the CBI. 
+Nothing has come to  imug rating’s attention that causes us to be-
+lieve that, in all material respects Eurogrid GmbH’s  2020 Green 
+Bond is not in conformance with the Climate Bonds Standard’s 
+Post-Issuance Requirements. 
+Eurogrid GmbH’s core business in the field of energy realised through its subsidiary 50Hertz 
+Transmission GmbH (hereafter: “50Hertz”) and 50Hertz’s subsidiary 50Hertz Offshore GmbH 
+(hereafter: “50Hertz Offshore”) includes, in particular, investments in e lectric utility assets and 
+the provision of services for its cu stomers. Eurogrid GmbH issued its debut Green Bond in 2020  
+under its debt issuance programme to fund green projects of 50Hertz Offshore.  
+ 
+Based on the limited assurance procedures conducted and the evidence obtained, nothing has 
+come to our attention that causes us to believe that, in all material respects Eurogrid’s 2020 
+Green Bond is not in conformance with the Climate Bonds Standard’s Pos t-Issuance Require-
+ments. 
+ 
+imug rating 
+Hanover, 6 October 2022 
+www.imug-rating.de/en   
+ 
+In May 2020, Eurogrid GmbH  issued its debut Green 
+Bond to (re)finance the projects from the category 
+“Marine Renewables”. The Issuer has commissioned 
+imug rating as an independent approved verifier of 
+the Climate Bond Initiative (CBI) to provide the Post-
+Issuance Verification with limited assurance of the  
+© imug rating GmbH 
+ 
+OPINION  
+CLIMATE BONDS STANDARD v3.0 
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 2 
+Post-Issuance Verifier’s Report 
+ 
+1. ENGAGEMENT SUMMARY  
+ 
+This Verifier’s Report draws its conclusions from the following information: 
+  
+BASIC INFORMATION  
+Legal name of the Issuer Eurogrid GmbH 
+Unique name of the Bond EUR 750,000,000 1.113 percent. “Green” Unsecured and  
+Unsubordinated Notes due 2032 
+Identifier of the Bond ISIN: XS2171713006 
+Verifier company name imug rating GmbH 
+Period covered by the Verifier’s report From 5 September 2022 to 6 October 2022 
+ 
+SCOPE OF WORK 
+ 
+Eurogrid GmbH commissioned imug rating to prepare a Verifier’s Report for the post-issuance 
+certification of its Green Bond by the Climate Bonds Initiative. The Climate Bonds certification 
+process verifies compliance with the provisions of the Climate Bonds Standards issued by the 
+CBI and obtains evidence for verification. 
+ 
+INDEPENDENCE AND QUALITY CONTROL 
+ 
+imug rating has carried out a verification of Eurogri d’s Green Bond, issued to finance two ma-
+rine renewable energy transition projects, and has issued an independent opinion informing 
+Eurogrid that the Green Bond conforms to the Post-Issuance requirements and the Marine Re-
+newable Energy criteria of the Climate Bonds Standard. 
+ 
+imug rating has relied on the information and facts provided by Eurogrid in relation to the nom-
+inated projects. imug rating is not responsible and cannot be held liable if the opinions, find-
+ings or conclusions set out herein are incorrect due to inaccurate or incomplete data provided 
+by Eurogrid. 
+ 
+RESPONSIBILITIES OF EUROGRID 
+ 
+Eurogrid is responsible for providing accurate information and documentation on the details 
+of the funded projects, including the description of the projects and the amounts disbursed.  
+ 
+RESPONSIBILITIES OF IMUG RATING 
+ 
+imug rating conducted the verification in accordance with the Climate Bonds Standard Version 
+3.0 and with International Standard on Assurance Engagements 3000 (ISAE 3000) – Assurance 
+Engagements other than Audits or Reviews of Historical Information. 
+ 
+The work undertaken as part of this engagement included interviews with relevant Eurogrid 
+employees and review of relevant documentation to verify conformance of Eurogrid’s  Green 
+Bond with the Post-Issuance Requirements (Part B and Part C) and the Marine Renewable En-
+ergy criteria (dated October 2017) of the Climate Bonds Standard Version 3.0. 
+ 
+ 
+ 
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 3 
+Post-Issuance Verifier’s Report 
+ 
+DISTRIBUTION AND USE OF THE REPORT 
+ 
+The report of factual findings for Climate Bonds Certification including all documentation pro-
+vided alongside is intended for the use of Eurogrid and the Climate Bonds Standard Board. The 
+present document may be disseminated by Eurogrid, CBI and imug rating. CBI and imug rating 
+agree to publish the report with the consent of Eurogrid. 
+ 
+ 
+ 
+ 
+Markus Grünewald 
+Head of Research – imug rating 
+Hanover, 6 October 2022 
+ 
+  
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 4 
+Post-Issuance Verifier’s Report 
+ 
+2. BACKGROUND 
+ 
+imug rating has been commissioned to provide a Post-Issuance Verifier’s Report on the May 
+2020 Green Bond Issuance of Eurogrid GmbH (hereafter referred to as “Eurogrid”, “the Com-
+pany” or “the Issuer”). The assessment of the Post-Issuance processes took into considera-
+tion the requirements of Climate Bonds Standard Version 3.0 Post-Issuance Certification. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+imug rating conducted the assessment from the beginning of September to the the begin-
+ning of October  2022. Eurogrid GmbH management provided all the relevant documents , 
+and imug rating was in direct contact with the relevant employees. The information we re-
+ceived has allowed us to provide a limited assurance opinion on the Issuer’ compliance with 
+the above-mentioned guidelines.  
+  
+In May 2020, Eurogrid issued its debut Green 
+Bond amounting to EUR 750 million and 
+used the  proceeds of the issuance to (re)fi-
+nance eligible projects in the category “Ma-
+rine Renewable Energy” . The expansion of 
+the national grid infrastructure through the 
+offshore projects Ostwind 1 and Ostwind 2 
+has enabled access to renewable energy and 
+increased the number of connected house-
+holds. This has contributed to the reduction 
+and avoidance of CO2 emissions. 
+ 
+The eligible projects ha ve been imple-
+mented by the subsidiary 50Hertz Offshore 
+GmbH. Both Ostwind  1 and Ostwind 2 pro-
+jects fall under the “Marine Renewable En-
+ergy” sector criteria of the Climate Bonds 
+Standard. 
+ 
+Headquartered in Berlin, Eurogrid GmbH is a 
+German company whose shares are divided 
+between the Eurogrid International SA/NV 
+(80 percent), which is a subsidiary of the Bel-
+gian Elia Group SA/NV, and the German 
+Kreditanstalt für Wiederaufbau  (KfW; 20 per-
+cent). Eurogrid invests in electric utility as-
+sets and, through its subsidiary 50Hertz, pro-
+vides support services to its customers. 
+ 
+ 
+50Hertz Transmission GmbH is a wholly  
+owned subsidiary of Eurogrid GmbH. As one 
+out of four transmission system operators in 
+Germany, 50Hertz is responsible for the op-
+eration, maintenance, pl anning and expan-
+sion of the 380/220 kilovolt transmission grid 
+in the German  Federal S tates of Thuringia, 
+Saxony, Saxony -Anhalt, Brandenburg, Ber-
+lin, Mecklenburg -Western Pomerania and 
+Hamburg. The German federal regulator 
+“Bundesnetzagentur” (Federal Network 
+Agency) regulates the Company. The C om-
+pany’s electricity grid has a total length of 
+approximately 10,000 kilometres, in which 
+the share of renewable energies in electricity 
+consumption has ranged between 56.1 and 
+62 percent in the last three years.  By 2032, 
+50Hertz aims to cover all electricity con-
+sumption in its grid area with 100 percent re-
+newable energy. 
+ 
+50Hertz Offshore GmbH, in turn, is a wholly  
+owned subsidiary of 50Hert z Transmission 
+GmbH. The business model focuses on the 
+planning, erecting, owning and operation of 
+electricity grids between offshore wind farms 
+in the Baltic Sea and the German onshore 
+electricity grid. 
+ 
+Regarding the issuance proceeds, Eurogrid 
+undertakes to use the m exclusively for the 
+(re)financing of projects that demonstrate 
+sustainable benefits in accordance with the 
+Green Bond Principles (GBP). 
+ 
+ 
+Eurogrid GmbH 
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 5 
+Post-Issuance Verifier’s Report 
+ 
+3.  METHODOLOGY  
+ 
+The present report was prepared by qualified imug rating analysts. Our sustainability research 
+is carried out exclusively in accordance with recognised and methodically secured procedures. 
+We have defined strict quality standards for all research activities and customer proc esses. As 
+early as 2002, imug rating adopted a  Code of Conduct , which guarantees the independence, 
+traceability and quality of sustainability assessments. To align its research and work processes 
+even more closely with recognised standards, imug rating underwent an external audit in June 
+2019 and rece ived certification in accordance with the quality management standard ISO 
+9001:2015. The initial certifications are reviewed in regular monitoring audits, the last of which 
+took place in April 2022. imug rating has been recognised as an Approved Verifier by the Climate 
+Bonds Standard Board of the Climate Bond s Initiative (CBI) on 8 July 2022 and can therefore 
+be commissioned by Issuers to prepare a pre- and post-issuance report in accordance with the 
+Climate Bonds Standard & Certification Scheme. 
+ 
+Following a detailed examination of the information on the financial instrument, the related 
+nominated projects & assets and the Issuer’s internal systems and procedures provided by the 
+Issuer, imug rating confirms whether a  financial instruments complies with the post-issuance 
+requirements of the Climate Bonds Standard (Version 3.0). 
+ 
+To obtain verification, the Issuer must provide transparent information on the following points: 
+ 
+(1) Technical aspects of nominated projects & a ssets that are required to be met  under Part C 
+of the Climate Bonds Standard, 
+(2) The systems and processes implemented by the Issuer to monitor the flow of funds towards 
+the nominated projects & a ssets or the earmarking approach used to identify nominate d pro-
+jects & assets, 
+(3) Aspects of the structure of the financial instrument, which may require further understand-
+ing. For this purpose, imug rating sends two questionnaires to the Issuer. In addition to the 
+information, discussions with relevant employees of the Issuer and publicly avail able infor-
+mation form the information basis for the present report. These sources were only used if the 
+information was comprehensible and documented.  
+ 
+Based on provided information imug rating undertakes a Limited Assurance Verification En-
+gagement and pr ovides the Issuer with an independent post -issuance verification report on 
+the conformance with the Climate Bonds Standard’s Post -Issuance Requirements. According 
+to the agreement with the Climate Bonds Initiative, imug rating does not decide on the certifi-
+cation of the bond. All certification decisions under the Climate Bonds Standard & Certification 
+Scheme are made by the Climate Bonds Standard Board based on information provided by the 
+Issuer, including the report the Issuer has received from imug rating as an accredited verifier. 
+  
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 6 
+Post-Issuance Verifier’s Report 
+ 
+Transparency & Disclaimer 
+ 
+imug rating conducted the assurance verification in accordance with the International Standard on Assurance Engage-
+ments (ISAE 3000): Assurance Engagements other than Audits or Reviews of Historical Financial Information. 
+ 
+Disclosure of the relation between imug rating and the Issuer: imug rating, in cooperation with Vigeo Eiris (now Moody’s 
+ESG Solutions) has carried out a Second Party Opinion for Eurogrid GmbH in the year 2020 as well as a further Second 
+Party Opinion for the Issuer in the year 2022.  These activities are  not related to the present Post-Issuance Verifier’s 
+Report. There is no relationship, financial or otherwise, between imug rating and the Issuer. 
+ 
+imug rating has prepared this independent Post-Issuance Verifier’s Report in accordance with imug rating’s method-
+ology and in strict compliance with its Code of Conduct to avoid conflicts of interest and to meet requirements of 
+objectivity and transparency, independence, integrity and professional conduct.   
+ 
+imug rating GmbH ( “imug rating”) is an independent sustainability rating agency and a wholly  owned subsidiary of 
+imug Beratungsgesellschaft für sozial-ökologische Innovationen mbH (“imug Beratungsgesellschaft”). imug rating can-
+not exclude that the division imug | csr of the parent company imug Beratungsgesellschaft may have provided con-
+sulting services for the framework of the Issuer prior to the preparation of a Second Party Opinion. In order  to avoid 
+any conflict of interest, imug rating and imug Beratungsgesellschaft have implemented appropriate policies and effec-
+tive information barriers to prevent any exchange between the consulting and the auditing organisations and employ-
+ees. Neither imug Beratungsgesellschaft nor any of its employees are informed about the content of the imug rating 
+Second Party Opinion prior to its publication or dissemination. 
+ 
+In providing the Post-Issuance Verifier’s Report, imug rating refers to requirements of the Guidance for Verifiers (Version 
+2.0) from the Climate Bonds Initiative.  
+ 
+In providing its research and rating services, imug rating acts with due skill, care and diligence and undertakes all rea-
+sonable efforts to ensure the accuracy of the information provided. 
+ 
+Based on data provided by the Issuer, imug rating prepares a Post-Issuance Verifier’s Report on the compliance of the 
+Bond(s) with the Climate Bonds Standard (Version 3.0). The information contained herein therefore is provided “as is”, 
+without warranty, either expressed or implied, of any kind, including as to the accuracy, completeness, timeliness, 
+merchantability or fitness for any particular purpose. 
+ 
+The Issuer is fully responsible for attesting the compliance with its commitments defined in its policies, for their imple-
+mentation and their monitoring. The opinion delivered by imug rating focuses neither on the financial performance of 
+the Bond, nor on the effective allocation of its proceeds. imug rating is not responsible for the induced consequences 
+when third parties use this opinion either to make investments decisions or to make any kind of business transaction.  
+ 
+The information contained herein does not constitute any assessment of the Issuer’s economic performance or cre-
+ditworthiness, nor any financial or investment advice, nor any statement about the suitability of an investment for any 
+particular investors or any groups of investors. No results and value judgments provided by imug rating constitute an 
+investment advice or any other purchase or investment recommendation in any way. To the extent permitted by law, 
+imug rating disclaims liability to the client and to any other person or entity for any losses or damage directly or indi-
+rectly arising from or related to the use of its research and rating results. 
+ 
+imug rating reserves full rights of, including but not limited to intellectual property rights on the information, method-
+ologies and opinions contained or reflected herein. The Post-Issuance Verifier’s Report is provided to the I ssuer by 
+imug rating and may be used by the Issuer as agreed between the Issuer and imug rating. Any further publication, in 
+its entirety or in extracts, or any other disclosure to or by third parties requires the prior written consent of imug rating. 
+ 
+  
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 7 
+Post-Issuance Verifier’s Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ imug rating is a subsidiary of imug Beratungsgesellschaft für sozial -
+ökologische Innovationen mbH in Hanover, which was founded in 1995. We 
+have been present as a rating agency on the sustainable financial market for 
+over 20 years and are the leading inde pendent player on the German -speak-
+ing market for sophisticated ESG information and ratings. Our quality man-
+agement is certified with ISO 9001, which is unique in the industry.  
+ 
+ 
+ imug rating GmbH 
+Postkamp 14a 
+30159 Hanover 
+Phone: +49 511 121 96-50  
+E-mail: info@imug-rating.de  
+Web: www.imug-rating.de/en  
+Analysts 
+► Alexander Thole 
+► Christina Tyca 
+► Daria Ezhkova 
+► Gökhan Vatansever  
+
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 8 
+Post-Issuance Verifier’s Report 
+ 
+ 
+ANNEX: DETAILED FINDINGS 
+ 
+Eurogrid has declared that the net proceeds of its 2020 Green Bond were used for two marine 
+renewable energy transition projects from the CBI category “Marine Renewable Energy ”, 
+namely Ostwind 1 1  and Ostwind 2 2, as described in Eurogrid ’s 2020 Green Bond Framework. 
+The Issuer has been prompt in providing information to the Verifier. We believe that the proce-
+dures performed and the evidence we have obtained are sufficient and appropriate to support 
+our findings. Some of the evidence on which our report is b ased are the following: 2020 Green 
+Bond Framework, Green Bond Report 2020 and 2021, the completed questionnaires for the 
+Post-Issuance Certification Checklist and the Eligibility Criteria for Marine Renewable Energy 
+Assets. 
+ 
+imug rating has assessed Eurogrid’s 2020 Green Bond and the nominated projects and assets 
+against criteria and requirements detailed within the Climate Bonds Standard Version 3.0. 
+ 
+The order of the findings in this Annex is as follows: 
+ 
+ Part B: Post-Issuance Requirements 
+► Use of Proceeds 
+► Process for Evaluation and Selection of Projects & Assets 
+► Management of Proceeds 
+► Reporting 
+ 
+ Part C: Eligibility of Projects & Assets 
+► Climate Bonds Taxonomy 
+► Sector Eligibility Criteria - Marine Renewable Energy 
+ 
+ 
+PART B: POST-ISSUANCE REQUIREMENTS  
+ 
+5. Use of Proceeds 
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+5.1. The Net Proceeds of the Bond shall 
+be allocated to the Nominated Projects 
+& Assets. 
+► All proceeds were allocated to the nominated 
+assets in the category “Marine Renewable En-
+ergy”. 
+ 
+5.2. All nominated Projects & Assets 
+shall meet the documented objectives 
+of the Bond as stated under Clause 6.1 
+and shall be in conformance with the re-
+quirements of Part C of the Climate 
+Bonds Standard. 
+► Eurogrid has assessed all projects against its 
+eligibility criteria. The projects meet the doc-
+umented objectives of the Bond and are in 
+conformance with the requirements of Part B 
+of the Climate Bonds Standards as well as the 
+sector-specific criteria of the Climate Bond el-
+igibility criteria on Marine Renewable Energy. 
+ 
+5.3. The Issuer shall allocate the Net 
+Proceeds to Nominated Projects & As-
+sets within 24 months of issuance of the 
+► The full amount of the net proceeds were al-
+located to nominated assets within 17 
+months after the issuance. 
+ 
+                                                      
+1 https://www.50hertz.com/en/Grid/Griddevelopement/Concludedprojects/Ostwind1  
+2 https://www.50hertz.com/en/Grid/Griddevelopement/Offshoreprojects/Ostwind2  
+
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 9 
+Post-Issuance Verifier’s Report 
+ 
+Bond, or the Issuer shall disclose in 
+post-issuance reporting as per clause 
+8.3 the estimated timeline for allocation 
+of net proceeds to Nominated Projects 
+& Assets. Net proceeds may be reallo-
+cated to other Nominated Projects & As-
+sets at any time while the Bond remains 
+outstanding. 
+5.4. Nominated Projects & Assets shall 
+not be nominated to other Certified Cli-
+mate Bonds, Certified Climate Loans, 
+Certified Climate Debt Instruments, 
+green bonds, green loans or other la-
+belled instruments (such as social 
+bonds or SDG bonds) unless it is 
+demonstrated by the Issuer that: 
+► Eurogrid reports and confirms that the nomi-
+nated assets have not been nominated to 
+other Climate Bonds. 
+ 
+ 
+5.4.1. distinct portions of the Nomi-
+nated Projects & Assets are being 
+funded by different Certified Climate 
+Bonds, Certified Climate Loans, Cer-
+tified Climate Debt Instruments, 
+green bonds, green loans or other 
+labelled instruments or; 
+5.4.2. the existing Certified Climate 
+Bond, Certified Climate Loan or Cer-
+tified Climate Debt Instrument is be-
+ing refinanced via another Certified 
+Climate Bond, Certified Climate 
+Loan or Certified Climate Debt In-
+strument. 
+5.5. Where some of the Net Proceeds of 
+the Bond are used for refinancing, the 
+Issuer shall track the share of the Net 
+Proceeds used for financing and refi-
+nancing and identify which Nominated 
+Projects & Assets may be refinanced. 
+This may include the expected look-
+back period for refinanced Nominated 
+Projects & Assets. 
+► As stated in the audited Green Reporting 
+2021, the share of refinancing in the total net 
+proceeds is 55.8 percent. The share of refi-
+nancing in the proceeds for “Ostwind 1” is 
+97.0 percent and for “Ostwind 2” 43.0 per-
+cent. Eurogrid refinanced investments in 
+both projects made on 1 July 2018 and there-
+after. 
+ 
+5.6. The Net Proceeds of the Bond shall 
+be tracked by the Issuer following a for-
+mal internal process, which is docu-
+mented in accordance with Clause 3.1. 
+► The net proceeds of the Bond are managed 
+on a portfolio basis. There is an internal pro-
+cess to monitor and track net income 
+through the internal accounting system. An 
+external independent third party, BDO AG, 
+has verified the allocation. 
+ 
+5.7. The Net Proceeds of the Bond shall 
+be no greater than the Issuer’s total in-
+vestment exposure or debt obligation to 
+the Nominated Projects & Assets, or the 
+relevant proportion of the total Market 
+Value of the Nominated Projects & As-
+sets, which are owned or financed by 
+the Issuer. 
+► Eurogrid reports and confirms that the net 
+proceeds of the Bond are no greater than the 
+total investments in the nominated assets. 
+The net proceeds were fully allocated.  
+ 
+
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 10 
+Post-Issuance Verifier’s Report 
+ 
+5.8. Additional Nominated Project & As-
+sets may be added to, or used to substi-
+tute or replenish, the portfolio of Nomi-
+nated Project & Assets as long as the ad-
+ditional Nominated Project & Assets are 
+eligible under Part C of the Climate 
+Bonds Standard and are consistent with 
+the Bond’s objective as set out in 
+Clauses 6.1 and 6.1.1. 
+► There is no additional, substituted or replen-
+ished project apart from the two nominated 
+projects. 
+ 
+5.8.1. Where additional Nominated 
+Projects & Assets are covered by 
+Sector Eligibility Criteria, which were 
+not included in the scope of either 
+the Pre-Issuance Verification or the 
+Post-Issuance Verification engage-
+ments, the Issuer shall engage a Ver-
+ifier to provide a Verifier’s Report 
+covering at least the conformance 
+of the additional Nominated Pro-
+jects & Assets with the relevant Sec-
+tor Eligibility Criteria under Part C of 
+the Climate Bonds Standard. 
+ 
+ 
+6. Process for Evaluation and Selection of Projects & Assets  
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+6.1. The Issuer shall document and 
+maintain a decision-making process, 
+which it uses to determine the continu-
+ing eligibility of the Nominated Projects 
+& Assets. This includes, without limita-
+tion: 
+► Eurogrid has confirmed the decision-making 
+process by which it determined the contin-
+ued eligibility of the nominated assets. All the 
+requirements mentioned are included. The 
+process is documented in the 2020 Green 
+Bond Framework. 
+ 
+6.1.1. A statement on the climate-re-
+lated objectives of the Bond; 
+► In its Framework, Eurogrid describes the 
+main environmental objectives for all pro-
+jects. 
+ 
+6.1.2. How the climate-related ob-
+jectives of the Bond are positioned 
+within the context of the Issuer’s 
+overarching objectives, strategy, 
+policy and/or processes relating to 
+environmental sustainability; 
+► In its Framework, Eurogrid describes how the 
+climate-related objectives of the Bond are 
+positioned within the context of the Issuer’s 
+overarching objectives, strategy, policy 
+and/or processes relating to environmental 
+sustainability. 
+ 
+6.1.3. The Issuer’s rationale for issu-
+ing the Bond; 
+► In its Framework, Eurogrid describes its ra-
+tionale for issuing the Bond.  
+6.1.4. A process to determine 
+whether the Nominated Projects & 
+Assets meet the eligibility require-
+ments specified in Part C of the Cli-
+mate Bonds Standard; 
+► In its Framework, Eurogrid describes the pro-
+cess to determine whether the nominated as-
+sets meet the eligibility requirements. 
+ 
+6.1.5. Other information provided by 
+the Issuer in order to satisfy Clause 
+2.2 and 2.3 of the Standard. 
+
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 11 
+Post-Issuance Verifier’s Report 
+ 
+ 
+ 
+7. Management of Proceeds 
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+7.1. The Net Proceeds of the Bond shall 
+be credited to a sub-account, moved to 
+a sub-portfolio or otherwise identified 
+by the Issuer in an appropriate manner, 
+and documented. 
+► The net proceeds of the Bond were credited 
+to Eurogrid’s general treasury and managed 
+on a portfolio basis within four weeks after 
+the issuance. Thereafter, they were trans-
+ferred in full via 50Hertz Transmission to a 
+separate green bond sub-account of 50Hertz 
+Offshore. During the allocation process, the 
+corresponding amounts from this sub-ac-
+count were transferred to the main account 
+of 50Hertz Offshore. The Issuer identifies and 
+documents the net proceeds in an appropri-
+ate manner. 
+ 
+7.2. The Issuer of the Bond shall main-
+tain the earmarking process to manage 
+and account for allocation of Net Pro-
+ceeds to the Nominated Projects & As-
+sets as described in Clause 3.1.3. 
+► The net proceeds of the Bond are fully allo-
+cated through Eurogrid’s ad hoc subsidiaries. 
+ 
+7.3. While the Bond remains outstand-
+ing, the balance of the tracked Net Pro-
+ceeds shall be reduced by amounts allo-
+cated to Nominated Projects & Assets. 
+Pending such allocations to Nominated 
+Projects & Assets, the balance of unallo-
+cated Net Proceeds shall be: 
+► The full amount of the net proceeds were al-
+located to nominated assets within 17 
+months after the issuance. Funds not yet allo-
+cated were temporarily held in cash or cash 
+equivalents in the Eurogrid cash pool and not 
+invested in greenhouse gas intensive pro-
+jects. 
+ 
+ 
+7.3.1. Held in temporary investment 
+instruments that are cash, or cash 
+equivalent instruments, within a 
+Treasury function; or 
+7.3.2. Held in temporary investment 
+instruments that do not include 
+greenhouse gas intensive projects 
+which are inconsistent with the de-
+livery of a low-carbon and climate-
+resilient economy; or 
+7.3.3. Applied to temporarily reduce 
+indebtedness of a revolving nature 
+before being redrawn for invest-
+ments or disbursements to Nomi-
+nated Projects & Assets. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Post-Issuance Verifier’s Report on the Green Bond issued by Eurogrid GmbH – 06.10.2022 12 
+Post-Issuance Verifier’s Report 
+ 
+8. Reporting 
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+8.1. The Issuer shall prepare an Update 
+Report at least annually while the Bond 
+remains outstanding. 
+► Eurogrid has published two annual Green 
+Bond Reports for the years 2020 and 2021.  
+8.1.2. The Update Report shall be 
+made available to holders of the 
+Bond and to the Climate Bonds 
+Standard Board. 
+► The reports are publicity available on the Is-
+suer’s website: https://www.eu-
+rogrid.com/en-us/Investor-Relations/Green-
+Financing 
+ 
+8.1.3. The Issuer should provide an 
+Update Report to holders of the 
+Bond on a timely basis in case of 
+material developments. 
+► No material developments were reported. 
+ 
+ 
+ 
+PART C: ELIGIBILITY OF PROJECTS & ASSETS 
+ 
+9. Climate Bonds Taxonomy 
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+Alignment of the Climate Bond 
+category 
+► Nominated Projects, as identified by the Is-
+suer, fall into one of the investment areas 
+listed as included in the Climate Bonds Tax-
+onomy. 
+ 
+ 
+ 
+10. Sector Eligibility Criteria 
+ 
+CLIMATE BONDS STANDARD  
+REQUIREMENTS 
+FACTUAL FINDINGS 
+ 
+ALIGNMENT  
+ 
+Sector-specific eligibility criteria –  
+Marine Renewable Energy 
+► The full amount of the net proceeds is distrib-
+uted to eligible assets related in the afore-
+mentioned category that meet the eligibility 
+requirements of the Climate Bonds Stand-
+ards. These requirements consist of Marine 
+Renewable Energy specific Disclosure Com-
+ponent, Mitigation Component and Adapta-
+tion & Resilience Requirements, all of which 
+were analysed upon receipt of the completed 
+questionnaire from the Issuer.

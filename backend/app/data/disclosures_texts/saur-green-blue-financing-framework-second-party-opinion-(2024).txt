@@ -1,0 +1,668 @@
+© Sustainalytics 2024 
+ 
+ 
+ 
+Second-Party Opinion 
+Saur Green & Blue Financing 
+Framework 
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the Saur Green & Blue Financing Framework is 
+credible and impactful and aligns with the four core components of the Green Bond 
+Principles 2021 and the Green Loan Principles 202 3. This assessment is based on 
+the following: 
+ 
+USE OF PROCEEDS The eligible categories for the use of proceeds – 
+Water Production and Supply, Wastewater Collection and Treatment , 
+Desalination of Water, Clean Transportation and Renewable Energy – 
+are aligned with those recognized by the Green Bond Pri nciples and 
+the Green Loan Principles. Sustainalytics considers that investments 
+in the eligible categor ies will lead to positive environmental impacts 
+and advance the UN Sustainable Development Goals , specifically 
+SDGs 6, 7 and 11. 
+  Saur’s Green Financing 
+Working Group will be responsible for the evaluation and selection of 
+projects in line with the Framework’s eligibility criteria.  Saur has 
+internal policies, procedures and standards in place to address 
+environmental and social risks, which apply to all allocation decisions 
+made under the Framework.  Sustainalytics considers the project 
+selection process to be in line with market practice. 
+ MANAGEMENT OF PROCEEDS Saur’s Treasury department will be 
+responsible for the management of proceeds and will track their 
+allocation through a portfolio approach using an internal tracking 
+tool. Saur intends to allocate all proceeds within  two years of 
+issuance. Pending full allocation, Saur will temporarily invest the 
+proceeds in cash, cash equivalents or other liquid marketable 
+instruments. This is in line with market practice 
+ REPORTING Saur commits to report on the allocation of proceeds 
+and corresponding impacts on its website on an annual basis until 
+full allocation or in the event of material changes to the allocation. 
+Allocation reporting will include the  total amount of proceeds 
+allocated by category , the size of the eligible green portfolio , the 
+share of financing versus refinancing  and the amount of 
+unallocated proceeds . Sustainalytics views Saur’s allocation and 
+impact reporting as aligned with market practice. 
+ 
+ 
+ 
+Evaluation date September 18, 
+2024 
+Issuer Location Issy-les-
+Moulineaux, 
+France 
+ 
+Report Sections 
+ 
+ 
+Introduction ............................................. 2 
+Sustainalytics’ Opinion ........................... 3 
+ 
+For inquir ies, contact the Sustainable 
+Corporate Solutions project team: 
+Siga Wu (Amsterdam) 
+Project Manager 
+siga.wu@sustainalytics.com 
+(+31) 205 602 936 
+Ayaka Okumura (Amsterdam) 
+Project Support 
+Enrico Tessadro (Amsterdam) 
+Client Relations 
+susfinance.emea@sustainalytics.com 
+(+44) 20 3880 0193   
+ 
+  
+
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+2 
+Introduction 
+Saur SAS (“Saur” or the “Company”) is a French company that specializes in water services, water engineering 
+and industrial water solutions. Headquartered in Issy-les-Moulineaux, Saur operates in 20 countries in Europe, 
+Middle East, North America and Asia. Founded in 1933, Saur employed 12,000 people and served 9,500 local 
+authorities and industrial clients as of December 20231,2  
+Saur has developed the Saur Green & Blue Financing Framework dated September 2024 (the “Framework”), 
+under which it intends to issue green bonds, blue bonds, green loans  and blue loans,3 and use the proceeds 
+to finance and refinance, in whole or in part, existing  and future projects that are expected to promote water 
+supply, management and treatment as well as clean transportation and renewable energy in France and other 
+countries globally. The Framework defines eligibility criteria in five areas: 
+1. Water Production and Supply  
+2. Wastewater Collection and Treatment 
+3. Desalination of Water 
+4. Clean Transportation 
+5. Renewable Energy 
+Saur engaged Sustainalytics to review the Framework and provide a Second-Party Opinion on the Framework’s 
+environmental credentials and its alignment with the Green Bond Principles 2021 (GBP)4 and the Green Loan 
+Principles 2023 (GLP).5 For the blue bond and loan issuances, Sa ur will also align with the IFC Guidelines for 
+Blue Finance.6 The Framework will be published in a separate document.7  
+Scope of work and limitations of Sustainalytics’ Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent8 opinion on the alignment of the 
+reviewed Framework with current market standards and the extent to which the eligible project categories are 
+credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with the Green Bond Principles 2021, as administered by ICMA, and the 
+Green Loan Principles 2023, as administered by LMA, APLMA and LSTA; 
+• The credibility and anticipated positive impacts of the use of proceeds; and 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version 1.17, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+As part of this engagement, Sustainalytics held conversations with various members of Saur’s management 
+team to understand the sustainability impact of its business processes and planned use of proceeds, as well 
+as the management of proceeds and reporting aspects of the Framework. Saur representatives have 
+confirmed that: (1) they understand it is the sole responsibility of Saur to ensure that the information provided 
+is complete, accurate and up to date; (2) they have provided Sustainalytics with all relevant information and 
+(3) any provided material information has been duly disclosed in a timely manner. Sustainalytics also reviewed 
+relevant public documents and non-public information. 
+ 
+1 Saur, “2023 Full Year Results”, (2024), at: https://dnr54354splcz.cloudfront.net/publications/2024.04.03_FY-2023-Financial-
+results_vdef.pdf?v=1712338922 
+2 Saur, “Our Locations”, at: https://www.saur.com/dive-into-saur/our-locations 
+3 For green and blue loans, Saur intends to issue term loans, project finance loans and ECA covered loans. Sustainalytics’s Second-Party Opinion applies 
+only to the instruments expressly cited in the Framework. 
+4 The Green Bond Principles are administered by the International Capital Market Association and are available at https://www.icmagroup.org/green-
+social-and-sustainability-bonds/green-bond-principles-gbp/. 
+5 The Green Loan Principles are administered by the Loan Market Association, Asia Pacific Loan Market Association and Loan Syndications and Trading 
+Association and are available at https://www.lsta.org/content/green-loan-principles/ 
+6 IFC, “Guidance for Blue Finance”, (2022), at: https://www.ifc.org/content/dam/ifc/doc/mgrt/ifc-guidelines-for-blue-finance.pdf 
+7 The Saur Green & Blue Financing Framework is available at: https://www.saur.com/investors 
+8 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore put in place a robust conflict management 
+framework that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial and research 
+(and engagement) teams, data protection and systems separation. Last but not the least, analyst compensation is not directly tied to specific 
+commercial outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+3 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. 
+Any update of the present Second -Party Opinion will be conducted according to the agreed engagement 
+conditions between Sustainalytics and Saur SAS. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with market 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects expected to be financed with bond and loan proceeds but does not measure the actual impact. The 
+measurement and reporting of the impact achieved through projects financed under the Framewo rk is the 
+responsibility of the Framework owner. 
+In addition, the Second-Party Opinion opines on the potential allocation of proceeds but does not guarantee 
+the realised allocation of the bond and loan proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument, either in favour or against, the truthfulness, reliability 
+or completeness of any facts or statements and related surrounding circumstances that Saur has made 
+available to Sustainalytics for the purpose of this Second-Party Opinion. 
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the Saur Green & Blue Financing 
+Framework 
+Sustainalytics is of the opinion that the Saur Green & Blue Financing Framework is credible, impactful and 
+aligned with the four core components of the GBP and GLP. Sustainalytics notes that in addition to the GBP 
+and GLP, Saur intends to follow the IFC Guidelines for Blue Finance . Sustainalytics highlights the following 
+elements of the Framework: 
+• Use of Proceeds:  
+- The eligible categories  – Water Production and Supply, Wastewater Collection and Treatment,  
+Desalination of Water , Clean Transportation and Renewable Energy   – are aligned with those 
+recognized by the GBP and GLP.  
+- Sustainalytics notes that financing under the Framework will take place in the countries in which 
+the Company operates, primarily France, the Netherlands and other EU countries, with the 
+exclusion of countries that are on the international sanctions list s according to the exclusion 
+criteria in the Framework.  
+- The Company has defined a look-back period of two years for its refinancing activities under the 
+Framework, which Sustainalytics considers to be aligned with market practice. 
+- Under the Framework, Saur will finance the following types of expenditures: i) capital and 
+operating expenditures for assets that meet the Framework’s eligibility criteria; ii) R&D 
+expenditures for new products and solutions that meet the Framework’s eligi bility criteria; and 
+iii) equity investments for the acquisition of entities that: i) derive 90% or more of their revenue 
+from activities that comply with the eligibility criteria set in the Framework; and ii) whose shares 
+are not publicly traded or newly issued in primary markets. Sustainalytics believes that project- 
+and activity-based investing generally result in more direct environmental benefits and enhance 
+compliance with the criteria in the Framework. However, Sustainalytics acknowledges that using 
+green, blue bond and loan proceeds to finance equity investments in pure  play companies is a 
+commonly accepted approach that is likely to generate positive impacts by supporting the end 
+activities of the pure play companies. Sustainalytics further notes that, it is market p ractice to 
+limit the proceeds of the bonds and loans to the net value of credible assets under the balance 
+sheet of the acquired company. Saur has communicated to Sustainalytics that it intends to 
+finance the market value of the pure  play companies,9 which may be materially different from 
+the value of the underlying credible assets. 
+- Under the Water Production and Supply  category, Saur may finance or refinance the design, 
+construction, extension, renewal, operation and maintenance of the following projects  in both 
+ 
+9 Saur has communicated to Sustainalytics that equity investments for the acquisition of pure play companies will account for less than 15% of the total 
+proceeds from bond and loan issuances under the Framework. 
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+4 
+municipal and industrial sectors: i) water c ollection and treatment facilities ; ii) water supply 
+systems; and iii) smart technology projects aimed at improving the efficiency of water supply 
+and distribution systems for domestic and public services purpose s, some project examples 
+include leakage control, metering of consumptions, digitalization and automation of sites, 
+wastewater control , water quality control, and management of chemicals and energy 
+consumption. Saur has confirmed that projects dedicated to  fossil fuel production and 
+operation, and fossil fuel-related activities will be excluded under the Framework. Sustainalytics 
+considers these investments to be aligned with market practice. 
+- Under the Wastewater Collection and Treatment  category, Saur may finance or refinance the 
+design, construction, extension, renewal, operation and maintenance of the following projects: 
+▪ Wastewater collection and treatment facilities in the municipal and industrial sectors. 
+This includes sludge treatment and recovery through composting and methanization. 
+▪ Infrastructure dedicated to wastewater reuse , including provision of associated 
+services and works. Treated and recycled wastewater will be applied in: i) agricultural 
+land irrigation; ii)  urban watering and cleaning; iii)  industrial cleaning and process 
+water; iv) recharging water tables; and v) water reuse in residential buildings. 
+▪ Saur has confirmed that wastewater from fossil fuel production and operation , and 
+systems dedicated to controversial activities such as industrial livestock management 
+will be excluded under the category.  
+▪ Sustainalytics considers expenditures under this category to be aligned with market 
+practice. 
+- Under the Desalination of Water  category, Saur may finance or refinance the design, 
+construction, extension, renewable and maintenance of desalination plants  powered by 
+renewables. Sustainalytics notes that : i) the des alination plants will produce water for 
+distribution in drinking water supply systems where conventional water resources are under 
+pressure; ii) the plants will have a maximum energy intensity of 5 kWh/m 3; and iii) adequate 
+waste management plan will be in place for brine disposal. Sustainalytics considers this to be 
+aligned with market practice. 
+- Under the Clean Transportation category , Saur may finance or refinance  the: i) purchase of 
+battery electric vehicles and associated services such as maintenance and leasing services; and 
+ii) installation, maintenance and repair of electric vehicle charging stations. Sustainalytics 
+considers these expenditures to be aligned with market practice.  
+- Under the Renewable Energy category, the Company may finance or refinance solar PV trackers 
+and solar PV farms, which Sustainalytics considers to be in line with market practice.  Saur has 
+communicated to Sustainalytics that it may also extend financing to other renewable energy 
+projects that follow  the EU Taxonomy’s energy generation related substantial contribution 
+criteria for climate mitigation .10 Sustainalytics encourages Saur to report on the sources of 
+renewable energy generation facilities financed and corresponding environmental impacts. 
+- Sustainalytics notes that the Framework excludes  the financing of projects and assets related 
+to the following activities: i) fossil fuels; ii) gambling; iii) tobacco; iv)  thermal coal mining; v) 
+controversial weapons ; and vi) industrial livestock activities . The Framework also excludes 
+projects, assets, expenditures and investments in countries listed under sanction programmes 
+of the UN,11 the US Office for Foreign Assets Control (OFAC)12 and the EU.13  
+• Project Evaluation and Selection:  
+- Saur has established a Green Financing Working Group  which will be responsible for the 
+evaluation and selection of projects in line with the Framework’s eligibility criteria. The working 
+group is chaired by a member of the Group Treasury and Financing department and consists of 
+representatives from the CSR, Financing and Treasury, and Operations departments. 
+- Saur has internal policies, procedures and standards in place to address environmental and 
+social risks whic h apply to all allocation decisions made under the Framework . The working 
+group monitors the eligible projects and ensures that they adhere to the Company’s internal 
+policies. Sustainalytics considers this environmental and social risk management system to be 
+adequate and aligned with the requirements of the GBP and GLP. For additional details, please 
+refer to Section 2 
+ 
+10 This Second-Party Opinion applies only to the expenditures and criteria expressly described in the Framework and those communicated by Saur to 
+Sustainalytics before the Evaluation Date. 
+11 United Nations Security Council, “Sanctions”, at: https://main.un.org/securitycouncil/en/sanctions/information 
+12 U.S. Department of the Treasury Office of Foreign Assets Control, “Sanctions Programs and Country information”, at: 
+https://ofac.treasury.gov/sanctions-programs-and-country-information 
+13 EU, “EU Sanctions Map”, at: https://sanctionsmap.eu/#/main  
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+5 
+- Based on the establishment of a dedicated working group and the presence of a risk 
+management system, Sustainalytics considers this process to be in line with market practice. 
+• Management of Proceeds: 
+- Saur’s Treasury department will be responsible for the management of proceeds and will track 
+their allocation through a portfolio approach using an internal tracking tool. 
+- The Company intends to allocate all proceeds within two year s of issuance. Pending full 
+allocation, Saur will temporarily invest the unallocated proceeds in cash, cash equivalents or 
+other liquid marketable instruments. 
+- Saur has communicated to Sustainalytics that instruments issued under the Framework may 
+include multi-tranche loan facilities. Saur intends to label only those tranches of such facilities 
+whose proceeds will be allocated according to the eligibility criteria in the Framework. 
+- Based on the use of an internal tracking system and the disclosure of the temporary use of 
+proceeds, Sustainalytics considers this process to be in line with market practice. 
+• Reporting: 
+- Saur commits to report on the allocation of proceeds and corresponding impacts on its website 
+on an annual basis until full allocation or in the event of material changes to the allocation. 
+- Allocation reporting will include: i) the total amount of proceeds allocated by category; ii) the 
+size of the eligible green portfolio; iii) the share of financing versus refinancing; iv) examples of 
+eligible projects; iv) the percentage of EU Taxonomy-aligned eligible projects where available; v) 
+the amount of unallocated proceeds and the temporary use of the unallocated proceeds where 
+feasible; and vi) material developments related to the eligible projects, if any. 
+- Impact reporting may include metrics such as : i) the quantity of drinking water produced (in 
+Mm3); ii) the volume of wastewater treated (in Mm3); and iii) the volume of water discharged into 
+the natural environment without impact. 
+- Saur commits to have an external auditor provide limited assurance report for the allocation of 
+proceeds on an annual basis until full allocation.  
+- Based on the commitment to allocation and impact reporting , Sustainalytics considers this 
+process to be in line with market practice. 
+Alignment with the Green Bond Principles 2021 and Green Loan Principles 2023 
+Sustainalytics has determined that the Saur Green & Blue Financing Framework aligns with the four core 
+components of the GBP and GLP. 
+Section 2: Sustainability Strategy of Saur 
+Contribution to Saur’s sustainability strategy 
+Saur has developed a Sustainable Development Roadmap 2021 -2025 with nine key commitments, of which 
+the following three are linked to the financing under the Framework : i) water conservation ; ii) use of 
+Environmental Monitoring Interface (EMI) solutions and other technologies for water protection ; and iii) 
+decarbonization of the Company and the industry.14  
+Saur is committed to helping its customers transition to more sustainable and resilient water management 
+practices through its services and technology. The Company has set a target to reduce water withdrawals per 
+customer by 0.5% annually compared to the 2021 baseline, and has met this target in 2022 and 2023 since its 
+inception.15 The reduction in water withdrawals has been realised through the implementation of the following 
+measures: i) installing approximately 200,000 additional  remote reading meters  in 2023; ii) establishing a 
+centralized data platform ; iii) enhancing date collection tools and deploying new data analytical tools ; iv)  
+identifying contracts that deviate from the target and taking corrective actions; and v) implementing additional 
+controls and automation.16 Saur has also developed the REUSE system, which reuses treated wastewater for 
+applications such as agricultural irrigation, watering green spaces and replenishing groundwater levels.17 In 
+2008, the Company implemented this system in the arid climate region of Mauron in France, and it has since 
+been used to irrigate approximately 101 hectares of agricultural land, resulting in a 30% to 50% reduction in 
+the annual flow discharged into protected sensitive areas. 18  Additionally, Saur is developing predictive 
+ 
+14 Saur, “Our Sustainability Roadmap”, at: https://www.saur.com/mission-water/csr-sustainability-road-map  
+15 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+16 Ibid. 
+17 Ibid. 
+18 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+6 
+artificial intelligence models to be implemented in its EMI platform.19 The EMI platform provides forecasts of 
+increasing drought risk levels by capturing all available environmental data that could potentially influence 
+water resources, and has been used by more than 180 local authorities in France. 20,21  Saur has also launched 
+a website, info-sécheresse, which provides free access to real-time data on alterations in water resources and 
+drought risks in the country.22 
+With regard to decarbonization, Saur has set targets to reduce its absolute scope 1 and 2 emissions by 42% 
+and scope 3 emissions23 by 25% by 2030, compared to 2021 levels.24 The targets have been validated by the 
+Science Based Targets initiative (SBTi)  in 2023.25 To achieve these, Saur is working on measures such as 
+switching to renewable energy sources through the installation of solar panels and execution of power 
+purchase agreements at its sites, and deploying low-carbon vehicles.26 In 2023, Saur achieved a 48% reduction 
+in its scope 1 and 2 emissions compared to 2021.27 Additionally, Saur issued its first sustainability-linked bond 
+in 2021, with targets for three key performance indicators : i) reduction of water withdrawal ; ii) reduction of 
+carbon intensity ; and iii) promoti on of  gender diversity in the Company’s executive management .28  The 
+Company achieved targets for all KPIs in 2022 and 2023.29 
+Sustainalytics is of the opinion that the Saur Green & Blue Financing Framework is aligned with the Company’s 
+overall sustainability strategy and initiatives and will further the Company’s action on its key environmental 
+priorities. 
+Approach to managing environmental and social risks associated with the projects  
+Sustainalytics recognizes that the proceeds from the instruments issued under the Framework will be directed 
+towards eligible projects that are expected to have positive environmental or social impacts. However, 
+Sustainalytics is aware that such eligible p rojects could also lead to negative environmental and social 
+outcomes. Some key environmental and social risks possibly associated with the eligible projects may include 
+issues related to: i) land use and biodiversity issues associated with large -scale infrastructure development; 
+ii) emissions, effluents and waste generated in construction ; iii) occupational health and safety (OHS) ; iv) 
+product service and quality; v) community relations and stakeholder participation. 
+Sustainalytics is of the opinion that Saur is able to manage and mitigate potential risks through 
+implementation of the following:  
+- Saur has an internal control system  named Vigilance Plan. The system regularly assesses all 
+company activities and internal procedures , covering the Company’s  key risk areas such as  
+health and safety, environment, human rights and freedom, and ethics and compliance. 30 The 
+Vigilance Plan sets out guidelines and procedures for five key components: i) risk mapping; ii) 
+regular assessment of subsidiaries, subcontractors and suppliers; iii)  actions to mitigate risks 
+and prevent sever impact; iv) a mechanism for whistleblowing and receiving reports and v) a 
+system for monitoring measures and assessing their effectiveness. Specifically for suppliers 
+and subcontractors, the Company’s purchasing department conducts a multi -criteria supplier 
+assessment on human rights, labour law, anti-corruption, OHS and environmental management 
+during the selection process, annually until the end of the contract.31 In addition, the Ethics and 
+Compliance department evaluates the integrity and reputation risk of the Company’s suppliers, 
+with those identified as critical being subject to further assessment.32  
+ 
+19 Ibid. 
+20 Saur, “How does EMI Patrimoine help local authorities optimize their investments?”, (2021), at: https://blog.saur.com/en/how-does-emi-patrimoine-
+help-local-authorities-optimize-their-investments 
+21 Ibid. 
+22 Saur, “integrated CSR report 2023”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+23 Saur has communicated to Sustainalytics that scope 3 emissions encompass emissions from purchased goods and services, fuel and energy related 
+activities, upstream transportation and distribution, waste generated in operations, business travel, employee commuting, use of sold products and end 
+of life treatment of sold products. 
+24 Saur has shared the information with Sustainalytics. 
+25 SBTi, “Companies Taking Actions”, at: https://sciencebasedtargets.org/companies-taking-action 
+26 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905  
+27 Ibid. 
+28 Saur, “Sustainability-Linked Financing Framework”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-Sustainability-Linked-Financing-
+Framework-May-2024-update-v2.pdf?v=1715961464 
+29 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+30 Saur, “Saur Group Vigilance Plan 2022”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-Group-Vigilance-Plan-2022.pdf?v=1653028689 
+31 Ibid. 
+32 Ibid. 
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+7 
+- To manage risks associated with biodiversity, land use, and emissions, effluents and waste, Saur 
+has implemented an environmental management system certified by ISO 14001.33 Additionally, 
+for water effluents generated by its operations, the Company monitors the quality of the water 
+treated at its wastewater treatment plants and is subject to a regular audit by the water 
+supervisory authorities.34 Furthermore, for projects located in the EU, Saur complies with: i) the 
+Environmental Impact Assessment (EIA) Directive (2014/52/EU), which requires all projects with 
+potentially significant environmental impacts to be properly assessed before approval;35 ii) the 
+EU Construction and Demolition Waste Protocol and Guidelines, 36 the EU Waste Framework 
+Directive,37 the Waste Electrical and Electronic Equipment Directive 38 and the European Waste 
+Shipment Regulation.39. 
+- In terms of managing OHS risks, Saur has a health and safety prevention policy that covers all 
+employees, business partners and subcontractors at its sites. The policy sets out requirements 
+on hygiene, health and safety in the working environment and requires regular monitoring.40 In 
+addition, Saur has an ISO 45001 -certified safety management system, which includes an 
+assessment of occupational risks, development of action plans for significant risks and on-site 
+audits. 41  For external contractors, the Company implements prevention plans and general 
+coordination plans along with regular safety audits to assess the implementation of  the OHS 
+measures.42 Saur’s France Safety Committee oversees all structural prevention actions on a 
+quarterly basis, aiming to achieve the Company's objective of a zero-accident workplace.43 
+- Regarding issues related to Saur’s water supply reliability and water quality, the quality and 
+quantity of water in each treatment plant is monitored on a continuous basis by local authorities. 
+Furthermore, water samples are examined by laboratories approved by France’s Regional Health 
+Agencies (ARS) in accordance with the ARS' annual programme.44  
+- To manage risks related to community relations and stakeholder participation, Saur conducted 
+a double materiality assessment in 2020 and engaged more than 38,000 stakeholders, including 
+local authorities, citizens, farmers, industries, experts and NGOs for feedback on the impact of 
+Saur’s activities.45 The Company is currently working on a new double materiality assessment 
+planned to be published in 2025, and has conducted surveys with more than 100 internal and 10 
+external stakeholders. 46  In addition, Saur has established a whistleblowing procedure for 
+internal and external stakeholders to anonymously report misconduct incidents.47  
+- Sustainalytics further notes that most of Saur’s operations are located in France, which is 
+recognized as a Designated Country under the Equator Principles, indicating the presence of 
+robust environmental and social governance systems, legislation and institutional capacity to 
+mitigate common environment and social risks associated with the eligible projects.48  
+ 
+Based on these policies, standards and assessments, Sustainalytics is of the opinion that Saur has 
+implemented adequate measures and is well  positioned to manage and mitigate environmental and social  
+risks commonly associated with the eligible categories. 
+ 
+33 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+34 Saur, “Saur Group Vigilance Plan 2022”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-Group-Vigilance-Plan-2022.pdf?v=1653028689 
+35 European Parliament, “Directive 2014/52/EU on the assessment of the effects of certain public and private projects on the environment”, (2014), at: 
+https://eurlex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0052.   
+36 European Commission, “EU Construction and Demolition Waste Protocol and Guidelines”, (2018), at: https://single-market-
+economy.ec.europa.eu/news/eu-construction-and-demolition-waste-protocol-2018-09-18_en  
+37 European Parliament, “Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain 
+Directives”, at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32008L0098  
+38 EUR-Lex, “Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (WEEE)”, 
+(2012), at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0019  
+39 EUR-Lex, “Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste”, at: https://eur-
+lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32006R1013     
+40 Saur, “Saur Group Vigilance Plan 2022”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-Group-Vigilance-Plan-2022.pdf?v=1653028689  
+41 Ibid. 
+42 Ibid. 
+43 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905  
+44 Saur, “Saur Group Vigilance Plan 2022”, at: https://dnr54354splcz.cloudfront.net/publications/Saur-Group-Vigilance-Plan-2022.pdf?v=1653028689 
+45 Saur, “RAPPORT INTÉGRÉ 2020”, at: https://dnr54354splcz.cloudfront.net/publications/FR_SAUR_RI-2020_mai-2021_BD_PAP.pdf?v=1643822972 
+46 Saur has shared the information with Sustainalytics on a confidential basis. 
+47 Saur, “Accelerating the water transition, everywhere, for everyone – 2023 Integrated CSR report”, at: 
+https://dnr54354splcz.cloudfront.net/publications/Saur-RI2023_EN-014-Web.pdf?v=1715840905 
+48 Equator Principles, “Designated and Non-Designated Countries”, at: https://equator-principles.com/about-the-equator-principles/  
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+8 
+Section 3: Impact of Use of Proceeds 
+The five use of proceeds categories are aligned with those recognized by the GBP and GLP. Sustainalytics 
+has focused below on where the impact is specifically relevant in the local context. 
+Importance of financing water management projects in France  
+Renewable water supplies have declined in France by 14% between 1990-2001 and 2002 -2018 periods,49,50 
+and climate change effects are expected to aggravate the problem, pushing this decline to up to 40% by 
+2050.51,52 Since 2015, for example, more than half of French departments have had water use restrictions 
+during the summer ; in the 2023 winter, a national drought marked a record 32 days without significant 
+precipitation.53 In parts of the west and southwest of France,  water use restrictions lasting for at least two 
+months have been enforced every year since at least 2012.54 
+In view of this loo ming water crisis, the French government launched the “Water” plan in the spring of 2023 , 
+announcing 53 initiatives to reduce water use and improve the measurement and planning of water resources, 
+backed by a EUR 500 million annual investment shared with local governments.55,56 Key objectives of the plan 
+include: i) reducing water abstraction by 10% by 2030  relative to 2023, ii) improving water efficiency across 
+all economic sectors with a  special focus on agricultural sector ; and iii) enhancing drought crisis 
+management.57 Additionally, the plan aims to secure water quality and supply through measures such as 
+reducing water leaks, promoting non -conventional water sources  such as the reuse of treated waste water, 
+rainwater and grey water, combating pollution and restoring ecosystems, supported by improved governance 
+and increased funding .58 The plan also includes an emergency fund of EUR 180 million to repair leaks and 
+upgrade water networks, starting from identifying the most vulnerable areas, which are determined based on 
+leakage rates and water stress levels . 59  As part of the plan,  the agri -food sector, which accounts for 
+approximately 58% of the total water consumption, has been granted the possibility to use recycled water for 
+certain types of activities subject to specific authorization, from the beginning of 2024.60, 61 
+Based on the above, Sustainalytics is of the opinion that Saur’s investments in water supply and management 
+will contribute to France’s efforts in relation to water use and management. 
+Contribution to SDGs 
+The Sustainable Development Goals were adopted in September 2015 by the United Nations General 
+Assembly and form part of an agenda for achieving sustainable development by 2030. The instruments issued 
+under the Saur Green & Blue Financing Framework are expected to help advance the following SDG s and 
+targets:  
+Use of Proceeds 
+Category 
+SDG SDG target 
+Water Production and 
+Supply 
+6. Clean Water and 
+Sanitation 
+6.1 By 2030, achieve universal and equitable 
+access to safe and affordable drinking water 
+for all 
+ 
+49 France Stratégie, “Prélèvements et consommations d’eau : quels enjeux et usages?”, (2024), at: 
+https://www.strategie.gouv.fr/publications/prelevements-consommations-deau-enjeux-usages 
+50 “Évolutions de la ressource en eau renouvelable en France métropolitaine de 1990 à 2018”, at: https://www.statistiques.developpement-
+durable.gouv.fr/evolutions-de-la-ressource-en-eau-renouvelable-en-france-metropolitaine-de-1990-2018  
+51 Ibid. 
+52 Government of France, Ministry of Ecology, “53 MESURES POUR L’EAU”, (2023), at: 
+https://www.ecologie.gouv.fr/sites/default/files/documents/MAR2023_DP-PLAN%20EAU__BAT%20(1).pdf 
+53 Ibid. 
+54 Government of France, General Commissariat for Sustainable Development, “Gestion de l’eau en période de sécheresse en France métropolitaine”, 
+(2023), at: https://www.notre-environnement.gouv.fr/themes/economie/l-utilisation-des-ressources-naturelles-ressources/article/gestion-de-l-eau-en-
+periode-de-secheresse-en-france-metropolitaine-6326 
+55 Élysée Palace, “Présentation du Plan eau.”, (2023), at: https://www.elysee.fr/emmanuel-macron/2023/03/30/presentation-du-plan-eau 
+56 Légifrance, “Journal officiel électronique authentifié n° 0162 du 09/07/2024”, at: 
+https://www.legifrance.gouv.fr/download/pdf?id=PVgGRkg5g2HaAs0-cs-mWO7mT0ji9z3kMMVYU8Jy7sc=  
+57 United Nations, “Water plan 2023-2030 « for a resilient and concerted management of water resources, promoting water savings », first part of the 
+French ecological planning”, at: https://sdgs.un.org/partnerships/plan-eau-2023-2030-pour-une-gestion-resiliente-sobre-et-concertee-de-la-ressource-en 
+58 Ibid. 
+59 Government of France, Ministry of Ecology, “53 MESURES POUR L’EAU”, (2023), at: 
+https://www.ecologie.gouv.fr/sites/default/files/documents/MAR2023_DP-PLAN%20EAU__BAT%20(1).pdf 
+60 Water Reuse Europe, “France releases a new decree clarifying the use of recycled water in the food industry”, at: https://www.water-reuse-
+europe.org/france-releases-a-new-decree-clarifying-the-use-of-recycled-water-in-the-food-industry/#page-content 
+61 Rosie F. (2023), “Macron unveils France’s plan to share, reuse and save water in the face of drought”, Euronews, at: 
+https://www.euronews.com/green/2023/03/30/macron-unveils-frances-plan-to-share-reuse-and-save-water-in-the-face-of-drought 
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+9 
+6.4 By 2030, substantially increase water-use 
+efficiency across all sectors and ensure 
+sustainable withdrawals and supply of 
+freshwater to address water scarcity and 
+substantially reduce the number of people 
+suffering from water scarcity 
+Wastewater Collection 
+and Treatment 
+6. Clean Water and 
+Sanitation 
+6.3 By 2030, improve water quality by reducing 
+pollution, eliminating dumping and minimizing 
+release of hazardous chemicals and materials, 
+halving the proportion of untreated wastewater 
+and substantially increasing recycling and safe 
+reuse globally  
+Desalination of Water 6. Clean Water and 
+Sanitation 
+6.1 By 2030, achieve universal and equitable 
+access to safe and affordable drinking water 
+for all 
+6.4 By 2030, substantially increase water-use 
+efficiency across all sectors and ensure 
+sustainable withdrawals and supply of 
+freshwater to address water scarcity and 
+substantially reduce the number of people 
+suffering from water scarcity 
+Clean Transportation 11. Sustainable Cities and 
+Communities 
+11.2 By 2030, provide access to safe, 
+affordable, accessible and sustainable 
+transport systems for all, improving road 
+safety, notably by expanding public transport, 
+with special attention to the needs of those in 
+vulnerable situations, women, children, persons 
+with disabilities and older persons 
+Renewable Energy 7. Affordable and Clean 
+Energy 
+7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix 
+ 
+Conclusion  
+Saur has developed the Saur Green & Blue Financing Framework under which it may issue green and blue 
+bonds and loans, and use the proceeds to finance projects related to water production and supply, wastewater 
+collection and treatment, desalination, clean transportation and renewable energy. Sustainalytics considers 
+that the eligible projects are expected to provide positive environmental impacts.  
+The Saur Green & Blue Financing Framework outlines a process for tracking, allocation and management of 
+proceeds, and makes commitments for reporting on allocation and impact. Sustainalytics considers that the 
+Saur Green & Blue Financing Framework is aligned with the overall sustainability strategy of Saur and that the 
+use of proceeds  will contribute to the advancement of the UN Sustainable Development Goals  6, 7 and 11.  
+Additionally, Sustainalytics is of the opinion that Saur has adequate measures to ident ify, manage and 
+mitigate environmental and social risks commonly associated with the eligible projects. 
+Based on the above, Sustainalytics is confident that Saur SAS is well positioned to issue green and blue bonds 
+and loans, and that the Saur Green & Blue Financing Framework is robust, transparent and in alignment with 
+the four core components of the Green Bond Principles 2021 and Green Loan Principles 2023. 
+  
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+10 
+Disclaimer 
+Copyright ©2024 Sustainalytics, a Morningstar company. All rights reserved. 
+The information, methodologies, data and opinions contained or reflected herein are proprietary of 
+Sustainalytics and/or content providers, and may be made available to third parties only in the form and format 
+disclosed by Sustainalytics. They are not directed to, or intended for distribution to or use by India -based 
+clients or users and their distribution to Indian resident individuals or entities is not permitted. 
+They are provided for informational purposes only and (1) shall not be considered as being a statement, 
+representation, warranty or argument either in favor or against the truthfulness, reliability or completeness of 
+any facts or statements that the issuer has made available to Sustainalytics for the purpose of this deliverable, 
+in light of the circumstances under which such facts or statements have been presented; (2) do not constitute 
+an endorsement of any product , project, investment strategy or consideration of any particular environmental, 
+social or governance related issues as part of any investment strategy; (3) do not constitute investment 
+advice, financial advice, or a prospectus, nor represent an “expert opinion” or “negative assurance letter” as 
+these terms are commonly understood or defined by any applicable legislation; (4) are not part of any offering 
+and do not constitute an offer or indication to buy or sell securities, to select a project or make any kind of 
+business transactions; (5) do not  represent an assessment of the issuer’s economic performance, financial 
+obligations nor of its creditworthiness; (6) are not a substitute for professional advice; (7) past performance 
+is no guarantee of future results; (8) have not been submitted to, nor received approval from, any relevant 
+regulatory body; (9) have not and cannot be incorporated into any offering disclosure, unless otherwise agreed 
+in writing. 
+These are based on information made available by the issuer and therefore are not warranted as to their 
+merchantability, completeness, accuracy, up -to-datedness or fitness for a particular purpose Sustainalytics 
+has not independently verified any such information or data. The deliverables are provided “as is” and reflect 
+Sustainalytics’ opinion at the date of their elaboration and publication. Sustainalytics does not undertake any 
+obligation to update or revise any of the statements in the deliverable to re flect events, circumstances, 
+changes in expectations which may occur after the date of the opinion or any statements included in the 
+opinion. Neither Sustainalytics/Morningstar nor their content providers accept any liability from the use of the 
+information, data or opinions contained herein or for actions of third parties in respect to this information, in 
+any manner whatsoever, except where explicitly required by law. Sustainalytics does not assume any 
+responsibility shall the bond default. Any reference to content providers’ names is for appropriate 
+acknowledgement of their ownership and does not constitute a sponsorship or endorsement by such owner. 
+A list of our content providers and their respective terms of use is available on our website. For more 
+information, visit http://www.sustainalytics.com/legal-disclaimers. 
+Sustainalytics may receive compensation for its ratings, opinions and other deliverables, from, among others, 
+issuers, insurers, guarantors and/or underwriters of debt securities, or investors, via different business units. 
+Sustainalytics believes it has p ut in place appropriate measures designed to safeguard the objectivity and 
+independence of its opinions. For more information, visit Governance Documents  or contact 
+compliance@sustainalytics.com.  
+This deliverable, in particular the images, text and graphics contained therein, and the layout and company 
+logo of Sustainalytics are protected under copyright and trademark law. Any use thereof shall require express 
+prior written consent. Use shall be de emed to refer in particular to the copying or duplication of the opinion 
+wholly or in part, the distribution of the opinion, either free of charge or against payment, or the exploitation 
+of this opinion in any other conceivable manner. 
+The issuer is fully responsible for certifying and ensuring compliance with its commitments, for their 
+implementation and monitoring. 
+  
+Second-Party Opinion  
+Saur Green & Blue Financing Framework  
+  
+ 
+  
+ 
+11 
+About Morningstar Sustainalytics 
+Morningstar Sustainalytics is a leading ESG research, ratings and data firm that supports investors around 
+the world with the development and implementation of responsible investment strategies. For more than 30 
+years, the firm has been at the forefront of  developing high-quality, innovative solutions to meet the evolving 
+needs of global investors. Today, Sustainalytics works with hundreds of the world’s leading asset managers 
+and pension funds, which incorporate ESG and corporate governance information and assessments into their 
+investment processes. Sustainalytics also works with hundreds of companies and their financial 
+intermediaries to help them consider sustainability in policies, practices and capital projects. For more 
+information, visit www.sustainalytics.com.

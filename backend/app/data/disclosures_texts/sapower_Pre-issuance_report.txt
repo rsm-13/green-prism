@@ -1,0 +1,916 @@
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+Independent Limited Assurance Report to the Management and Directors 
+of SA Power Networks  
+ 
+What our review covered 
+We reviewed the following Subject Matter relating to 
+SAPN’s Sustainable Financing Framework: 
+• Policies and procedures related to the use of 
+proceeds, process for project evaluation, 
+management of proceeds and reporting 
+requirements associated with Green Bonds 
+• Eligibility criteria and valuation requirements 
+relating to nominated assets and activities to be 
+funded by Green Bonds. 
+• SAPN’s nominated assets and activities which 
+meet the Eligibility criteria outlined under the 
+Climate Bond Initiative Sector Criteria for 
+Electrical Grids and Storage 
+Other than as described in the preceding paragraphs, 
+which set out the scope of our engagement, we did 
+not perform assurance procedures on the remaining 
+information included in the Subject Matter, and 
+accordingly, we do not express an opinion or 
+conclusion on this information. 
+Criteria applied by SAPN 
+In preparing the Subject Matter, SAPN applied the 
+following Criteria:   
+• Climate Bond Standard v4.1 (CBS) 
+• Climate Bond Standard Sector Criteria for 
+Electrical Grids and Storage 
+• International Capital Market Association’s Green 
+Bond Principles (GBP) 
+ 
+Key responsibilities  
+SAPN’s responsibility  
+SAPN’s management is responsible for the collection, 
+preparation and presentation of the Subject Matter in 
+accordance with that Criteria, in all material respects. 
+This responsibility includes establishing and 
+maintaining internal controls, maintaining adequate 
+records and making estimates that are relevant to the 
+preparation of the subject matter, such that it is free 
+from material misstatement, whether due to fraud or 
+error. 
+EY’s responsibility and independence 
+Our responsibility is to express a limited assurance 
+conclusion on the Subject Matter based on our review. 
+We have complied with the independence and relevant 
+ethical requirements, which are founded on 
+fundamental principles of integrity, objectivity, 
+professional competence and due care, confidentiality 
+and professional behaviour.  
+The firm applies Auditing Standard ASQM 1 Quality 
+Management for Firms that Perform Audits or Reviews 
+of Financial Reports and Other Financial Information, 
+or Other Assurance or Related Services Engagements, 
+which requires the firm to design, implement and 
+operate a system of quality management including 
+policies or procedures regarding compliance with 
+ethical requirements, professional standards and 
+applicable legal and regulatory requirements. 
+Our approach to conducting the review 
+We conducted this review in accordance with the 
+Australian Auditing and Assurance Standards Board’s 
+Australian Standard on Assurance Engagements Other 
+Than Audits or Reviews of Historical Financial 
+Information (‘ASAE3000’) and the terms of reference 
+for this engagement as agreed with SAPN on 22 
+February 2024. That standard requires that we plan 
+and perform our engagement to express a conclusion 
+on whether anything has come to our attention that 
+causes us to believe that the Subject Matter is not 
+prepared, in all material respects, in accordance with 
+the Criteria, and to issue a report. 
+ 
+Our Conclusion: 
+Ernst & Y oung (‘EY’, ‘we’) were engaged by SA Power Networks (SAPN) to undertake a limited assurance 
+engagement as defined by Australian Auditing Standards, hereafter referred to as a ‘review’, over the Subject 
+Matter defined below as at 11 April 2024. Based on the procedures we have performed and the evidence we 
+have obtained, nothing has come to our attention that causes us to believe the Subject Matter has not been 
+prepared, in all material respects, in accordance with the Criteria defined below.  
+ 
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+Summary of review procedures performed  
+A review consists of making enquiries, primarily of 
+persons responsible for preparing the Subject Matter 
+and related information and applying analytical and 
+other review procedures.  
+The nature, timing, and extent of the procedures 
+selected depend on our judgement, including an 
+assessment of the risk of material misstatement, 
+whether due to fraud or error. The procedures we 
+performed included, but were not limited to: 
+► Checking policies and procedures established by 
+SAPN related to the Subject Matter to assess 
+whether they were aligned to the requirements 
+detailed in the Criteria 
+ 
+► Checking the nominated assets meet the eligible 
+asset criteria outlined under the Climate Bond 
+Standard Sector Criteria for Electrical Grids and 
+Storage 
+ 
+► Checking the expected net proceeds of the debt 
+instrument exceeds the value of the nominated 
+assets (i.e. SAPN’s Regulatory Asset Base) 
+ 
+► Conducting interviews with personnel to 
+understand the policies and procedures relating to 
+the Subject Matter 
+ 
+► Understanding the systems in place to support the 
+reporting processes outlined in the Sustainable 
+Financing Framework 
+ 
+► Obtaining management representation on key 
+assertations. 
+ 
+We believe that the evidence obtained is sufficient and 
+appropriate to provide a basis for our review 
+conclusion. 
+Inherent limitations 
+Procedures performed in a review engagement vary in 
+nature and timing from, and are less in extent than for, 
+a reasonable assurance engagement.  Consequently, 
+the level of assurance obtained in a review engagement 
+is substantially lower than the assurance that would 
+have been obtained had a reasonable assurance 
+engagement been performed . Our procedures were 
+designed to obtain a limited level of assurance on which 
+to base our conclusion and do not provide all the 
+evidence that would be required to provide a 
+reasonable level of assurance. 
+While we considered the effectiveness of 
+management’s internal controls when determining the 
+nature and extent of our procedures, our assurance 
+engagement was not designed to provide assurance 
+on internal controls. Our procedures did not include 
+testing controls or performing procedures relating to 
+assessing aggregation or calculation of data within IT 
+systems. 
+Use of our Assurance Report 
+We disclaim any assumption of responsibility for any 
+reliance on this assurance report to any persons other 
+than management, the Directors of SAPN, and the 
+Climate Bonds Initiative or for any purpose other than 
+that for which it was prepared. 
+Our review included web-based information that was 
+available via web links as of the date of this statement. 
+We provide no assurance over changes to the content 
+of this web-based information after the date of this 
+assurance statement. 
+ 
+ 
+Ernst & Y oung  
+Adelaide, Australia 
+12 April 2024 
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+ 
+Annex A 
+Nominated assets 
+The nominated assets for SAPN’s Sustainable Financing Framework are listed below. 
+Nominated Assets Sector 
+Criteria 
+Relevant Sector Eligibility 
+requirements 
+SAPN’s assessment of eligibility 
+requirements  
+Construction, upgrade and 
+operation of SAPN’s 
+distribution system 
+infrastructure (e.g. stobie 
+poles, powerlines, 
+underground cables, street 
+transformers, circuit 
+breakers and switchgear) 
+Electrical 
+Grids and 
+Storage 
+Mitigation component: More than 67% 
+of newly connected generation 
+capacity in the system in which the 
+infrastructure is located is below the 
+generation threshold value of 100g 
+CO2-e/kWh measured on a Product 
+Carbon Footprint (PCF) basis over a 
+rolling five-year period. 
+ 
+Adaptation & Resilience component : 
+“Has the issuer fulfilled the 
+requirements of the Adaptation and 
+Resilience checklist? 
+SAPN demonstrated more than 67% 
+of newly connected generation 
+capacity to the National Electricity 
+Market (NEM) falls below the 
+generation threshold value of 100g  
+CO2-e/kWh measured on a PCF basis 
+over a rolling five-year period. SAPN 
+followed the approach detailed in 
+Methodological Note 2 of the 
+Climate Bond Initiative’s Sector 
+Criteria for Electrical Grids and 
+Storage. 
+ 
+SAPN completed an Adaptation and 
+Resilience checklist and the assets 
+meet the requirements set out 
+within. 
+Construction, operation, 
+manufacturing and leasing 
+of supporting infrastructure 
+used exclusively for the 
+eligible distribution system 
+assets and activities 
+ 
+ 
+ 
+ 
+Annex B – CBS Pre-issuance version 4.1 checklist 
+SAPN’s 2023 Sustainable Financing Framework and nominated assets was assured against the following requirements as specified in the Climate Bond Standard v4.1
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+Utilisation of 
+Proceeds 
+2.1.1. The Issuer must document the Nominated projects and 
+assets which are eligible to be associated with the debt 
+instrument. The Issuer must compile a list of Nominated projects 
+and assets which must be kept up to date during the term of the 
+Bond. 
+SAPN included the nominated assets within 
+the Sustainable Financing Framework. The 
+nominated assets are listed in Annex A. 
+Checked SAPN has documented the nominated 
+assets within the Framework.  
+2.1.2. The expected Net Proceeds of the debt instrument must 
+be no greater than the Issuer’s total Investment Exposure to the 
+proposed Nominated projects and assets or the relevant 
+proportion of the total Market Value of the proposed Nominated 
+projects and assets owned or funded by the Issuer.  
+The exact value of the proposed debt 
+instrument(s) is still to be determined . We 
+understand SAPN will not issue debt 
+instruments with net proceeds exceeding 
+the value of the nominated eligible assets.  
+Performed management inquiries to determine 
+whether the net proceeds of the debt instrument 
+will be less than the SAPN’s value of the proposed 
+nominated assets. 
+ 
+2.1.3. Nominated projects and assets must not be nominated to 
+other Certified debt Instruments, unless the Issuer demonstrates 
+that distinct portions of the Nominated projects and assets are 
+being funded by different Certified debt Instruments or, the 
+existing Certified debt Instrument is being refinanced via another 
+Certified debt Instrument.  
+There are no other proposed or existing 
+certified climate debt instruments.  
+Checked whether SAPN has any other Certified 
+debt instruments, and if so whether the 
+nominated assets are already financed by an 
+existing Certified debt instrument. 
+Process for 
+Evaluation and 
+Selection of 
+Projects & Assets 
+2.2.1. The Issuer must establish, document, and maintain a 
+decision-making process which it uses to determine the eligibility 
+of the Nominated projects and assets.  
+The Framework describes how the process 
+for project evaluation and selection aligns 
+with SAPN’s overarching objectives, 
+strategy and policy relating to 
+environmental sustainability, specifically, 
+enabling climate mitigation.  
+The Treasury department in conjunction 
+with relevant operation and strategy 
+personnel will select assets for the Eligible 
+Asset Register. Asset selection is based on 
+an eligibility assessment to confirm 
+alignment with the Eligibility Criteria. 
+Obtained evidence showing SAPN has completed 
+an eligibility assessment for pre-issuance and has 
+documented a process to evaluate asset eligibility 
+against the  Electrical Grids and Storage Sector 
+Criteria on an annual basis. Performed inquiries 
+to understand how this will be maintained for 
+post-issuance assessments. 
+ 
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+2.2.2. The decision-making process must include, without limitation:  
+i. A statement on the climate-related objectives of the 
+debt instrument. 
+The Framework states SAPN will utilise 
+proceeds to finance or refinance, in whole 
+or in part, new or existing distribution 
+assets which “support South Australia’s 
+transition to a distributed and decarbonised 
+energy system, and adaptation a nd 
+resilience projects, such as network 
+bushfire readiness, to maintain and 
+enhance grid resilience and reliability“. 
+ 
+The Framework outlines SAPN’s approach 
+to sustainability and long-term ambitions to 
+2035. Its vision is to “lead the 
+transformation of energy services for a 
+sustainable future”. 
+ 
+Checked the Framework included a statement on 
+the climate-related objectives of the Bond.  
+ii. How the climate-related objectives of the debt 
+instrument are positioned within the context of the 
+Issuer’s overarching objectives, strategy, policy and/or 
+processes relating to environmental sustainability.  
+Checked the Framework included details on the 
+climate-related objectives of the debt instrument 
+and how these relate to SAPN’s overarching 
+strategy and processes. 
+iii. The Issuer’s rationale for issuing the Bond.  The Framework highlights how the issuing 
+of green financial instruments will be used 
+to facilitate decarbonisation and climate 
+adaptation/resilience. 
+Checked the Framework and performed inquiries 
+to corroborate the information included within 
+the Framework agrees to other evidence 
+obtained. 
+iv. A process to determine whether the Nominated 
+projects and assets meet the eligibility requirements of 
+the Climate Bonds Standard.  
+The Framework’s Use of Proceeds section 
+covers how SAPN select the criteria for 
+eligible assets, and the process undertaken 
+to determine whether the assets are eligible 
+per the criteria. 
+Obtained SAPN’s eligibility assessment 
+documentation and reviewed whether this aligns 
+to the CBS and Sector Criteria for Electrical Grids 
+and Storage. 
+v. Related Sector Criteria, including any exclusion criteria 
+and any other process, applied to identify and manage 
+potentially material environmental or governance risks 
+associated with the Nominated projects and assets . 
+SAPN has assessed the nominated assets 
+against the requirements of the Electrical 
+Grid and Storage Sector Criteria for the 
+purpose of pre-issuance. Per the 
+Framework, an Eligible Asset Register will 
+be prepared by SAPN’s Treasury 
+department at least annually. SAPN will 
+ensure the total value of any debt 
+instrument does not exceed the value of the 
+nominated assets contained in its Eligible 
+Asset Register and endeavour to fully 
+Obtained SAPN’s eligibility assessment 
+documentation and reviewed whether this aligns 
+to the CBS and Sector Criteria for Electrical Grids 
+and Storage. Obtained evidence and performed 
+testing to support the eligibility assessment, 
+including evidence supporting the Adaptation and 
+Resilience checklist to determine whether it is in 
+line with the Criteria. 
+ 
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+allocate all proceeds within 24  months of 
+issuance.  
+vi. Any green standards or certifications referenced in the 
+selection of Nominated projects and assets. 
+SAPN references the ICMA Green Bond 
+Principles. 
+Checked nothing has come to our attention that 
+causes us to believe the Sustainable Financing 
+Framework has not been prepared, in all material 
+respects, in accordance with the ICMA Green 
+Bond Principles.  
+Management of 
+Proceeds 
+2.3.1. The Issuer must document and disclose to the Approved Verifier the systems, policies, and processes they will use to manage the Net Proceeds. The se must 
+include arrangements for the following activities:  
+a) Tracking of proceeds: The Net Proceeds of the debt 
+instrument can be credited to a sub -account, moved to 
+a sub-portfolio, or otherwise tracked by the Issuer in an 
+appropriate manner and documented.  
+The SAPN Treasury team commits to 
+tracking and managing the net proceeds 
+from every transaction. This will in clude an 
+internal process to record all sustainable 
+debt raised in a separate portfolio within its 
+treasury management system. This 
+portfolio will capture the initial proceeds 
+raised and the on-lending of funds to 
+identified projects.  
+Checked the Framework and performed 
+management inquiries to determine whether 
+processes and controls are adequate ly in place to 
+track proceeds. 
+b) Managing unallocated proceeds: The balance of 
+unallocated Net Proceeds can be managed as per the 
+requirements in Clause A.3.3.3. 
+The Framework includes SAPN’s summary 
+of Management of Proceeds. SAPN will 
+allocate all proceeds within 24 months of 
+the issuance of green debt instruments. In 
+the event that any proceeds from any debt 
+issuance are unallocated or pending 
+allocation, then these proceeds will be held 
+in cash, or cash equivalent instruments.  
+Checked the Framework and perform ed 
+management inquiries to determine whether 
+process and controls are adequate in place to 
+manage unallocated proceeds.  
+c) Earmarking funds to Nominated projects and assets: An 
+earmarking process can be used to manage and 
+account for funding to the Nominated projects and 
+assets and enables estimation of the share of the Net 
+Proceeds being used for financing and refinancing.  
+The Framework provides that SAPN’s 
+Treasury department will ensure the net 
+proceeds are earmarked to Eligible Green 
+Assets, with consideration to the CBS, UN 
+SDGs, Eligibility Window and Excluded 
+Assets (as described in the Framework) . 
+The earmarked assets, and estimated value 
+will be documented in the Eligible Asset 
+Register managed by the SAPN’s Treasury 
+department. The Treasury department in 
+Checked the Framework and performed 
+management inquiries to determine whether 
+process and controls are adequate in place to 
+earmark funds to nominated assets. Perform 
+inquiries to understand the estimated share of 
+refinancing and financing and the policies that 
+govern this process. 
+ 
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+conjunction with relevant operation and 
+strategy personnel will select assets for the 
+Eligible Asset Register.  
+2.3.2. Where the prospectus requires the proceeds to be ring -
+fenced, they must be credited to designated bank accounts that 
+can only fund the specified Nominated projects and assets. The 
+Issuer must track and monitor all payments from the designated 
+bank accounts. 
+Not applicable.  Not applicable. 
+Reporting: Green 
+Finance 
+Framework and 
+Disclosure 
+Documentation 
+2.4.1. The Issuer must prepare a Green Finance Framework and 
+make it publicly available prior to, or at the time of, issuance. The 
+Green Finance Framework must be provided to the Climate Bonds 
+Standard Secretariat as one of the certification documents  
+SAPN has prepared a Sustainable Financing 
+Framework. The Framework states SAPN 
+will publicly disclose the Framework on its 
+website, including the Pre-issuance 
+verification report.  
+Checked the sustainability report ing suite section 
+of the website, where the Framework will be 
+published, is publicly available.  
+2.4.2. The Green Finance Framework must include  
+i. A statement of compliance with the Climate Bonds 
+Standard and/or other applicable standards such as the 
+Green Bond Principles or the United Nations 
+Sustainability Development Goals.  
+SAPN’s Framework notes it engaged an 
+Approved Verifier to examine whether the 
+Sustainable Financing Framework is 
+presented in accordance with the Climate 
+Bonds Standard’s pre-issuance 
+requirements, the Sector Criteria for 
+Electrical Grids and Storage, and the IM CA 
+Green Bond Principles, in all material 
+respects.  
+Checked the Framework includes: 
+• statement that the Bonds issued under the 
+Framework are aligned with the Climate 
+Bonds Standard and other applicable 
+standards; 
+• a summary of the expected use of proceeds ; 
+• a description of the decision-making process 
+for the selection of nominated assets ; 
+• a description of the processes for managing 
+the proceeds; and 
+• a description for reporting and external 
+reviews.  
+ 
+ii. A summary of the expected use of proceeds . SAPN’s Framework includes a description of 
+expected use of proceeds. 
+iii. A description of the decision-making process for 
+project selection. 
+SAPN’s Framework includes a description of 
+the decision-making process for project 
+selection.   
+iv. A description of the Issuer’s processes for managing 
+the proceeds. 
+SAPN’s Framework includes a description of 
+processes for managing proceeds of debt 
+instruments issued under the Framework.   
+v. A description of the Issuer’s processes for reporting 
+and external review or verification. 
+SAPN’s Framework includes a description of 
+the processes for reporting and external 
+review.    
+ 
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+2.4.3 The Green Finance Framework should also include, without limitation:   
+i. Information on the methodology and assumptions to be 
+used for confirming that the characteristics or 
+performance of the Nominated projects and assets 
+conform to the relevant Sector Criteria, where 
+required, and any other additional impact metrics that 
+the Issuer will define 
+SAPN’s Framework describes the 
+nominated assets will meet the Electrical 
+Grids and Storage Criteria. SAPN 
+demonstrated more than 67% of newly 
+connected generation capacity to the NEM 
+over 5-year rolling period is below the 
+generation threshold of 100g CO 2-e/kWh.  
+Checked the Framework includes: 
+• information on the methodology and 
+assumptions used, in either determining the 
+eligibility of Nominated Assets, or when 
+determining their performance for disclosure 
+in impact reporting; 
+• a summary of the approach to the 
+management of unallocated Net Proceeds ; 
+• the intended approach to providing Update 
+Reports to reaffirm conformance with the 
+Climate Bonds Standard while the bond 
+remains outstanding; 
+• the list of Nominated Projects & Assets 
+associated with the Bond and the investment 
+areas in which they fall; and 
+• an estimate of the proportion of Net 
+Proceeds used for refinancing, if applicable . 
+ii. A summary of the approach to manage unallocated Net 
+Proceeds in accordance with Clause A.3.3.3.  
+SAPN’s Framework explains in the event 
+that any proceeds from any debt issuanc e 
+are unallocated or pending allocation, then 
+these proceeds will be held in cash, or cash 
+equivalent instruments.   
+iii. The intended approach to provide Update Reports to 
+reaffirm conformance with the Climate Bonds Standard 
+while the debt instrument remains outstanding.  
+SAPN will aim to provide annual reporting 
+in a timely manner and will reaffirm 
+conformance with the Climate Bond 
+Standard.  
+ iv. The list of proposed Nominated projects and assets 
+associated with the debt instrument and the 
+investment areas into which the Nominated projects 
+and assets fall. Where there are limits on the detail that 
+can be made publicly available about specific 
+Nominated projects and assets, information disclosed 
+must include the investment areas into which th e 
+Nominated projects and assets fall and an explanation 
+of why detail on Nominated projects and assets is 
+limited. 
+SAPN’s Framework includes a list of 
+proposed nominated assets, which are 
+summarised above in Annex A.  
+ 
+v. Where a proportion of the Net Proceeds are used for 
+refinancing, an estimate of the respective shares of the 
+Net Proceeds used for financing and refinancing, and 
+the relevant Nominated projects and assets or 
+investment areas which may be refinanced. This may 
+also include the expected look-back period for 
+refinanced Nominated projects and assets  
+SAPN will prepare a Use of Proceeds report 
+annually for all outstanding Green Bonds or 
+Green Loans, including details on where 
+proceeds have been allocated. SAPN ’s 
+Framework outlines Use of Proceeds 
+instruments may be used for financing and 
+refinancing.   
+Checked the Framework and performed 
+management inquiries to determine whether 
+processes and controls are adequately in place to 
+track and report the use of proceed s. Performed 
+inquiries to understand the estimated share of 
+refinancing and financing and the processes for 
+tracking this process. 
+ 
+ 
+ 
+ 
+Criteria  Section Evidence provided  Assurance Procedures 
+2.4.4. Issuers are encouraged to disclose as much information as 
+possible with respect to Nominated projects and assets. 
+However, in many cases it is not possible for the Issuer to 
+disclose detailed information about specific projects and assets 
+prior to the issuance of the Bond. This limitation may be due to 
+confidentiality arrangements with owners of projects and a ssets, 
+the dynamic nature of the project portfolio, competitive 
+considerations, or other legal provisions which limit the 
+disclosure of detailed information  
+The nominated assets within the 
+Framework are well known assets within the 
+South Australian context. SAPN is South 
+Australia’s primary electricity distributor.  
+The information on the nominated assets 
+contained in SAPN’s Framework is 
+appropriate. Additional information on the 
+nominated assets is publicly available. 
+Checked appropriate information is provided in 
+the Framework on SAPN’s nominated assets, and 
+whether the additional information is publicly 
+available elsewhere. 
+2.4.5. The Issuer must include in its Disclosure Documentation:   
+i. The investment areas into which the Nominated 
+projects and assets fall. 
+This is not applicable as SAPN is not yet 
+issuing a debt instrument. 
+Not applicable. 
+ii. The intended types of temporary investment 
+instruments for the management of unallocated Net 
+Proceeds in accordance with Clause A.3.3.3.  
+iii. The Approved Verifier engaged by the Issuer for the 
+mandatory Verification Engagements . 
+iv. The intended approach to provide Update Reports to 
+reaffirm conformance with the Climate Bonds Standard 
+while the debt instrument remains outstanding, 
+including the location of the published documents . 
+ v. The Climate Bonds Initiative Disclaimer provided in the 
+Certification Agreement. 
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+Annex C - Adaptation and Resilience Checklist Summary 
+A summary of SAPN’s 2024 Adaptation and Resilience checklist in relation to the nominated assets. 
+Section Submitted 
+1. Clear boundaries and critical interdependencies between the infrastructure and the system it operates within are identified  
+1.1 Boundaries of the infrastructure are defined using :  
+(1) a listing of all infrastructure and assets ; 
+(2) and activities associated with the use of the bond 
+proceeds, a map of their location; and  
+(3) identification of the expected operational life of the 
+activity, asset or project. 
+SAPN’s distribution network assets (as at 31 December 2022) 
+are publicly disclosed in its Monitoring, Evaluation and 
+Compliance Strategy. 
+ 
+A map of SAPN’s service areas is publicly disclosed in its 
+Distribution Annual Planning Report 2023/24 to 2027/28.  
+ 
+The expected economic and operational life of SAPN’s 
+distribution network assets is disclosed in the following public 
+materials: 
+• Distribution Annual Planning Report 2023/24 to 2027/28;  
+• Regulatory Information Notices (RINs); and  
+• Asset Management Plans (currently under review) . 
+ 
+1.2. Critical interdependencies between the infrastructure and the 
+system within which it operates are identified. Identification of 
+these interdependencies should consider the potential for adverse 
+impacts arising from, but not limited to:  
+(1) the effects of supply disruption or interruption on 
+dependent electricity users or populations; 
+(2) exacerbation of wildfires; 
+(3) relationships of the asset/project to nearby flood zones;  
+(4) reduction in pollinating insects and birds;  
+(5) reduction in biodiversity or High Conservation Value 
+habitat 
+(6) damage or reduction in value of neighbouring property 
+due to boundary structures at risk of falling during storm 
+events; 
+(7) fire and other practices that affect air quality;  
+(8) appropriation of land or economic assets from nearby 
+vulnerable groups. 
+The interdependencies between SAPN’s infrastructure and the 
+system within which it operates have been identified, including 
+consideration for potential adverse impact arising from the items 
+listed in Section 1.2. For instance:  
+• SAPN provides detail on its website to guide customers on 
+what to do when the power goes out. There is specific 
+information for life support customers, who rely on 
+electricity to run critical medical equipment.  
+• SAPN’s Environmental Matters Management Approach, 
+Bushfire Risk Management Manual and Network Emergency 
+Response Management highlight the interdependencies 
+between more frequent and severe bushfires and the 
+breakdown of distribution network assets, and SAPN’s 
+response to these issues. 
+• SAPN describes the impact of floods on its distribution 
+network assets and how it is working to minimise potential 
+electricity disconnections on its website. Geospatial flood 
+mapping has also been undertaken to assist with managing 
+the inundation of assets during flood events.  
+• SAPN engaged a third-party consultant to develop an Action 
+Plan for Nature and Biodiversity, and TNFD Roadmap to 
+work toward future adherence with nature -related reporting 
+frameworks and supporting net positive biodiversity 
+outcomes.  
+• SAPN has an established damage claims a pproach for loss 
+or damage to property and possession caused by an issue 
+with power supply, or if the damage is due to SAPN’s 
+business activities. Damage claims information is available 
+on its website.  
+• SAPN engages local community groups and stakeholders to 
+minimise the impact of work on Aboriginal, historical, 
+natural and industrial sites or places. Details of these 
+processes are outlined on SAPN’s website. All projects in 
+areas of known or high risk of cultural heritage require 
+engagement with Traditional Owner Groups and/or surveys 
+and monitoring, as outlined in SAPN’s Social Matters 
+Management Approach.  
+2. An assessment has been undertaken to identify the key physical climate hazards to which the infrastructure will be exposed an d 
+vulnerable to over its operating life  
+2.1 Key physical climate risks and indicators of these risks are 
+identified in line with the following guidelines.  Risks are identified 
+SAPN’s publicly available 2023 Sustainability Data and 
+Disclosure Databook describes its risk management processes 
+for identifying and assessing climate -related risks, including its 
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+Section Submitted 
+based on (a) a range of climate hazards, and (b) information about 
+risks in the current local context, including reference to any 
+previously identified relevant hazard zones, e.g., flood zones.  
+In order to be confident that assets and activities are robust and 
+flexible in the face of climate change uncertainties, it is essential 
+that the climate risks being assessed and addressed cover those 
+that are of greatest relevance to T&D grids and electrical energy 
+storage. The physical characteristics of climate change that must 
+be considered in the risk assessment include:  
+• Temperature rise 
+• Increased heavy rainfall 
+• Sea-level rises 
+• Increased lightning 
+• Increased winds / gales 
+• Increased snow, sleet, ice, freezing fog  
+• Increased coastal / river erosion  
+• Wildfires 
+• Landslides / ground movement. 
+Issuers might consider the climate risks posed through s pecific 
+interdependencies. 
+key physical climate hazards. The most material physical climate 
+risks include severe storms, heatwaves, bushfires and 
+rainfall/flooding.  
+ 
+Due to the nature and location of SAPN distribution network 
+assets, the following climate change physical risks are deemed 
+immaterial or not relevant: landslides/ground movement ; sea-
+level rises; increased snow, sleet, ice, freezing fog; and 
+increased coastal/river erosion .  
+ 
+ 
+ 
+Optional guidance for carrying out risk assessments: 
+• Users should apply climate scenarios based on 
+representative concentration pathway (RCP) 4.5 and 8.5 or 
+similar / equivalent to ensure consideration for worst case  
+scenario. 
+• A broad range of models can be used to generate climate 
+scenarios 
+• Time horizons for assessing climate risk in agriculture can be 
+based on annual seasonal forecasts and every ten years for 
+the lifetime of the assets and projects. Where accurate 
+assessments of climate variability for specific locations are 
+not possible, use worst-case scenarios. 
+• Risks can be characterized by the associated annual 
+probability of failure or annual costs of loss or damage  
+• For risk assessment, the TCFD The Use of Scenario Analysis 
+in Disclosure of Climate Related Risks and Opportuniti es is 
+recommended. 
+SAPN’s climate risk reporting contained in its 2023 
+Sustainability Data and Disclosure Databook has been presented 
+in alignment with the TCFD framework.  The Databook outlines 
+that as SAPN’s approach matures, it plans to conduct further 
+physical climate-related risk assessment using scenario analysis . 
+A formal climate scenario analysis is planned to be undertaken in 
+2024.  
+ 
+ 
+3. The measures that have or will be taken to address those risks, mitigate them to a level such that the infrastructure is suitable 
+to climate change conditions over its operational life.  
+3.1 Measures that have or will be taken to address key physical 
+climate risks, mitigate them to a level such that the infrastructure 
+is suitable to climate change condition s over its operational life.  
+SAPN’s 2023 Sustainability Data and Disclosure Databook 
+outlines management’s role in overseeing, assessing and 
+managing climate-related risks, and SAPN’s processing for 
+managing climate-related risks. The governance of SAPN’s 
+climate-related risks aims to ensure the effectiveness of its risk 
+management practices relating to physical risks . 
+ 
+SAPN's Environmental Matters Management Approach repor t 
+outlines SAPN’s risk preparation, mitigation, and adaptation 
+activities for specific climate-related physical risks. SAPN also 
+has a Resilience Program 2020 -2025 to combat the risks posed 
+by extreme weather events.  
+ 
+3.2 Risk reduction measures must be tolerant to a range of 
+climate hazards and not lock-in conditions that could result in 
+maladaptation. 
+As described in 3.1 above, The SAPN’s governance, risk 
+management and adaptation decisions address physical risks of 
+climate change.  
+ 
+A member firm of Ernst & Young Global Limited 
+Liability limited by a scheme approved under Professional Standards Legislation  
+ 
+ 
+Section Submitted 
+SAPN's employs measures to avoid lock-in conditions that could 
+result in maladaptation and unintentional consequences. For 
+example, the Environmental Matters Management Approach 
+report outlines that SAPN is the only utility in Australia to 
+(voluntarily) be externally audited for vegetatio n compliance 
+against the Electricity (Principles of Vegetation Clearance) 
+Regulations 2021 and has strived to preserve or minimise the 
+impact on native vegetation, significant and regulated trees, and 
+native fauna from its work activities. SAPN hosts several 
+vegetation management focused committees, including the 
+Arborist Reference Group, the Local Gov ernment Association 
+Working Group, and the Appropriate Species Advisory 
+Committee. 
+ 
+4. The infrastructure enhances the climate resilience of the defined system it operates within, as indicated by the boundarie s of 
+and critical interdependencies with that system as identified in item 1 in this checklist.  
+4.1 Issuers are to assess the climate resilience benefits of system 
+focused assets and activities and demonstrate they are ‘fit for 
+purpose’, in the sense that they enhance climate resilience at a 
+systemic level, with the flexibility to take into account the 
+uncertainty around future climate change impacts.  
+The assessment is conducted according to the principle of best 
+available evidence during the investment period taking into 
+account the infrastructure’s boundaries and critical 
+interdependencies as defined in Criteria 1. ‘Fit for purpose’ is 
+defined as measures that mitigate the following effects:  
+(1) the effects of supply disruption or interruption on dependent 
+electricity users or populations; 
+(2) exacerbation of wildfires; 
+(3) relationships of the asset/project to nearby flood zones;  
+(4) reduction in pollinating insects and birds;  
+(5) reduction in biodiversity or High Conservation Value habitat;  
+(6) damage or reduction in value of neighbouring property due 
+to boundary structures at risk of falling during storm events;  
+(7) fire and other practices that affect air quality;  
+(8) appropriation of land or economic assets from nearby 
+vulnerable groups. 
+SAPN has a comprehensive suite of plans, programs, and 
+management systems to maintain reliability and improve the 
+resilience of the network, our people and communities.   
+ 
+SAPN's climate-related risk mitigation measures (outlined in 
+section 3.1 above) primarily focus on building resilience across 
+the whole distribution network, particularly on SAPN's identified 
+key climate risks (severe storms, heatwaves, bushfires and 
+rainfall/flooding). This is expanded in detail in SAPN's Strategic 
+Asset Management Plan and Environmental Matters 
+Management Report.   
+ 
+SAPN has a Resilience Program 2020-2025 to combat the risk 
+posed by extreme weather events by building resilience of 
+SAPN's assets. 
+ 
+ 
+ 
+ 
+5. The issuance is required to demonstrate that there will be ongoing monitoring and evaluation of the relevance of the risks  and 
+resilience measures and related adjustments to those measures will be taken as needed.  
+5.1 Indicators for risks identified under item 2 in this checklist 
+are provided. 
+5.2 Indicators for risk mitigation measures identified under item 
+3 in this checklist are provided. 
+5.3 Indicators for “fit for purpose” resilience benefit measures 
+identified under item 4 in this checklist are provided.  
+5.4 Issuers have a viable plan to annually monitor:  
+a) climate risks linked to the infrastructure  
+b) climate resilience performance  
+c) appropriateness of climate resilience measure(s) and to 
+adjust as necessary to address evolving climate risks.  
+5.5 Where electricity supply has been interrupted, the number of 
+customer interruptions and customer minutes lost (i.e. 
+aggregate duration of supply interruptions) should be 
+measured and reported, together with the cause of the 
+interruption. Any actions taken to reduce the risk of further 
+impacts should also be recorded.  
+ 
+SAPN monitors a range of operational, regulatory and corporate 
+performance metrics, including measures which address 
+identified climate risks. These are reported annually in SAPN’s  
+suite of Sustainability Reporting documents, includ ing the 
+Sustainability Data and Disclosure Databook, which is available 
+on its website. The Databook notes SAPN employs an Enterprise 
+Risk Management Framework in alignment with ISO 
+31000:2009.  
+ 
+SAPN annually reports on the average number of minutes 
+customers are out of power due to planned and unplanned 
+outages during the calendar year. As noted above, SAPN is 
+working to minimise potential electricity disconnections due to 
+climate risks and improve the resilience of its distribution 
+network.

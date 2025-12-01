@@ -1,0 +1,511 @@
+BART Climate Bonds External Pre-Issuance 
+Verification 
+San Francisco Bay Area Rapid Transit District 
+ 
+ 
+ 
+Luke Monhollon / SPERR002-01 
+ 
+August 14, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for: 
+San Francisco Bay Area Rapid 
+Transit District 
+2150 Webster Street, 10th Floor,  
+Oakland, CA 94612 
+ 
+  
+Prepared by: 
+First Environment, Inc. 
+10 Park Place, Building 1A, Suite 
+504  
+Butler, NJ 07405 
+  
+ 
+  
+ 
+ 
+ 
+ 
+
+Contents 
+Introduction ....................................................................................................................... 1 
+Objectives ......................................................................................................................... 1 
+Verification Scope ............................................................................................................. 1 
+Standards Used to Verify Low-Carbon Criteria ................................................................. 1 
+Overview of the Verification Process ................................................................................ 2 
+Conflict of Interest Review ............................................................................................. 3 
+Verification Team .......................................................................................................... 3 
+Verification Kick-off ........................................................................................................ 3 
+Development of the Verification Plan ............................................................................ 3 
+Site Visit ........................................................................................................................ 3 
+Low-Carbon Assertion Assessment .............................................................................. 3 
+Verification Reporting .................................................................................................... 3 
+Findings: Climate Bonds Conformance with Verification Criteria ...................................... 4 
+Conformance with the Climate Bonds Standard Pre-Issuance Requirements .............. 4 
+Conformance with the Sector-Specific Criteria (Low-Carbon Transport) ...................... 4 
+Verification Conclusion ..................................................................................................... 4 
+Lead Verifier Signature ..................................................................................................... 4 
+ 
+ 
+Tables 
+Table 1: Verification Scope ............................................................................................... 1 
+Table 2: Verification Guidance and Protocols ................................................................... 1 
+Appendices 
+Appendix A: Climate Bonds Standard 4.2 Checklist ......................................................... 4 
+Appendix B: CBS Sector-Specific Checklist...................................................................... 4 
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 1 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Introduction 
+This report is provided to the management and fiduciaries of The San Francisco Bay Area Rapid Transit 
+District (BART) and Climate Bonds Standard Board (CBSB) as a deliverable of the Climate Bonds 
+Initiative Certification process. This report covers the pre-issuance verification of the BART’s 2025 Sales 
+Tax Revenue Bond.  First Environment, Inc. (First Environment) conducted the verification from July 24th 
+to Aug 4th of 2025.  First Environment, Inc. is an approved verifier by the Climate Bonds Standard Board 
+operating for this engagement within the jurisdiction of the United States, specifically the State of 
+California. 
+Objectives 
+The purpose of this verification was, through review of appropriate evidence, to establish that the Pre-
+issued Climate Bonds conforms to the requirements of the verification criteria, including all eligibility 
+requirements, discussed in Section 4 of this report. 
+Verification Scope 
+Specific scope for the verification is outlined in the table below:  
+Table 1: Verification Scope 
+Issuing Entity San Francisco Bay Area Rapid Transit District (Responsible Party) 
+Bond Issuance/s Sales Tax Revenue Bonds, 2025 Refunding Series A 
+Type of Climate 
+Bonds Sales Tax Revenue Bond 
+Pre- or Post- 
+Issuance Pre-Issuance 
+Impact Reporting 
+Period Not Applicable 
+Sources of 
+Information 
+Climate Bonds offering and supporting documents including BART’s Green 
+Bond Framework, observations, and interviews with responsible individuals. 
+ 
+Standards Used to Verify Low-Carbon Criteria 
+The following table outlines the guidance and protocols used to conduct this verification: 
+Table 2: Verification Guidance and Protocols 
+Standard of 
+Verification 
+• Climate Bonds Standard, Version 4.2 (CBS);   
+• CBS Sector-specific criteria: Low Carbon Land Transport, Version 2.2  
+Limitation of CBS:  The Climate Bonds Standard is designed specifically to 
+allow investors, governments, and other stakeholders to prioritize ‘low carbon 
+and climate resilient’ investments with confidence that the funds are being used 
+to deliver a low carbon and climate resilient economy.  It is not a financial 
+standard and does not imply any impact on the credit ratings of specific 
+investments.  
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 2 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Table 2: Verification Guidance and Protocols 
+Verification Process 
+• The Climate Bonds Standard Assurance Framework Version 1  
+• The Climate Bonds Verification Agreement  
+• ISAE 3000 (revised), Assurance Engagement Other than Audits or 
+Reviews of Historic Financial Information;   
+• Professional auditing ethics and quality control principles as presented 
+in ISO 14065 for validation and verification bodies which is founded on 
+the fundamental principles of integrity, objectivity, professional 
+competence and due care, confidentiality, and professional behavior.  
+Level of Assurance 
+• Limited Level of Assurance.  
+The procedures performed in a limited assurance engagement vary in nature 
+and timing from, and are less in extent than for, a reasonable assurance 
+engagement. Consequently, the level of assurance obtained in a limited 
+assurance engagement is substantially lower than the assurance that would 
+have been obtained had a reasonable assurance engagement been 
+performed.  
+Materiality 
+• Qualitative non-conformities with the CBS or related Sector-specific 
+criteria are considered material;  
+• Quantitative misstatements greater than five percent of any applicable 
+numeric sector-specific criteria are considered material  
+ 
+Overview of the Verification Process 
+The role of verifier is to independently express a conclusion about the subject matter information as it 
+relates to pre-issuance verification of a Climate Bond conformance with the Climate Bonds Standard and 
+related Sector-specific criteria.  
+  
+The Management of BART is responsible for the underlying subject matter including:  
+• preparation and implementation of all applicable requirements of the Climate Bonds Standard and 
+related Sector-specific criteria;  
+• establishing appropriate risk management, polices, and internal controls as described in their 
+internal and confidential Green Bond Framework July 28th, 2025 including the suitable design of 
+controls to meet the purpose set out therein in conformance with the requirements of the Climate 
+Bonds Standard; and  
+• preparation and presentation of reporting in conformance with the Climate Bonds Standard that is 
+free from material misstatement, whether due to fraud or error.  
+  
+The verification process was utilized to gain an understanding of the green bonds’ conformance with 
+applicable low-carbon requirements and to review the process and controls for the use and management 
+of proceeds.  As applicable, the calculations that lead to reported results were also reviewed.  
+  
+The following verification process was used:  
+• conflict of interest review (to ensure independence);  
+• selection of Verification Team (to ensure competency);  
+• initial interaction and kickoff meeting with Climate Bonds issuer and supporting service providers;  
+• request for relevant documentation;  
+• development of the Verification Plan;  
+• review and assessment of the use and management of bond proceeds as described in relevant 
+documentation;  
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 3 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+• follow-up interaction with the Climate Bonds issuer for clarification, or supplemental information 
+as needed; and   
+• final Verification Report and Statement submittal to the management of the Climate Bonds issuer 
+and the Climate Bonds Standard Board.  
+Conflict of Interest Review 
+Prior to beginning any verification project, First Environment conducts an evaluation to identify any 
+potential conflicts of interest associated with the project.  No potential conflicts were found and 
+documented for this project.    
+Verification Team 
+First Environment’s Verification Team consisted of the following individuals who were selected based on 
+their verification experience, as well as familiarity with relevant subject matter.   
+ 
+Lead Verifier – Luke Monhollon  
+Senior Internal Reviewer – Katherine Callahan  
+Verification Kick-off 
+The verification was initiated with a kick-off conference call on July 24, 2025 with the Climate Bonds’ 
+issuer.  The meeting focused on confirming the scope, schedule, and information required for 
+verification.  
+Development of the Verification Plan 
+The Verification Team formally documented its Verification Plan.  The Verification Plan was developed 
+based on the discussion of key elements of the bond verification process during the kick-off 
+meeting.  BART was afforded the opportunity to comment on the key elements of the plan for 
+verification.  Based on items discussed and agreed upon with BART, the plan identified the First 
+Environment project team members, project level of assurance, materiality threshold, and standards of 
+evaluation and reporting for the verification.  It also provided an outline of the verification process and 
+established project deliverables.   
+Site Visit 
+Not Applicable 
+Low-Carbon Assertion Assessment 
+This assessment used information and insights gained during the previous steps to evaluate the asserted 
+conformance with the Climate Bonds Standard and related Sector-specific criteria, and identify if either 
+contained material or immaterial misstatements.  See Section 6 for the results of this assessment.  
+Verification Reporting 
+Verification reporting, represented by this report, documents the verification process and identifies its 
+findings and results.  Verification reporting consists of this report, a Verification Statement, and a list of 
+findings to be submitted to the Climate Bonds Standard Board.  
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 4 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Findings: Climate Bonds Conformance with 
+Verification Criteria 
+Conformance with the Climate Bonds Standard Pre-Issuance 
+Requirements 
+See Appendix A:  Climate Bonds Standard 4.2 Pre-Issuance Checklist.  
+Conformance with the Sector-Specific Criteria (Low-Carbon Transport) 
+Appendix B:  CBS Sector-Specific Checklist:  Low-Carbon Transportation (V2.2) 
+Verification Conclusion  
+Based on the evidence collected and the assessments performed, nothing has come to our attention that 
+causes us to believe that BART’s 2025 Sales Tax Revenue Bond proposed to fund its electrified public 
+transport infrastructure has not conformed, in all material respects, with the pre-issuance requirements of 
+the Climate Bonds Standard 4.2 and the Low Carbon Land Transport sector-specific criteria (version 
+2.2).  
+Lead Verifier Signature 
+ 
+Luke Monhollon 
+Senior Project Engineer 
+Appendix A: Climate Bonds Standard 4.2 
+Checklist 
+The checklist provides a simple (fill-in the blank) tool for the identification and assessment of potential 
+gaps (non-conformance) with key elements (requirements) of the Climate Bonds Standard 4.2. The 
+checklist was completed on the CBI provided template. This checklist is privileged and confidential.   
+Appendix B: CBS Sector-Specific Checklist 
+The following checklist provides a simple tool for the identification and assessment of potential gaps 
+(non-conformance) with key elements of the low-carbon Transportation sector-specific criteria.  
+This metric was based on the Low-Carbon Transportation version 2.2. . This checklist is considered 
+privileged and confidential.   
+ 
+ 
+
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 5 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Low-carbon Transportation Checklist 
+Conformance Requirement  Verification Inquiry 
+and/or Test  Procedure Applied  
+If Response 
+is “No” or 
+“N/A” or 
+“Don’t 
+Know”   
+Eligible Use of Proceeds 
+These criteria can variously be 
+used to certify projects relating to 
+the following sub-sectors: 
+ 
+ • Passenger cars and commercial 
+vehicles  
+ • Public passenger transport by 
+road  
+ • Freight transport by road  
+ • Passenger rail rolling stock 
+ • Freight rail rolling stock 
+ • Railway networks and lines 
+ • The manufacture of 
+miscellaneous vehicles for other 
+sectors 
+ • Infrastructure for low carbon 
+transport 
+Identify sub-sector 
+of land 
+transportation to 
+identify remaining 
+criteria. 
+Document Response to types 
+of funded projects/assets and 
+confirm against identified 
+eligible projects and/or 
+assets:  
+ 
+Green Bond Framework 
+Section: “Overview” 
+ 
+Sub-sector: 
+Passenger rail rolling stock. 
+Land Transport Criteria sections 
+3.2.1 and 3.6 are applicable. 
+Criterion met:                  
+ 
+ 
+Section 3.2.1: 
+All zero direct emissions transport 
+along with key components and 
+dedicated supporting infrastructure 
+are automatically eligible and 
+therefore certifiable under the 
+Transport Criteria 
+Are direct 
+emissions zero? 
+Document Response to types 
+of funded projects/assets and 
+confirm against identified 
+eligible projects and/or 
+assets:  
+ 
+Green Bond Framework 
+Section: “Overview”, 
+“Wholesale Electricity Portfolio 
+Policy” 
+ 
+BART internal Green Bonds 
+Framework received July 24, 
+2025– 100% electrification;  
+Measure RR Bond 
+Implementation   
+U.S. Department of 
+Transportation “Public 
+Transportation’s Role in 
+Responding to Climate 
+(January 2010), Appendix  I 
+shows BART had the lowest 
+carbon intensity per passenger 
+mile in the U.S. at that time;  
+  
+ 
+
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 6 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Low-carbon Transportation Checklist 
+Conformance Requirement  Verification Inquiry 
+and/or Test  Procedure Applied  
+If Response 
+is “No” or 
+“N/A” or 
+“Don’t 
+Know”   
+Per communications with 
+issuer, no funds were used for 
+non-electrified transit.  
+ 
+Note 
+For year 2025, passenger 
+activity emissions threshold is 
+50g CO2e per passenger-km. 
+For certifications 2026 and after 
+, emissions will need to be less 
+0g CO2e per passenger-km. 
+ 
+Response:                Yes  
+ 
+Section 3.6: 
+Is the mode of transport electric or 
+other zero-direct emissions? 
+ 
+All rolling stock and vehicles for 
+zero direct emissions rail lines (eg 
+electric, hydrogen) pass the 
+criterion. See section 3.2.1 for 
+further details. 
+Address question Document Response to types 
+of funded projects/assets and 
+confirm against identified 
+eligible projects and/or 
+assets:  
+ 
+Green Bond Framework 
+Section: “Overview”, 
+“Wholesale Electricity Portfolio 
+Policy” 
+ 
+BART internal Green Bonds 
+Framework received July 24, 
+2025– 100% electrification;  
+ 
+Response:                Yes  
+ 
+ 
+Section 3.6: 
+Are the assets and activities to be 
+financed a new interurban rail 
+project? 
+ 
+This requirement does not need to 
+be met for bonds refinancing 
+existing interurban rail lines, only 
+for new ones. 
+Address question Document Response to types 
+of funded projects/assets and 
+confirm against identified 
+eligible projects and/or 
+assets:  
+ 
+Green Bond Framework 
+Section: “Overview”, 
+“Wholesale Electricity Portfolio 
+Policy” 
+ 
+BART internal Green Bonds 
+Framework received July 24, 
+2025– 100% electrification;  
+ 
+         BART Climate Bonds External Pre-Issuance Verification 
+San Francisco Bay Area Rapid Transit District 
+     
+ 
+8/13/2025  Page 7 
+G:\DATA\2025 Proposals\Emerging - Adapt, RINS, Green Bonds, LCA\Sperry Capital - SPERR002-01 - Pre-Issuance Verification for BART Refunding 
+Bonds\Final Word\2025.08.06_BART Verification Report  - Copy.docx 
+Low-carbon Transportation Checklist 
+Conformance Requirement  Verification Inquiry 
+and/or Test  Procedure Applied  
+If Response 
+is “No” or 
+“N/A” or 
+“Don’t 
+Know”   
+ 
+Response:                No  
+ 
+ 
+The following table is an accounting of the assets or projects to funding or refinanced, explains how each 
+meet the sector criteria, and allocation percentage, if the asset is not certifiable under the sector criteria. 
+ 
+Assets to be Funded or Refinanced 
+Asset  Compliance Allocation 
+Acquisition of mass transit rail 
+vehicles 
+Section 3.9 
+Automatically eligible 
+N/A 
+ 
+Construction of turnback and 
+intermodal improvements 
+Section 3.9 
+Automatically eligible 
+N/A 
+Acquisition and extension of 
+right-of-way 
+Section 3.9 
+Automatically eligible 
+N/A 
+Rail car rehabilitation Section 3.9 
+Automatically eligible 
+N/A 
+Control and communication 
+rehabilitation 
+Section 3.9 
+Automatically eligible 
+N/A 
+Mainline, station, shops/yard 
+rehabilitation 
+Section 3.9 
+Automatically eligible 
+N/A 
+Work equipment replacement Section 3.9 
+Automatically eligible 
+N/A 
+District vehicle and facility 
+Rehabilitation 
+Section 3.9 
+Automatically eligible 
+N/A 
+Telecommunications 
+equipment 
+Section 3.9 
+Automatically eligible 
+N/A 
+Rail extension to SFO Section 3.9 
+Automatically eligible 
+N/A 
+Maintenance facility 
+rehabilitation 
+Section 3.9 
+Automatically eligible 
+N/A 
+Transit Station Construction Section 3.9 
+Automatically eligible 
+N/A 
+Parking Facility Section 3.9 
+Not certifiable 
+No greater than 0.9%, which is less than the 
+5% flexibility pocket per CBS A.3.1. Eligibility 
+for certification was approved by CBI on July 
+24, 2025 
+Pedestrian bridges Section 3.9 
+Automatically eligible 
+N/A 
+Bus intermodal facility Section 3.9 
+Automatically eligible 
+N/A

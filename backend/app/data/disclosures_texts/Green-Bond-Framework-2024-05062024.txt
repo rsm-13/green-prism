@@ -1,0 +1,338 @@
+Green Bond Framework 
+ 
+May 6, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+ 
+Table of Contents 
+CPP Investments’ Sustainability Strategy ..................................................................................... 2 
+2024 CPP Investments’ Green Bond Framework......................................................................... 3 
+I. Use of Proceeds ................................ ................................ ................................ .................. 3 
+II.  Process for Investment Evaluation and Selection ................................ ................................ ...4 
+III.  Management of Proceeds ................................ ................................ ................................ ....4 
+IV.  Transparency, Reporting and Verification ................................ ................................ ............. 4 
+Appendix A – Eligible Green Categories................................ ................................ ..................... 6 
+Appendix B – Illustrative Impact Metrics ................................ ................................ ................... 7 
+Appendix C – Disclaimer................................ ................................ ................................ ........... 8 
+ 
+  
+2 
+ 
+ 
+CPP Investments’ Sustainability Strategy 
+Canada Pension Plan Investment Board, which operates as CPP Investments, is a global investment 
+management organization. We were established to help the Canada Pension Plan  remain financially 
+sustainable for the long term. We prudently invest the amounts transferred to us by the Canada Pension 
+Plan, helping to provide a foundation on which Canadians can build financial security in retirement. 
+At CPP Investments, sustainable investing means anticipating and managing sustainability-related material 
+business risks and opportunities, including climate change, when they are material to the investment. We 
+define sustainability -related factors as those including, but not limited to: effective board governance; 
+climate change; environment; equity, diversity and inclusion; health and safety; community engagement; 
+human rights; responsible sourcing and deplo yment of artificial intelligence; and data and cyber 
+security.  Our approach to sustainable investing is an important component of our investment strategy, 
+designed to fulfil our mandate of maximizing returns without un due risk of loss, taking into account the 
+factors that may affect the funding of the Canada Pension Plan and its ability to meet its financial obligations. 
+Through this approach we aim to make better informed investment decisions and create long-term value in 
+the best interests of the Canada Pension Plan Fund’s more than 21 million contributors and beneficiaries. 
+We believe that climate change represents a significant risk and investment opportunity for the CPP Fund 
+as the whole economy transitions in line with sovereign climate commitments. To this end, we seek to factor 
+in a broad range of climate change -related risks and opportunities as part of our investment strategy and 
+total portfolio design. Our diversified investment strategy affords CPP Investments the flexibility to invest 
+across asset classes and into all types of climate change-related opportunities.  
+Our approach to climate change underlies our own commitment to achieve net zero emissions across all 
+scopes by 2050, in both our portfolio and operations. Our commitment is made on the basis and with the 
+expectation that the global community will continue to advance towards the goal of achieving net-zero 
+emissions by 2050. These advancements include the acceleration and fulfilment of corporate targets, 
+changes in consumer and corporate behaviours, and development of global reporting standards and carbon 
+markets, all of which will be necessary for us to meet our commitment. 
+Key Links 
+To supplement this framework, please refer to the following materials that provide additional context and 
+detail regarding CPP Investments’ approach to managing sustainability-related material business risks and 
+opportunities, including climate change, for all investments, including Eligible Investments as defined in this 
+Framework.   
+• 2023 Annual Report 
+• 2023 Report on Sustainable Investing 
+• 2024 Policy on Sustainable Investing 
+• 2024 Proxy Voting Principles and Guidelines 
+ 
+ 
+3 
+ 
+ 
+2024 CPP Investments’ Green Bond Framework 
+CPP Investments’ Green Bond Framework (the Framework) is aligned with the International Capital Markets 
+Association’s (ICMA) Green Bond Principles’ four core components: 
+• Use of proceeds 
+• Process for project evaluation and selection 
+• Management of proceeds 
+• Reporting and verification 
+This Framework addresses each of the above components in support of CPP Investments ’ green financing 
+initiatives. Eligible investments have additionally been mapped to the EU Taxonomy for Sustainable Activities 
+and the UN’s Sustainable Development Goals (see Appendix A). 
+I. Use of Proceeds 
+An amount equivalent to net proceeds raised through a green bond issuance under this Framework will be 
+used to  notionally finance investments (equity  or debt, in whole or in part) in new or existing CPP 
+Investments’ assets (either companies or projects) based on the  eligibility criteria below, referred to as 
+“Eligible Investments”.  Notional allocation of net proceeds to Eligible Investments will happen within one 
+year of the green bond issuance date and will follow the process for investment evaluation and selection 
+described in Section II below. 
+Eligible Investments must meet the following criteria: 
+➢ Companies: Eligible companies must derive at least 95% of their revenues from projects or operations 
+that meet the eligibility criteria of one or more of the 'Eligible Green Categories’ listed below. 
+➢ Projects: Eligible projects must meet the eligibility criteria of one or more of the ‘Eligible Green 
+Categories’ listed below. Projects for companies that do not derive all revenue from ‘Eligible Green 
+Categories’ may continue to be Eligible Investments if they form part of the company’s credible 
+transition plan.  
+Eligible Green Categories are: 
+1) Renewable Energy 
+2) Green Buildings 
+3) Low Carbon/Clean Transportation 
+4) Energy Efficiency 
+See Appendix A for definitions and eligibility criteria for the se Eligible Green Categories. 
+Eligible use  of net proceeds excludes direct  investments in fossil  fuel infrastructure. The  exclusion 
+explicitly covers, but is not limited to, investments in fossil fueled transportation (including systems using 
+hydrogen generated from fossil fuels, and bioenergy powered systems) and power generation; renewable 
+energy that expands the capacity of oil and gas; and fuel switching (e.g., oil to gas) in building heating 
+system retrofits.  
+4 
+ 
+ 
+II. Process for Investment Evaluation and Selection 
+CPP Investments’ Sustainable Investment Committee (SIC) is responsible for approving Eligible Investments 
+that have been assessed against criteria in this Framework.  If the SIC is satisfied that an Eligible Investment 
+meets the applicable criteria, the  SIC may approve the  addition of the  Eligible Investment to CPP 
+Investments’ Green Bond Register, which is included in the Green Bond Impact Report that is publicly 
+available on the Green Bond section of CPP Investments’ website.  The SIC is also accountable for tracking 
+and reporting approved Eligible Investments under this Framework, including notional allocation of net 
+proceeds to approved Eligible Investments.  
+The SIC is chaired by CPP Investments’ Chief Sustainability Officer (CSO) and includes senior members from 
+teams across the organization.   
+III. Management of Proceeds 
+Net proceeds from CPP Investments’ Green Bond issuance will be deposited in the general account and an 
+amount equal to the net proceeds will be earmarked for notional allocation to Eligible Investments that have 
+been approved by the SIC. Notional allocation of net proceeds will be on a portfolio basis, meaning they will 
+be notionally allocated across all Eligible Investments in the Green Bond Register.  For clarity, any assets that 
+are sold, terminated, or no longer meet eligibility criteria will be removed from the Green Bond Register. 
+Pending notional allocation, an amount equal to unallocated net proceeds may be temporarily invested in 
+cash, cash equivalents, and/or government securities. 
+All relevant information regarding the issuance of green bonds and notional allocation of net proceeds to 
+Eligible Investments will be recorded annually in the Green Bond Register , which is included in the Green 
+Bond Impact Report that is made publicly available on the Green Bond section of CPP Investments’ website. 
+The payment of principal and interest on any Green Bond issued by CPP Investments will be made from its 
+general funds and will not be linked to the performance of any Eligible Investment on the Green Bond 
+Register . 
+IV.  Transparency, Reporting and Verification 
+In respect of any outstanding green bonds, CPP Investments will report annually on notional allocation of 
+net proceeds and associated impact, where feasible, for the preceding 12 months. CPP Investments will use 
+a portfolio approach in its impact reporting methodology. 
+The information will be published annually in the Green Bond Impact Report on the Green Bond section of 
+CPP Investments’ website. Highlights will be included in CPP Investments' annual Report on Sustainable 
+Investing. The first report will be published within one year of green bond issuance and every year thereafter 
+until the applicable green bonds have been repaid.  The Green Bond Register , included in the Green Bond 
+Impact Report, will include the following information: 
+• Net proceeds generated under the Framework; 
+• Notional allocation of net proceeds by eligible category; 
+• A brief description of the investment where possible; 
+• Breakdown of notional allocation of net proceeds between new and existing investments 
+• Impact metrics by investment category, where feasible; 
+• Outstanding amount of net proceeds at the end of the reporting period. 
+5 
+ 
+ 
+Impact metrics that may be used for eligible categories are included in Appendix B . 
+On an annual basis, the notional allocation of net proceeds and impact metrics listed in the Green Bond 
+Register will be verified by management attestation. An external verification of the notional allocation of net 
+proceeds and, where feasible, impact metrics, will be carried out by an independent, qualified third- party 
+on an annual basis until the applicable green bonds have been repaid . The results of the third-party 
+verification will be made publicly available on CPP Investments' website, alongside the Framework and 
+Report on Sustainable Investing . In the unlikely event that the external verification identifies notional 
+allocations to projects that do not comply with this Framework, these projects will be removed from the 
+Green Bond Register  and corresponding amounts will be notionally allocated to different assets  that comply 
+with this Framework. 
+CPP Investments is seeking a second party opinion for this Framework from S&P Global Ratings to verify 
+alignment with ICMA's Green Bond Principles as well as provide expert insight into potential environmental 
+impact of Eligible Investments. The second party opinion will be made publicly available on CPP Investments' 
+website, alongside the Framework. If the Framework is substantially altered, an updated second party 
+opinion will be procured. 
+  
+6 
+ 
+ 
+Appendix A – Eligible Green Categories 
+ 
+ICMA GBP Category Eligibility  Criteria (companies or projects) EU Taxonomy Mapping SDG Alignment  
+Renewable 
+Energy 
+Acquisition, development, generation, 
+transmission and distribution  of renewable 
+energy including:  
+▪ Wind power  (offshore and onshore) 
+▪ Solar power  
+▪ Green hydrogen  
+Climate  change mitigation  
+3.1 Manufacture of low 
+carbon technologies  
+4.1 Production  of Electricity  from Solar PV 
+4.3 Production  of Electricity  from Wind 
+Power  
+SDG 7 
+Green Buildings Purchase,  development  and/or redevelopment  
+of properties that have received or are 
+expected to receive at least one of the following 
+green building  certifications:  
+▪ Leadership in Energy and Environmental 
+Design (LEED) Gold or Platinum or equivalent 
+levels  in other  certification  programs. 
+Climate  change mitigation  
+8.1 Construction  of new buildings  
+8.2 Building  renovation  
+8.4 Acquisition  and ownership  
+SDG 11 
+Low Carbon / Clean 
+Transportation 
+Development,  deployment  and operation of clean 
+transportation assets including:  
+▪ Private  transport: 
+o Electric  or non-motorized  transport 
+vehicles  
+▪ Public  transport: 
+o Electric or non -motorized public 
+transportation  vehicles  and fleets 
+o Supporting infrastructure such as 
+walkways, bike  paths, and charging 
+stations 
+o Electrification  of existing  rail 
+infrastructure  
+Transportation  systems that rely on conventional 
+fuels, hydrogen generated from fossil fuel(s)  
+and/or bioenergy  are excluded  
+Climate  change mitigation  
+6.1 Passenger rail transport (interurban)  
+6.3 Public  transport 
+6.4 Infrastructure  for low 
+carbon transport (land) 
+6.5 Passenger cars and commercial 
+vehicles  
+SDG 11 
+Energy Efficiency  Develop,  operate,  and maintain  renewable  energy 
+battery storage  
+Development, deployment and operation of 
+technologies, products, or systems that provide 
+significant improvements in energy efficiency 
+(>30% per International Energy Agency and EU 
+Taxonomy), examples  including  but not limited to: 
+▪ Renewable energy -powered district heating  
+and cooling  technologies,  Smart grids,  
+sensors, load control  systems, grid 
+connectors, renewable energy battery 
+storage 
+Investments that increase efficiency of fossil 
+fueled  equipment  or power  plants are excluded  
+Climate  mitigation  
+4.10  Storage of electricity  
+4.15  District  heating/Cooling  distribution  
+SDG 7 
+ 
+  
+7 
+ 
+ 
+Appendix B – Illustrative Impact Metrics 
+ 
+ICMA GBP 
+Category 
+Example Environmental Impact Indicators 
+Renewable 
+Energy 
+• Annual renewable  energy  generation  in MWh/GWh 
+• Capacity of renewable  energy  constructed  or integrated  
+Green 
+Buildings 
+• Percentage  of energy  use reduced/avoided  vs local baseline/building  code  
+• Annual GHG emissions  reduced/avoided  in tonnes of CO2 equivalent  vs local 
+baseline/baseline certification level  
+• Amount of waste minimized,  reused  or recycled  
+• Certification  standard: type of scheme  and certification  level  
+Low Carbon / Clea n 
+Tra ns porta tion 
+• Annual GHG emissions  reduced/avoided  in tCO2e p.a. 
+• Reduction of air pollutants, particulate matter (PM), sulphur oxides (SOx ), nitrogen oxides (NOx), 
+carbon monoxide (CO), and non -methane volatile organic compounds (NMVOCs) 
+• Number  of clean  vehicles  deployed  
+• Kilometers of new or improved train lines/dedicated bus, BRT, LRT corridors, bicycle lanes 
+Energy Efficiency  • Annual energy  savings in MWh/GWh (electricity)  and GJ/TJ (other energy  savings) 
+• Annual GHG emissions  reduced/avoided  in tonnes of CO2 equivalent  
+8 
+ 
+ 
+Appendix C - Disclaimer  
+This Green Bond Framework is provided for informational purposes only and is subject to change without 
+notice. After the date of this document, neither CPP Investments nor CPPIB Capital Inc. assumes any 
+responsibility or obligation to update or revise any statements in this document, regardless of whether those 
+statements are affected by the results of new information, future events or otherwise. No representation or 
+warranty, express or implied, is or will be made in relation to the accuracy, reliability or completeness of the 
+information contained herein. No liability whatsoever is or will be accepted by CPP Investments or CPPIB 
+Capital Inc. or any of their affiliates for any loss or damage howsoever arising out of or in connection with 
+the use of, or reliance upon, the information contained in this document. Nothing in this document shall 
+constitute, or form part of, an offer to sell or solicitation of an offer to buy or subscribe for any security or 
+other instrument of CPP Investments or CPPIB Capital Inc. or any of their affiliates, or as an invitation, 
+recommendation or inducement to enter into any investment activity, and no part of this document shall 
+form the basis of or be relied upon in connection with any contract, commitment, or investment decision 
+whatsoever. Offers to sell, sales, solicitation of offers to buy or purchases of securities issued by CPPIB Capital 
+Inc. and guaranteed by CPP Investments or any affiliate thereof may only be made or entered into pursuant 
+to appropriate offering materials prepared and distributed in accordance with the laws, regulations, rules 
+and market practices of the jurisdictions in which such offers, solicitations or sales may be made. Professional 
+advice should be sought prior to any decision to invest in securities. This Green Bond Framework is not 
+intended to constitute financial, legal, tax, investment, professional or expert advice. This material is not 
+intended for distribution to, or use by, any person or entity in any jurisdiction where such distribution or use 
+would be contrary to law or regulation. This Green Bond Framework may contain projections and forward- 
+looking statements within the meaning of certain securities laws, including the “safe harbor” provisions of 
+the United States Private Securities Litigation Reform Act of 1995 and any applicable Canadian securities 
+legislation. Forward-looking statements contained in this document may include, but are not limited to, 
+statements  regarding CPP Investments, CPPIB Capital Inc. and their respective affiliates and their future 
+performance. Forward-looking statements are typically identified by words such as “believe”, “expect”, 
+“foresee”, “forecast”, “anticipate”, “intend”, “estimate”, “goal”, “plan” and “project” and similar expressions 
+of future or conditional verbs such as “will”, “may”, “should”, “could” or “would”. By their very nature, 
+forward- looking statements require certain assumptions and are subject to inherent risks and uncertainties, 
+which give rise to the possibility that predictions, forecasts, projections, expectations or conclusions will not 
+prove to be accurate and that such assumptions may not be correct. Readers are cautioned not to place 
+undue reliance on these statements as a number of risk factors could cause actual results to differ materially 
+from the expectations expressed in such forward -looking statements. Except as required by law, none of 
+CPP Investments or CPPIB Capital Inc. or their respective affiliates undertakes to update any forward-looking 
+statement that may be made from time to time in this document.

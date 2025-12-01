@@ -1,0 +1,4550 @@
+Prepared by Climate Bonds Initiative
+Sustainable Debt
+Global State  
+of the Market  
+2024
+$5.7tn 
+Cumulative   
+Aligned  
+GSS+ 
+Social 
+$1.1tn
+SLB 
+$47.2bn
+Sustainability 
+$998bn
+Green 
+$3.5tn
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 2
+This is the 14th iteration of Climate Bonds 
+Initiative’s (Climate Bonds) Global State of 
+the Market Report. The scope of this report 
+includes analysis of green, social, and 
+sustainability (GSS) bonds considered to be 
+in alignment with Climate Bonds Dataset 
+Methodologies (Appendix 1) plus sustainability-
+linked bonds (SLBs). 
+1. Introduction
+Aligned GSS+ scorecard
+ 
+Green
+ 
+Social
+ 
+Sustainability
+ 
+SLB
+Total size 
+of market 
+(cumulative)
+USD3.5tn USD1.1tn USD998bn USD47.2bn
+Number of 
+countries
+98 53 75 25
+Number of 
+currencies
+60 48 44 13
+Contents
+1. Introduction   2
+2. Report highlights   3
+3. Green   5
+4. Social and sustainability   10
+3. Sustainability-linked bonds   17
+4. The sovereign GSS+ bond club   21
+5. Blue- and water-labelled GSS+ 
+market   25
+6. Policy overview   27
+7. Sector Criteria guide issuers to make 
+genuine contribution   28
+8. Climate Bonds supports local 
+taxonomy development   29
+9. Certification at Climate Bonds 
+reinforces rigour   31
+10. Capacity building and technical 
+assistance offers guidance and 
+customised solutions    32
+11. Climate Bonds teams around the 
+world   33
+12. Outlook   37
+Appendix.   38
+Endnotes   39
+By the end of 2024, Climate Bonds had recorded 
+USD6.9tn of cumulative GSS and SLB (collectively 
+GSS+) volume, of which USD5.7tn (83%) was 
+found to be aligned. This indicates strong appetite 
+for thematic debt, with the difference between 
+the two numbers highlighting the rigour of 
+Climate Bonds curation. 
+This report describes the shape and size of the 
+aligned GSS+ debt market as of 31 December 2024.
+About the Climate  
+Bonds Initiative
+Climate Bonds is an international 
+organisation working to mobilise global 
+capital for climate action. It promotes 
+investment in projects and assets needed for 
+a rapid transition to a low-carbon, climate-
+resilient, and fair economy. The mission 
+focus is to help drive down the cost of capital 
+for large-scale climate and infrastructure 
+projects and to support governments 
+seeking increased capital markets 
+investment to meet climate and greenhouse 
+gas (GHG) emission reduction goals. 
+Climate Bonds conducts market analysis 
+and policy research; undertakes market 
+development activities; advises governments 
+and regulators; and administers a global 
+green bond Standard and Certification 
+scheme. Climate Bonds screens green 
+finance instruments against its global 
+Taxonomy to determine alignment, and 
+shares information about the composition 
+of this market with partners. The Climate 
+Bonds team has also expanded its analysis 
+to other thematic areas, such as social and 
+sustainability bonds via the development of 
+screening methodologies for investments that 
+give rise to positive social impacts and added 
+resilience. Certification against the Climate 
+Bonds Standard (CBS) represents about 10% 
+of global green bond market volumes. This 
+scheme is underpinned by rigorous scientific 
+sector-specific Criteria to ensure that Certified 
+bonds and issuers are consistent with the 1.5°C 
+target of the Paris Agreement. Obtaining and 
+maintaining Certification requires initial and 
+ongoing third-party verification to ensure the 
+assets meet the metrics of Sector Criteria.
+Climate Bonds 
+Standard and 
+Certification 
+Scheme
+In 2023, the scope of the 
+Climate Bonds Standard and Certification 
+Scheme expanded beyond use of proceeds 
+(UoP) instruments to assets, entities and 
+sustainability-linked debt. The Climate Bonds 
+Standard now covers the whole range of 
+sustainable financing methods, including 
+green equity, transition finance, general 
+purpose debt and performance-linked 
+instruments. The Certification label provides 
+investors with assurance that the transition 
+plans of a company or an SLB issuer are 
+credible and based on science-based 
+climate goals, and that strong governance 
+practices have been adopted.
+Following two further enhancements to the 
+Standard in early 2024 (CBS v4.1 and v4.2), 
+the Certification label can now be offered to:
+1. early-stage R&D into new emission-
+reducing technologies,
+2. planned assets, allowing asset owners 
+to demonstrate alignment of their green 
+projects with science-based Sector Criteria 
+during the development stage, and
+3. DCF agrifood entities, showcasing their 
+deforestation- and conversion-free (DCF) 
+supply chains.
+The Climate Bonds Standard and 
+Certification Scheme is a globally applicable 
+integrated approach aligned with the 
+best practice standards that supports the 
+mobilisation of sustainable and transition 
+finance towards a net-zero future.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 3
+0
+2. Report highlights
+As of 31 December 2024, Climate Bonds  
+had recorded aligned GSS+ instruments  
+with cumulative volume of USD5.7tn from 
+54,025 instruments.
+In 2024, Climate Bonds captured aligned 
+volume of USD1.05tn, 11% more than the 
+2023 figure of USD946.9bn. The green theme 
+accounted for approximately two-thirds (64%) 
+of this, which added USD671.7bn, reflecting a 
+9% YOY increase. 
+Additionally, there was a YOY increase of 
+9% and 32% in the volume of social and 
+sustainability bonds, respectively. The smallest 
+segment, SLBs experienced a significant 65% 
+decrease in aligned volume, falling to USD7.9bn 
+compared to USD22.8bn in 2023.
+GSS+ market at a glance
+ • USD1.05tn in aligned deals were priced in 
+2024, marking a record year with 10,331 deals 
+and a YOY increase of 31%.
+ • Two-thirds (64%) of the aligned deals 
+were priced under the green theme worth 
+USD672bn followed by sustainability, social, 
+and SLB.
+ • Europe was the largest source of aligned 
+GSS+ debt instruments with a volume of 
+USD475bn representing 45% of the 2024 
+total. The USA delivered a 45% rise YOY and 
+represented 16% of the volume in 2024. 
+Supranationals (SNAT) were more active in 
+2024 accounting for 7% of the volume.
+ • January was the busiest month of the year 
+with aligned GSS+ volume reaching USD130bn 
+from 161 issuers and 461 GSS+ bonds.
+ • GSS+ deals were priced in 48 currencies 
+with 69% of the issuance from the top two 
+currencies; EUR (USD407.4bn) and USD 
+(USD317.7bn). 
+ • The Sovereign GSS+ Bond Club continues 
+to grow its membership, and was just one 
+issuer away from its next critical milestone 
+as Honduras became the 59th aligned 
+issuer with its November sustainability deal. 
+Cumulative aligned sovereign GSS+ volume 
+had reached USD656bn by the end of 2024. 
+ • The Thai government issued the first ASEAN 
+sovereign SLB in 2024: a THB30bn (USD868m) 
+fully aligned, 15.5year deal.   
+Aligned GSS+ issuance increased to USD1.05tn in 2024
+Europe was the largest source 
+of 2024 GSS+ aligned volume 
+69% of aligned GSS+ deals were 
+in EUR and USD in 2024
+Aligned GSS+ issuance peaked in January with USD130bn
+200
+400
+600
+USD Billions
+1000 Green
+SLB
+Social
+Sustainability
+800
+2017 2018 2019 2020 2021 2022 2023 2024
+0
+Source: Climate Bonds Initiative
+20
+40
+USD Billions
+100
+60
+July
+January
+MayMarch
+September November
+AugustFebruary
+JuneApril
+October December
+80
+Source: Climate Bonds Initiative
+Green SLB Social Sustainability
+North  
+America 
+16%
+LAC 5%
+Europe 
+45%
+Asia-Pacific 
+26% 
+Africa 1%Supranational 7%
+CNY 
+7%
+KRW 3%
+GBP 4%
+EUR 
+39%
+USD 
+30% 
+Others 
+17%
+Source: Climate Bonds InitiativeSource: Climate Bonds Initiative
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 4
+2024 
+USD672bn 
+ 
+948 
+3,242 
+66 
+38
+2024 
+USD206.3bn 
+264 
+1,741 
+49 
+36
+2023 
+USD614bn 
+ 
+881 
+3,015 
+72 
+40
+2023 
+USD156.5bn 
+231 
+1,295 
+44 
+32
+Size of market 
+ 
+Number of 
+issuers
+Number of 
+instruments 
+Number of  
+countries
+Number of  
+currencies
+Size of market 
+ 
+Number of 
+issuers
+Number of 
+instruments 
+Number of  
+countries
+Number of  
+currencies
+Aligned green  
+debt scorecard 
+Aligned sustainability  
+debt scorecard 
+Change YOY  
+9.37% 
+7.6% 
+7.53% 
+-8.33% 
+-5.0%
+Change YOY 
+ 
+31.8% 
+14.3% 
+34.4% 
+11.3% 
+12.5%
+2024 
+USD167.63bn 
+203 
+5,324 
+36 
+30
+2023 
+USD153.5bn 
+190 
+3,501 
+32 
+32
+Size of market 
+ 
+Number of 
+issuers
+Number of 
+instruments
+ Number of  
+countries
+Number of  
+currencies
+Aligned social  
+debt scorecard 
+Change YOY 
+ 
+9.2% 
+6.8% 
+52% 
+12.5%
+ 
+-6.3%
+2024 
+USD7.9bn 
+20 
+24 
+13 
+7
+2023 
+USD22.8bn 
+32 
+50 
+14 
+8
+Size of market 
+ 
+Number of 
+issuers
+Number of 
+instruments
+Number of  
+countries
+Number of  
+currencies
+Aligned SLB scorecard (includes 
+the aligned, strongly aligned, and 
+aligning categories from Climate 
+Bonds SLB Dataset) 
+Change YOY 
+ 
+-65.3% 
+-38% 
+-52% 
+-7.1% 
+-12.5%
+GSS+ scorecard 2024
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 5
+3. Green
+The number of green deals increased 8% yoy however remains 
+lower than the peak in 2021
+Source: Climate Bonds Initiative
+Green bond market  
+highlights 2024 
+ • In 2024, aligned annual volume reached 
+USD671.7bn, comfortably breaking 
+through the half-trillion mark for the fourth 
+consecutive year, and demonstrating an 
+increase of 9.4% YOY. 
+ • Aligned sovereign green volume increased by 
+8.5% to USD134bn versus USD123.5bn in 2023.  
+ • Europe dominated the aligned green bond 
+market with volume of USD388.4bn, an 
+increase of 16.8% YOY. The largest individual 
+issuer was the EU (supranational) with 
+aligned issuance of EUR19.32bn (USD20.9bn) 
+composed of one new issue and four taps.  
+ • In 2024, private sector issuers continued 
+to visit the green bond market in force, 
+as aligned issuance from non-financial 
+corporates grew by 30% YOY. 
+ • June was the most prolific month in 2024 
+with aligned green issuance of USD86.5bn, 
+a 30% increase compared to May 2023 the 
+busiest month of the previous year.
+Europe delivers more than half 
+of aligned green bonds 
+More than half of the 2024 aligned green 
+bond volume originated from Europe (58%) 
+contributing USD388.4bn, and 17% YOY growth 
+compared to the USD322.3bn captured in 2023. 
+The ten largest issuers accounted for 39% of the 
+TOP 3 NON-SOVEREIGN ISSUERS
+1. EU (USD20.9bn)
+2. EIB (European Investment Bank) (USD16.6bn)
+3. KFW (USD13.36bn)
+TOP 3 COUNTRIES
+1. USA (USD84.7bn)
+2. Germany (USD73.3bn)
+3. China (USD68.9bn)
+TOP 3 ISSUER TYPES
+1. Non-Financial Corporate (USD202bn)
+2. Financial Corporate (USD142bn)
+3. Sovereign (USD134.1bn)
+TOP 3 DEAL CURRENCIES
+1. EUR (USD323.9bn)
+2. USD (USD134.8bn)
+3. CNY (USD64.75bn)
+The 2024 green bond market in numbers
+US Green Municipal Bonds: Power purchase agreement financing by the California Community 
+Choice Financing Authority  
+100
+USD Billions
+400
+300
+200
+0
+AfricaAsia-
+Pacific
+North 
+America
+Latin 
+America
+Suprana-
+tional
+Europe
+Green municipal (muni) 
+issuers from the USA were 
+busy in 2024 as the volume 
+priced by states, cities and 
+local government bodies 
+reached USD22.6bn, a 22% increase from 
+USD18.6bn in 2023, marking a record 
+high. California was the most active 
+with USD12.8bn, or 57% of the volume, 
+originating from institutions across the state. 
+Fourteen Californian governmental bodies 
+placed 20 green muni series in total, with 
+the California Community Choice Financing 
+Authority (CCCFA) being the largest issuer 
+and pricing USD9.1bn in 2024. This equates 
+to 40% of the total muni volume from the 
+USA over the year. All green munis issued by 
+the CCCFA are project revenue bonds.  
+The CCCFA is an organisation created in 2021 
+with the goal of reducing the cost-of-power 
+purchases for member community choice 
+aggregators (CCAs). These are programmes that 
+allow local authorities in the region of southern 
+California to purchase electricity on behalf of 
+residential, commercial, and industrial users 
+within their service area, through pre-payment 
+structures.1 This is an innovative approach 
+compared to the investor-owned utilities such 
+as Southern California Edison. 
+All green munis issued by CCCFA are used 
+to finance the prepayment of ‘renewable’ 
+electricity, primarily generated from solar, 
+wind, and hydroelectric, via power purchase 
+agreements (PPAs). A PPA is a long-term 
+contract signed between a buyer and a seller 
+wherein the former buys electricity supply 
+from the latter which is typically an energy 
+generator. The structure of PPAs not only 
+promotes investment in renewable energy 
+generation facilities but also has the advantage 
+of ensuring price stability and predictability 
+for buyers, as the contracts specify pre-
+determined electricity prices, and buyers do 
+not need capital investments on electricity 
+generation infrastructure. The demand for 
+clean PPAs is on the rise, especially among 
+hyperscalers such as data centre operators, 
+as PPAs have become the primary clean 
+energy procurement method for these 
+customers.2,3
+California is frequently ravaged by wildfires 
+while also being vulnerable to other impacts 
+from climate change. Hence, the state is 
+at the forefront of climate finance in the 
+USA, and it recently approved USD10bn of 
+spending in November 2024 on projects 
+including water resilience, biodiversity 
+protection, wildfire prevention etc., financed 
+by general obligation bonds.4
+volume, led by the EU which added EUR19.32bn 
+(USD20.92bn) through one new issue and four 
+reopenings of its green bonds. Sovereigns were 
+dominant in the top ten largest issuers claiming 
+six of the top ten places. 
+Aligned green bonds originated from Croatia, 
+Sri Lanka, and Tanzania for the first time in 
+2024, further diversifying the ever-increasing 
+investment pool. Entities from 98 countries have 
+now priced 30,653 aligned green debt instruments. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 6
+The US was the largest source of green volume in 2024
+Germany France ItalyUK
+Netherlands
+SpainUSA
+Supranational
+China Sweden
+Issuer countAmount issued
+USD Billions
+Number of issuers
+50 400
+150 1200
+100 800
+200 1600
+00
+Others
+Source: Climate Bonds Initiative
+US issuers lead in number of 
+deals priced 
+A total of 3,242 aligned green bonds were 
+recorded in 2024, an increase of 7.5% compared 
+to 3,015 in 2023. There was a 38% increase 
+in the number of such deals originating from 
+Europe, which rose to 964 versus 698 in 2023. 
+This translated into a 16.8% rise in volume 
+to USD388.4bn from USD332.3bn. The three 
+most prolific issuers by deal count in 2024 were 
+Fannie Mae (205 deals with combined volume 
+of USD8.08bn versus 83 deals and USD2.8bn 
+in 2023), New York Metropolitan Transport 
+Authority (66 deals with combined volume of 
+USD3.04bn), and San Diego Unified School 
+District (62 deals with combined volume of 
+USD9.07bn). 
+The number of green deals increased 8% yoy however remains 
+lower than the peak in 2021
+1000
+2000
+3000
+4000
+Number of securities
+5000
+2017 2018 2019 2020 2021 2022 2023 2024
+0
+Source: Climate Bonds Initiative
+Representatives from 2023’s new country sources 
+also priced deals in 2024, including Cyprus, 
+Uzbekistan, and Zambia. Asia-Pacific was the 
+second most prolific region for 2024 green bond 
+volume, as it was in 2023, contributing 24% of 
+the total aligned volume (USD160bn) with 43% 
+of which coming from China. Aligned volume 
+from LAC increased 27.5% YOY, Brazil’s Raizen 
+Energia SA recorded the largest volume in that 
+region with USD2.5bn across three bonds. 
+Following a strong year in 2023, issuance 
+volume from Africa fell 25% to USD1.35bn, with 
+the African Development Bank accounting for 
+the majority (USD0.94bn).  
+Green issuance from North America (which 
+includes the USA and Canada) picked up 
+significantly with a YOY increase of 51% 
+compared to 2023 when it experienced a dip. 
+The North American aligned volume recorded 
+in 2024 was USD104.7bn which is just slightly 
+below the record issuance year of 2021 
+(USD105.9bn). From North America, California 
+Community Choice Financing Authority 
+(CCCFA) was the largest contributor for the 
+second consecutive year with USD9.1bn, a 
+significant increase on USD5.9bn in 2023. 
+Top 10 aligned green debt  
+issuers in 2024 (excluding 
+sovereigns) 
+Issuer name USDbn
+EU 20.9 
+EIB 16.6 
+KFW 13.4 
+EDF 11.8
+California Community 
+Choice Financing Authority
+9.1
+Pattern Energy 8.8 
+Fannie Mae 8.1
+Stack Infrastructure Inc.  6.30
+Industrial and Commercial 
+Bank of China Ltd  
+5.87
+Volkswagen Financial 
+Services Overseas AG 
+5.31
+The top 10 aligned green debt issuers league 
+table remains dominated by sovereigns, 
+with the first three places taken by the EU, 
+Germany, and the UK. Similarly, 2023 saw 
+the UK, Germany and Italy take the top three 
+spots. Two development banks claimed two of 
+the top three places if sovereigns are excluded.
+The USA is the leading  
+country source 
+The USA claimed the top position in the aligned 
+green bond market in 2024, with USD84.7bn 
+priced over 1,413 deals, which reflects an 
+average deal size of USD59.9m. Once again, this 
+demonstrates the prevalence of smaller deals 
+from numerous issuers, given the average deal 
+size of USD48.6m in 2023. 
+Germany ranked second with USD73.3bn of 
+aligned volume, or 11% of the total, and an 
+increase of 11% YOY. The top two issuers, the 
+German government and KfW, accounted for 
+over 40% of the volume originating from Germany, 
+together pricing USD32.6bn across 25 deals.  
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 7
+China dropped to third position from the top 
+position in 2023, however issuance remained 
+robust contributing to 10% of the total in 
+2024. China’s issuance for the year stood at 
+USD68.8bn, a drop of 18% on the USD84.2bn 
+captured in 2023.  
+Australia, Canada, France, Greece, Japan, 
+the Philippines, Romania, Singapore, 
+Sweden, Switzerland, and the USA all 
+demonstrated a noticeable uplift in aligned 
+green debt issuance volume YOY.   
+Kuwait, Sri Lanka, and Tanzania all issued 
+debut green bonds in 2024, together issuing 
+three instruments worth USD529m. First-
+time issuers in 2023, Cyrpus, Uzbekistan, 
+and Tanzania all returned to the market in 
+2024. The Bank of Cyprus issued a USD322m 
+aligned green bond; Joint-Stock Commercial 
+Bank Agrobank of Uzbekistan priced two 
+green bonds, one in local currency and 
+one USD denominated, together totalling 
+USD454m; and in Tanzania the Tanga Urban 
+Water Supply and Sanitation Authority issued 
+a USD20.8m green bond.
+Top 10 country sources of 
+aligned green bonds 2024
+Country Volume 
+USD bn
+Deal count
+USA 84.7 1413
+Germany 73.3 126
+China 68.9 351 
+France 58.6 150 
+Supranational 48.3 53
+UK 31.9 49
+Italy  26.7 36 
+Netherlands 23.9 41 
+Sweden 22.9 180
+Spain 22.2 60 
+Q4 2024: A busy green bond quarter for China’s big four banks  
+The four largest commercial 
+banks in China are Bank 
+of China (BoC), China 
+Construction Bank (CCB), 
+Agricultural Bank of China 
+(ABC) and Industrial and Commercial 
+Bank of China (ICBC), all of which are 
+majority owned by the Chinese government. 
+These four play a substantial role in China’s 
+financial system and are also at the frontier 
+of sustainable finance. Q4 2024 marked 
+one of the busiest quarters for green bond 
+transactions from these banks as three 
+of them priced five deals with combined 
+volume of USD8.61bn.  
+BoC Paris Branch priced a USD300m, 3-year 
+offshore green bond, financing solar and 
+wind projects across France, Portugal, and 
+Spain. In the domestic market, there were 
+3-year and 4-year benchmark transactions 
+from ICBC in December totalling CNY30bn 
+(USD4.13bn) with proceeds earmarked for 
+solar and wind power generation, and public 
+transport. CCB and BoC came to the market 
+with CNY20bn (USD2.81bn) in October 
+and CNY10bn (USD1.37bn) green bonds 
+in December, respectively, also financing 
+renewable energy and public transport. 
+All green projects financed by these domestic 
+transactions comply with the eligibility 
+criteria listed in the Green Bond Endorsed 
+Projects Catalogue (2021), which is a 
+classification system introduced by Chinese 
+regulators to set green finance standards in 
+the Chinese market and has seen significant 
+uptake among issuers in various sectors 
+since its introduction.5 The Common Ground 
+Taxonomy (CGT), jointly launched by the 
+International Platform on Sustainable 
+Finance (IPSF) with the support of China and 
+the EU at COP26 is another impactful climate 
+change mitigation-focused sustainable 
+finance classification system adopted by 
+several Chinese issuers.6 As of the end of 
+August 2024, 340 Chinese green bonds were 
+deemed to comply with the CGT .7 
+Chinese green bond issuers typically pre-
+identify qualifying projects for inclusion in 
+sustainable instruments and disclose the 
+asset pool at issuance. Low-carbon energy 
+and public transport projects are extremely 
+popular green project categories for Chinese 
+banks. Climate Bonds data shows that the 
+big four banks had priced 126 green bond 
+transactions totalling USD90.8bn at the end 
+of 2024, and USD67.1bn, or 74%, had been 
+earmarked for these two project categories, 
+in particular solar and wind power 
+generation facilities, and the construction 
+and operation of subways. Such projects 
+have become more prominent over the past 
+two years, as the proportion increased to 
+92% of the UoP raised from green bonds 
+issued in or after 2022.  
+
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 8
+Hard currencies prevail 
+EUR dominated the green debt market for 
+the seventh consecutive year with 48% of the 
+aligned volume amounting to USD323.9bn 
+across 515 instruments. The USD was the 
+second most prominent currency accounting 
+for USD134.8bn of the volume from 1,543 
+instruments. Of the aligned green volume, 85% 
+came from five currencies: EUR, USD, CNY, GBP , 
+and SEK. The EUR, USD, CNY, and GBP held the 
+top four positions as was also the case in 2023 
+and 2022. 
+The EUR recorded the largest YOY increase 
+among the top five currencies in terms of 
+aligned green debt issued, rising from 44% 
+in 2023 to 48% in 2024. Aligned green debt 
+instruments from the EU and sovereigns 
+from Germany, France, Italy and Austria 
+all contributed to this increase, together 
+accounting for over 25% of the aligned EUR 
+green debt priced in 2024. 
+The INR, which experienced a massive surge 
+in 2023 placing fifth, fell back to 14th place in 
+2024. Deals dominated in the Dominican peso 
+(DOP) and the Tanzanian shilling (TZS) for the 
+first time in 2024 were well received by the 
+aligned green bond market. 
+Private sector introduced more 
+than half the green volume 
+Private sector issuers in the non-financial 
+and financial corporate sectors priced 51% of 
+the green volume in 2024 (USD344bn). Non-
+financial corporate issuers contributed 30% of 
+the 2024 market share across 763 aligned green 
+instruments from 418 issuers amassing a sum 
+of USD202bn. 
+The US renewable energy and transmission 
+infrastructure company, Pattern Energy, 
+priced the largest single non-financial 
+corporate deal, with its USD8.8bn green 
+loan, which was the most significant part of a 
+USD11bn non-recourse financing package. The 
+financing included an integrated construction 
+loan and letter of credit facility, two separate 
+term facilities, an operating phase letter of 
+credit facility, an innovative tax equity term 
+loan facility, and a holding company loan 
+facility. The UoP was earmarked to finance 
+the construction of SunZia Transmission and 
+SunZia Wind, which together represent the 
+largest clean energy infrastructure project in 
+US history.8
+Financial-corporate issuers emerged as the 
+second largest issuer type with a 21% share 
+of aligned green volumes, down from 27% 
+in 2023. The 670 instruments amounted to 
+USD142bn. The largest three issuers were 
+Industrial and Commercial Bank of China 
+(USD5.87bn), Volkswagen (USD5.3bn), 
+and China Construction Bank Corporation 
+(USD4.1bn).
+Aligned volume from sovereigns (20%) and 
+government-backed entities (19%) placed a 
+close third and fourth, respectively. Germany 
+made the largest contribution (USD19bn) to the 
+sovereign segment while the EU was the largest 
+government-backed entity issuer (USD20.9bn).
+SPO volume increases
+Second-party opinion (SPO) was the preferred 
+type of external review in 2024, with an increase 
+YOY in both the volume reviewed (+10%) and 
+the number of instruments assessed (+18%) 
+indicating both issuer and investor demand 
+for the service. Norway, France, and Canada 
+exhibited the largest increase in bonds 
+Largest deal in each issuer type in 2024
+Issuer type Issuer name USDbn
+Development Bank KFW  4.3
+Financial Corporate China Construction Bank Corp.  2.8
+Government-backed Entity European Union 7.6 
+Local Government Queensland Treasury Corporation 1.8 
+Non-Financial Corporate Pattern Energy 8.8 
+Sovereign Republic of Italy 9.7 
+reviewed while the Philippines, Canada, and 
+Romania demonstrated the largest increase in 
+volume assessed.
+Climate Bonds promotes enhanced market 
+transparency through disclosure and 
+acknowledges this progress.  Investors are 
+increasingly demanding impartial evidence of 
+the validity of the environmental credentials 
+of green bonds, indicating a heightened 
+awareness of greenwashing risks. Issuers are 
+also eager to steer clear of liabilities resulting 
+from potential errors.
+30% of the green aligned volume in 2024 came from  
+non-financial corporates 
+100%
+20%
+60%
+40%
+80%
+0%
+Non-Financial Corporate Financial Corporate
+Sovereign
+Government-Backed Entity
+Development Bank Local Government
+Source: Climate Bonds Initiative
+201720162006- 
+2015
+20192018 2020 2021 2022 2023 2024
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 9
+Major second-party opinion providers for green instruments in 2024
+SPO Name Instruments by volume 
+(USDbn)
+Instruments reviewed 
+Sustainalytics 127.6   340 
+ISS ESG 109.2 293 
+Vigeo Eiris 81.6 44 
+CICERO 61.8 485 
+Moody’s  30.9 66 
+Transparency & Reporting in the GSS Bond Market 
+The Transparency & Reporting in the 
+GSS Bond Market report contains many 
+interesting results from the analysis 
+conducted, showcases best practice 
+examples, and provides recommendations 
+as to what can be done to drive progress.9 
+Climate Bonds assessed GSS deals priced 
+from 2020–2023, totalling USD1.4tn issued, 
+which covered over 5,000 bonds where 
+all deals analysed were considered to be 
+aligned with Climate Bonds Green and Social 
+& Sustainability Methodologies. The survey 
+sample covers 75 of the largest global issuers 
+of GSS bonds across all issuer types during 
+that period.  
+The analysis revealed that while the quality 
+of reporting varies widely it is generally 
+good and has improved since Climate 
+Bonds’ 2021 study. 
+Highlights: 
+There were increased levels of commitment 
+to report across the issuer sample surveyed. 
+ • Of the issuers surveyed, 93% committed to 
+report both allocations and impacts. 
+ • Dedicated GSS reports were published  
+by 91% of issuers, often annually, of  
+which 60% made them accessible and 
+easy-to-find. 
+ • By issuer type, sovereigns and local 
+governments demonstrated an improvement 
+in transparency of reporting, as well as the 
+adoption of best practices, building on the 
+findings in the study in 2021.  
+ • ICMA’s project classification was by far the 
+most frequently used to categorise projects 
+with 80% of issuers surveyed referencing and 
+relying upon ICMA’s guidance and principles. 
+Additionally, while impact reporting still lags 
+allocation reporting in many aspects ICMA’s 
+Harmonised Framework for Impact Reporting 
+was the most frequently cited. 
+Climate Bonds makes a series of 
+recommendations within the report for 
+high-quality and standardised reporting, and 
+proposes the following four elements as a 
+minimum: 
+ • Scope – the need to report both allocations 
+and impact. 
+ • Bond identification – the scope of reports 
+in terms of instruments and period covered, 
+percentage of proceeds allocated, and the 
+associated impact should be clearly stated. 
+ • Accessibility to disclosure – making 
+disclosure easy to locate. 
+ • Frequency and timing – consistent and clear.  
+In 2024, 43 SPO providers were involved 
+in providing reviews for aligned green 
+instruments. CICERO reviewed 485 instruments 
+(versus 445 in 2023) followed by Sustainalytics 
+with 340 instruments (versus 272 in 2023). 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 10
+4. Social and sustainability 
+Social and sustainability bond 
+market highlights of 2024
+ • In 2024, the aligned volume of social and 
+sustainability (S&S) labelled debt increased 
+for the first time since 2021, rising by 20.6% 
+(USD373.9bn) compared to 2023. Prior to 
+2024, the volume of S&S bonds had reduced 
+by an average of 15.6% from 2021, which 
+recorded the highest annual recorded 
+issuance of S&S bonds at USD441.7bn.
+ • In 2024, social bond volume increased by 9% 
+to USD167.6bn from USD153.5bn in 2023.
+ • Sustainability volume increased by 32% to 
+USD206.3bn in 2024 from USD156.5bn in 
+2023. Just under USD1tn (USD 998.1bn) in 
+sustainability-labelled debt has been priced 
+since 2008.
+ • Government-backed entities were the 
+most significant contributor to aligned S&S 
+volume, accounting for 33% of the total 
+(USD123.8bn), followed by development 
+banks, which priced 27% (USD101.5bn).
+Sustainability
+Development banks  
+drive growth in the 
+sustainability market 
+In 2024, the sustainability theme 
+constituted 19% of aligned 
+GSS+ deals. Aligned sustainability volume 
+reached USD206.3bn, a 31% increase compared 
+to 2023 (USD156.5bn). This growth came from 
+development banks, which accounted for 41.8% 
+of the aligned volume of sustainability deals 
+issued in 2024 (USD86.2bn). While this was not the 
+highest volume of sustainability bond issuance 
+from development banks, it returned to similar 
+levels reached during the COVID-19 pandemic 
+in 2020, where development banks issued 
+USD96.7bn of sustainability-labelled debt.
+Aligned volumes increased from other issuer 
+types too. Non-financial corporate entities 
+including Malaysian Rail Link (MYR4bn/
+USD1.5bn), Compass Group (EUR1.3bn/
+USD1.4bn), and American Movil (MXN20bn/
+USD1.2bn) collectively accounted for 12.7% 
+of aligned sustainability volume in 2024 
+(USD26.3bn), a 40% increase from 2023. In 2024, 
+a further 100 non-financial corporates issued 
+sustainability bonds in the market compared 
+to 2023. Additionally, 120 entities issued 
+their debut sustainability bonds contributing 
+USD42.7bn; in comparison to 106 entities which 
+priced aligned deals for the first time in 2023, 
+with a collective volume of USD34.5bn.
+Europe lags in sovereign issuance of 
+sustainability bonds
+Since 2008, Europe has surpassed all other 
+regions as the source of the most aligned 
+cumulative volume of sustainability bonds, 
+reaching USD219.5bn. In 2024, Europe 
+contributed 14.3% of aligned sustainability 
+volume, however, issuance from the region has 
+been declining since its 2021 peak of USD45.7bn. 
+In 2024, European entities collectively priced 
+sustainability volume of USD29.4bn. More 
+recently, European entities have recorded 13x 
+more volume in green bonds versus sustainability 
+bonds. While the region retains its reputation 
+for being the hub of sustainable finance as 
+indicated by its 45% share of total GSS+ issuance 
+in 2024, European sovereign sustainability bond 
+issuance is low compared to other regions. 
+In 2024, aligned sovereign sustainability 
+bond issuance from Europe contributed 
+just USD1.5bn, a significantly lower amount 
+compared to that from LAC (USD15bn). Of the 
+50 countries in Europe, only seven have priced 
+a sovereign sustainability bond, which could 
+be explained by the greater number of green 
+bond appropriate projects (to which to allocate 
+funds) available to European sovereigns.
+The Asia-Pacific region overtook the LAC region 
+as the largest source of sustainability-labelled 
+debt in 2024, accounting for 29% of aligned 
+sustainability volume (USD59.1bn). Aligned 
+volume from Asia Pacific increased by nearly 
+USD24bn compared to 2023, where China was 
+the largest contributor with USD13.2bn in aligned 
+sustainability volume, 310% higher than 2023.
+100
+200
+USD Billions
+300
+0
+2020 2022 20242021 2023
+Source: Climate Bonds Initiative
+Sustainability bond issuance volume above social  
+for the second year 
+2024 aligned sustainability volume surged in APAC
+20
+40
+60
+USD Volume Issued (Billions)
+80
+Africa
+0
+Asia-Pacific Europe LAC North 
+America
+Supranational
+20242022 20232021
+Sustainability
+2020
+Social
+Source: Climate Bonds Initiative
+Supranationals account for the 
+largest issuance by volume
+Source: Climate Bonds Initiative
+North America 
+8%
+LAC  
+16%
+Europe 
+14%
+Asia-Pacific 
+29% 
+Africa 1%
+Supranational 
+32%
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 11
+25
+50
+USD Billions
+75
+100
+0
+Supranational Japan UKChinaSouth KoreaUSA France
+Source: Climate Bonds Initiative
+Source: Climate Bonds Initiative
+Supranationals, the USA, China, and the UK  
+demonstrate growth in S&S
+S&S deals from China see significant upward trend  
+in alignment rate
+Sustainability
+2024
+Social
+2023
+The USA is the largest  
+country source
+In 2024, USD206.3bn of aligned sustainability-
+labelled debt originated from 49 countries, 
+eight of which were represented in the 
+sustainability market for the first time. For 
+comparison, in 2023, sustainability deals 
+originated from 44 countries. The largest 
+contribution came from the USA at USD14.2bn, 
+driven by government-backed entities which 
+collectively issued 574 sustainability bonds 
+in 2024. China made the second largest 
+contribution (USD13.2) from 44 issuers, and 
+Mexico was third (USD13bn) with aligned deals 
+from 10 issuers. 
+In 2024, the US, China, and the UK were the 
+only major markets demonstrating growth in 
+S&S bonds. The total aligned volume of S&S 
+bonds from China increased from USD13bn 
+in 2023 to USD22.6bn in 2024, making it the 
+sixth largest S&S market, following SNAT, 
+USA, South Korea, Japan, and France.  
+The alignment rate improved significantly 
+in 2024, rising from 29% in 2023 to 70% 
+in 2024 of amount issued, marking a new 
+record high and further aligning the Chinese 
+market with international standards. The 
+aggregate issuance of sustainability bonds 
+has surpassed that of social bonds, with the 
+total issuance volume of S&S bonds in China 
+increasing by 73.5% year-on-year, growing 
+from USD13bn in 2023 to USD22.6bn in 2024. 
+In August 2024, Zhuji Development 
+Ltd priced the year’s largest aligned 
+sustainability bond in the Chinese 
+market. The UoP of the USD520m deal 
+was earmarked to support affordable 
+infrastructure, affordable housing, green 
+buildings, buildings, and water projects.  
+There are three reasons behind  
+the market growth:  
+1. S&S bonds are viewed by China’s financial 
+industry as having the potential to offer a 
+new growth area for financing tools with 
+positive social effects. 
+2. Chinese sustainable finance practitioners, 
+especially investment bankers who support 
+bond issuers, have developed a better 
+understanding of sustainable finance and are 
+now more aligned with international standards. 
+3. More issuers use second-party opinion (SPO) 
+providers when issuing bonds. According to 
+Climate Bonds data, issuers that use a SPO 
+Alignment rate
+USD Billions
+Alignment rate %
+4 20
+12 60
+8 40
+16 80
+00
+2022 2023 2024
+ • In 2024, the USA emerged 
+as the top issuing country 
+of sustainability bonds, 
+totalling USD14.2bn across 
+840 deals.
+ • Sustainability deals from US entities were 
+priced exclusively in USD.
+USA leads on sustainability labelled debt issuance in 2024
+China’s S&S deals demonstrate a robust increase in alignment
+ • The US issuance volume originated  
+from 32 entities, with over 50% of  
+the volume coming from government-
+backed entities (USD7.2bn) such as the 
+New York City Housing Development 
+Corporation and the New York State 
+Housing Finance Agency.
+are more likely to meet the Climate bonds 
+dataset methodology Criteria, especially 
+those from developing countries.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 12
+Source: Climate Bonds Initiative
+The World Bank
+SNAT was the largest source of aligned 
+sustainability volume in 2024 with USD77.9bn. 
+The largest issuers were the World Bank 
+(USD54.3bn), the International Development 
+Association (USD11.1bn), and the Inter-
+American Development Bank (USD8.1bn). 
+In 2024, the World Bank was the largest issuer 
+in the GSS+ market, and the largest single 
+source of sustainability bonds accounting for 
+26% of the volume. It priced 262 deals across 
+18 different currencies evenly distributed 
+over each quarter of the year. Since 2022, 
+the World Bank has progressively increased 
+presence in the sustainability bond market, 
+reaching cumulative volume of USD300bn by 
+the end of 2024. Through sustainability bonds 
+in local currencies such as KZT (Kazakhstani 
+tenge) and UYU (Uruguayan peso), the World 
+Bank is working alongside the International 
+Development Association and its Private Sector 
+Window to establish credible market solutions 
+to support inclusive investments that address 
+the United Nations Sustainable Development 
+Goals (SDGs).10
+The world bank issued 26% of the sustainability bond  
+volume in 2024
+USA leads the country ranking of aligned sustainability  
+volume in 2024 
+International 
+Development 
+Association 5.4% 
+Inter-American 
+Development Bank 3.9%
+Mexico Government  
+(United Mexican States) 3.4% 
+Peru Government 2.1%
+World  
+Bank (IBRD) 
+26.3%
+Other 
+51.4%2024 aligned sustainability 
+bonds in numbers
+TOP 3 REGIONS
+1. Asia Pacific USD59.1bn
+2. LAC USD33.8bn
+3. Europe USD29.4bn
+TOP 3 COUNTRIES
+1. USA USD14.2bn
+2. China USD13.2bn
+3. Mexico USD13bn
+LARGEST ISSUER
+By volume: World Bank (IBRD), 
+USD54.3bn
+By deal count: World Bank (IBRD),  
+262 deals
+DEAL CURRENCY
+ • 81% of volume in hard currency
+ • Deals were issued in 36 currencies
+ • Top 3 currencies by volume: USD,  
+EUR, GBP
+Eight countries emerged as new sources of sustainability deals in 2024
+Country Issuer Amount USDbn
+Serbia Sovereign 1.5
+Cote d’Ivoire Sovereign 1.5
+Guatemala Banco Promerica (financial corporate);  
+Local government
+0.9
+Qatar QIIB Senior Oryx Ltd 0.8
+Honduras Sovereign 0.7
+Kuwait Warba Sukuk Ltd 0.5
+Kazakhstan Development Bank of Kazakhstan JSC 0.2
+Dominican Republic Banco de Ahorro y Crédito FONDESA SA - 
+BANFONDESA
+8.3
+20
+40
+USD Billions
+60
+80
+0
+Supra- 
+national
+Mexico JapanFranceChinaUSA UK
+Source: Climate Bonds Initiative
+20242023
+BDO Unibank 1.0% 
+European Investment 
+Bank (EIB) 1.3%
+Wells Fargo Commercial 
+Mortgage Trust 2024-SVEN 1.3% 
+South Australian Government 
+Financing Authority 1.7% 
+AFD (Agence Française de 
+Développement) 2.1%
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 13
+Issuers from 25 countries priced sustainability deals in USD
+Country  
+of origin
+Total 
+USDbn
+Contribution 
+to total
+Country  
+of origin
+Total 
+USDbn
+Contribution 
+to total
+Supranational 50.8 46.7% Serbia 1.5 1.4%
+USA 14.2 13.1% Cote d’Ivoire 1.1 1.0%
+China 9.7 8.9% Guatemala 0.9 0.8%
+Saudi Arabia 4.4 4.0% Qatar 0.8 0.7%
+France 4.1 3.7% Honduras 0.7 0.6%
+Turkey 3.7 3.4% India 0.6 0.6%
+South Korea 3.4 3.1% Kuwait 0.5 0.5%
+Brazil 2.8 2.5% Uzbekistan 0.4 0.4%
+UAE 2.8 2.5% UK 0.3 0.3%
+Philippines 2.6 2.4% China HK 0.1 0.1%
+Japan 2.1 1.9% Costa Rica 0.1 0.1%
+Mexico 1.5 1.4% Ecuador 0.03 0.01%
+Argentina 0.01 0.01%
+Total 108.7 100%
+Hard currencies contribute 
+over three-quarters of 
+sustainability volume in 2024
+In 2024, hard currencies (USD, EUR, JPY, GBP , 
+AUD, and CAD) contributed 81% of the aligned 
+sustainability bond volume (USD168bn). 
+In line with 2023, the USD dominated, with 
+52% of all sustainability deals priced in USD, 
+86% of which originated outside of the USA. 
+USD sustainability volume increased by 66% 
+compared to 2023 (USD65.1bn). Sustainability 
+bonds from EUR and GBP took the second 
+and third places with USD32.2 (16%) and 
+USD12.2bn (6%) respectively.
+In 2024, issuers of aligned sustainability bonds 
+deployed 36 currencies, of which one bond was 
+issued in Dominican peso (DOP), equivalent 
+to USD8.3m. It was issued by Banfondesa, a 
+bank in the Dominican Republic that focuses on 
+serving microentrepreneurs, small-scale rural 
+producers, and low-income families.11 
+USD remains the leading 
+currency for sustainability 
+bonds in 2024
+GBP 6%
+USD 
+57%EUR 
+17% 
+MXN 4% 
+AUD 4% 
+CNY 3%
+JPY 4% 
+PEN 2% 
+CAD 2% 
+PHB 2%
+Source: Climate Bonds Initiative
+Top 5 second-party opinion providers for sustainability  
+instruments in 2024
+SPO Name Instruments by volume (USDbn) Instruments Reviewed
+Sustainalytics 43.1 250
+ISS ESG 11.7 24
+Moody’s 11.5 32
+Vigeo Eiris 10.3 18
+S&P Global Ratings 10.2 197
+External review providers
+In 2024, 56% (USD114.7bn) of aligned 
+sustainability bonds received external reviews 
+from SPO providers, in contrast to 59% the 
+previous year, with 873 instruments reviewed 
+in 2024, an increase of 44% on 2023. These 
+reviews were provided by 31 SPO providers, 
+five of which reviewed a sustainability bond for 
+the first time. These included AttestESG, BLX 
+Group, CCX, European Quality Assurance (EQA), 
+Kri Rating, and Lianhe Equator which became 
+the first approved verifier in China for equity 
+and sustainability-linked debt certification.12 
+In 2024, Sustainalytics was the top SPO 
+provider for sustainability bonds, reviewing 250 
+deals with a combined volume of USD43.1bn; 
+55 deals more than it reviewed in 2023, when it 
+was also the largest reviewer of sustainability 
+deals. Sustainalytics has reviewed over 1,100 
+sustainability deals cumulatively, with the 
+closest competitor being S&P Global Ratings, 
+having cumulatively assessed 376 deals. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 14
+Social
+In 2024, aligned social bonds 
+contributed 16% to GSS+ 
+volume. The volume of social 
+bonds reached USD167.6bn, 
+an increase of 9.1% compared 
+to the USD153.5bn recorded 
+in 2023. 
+There were 82 new issuers in 2024, which 
+collectively contributed USD35.9bn. 
+Issuers of social bonds also emerged from the 
+following countries for the first time: UAE, El 
+Salvador, Bolivia, and Mongolia. The Korea 
+Housing Finance Corporation (KHFC) was 
+the largest social bond issuer in 2024, issuing 
+USD14.8bn, or 9% aligned volume. 
+Since 2018, KHFC has priced cumulative aligned 
+volume of USD151.8bn making it the largest 
+source of social bonds. French government-
+backed entity Caisse d’Amortissement de 
+la Dette Sociale (CADES) is second with 
+cumulative social volume of USD143.3bn. 
+Social bond issuance, Europe 
+leads but the USA bounces back
+In 2024, Europe became the largest source 
+of aligned social bonds contributing 31% 
+(USD51.8bn). While this is lower than the 
+volume priced in 2023 (USD54.8bn), Europe 
+welcomed 15 new social bond issuers to the 
+market, contributing USD5.2bn in 2024. Both 
+Asia Pacific and Europe recorded a decline in 
+social bond volume.
+North America reported a 147% increase in 
+2024 compared to 2023 (USD20bn), which 
+was almost exclusively attributed to issuers 
+in the USA accounting for 99% of the social 
+bond volume. Meanwhile in 2024, Canadian 
+issuers only contributed USD0.5bn. The USA’s 
+increase in aligned social volume comes 
+from government-backed entities such as 
+Government National Mortgage Association 
+(Ginnie Mae), Government National 
+Mortgage Association (Fannie Mae), and 
+Federal Home Loan Mortgage Corporation 
+(Freddie Mac).   
+South Korea replaces France as the largest source  
+of social bond issuance
+Government-backed entities drive the return  
+of North America’s social bond issuance USD Billions
+50
+200
+150
+2024
+2022
+2023
+2021
+2020
+100
+0
+France
+Supranational
+Chile
+South Korea
+USA
+Netherlands
+China
+Germany
+SpainJapanItaly
+Source: Climate Bonds Initiative
+USD Billions
+50
+250
+150
+200
+100
+2021 2022 2023 2024
+0
+Source: Climate Bonds Initiative
+Top ten aligned social bond issuers in 2024 (ex-sovereigns) 
+Issuer USDbn Issuer USDbn
+Korea Housing Finance Corp 14.8 BNG Bank NV 5.5
+Ginnie Mae 14.5 African Development Bank 
+(AfDB)  
+4.2
+Caisse d'Amortissement de la 
+Dette Sociale 
+12.7 State Bank of India 3.6
+Fannie Mae 6.9 Korea SMEs and Startups Agency 3.4
+Freddie Mac 5.9 Hong Kong Mortgage 
+Corporation Limited
+3.1
+LAC
+Supranational
+Asia-Pacific North America
+Africa
+Europe
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 15
+Iceland and Slovenia enter the 
+social bond market
+ • In 2024, issuance volume in the social bond 
+market was driven by government-backed 
+entities which accounted for 61% of all 
+aligned social bonds (USD102.6bn).
+ • Sovereign issuers priced aligned social 
+volume of USD7.7bn in 2024, a 30% increase 
+YOY. The market welcomed two new 
+sovereign issuers, Slovenia (USD346m) and 
+Iceland (USD53.5m). Iceland’s social bond 
+was issued to finance areas addressing 
+gender-equality for example increasing the 
+supply of affordable housing for low-income 
+women, marking a first for the sovereign debt 
+market.18 As one of the world’s most gender-
+equality progressive countries, Iceland has 
+positioned its sustainable finance framework 
+to fund eligible projects that extend to social 
+inclusion and improve the conditions for 
+gender minorities.19 
+External review
+ • In 2024, 22 SPO providers reviewed social 
+bonds, covering 74% of the social bond 
+volume, with five SPO providers reviewing 
+social bonds for the first time: EY, Lianhe 
+Equator, MARC Ratings, IBIS, and Pacific 
+Corporate Sustainability (PCS). The top five 
+SPO providers by number of instruments 
+covered were Sustainalytics (864), Kestel 
+(605), S&P Global Ratings (353), Korea Ratings 
+(106), and KIS Ratings.
+Ginnie Mae
+ • Ginnie Mae issued the second largest volume 
+of aligned social bonds in 2024 (USD14.5bn). 
+As a debut social bond issuer in 2024, Ginnie 
+Mae issued 1,253 deals, the highest number 
+of social bonds issued by a single entity in 
+one year. Prior to 2024, Ginnie Mae had only 
+been active in the green bond market.
+ • Ginnie Mae is a government corporation 
+within the U.S. Department of Housing 
+and Urban Development, whose role is to 
+connect global capital markets to America’s 
+housing finance system. It has a social impact 
+and sustainability commitment to serve 
+communities and households that fall under 
+its target population, which includes first-
+time homeowners, low-to-moderate income 
+households, veterans, seniors, and members 
+of urban, rural, and tribal communities.13
+ • In 2023, Ginnie Mae launched a social bond 
+label for investors looking to invest capital in 
+its single-family mortgage-backed security 
+programme, providing additional disclosure 
+data to determine the social impact of 
+its instruments.14  This was ultimately a 
+response to investor requests for greater 
+transparency on social data within the 
+organisation’s mortgage pool.15
+BancoSol prices the first social 
+bond in the Bolivian currency
+In 2024, Boliviano (BOB) and Jamaican dollars 
+(JMD) were deployed for the first time in the 
+aligned social bond market. 
+BancoSol, the first regulated bank in Bolivia 
+dedicated to microfinance, issued one aligned 
+social bond in BOB (USD29m) which is the 
+second time a thematic bond had been priced 
+in BOB, following a green bond from Banco de 
+Desarrollo Productivo in 2023. 
+BancoSol was founded in 1992 and as of 
+June 2024, was serving over one million 
+entrepreneurs in the Bolivian micro and 
+small business sector, providing microcredit 
+to Bolivian families excluded from the 
+conventional financial system. With the 
+support of IDB Invest, BancoSol issued Bolivia’s 
+first social gender bond in the Bolivian stock 
+market, with IDB Invest providing a partial 
+credit guarantee of 50% of the issuance 
+amount.16 Resources funded through the 
+bond will enable BancoSol to expand access 
+to financing for businesses led by Bolivian 
+women, closing economic gaps that currently 
+burden BancoSol’s female customers who 
+make up 45% of the bank’s credit clients.17 
+USD leads the way as the 
+chosen denomination for 
+social bonds
+TOP 3 REGIONS
+1. Europe USD51.8bn (31%)
+2. Asia-Pacific USD50.3bn (30%)
+3. North America USD49.4bn (29%)
+TOP 3 COUNTRIES 
+1. USA USD48.9bn (29%)
+2. South Korea USD31.8bn (19%)
+3. France USD20.8bn (12%)
+TOP 3 ISSUER TYPES
+1. Government-backed entity 
+USD102.6bn (61%)
+2. Financial corporate USD27.9bn (17%)
+3. Development bank USD15.3bn (9%)
+The 2024 aligned social 
+bond market in numbers
+TOP 5 CURRENCIES FOR ALIGNED 
+SOCIAL BONDS 2024
+1. USD USD73.1bn
+2. EUR USD46.3bn
+3. KRW USD26.7bn
+4. INR USD3.6bn
+5. JPY USD3.4bn
+USD SOCIAL VOLUME HISTORY
+2024: USD73.1bn
+2023: USD46.9bn
+2022: USD61.2bn
+2021: USD57.2bn
+2020: USD41.9bn
+KRW 16% USD 
+44%
+EUR 
+28% 
+INR 2% 
+JPY 2% 
+CLP 1% 
+HKD 1%
+MXN 1% 
+AUD 1% 
+CNY 1% 
+Others 3%
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 16
+A robust framework for assessing social 
+and sustainability bonds with the aim 
+of promoting impact-driven finance and 
+going beyond green UoP . 
+The Climate Bonds Social & Sustainability 
+Bond Dataset (SSBD) covers two main types 
+of debt instruments, which are classified 
+based on the projects or activities they 
+finance: 
+1. Social bonds allocate 100% of net 
+proceeds to projects that address or 
+mitigate specific social issues and generate 
+positive social outcomes, targeting 
+underserved or vulnerable populations. 
+Some social projects may also deliver 
+environmental co-benefits. The issuer 
+should classify a bond as a social bond 
+based on the primary objectives of the 
+underlying projects. 
+2. Sustainability bonds intentionally 
+combine green and social projects, 
+reflecting a broader commitment to both 
+environmental and social impact. 
+Strengthening transparency and 
+credibility in the GSS+ market 
+The updated methodology offers a robust, 
+reliable framework for assessing the full 
+spectrum of impact finance, ensuring greater 
+Charting the path to impact: classification and integration of S&S bonds
+Debt labelled 
+by the issuer
+Social,  
+sustainability and 
+related labels
+All proceeds are for 
+green purposes
+Single methodology alignment: 
+The bond only finances eligible green projects, 
+aligned with the Climate Bonds GBD methodology
+Multiple methodology alignment: 
+The bond proceeds align with the Climate Bonds 
+GBD methodology and yield social benefits
+Single methodology alignment: 
+The bond includes both pure social projects  
+and green projects that yield positive 
+environmental outcomes, screened against 
+Climate Bonds SSBD methodology
+Single methodology alignment: 
+UoP screened against Climate Bonds 
+SSBD methodology
+Proceeds are for a 
+mix of green and 
+social purposes
+Proceeds are solely 
+for social purposes
+Included  
+in GBD
+Included  
+in SSBD
+transparency and credibility in social and 
+sustainability bonds. It provides clear guidance 
+for investors, issuers, and other stakeholders 
+in evaluating the social and environmental 
+impact of bonds. By fostering best practices in 
+the GSS+ market, the methodology supports 
+efforts to address critical social challenges, such 
+as poverty, hunger, healthcare access, education 
+and inequalities, while driving the transition to a 
+low-carbon, climate-resilient, and just economy. 
+Key updates: 
+1. Enhanced assessment framework  
+A refined approach to evaluating the 
+effectiveness of UoP , using an inclusive, 
+bottom-up method that strengthens 
+transparency in reporting and mitigates 
+impact washing. 
+2. Comprehensive UoP mapping  
+A structured classification of eligible 
+UoP categories, linking them to relevant 
+SDGs, ICMA categories and key indicators, 
+improving clarity and consistency in bond 
+assessments. 
+3. A 10% margin of flexibility  
+A newly introduced flexibility margin 
+accommodates cases where metrics or 
+alignment are uncertain, ensuring a more 
+adaptable and practical assessment approach. 
+This methodology is an essential tool for 
+those navigating the evolving GSS+ market, 
+helping to assess the credibility of social and 
+sustainability bonds with confidence. 
+For more information or to access the  
+Social & Sustainability Bond Dataset 
+Methodology, please refer to the Climate 
+Bonds Initiative website. 20 
+The Climate Bonds Social & Sustainability Bond Dataset
+
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 17
+3. Sustainability-linked bonds 
+Cumulative results: partial GHG scope coverage is the top reason  
+for non-alignment (by amount issued) 
+Alignment Category / Reason Amount 
+(USDbn)
+Bonds Issuers
+Aligned Fully aligned 49.1 113 70
+Aligning 4.7 14 10
+Strongly aligned 2.5 9 5
+Total aligned 56.4 136 85
+Not aligned Lack of GHG targets 84.3 413 245
+Partial GHG scope coverage in targets 129.3 255 136
+Lack of target disclosure 24.6 158 94
+Not in line with pathway 17.6 40 32 
+Use of economic intensity target 8.6 20 17
+Partially not in line with pathway 11.1 26 13
+Total not aligned 275.5 912 537
+NB: Alignment is determined for each SLB. Non-aligned figures represent bonds that failed to  
+meet each requirement under the SLBDB’s funnel methodology approach, which particularly 
+affects ‘not in line with pathway’ figures.21
+Sustainability-linked bond 
+market findings 2024
+ • In 2024, aligned SLBs contributed under 1% 
+to GSS+ volume. 
+ • Aligned SLB volume exhibited a 65% decrease, 
+falling to USD7.9bn compared to USD22.8bn 
+recorded for 2023, with the overall SLB volume 
+captured dropping by 38%.  
+ • The percentage of the aligned amount 
+issued fell to 19% in 2024 from 35% in 2023, 
+which points to the potential for the aligned 
+SLB market to expand. While the market is 
+maturing the aligned percentage is struggling 
+to gain ground.
+ • In 2024, the Thai government issued the first 
+ASEAN sovereign SLB, a THB30bn (USD868m) 
+fully aligned 15.5year bond. 
+Assessing credibility  
+and ambition through  
+SLBD alignment
+An in-depth analysis of structural SLB features 
+and transition plans is beyond the scope of 
+this report but was included in Climate Bonds’ 
+dedicated SLBD report released in March 
+2024.22 Its primary objective is to help users, 
+particularly investors, identify deals with 
+targets that are credible and aligned with the 
+‘well below 2°C’ goal of the Paris Agreement, 
+as well as to highlight best practice and 
+guide issuers. The assessment methodology 
+incorporates some aspects of Climate Bonds 
+Standard version 4.2 (CBS v4.2), including the 
+Climate Bonds Sector Criteria where available.23
+The SLBD screens deals under a 
+methodology that classifies SLBs as 
+aligned or not aligned based on multiple 
+requirements. Three categories for aligned 
+bonds exist:
+ • Fully aligned: targets are aligned with the 
+sector-specific pathway (emissions below 
+required threshold).
+ • Strongly aligned: targets are not currently 
+aligned but will be by 2030.
+ • Aligning: targets do not meet the absolute/
+intensity threshold but are aligned on a 
+percentage reduction basis.
+A large proportion of the market does not 
+meet the SLBD alignment requirements. Of 
+the cumulative 17% of SLB volume issued and 
+13% of the SLBs priced that do, the vast majority 
+are fully aligned (87% of the aligned volume). 
+Reasons for non-alignment
+Lack of GHG targets and partial GHG scope 
+coverage account for 78% of the non-aligned 
+volume issued, 73% of the non-aligned bonds, 
+and 71% of the non-aligned issuers. The ranking 
+of non-alignment reasons has remained 
+broadly similar every year since 2020.24
+Lack of GHG targets is the top reason for non-
+alignment by bond and issuer count, while 
+partial GHG scope coverage is the leading 
+reason by amount.25 Eight of the top ten issuers 
+have all or most of their SLBs linked to KPIs or 
+targets that do not include all GHG emissions, 
+even though these often represent the largest 
+source of GHG emissions in their sectors.  
+Setting targets that are not in line with relevant 
+pathways is fourth on the list of non-alignment 
+reasons. Issuers should be setting sufficiently 
+ambitious targets that meet Paris-aligned decar-
+bonisation pathways (or at least meeting the same 
+percentage reduction, i.e., considered aligning). 
+Alignment drops from the record  
+reached in 2023
+The share of aligned SLBs dropped in 2024 
+to USD7.9bn, equating to 19% of the amount 
+issued and 11% of bonds (versus 35% and 
+20% in 2023, respectively). The volume of 
+SLBs captured and the number of SLBs issued 
+fell significantly less than the corresponding 
+aligned figures (38%, 8.5%) demonstrating 
+challenges in the alignment aspect of SLBs.
+The fall in aligned SLB volume YOY was driven 
+by a decrease in volume from some of the 
+largest sources of 2023-aligned SLBs.  Four of 
+the largest sources in 2023 all demonstrated 
+dramatic declines in issuance. Chile, which 
+was the source of 37.5% of the aligned 2023 
+SLB volume (USD8.6bn) priced just USD500m 
+in 2024, similarly aligned SLB volume from 
+France, Germany, and Denmark also 
+dropped (accounting for declines of 52%, 50%, 
+and 75%, respectively).
+The Netherlands, Chile, and Finland were 
+the only countries to price 100% aligned SLB 
+volumes in 2024. The Netherlands and Chile 
+demonstrated similarly robust alignment 
+qualities in their 2023 SLBs. Germany, 
+Denmark, and Sweden all declined YOY in 
+terms of percentage of aligned volume issued, 
+while France improved and increased the 
+aligned volume issued from 51% to 76%.
+Thailand and Turkey priced their first aligned 
+SLBs in 2024; one from the sovereign and one 
+from a corporate issuer, and both countries had 
+previously issued non-aligned SLBs in recent 
+years. In Thailand, the Thai Government issued 
+its first SLB raising THB30bn (USD865m), which 
+is linked to two sustainability performance 
+targets which include a reduction of 30% in 
+GHG emissions by 2030 and an increase in 
+new registrations of zero-emission vehicles to 
+440,000 per year by 2030. Thailand’s Precious 
+Shipping also issued two USD20m aligned SLBs. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 18
+In Turkey, agrifood business, Ulker Biskuvi 
+Sanayi AS priced its debut USD550m SLB. Ulker 
+published its sustainability-linked financing 
+framework in May 2024 identifying two GHG 
+emission reduction targets. The first target is 
+to reduce absolute scope 1 and 2 emissions by 
+42% by 2030, and the second is a reduction in 
+scope 3 emissions of 30% by 2030. Both targets 
+have 2021 as their baseline.
+While there are some promising signs for  
+the SLB market, and Climate Bonds has 
+supported the market’s development with  
+policy recommendations, sector criteria, 
+research, and engagement with issuers and 
+investors,  challenges remain particularly 
+regarding alignment.
+SLB issuance by region
+ • The share of SLBs originating from EM 
+reached 38% of the volume and 61% of total 
+SLBs by number (higher than 33% and 48%, 
+respectively, in 2023) which is the highest 
+since 2019.
+ • In 2024, Europe was the largest source of 
+SLB volume (56%, USD23bn), which was 
+also reflected in the volume of aligned 
+deals (USD5bn) making it by far the most 
+significant contributor of all the regions. The 
+three largest aligned issuers from the region 
+were Goldstory, Carrefour, and Koninklijke 
+Ahold Delhaize. 
+ • Asia Pacific was the only region to grow YOY 
+increasing from USD13.8bn over 109 bonds 
+in 2023 to 14.8bn across 144 bonds in 2024. 
+Asia Pacific ranked second accounting for 
+15% of the SLB volume priced, driven by 
+issuance from China (USD7bn); however, 
+Thailand was the largest source of 
+aligned SLB debt owed largely to the Thai 
+Government Bond detailed earlier.
+ • Latin American SLB issuance volume 
+declined significantly falling from USD14.3bn 
+in 2023 (37 deals) to USD2.7bn (16 deals) in 
+2024. The decline was primarily driven by the 
+fall in issuance from the two largest sources 
+in 2023, Chile and Mexico.
+ • North America was almost entirely absent 
+in the 2024 SLB market with the exception 
+of one deal from Canada’s Telus Corp, a 
+communications company that priced a 
+CAD500m (USD368m) SLB.
+SLB issuance by country  
+- Italy and China maintain  
+their dominance 
+ • In 2024, Italy was once again the largest 
+source of SLBs by volume (25%, USD10.4bn) 
+while China maintained its dominance 
+pricing the highest count of SLBs, ranked 
+second by volume. No issuers in either Italy 
+or China priced any aligned SLBs in 2024 
+but there was one Chinese SLB pending 
+alignment at year end 2024.
+ • Further down the SLB issuance by country 
+volume rankings the alignment landscape 
+becomes a little more optimistic. The third, 
+fourth, and fifth places taken by Japan, 
+Germany, and France demonstrated 
+alignment of 16%, 34%, and 76%, respectively.
+ • China maintained its dominance in bond 
+and issuer counts, with SLBs accessed by 
+a broader pool of relatively small issuers. 
+Among the top ten issuer domiciles, 
+China’s average bond size (USD86m) is only 
+comparable to that of Japan (USD116m). 
+Fourteen out of the twenty-seven SLB 
+issuing countries priced SLBs with no 
+alignment to Climate Bonds SLBD during 
+2024, which was mainly due to a lack of GHG 
+emission KPIs or targets.
+ • The top three issuer domiciles cumulatively 
+by amount issued in 2024 were Italy 
+(USD10.4bn) with volume dominated by two 
+issuers, ENEL and Snam); China (USD 7.1bn); 
+and Japan (USD3.4bn). 
+Top ten country sources of aligned SLBs in 2024 
+Amount issued (USDbn) Number of bonds
+Issuer domicile 2024 Aligned % 2023 Aligned % Number  
+of issuers
+France 1.75 76% 3 60% 2
+Netherlands 1.09 100% 2 100% 2
+Germany 1.08 34% 2 33% 2
+Thailand 0.91 71% 3 50% 2
+Turkey 0.55 41% 1 50% 1
+Denmark 0.54 50% 1 50% 1
+Japan 0.54 16% 3 10% 3
+Chile 0.50 100% 1 100% 1
+UK 0.41 21% 1 25% 1
+Mexico 0.32 36% 2 33% 1
+Europe demonstrated the strongest alignement by region 
+Source: Climate Bonds Initiative
+25%
+100%
+75%
+50%
+0
+Asia-Pacific North America LACEurope
+Not alignedStrongly-aligned AligningFully-aligned
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 19
+Private sector dominance 
+continues to grow
+ • Non-financial and financial corporates 
+continue to dominate the market, reaching 
+91% of the volume issued cumulatively versus 
+84% in 2023. Non-financial corporates were 
+the source of 80% of the 2024 SLB market. 
+ • While development banks were absent from 
+the market in 2024, government-backed entity 
+SLB volume increased YOY, volume priced 
+by local government was stable, and there 
+was only one sovereign SLB from Thailand 
+representing the first sovereign ASEAN SLB 
+(detailed in the sovereign section).
+Wide range of economic sectors 
+are represented
+ • In 2024, the Climate Bonds SLBD recorded 
+issues across nearly all economic sectors, 
+with renewable energy the only absentee. 
+This continued broad deployment highlights 
+the flexibility of SLBs as general-purpose 
+funding instruments. It also demonstrates 
+that issuers in any economic sector 
+can tie their financing commitments to 
+decarbonisation ambitions even if they do 
+not have specific green expenditures.
+ • Industrials maintained their top position in 
+2024 by a relatively wide margin across all 
+metrics (amount issued, number of bonds, 
+and number of issuers). Autostrade per 
+l’Italia was the largest industrial issuer in 2024 
+pricing USD1.1bn across two deals, neither of 
+which was aligned due to the use of economic 
+intensity (revenue) in KPIs or targets.
+Sovereigns and local governments demonstrated  
+the strongest alignment 
+Financial corporates and government-backed entity  
+SLB volume grew in 2024
+Non-Financial Corporate Financial Corporate
+Sovereign
+Government-Backed Entity
+Development Bank Local Government
+Source: Climate Bonds Initiative
+25%
+100%
+75%
+50%
+0
+Government-
+Backed Entity
+Financial 
+Corporate
+Non-Financial 
+Corporate
+SovereignLocal 
+Government
+Not alignedStrongly-aligned AligningFully-aligned
+100
+200
+USD Billions
+300
+300
+0
+20202019 2022 20242021 2023
+Source: Climate Bonds Initiative
+2024: ENEL was the largest SLB issuer in 2024 
+Top 20 issuers (2023) Amount issued (USDbn) Number of bonds Alignment summary (2023)
+Chile Government 8.6 6 All bonds aligned
+Eni SpA 4.0 3 No bonds aligned (excludes scope 3)
+Enbridge Inc 2.6 2 No bonds aligned (excludes scope 3)
+Teva Pharmaceutical Industries 2.5 4 No bonds aligned (excludes scope 3)
+Autostrade per l'Italia SpA 1.6 2 No bonds aligned (uses economic intensity)
+HeidelbergCement AG 1.6 2 All bonds aligned
+Enel SPA 1.6 2 1 bond aligned, 1 not aligned (excludes scope 3)
+Carrefour SA 1.4 2 1 bond aligned, 1 not aligned (scope 3 not in line with pathway)
+TDC Net A/S 1.1 2 All bonds aligned
+Air France-KLM 1.1 2 All bonds aligned
+Vestas Wind Systems A/S 1.1 2 All bonds aligned
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 20
+Industrials are the top issuing SLB sector in 2024 by amount, bonds, 
+and issuers 
+Sector SLB 
+volume 
+(USDbn) 
+Aligned 
+volume 
+Number 
+of bonds 
+Aligned 
+bonds 
+Number  
+of issuers
+Industrials 7.42 13% 42 12% 33
+Utilities 7.12 0% 18 0% 10
+Consumer discretionary 6.46 37% 17 29% 12
+Financials 4.34 1% 45 2% 25
+Agrifood 2.84 75% 15 20% 6
+Oil and gas 2.79 0% 4 0% 2
+Materials 1.30 0% 7 0% 6
+Cement 1.26 26% 7 29% 5
+Government 1.26 73% 4 75% 4
+Paper and pulp 1.20 42% 3 33% 3
+Real estate 1.18 5% 17 12% 10
+Communications 0.96 56% 3 33% 3
+Consumer staples 0.54 0% 4 0% 2
+Chemicals 0.49 0% 6 0% 4
+Energy 0.48 0% 4 0% 4
+Health care 0.33 0% 4 0% 3
+Automotive 0.28 0% 3 0% 3
+Technology 0.27 0% 4 0% 2
+Shipping 0.17 12% 2 50% 2
+Steel 0.14 0% 4 0% 2
+Airlines 0.14 0% 1 0% 1
+Total 41 19% 214 11% 142
+ • Beyond the top position there was a 
+significant change in terms of the ranking 
+of the various sectors. In 2024, the top 
+five sectors were industrials, utilities, 
+consumer discretionary, financials, and 
+agrifood, which compares with industrials, 
+government, oil and gas, agrifood, and 
+communications in 2023.
+ • Not one sector demonstrated 100% 
+alignment, in contrast to 2023 when four 
+sectors achieved 100% alignment (cement, 
+paper and pulp, renewable energy, and 
+energy). The sectors with the highest 
+percentage of volume aligned were 
+agrifood (75%), government (76%), and 
+communications (56%). 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 21
+4. The sovereign GSS+ bond club 
+As of the end of 2024, Climate Bonds had 
+recorded cumulative aligned sovereign 
+GSS+ volume of USD655.9bn from 59 
+issuers. The total number of EM countries 
+that priced aligned GSS+ sovereign debt 
+grew to 37 (from 34 in 2023), and debuts 
+from Australia, Iceland, and Japan in 2024 
+pushed DM countries to 22. Green remains 
+the largest theme, taking 80% of the 
+cumulative volume.  
+Sovereign GSS+ bond market 
+highlights 2024
+ • Sovereigns contributed 16% to aligned GSS+ 
+volume in 2024. 
+ • Aligned GSS+ deals amounting to USD167.4bn 
+were issued by 37 countries, 4% more than the 
+USD161.3bn recorded for 2023.  
+ • Aligned sovereign GSS+ deals originated 
+from all regions in 2024, led by Europe which 
+delivered 60% of the volume. 
+ • New instruments were priced by 29 countries, 
+a further eight tapped existing deals, and 
+16 countries increased their GSS+ liabilities 
+through both new and existing deals.  
+ • In November, Honduras became the 59th 
+country to join the Sovereign GSS+ bond club 
+with its USD700m sustainability deal. Six 
+other countries priced aligned debut GSS+ 
+deals in 2024 beginning in January with the 
+Ivory Coast’s USD1.1bn sustainability deal. 
+Japan priced two aligned GX Transition 
+(green) bonds (JPY1.6tn, USD10.6bn). 
+Romania priced EUR2.2bn and JPY33bn 
+(USD2.4bn) of green bonds. Iceland priced 
+a green bond (EUR750m, USD815m) and 
+a social bond (EUR50m, USD54m). Both 
+Australia (AUD7.6bn, USD5bn) and the 
+Dominican Republic (USD750m) priced 
+green bonds.  
+Europe leads on sovereigns 
+Regionally, Europe is the largest source of 
+sovereign GSS+ debt, reaching cumulative aligned 
+volume of USD437.6bn by the end of 2024, 
+originating from 24 countries. Among the 27 EU 
+member states, 18 have issued GSS+ instruments. 
+During the year, USD101.9bn was priced 
+across Europe, with the largest contributions 
+coming from Germany (EUR17.5bn, USD19bn), 
+UK (GBP13.5bn, USD17.3bn), and France 
+(EUR14.1bn, USD15.3bn).  
+Sovereign scorecard  
+ Green SLB Social Sustainability Total
+Total market 
+size (USDbn)
+524.5 10.8 33.7 86.9 655.9 
+Number of 
+issuers
+38 2 7 28 60 
+Number of 
+currencies
+20 4 4 12 26 
+2024
+Market size 
+(USDbn)
+134.1 0.9 7.7 24.7 167.4 
+Number of 
+issuers
+24 1 4 12 37 
+Number of 
+currencies
+16 1 4 6 20 
+Note: the sum of the individuals themes does not equal the total where issuers have issued in 
+multiple currencies and across many themes.
+Green dominates GSS+ sovereign volume
+16 EU governments priced aligned GSS+ volume  
+of USD101.9bn in 2024 
+Number of deals
+Issuer count
+USD BillionsUSD Billions
+Number of dealsIssuer count
+40
+20
+50
+3
+120
+60
+80
+150
+12
+9
+80
+40
+100
+6
+160
+100
+200
+15
+0
+0
+0
+0
+Source: Climate Bonds Initiative
+Source: Climate Bonds Initiative
+2016-2019
+Africa
+2020
+Asia-Pacific
+2022
+LAC
+2021
+Europe
+2024
+North America
+2023
+Sustainability
+Sustainability
+SLB
+SLB
+Social
+Social
+Green
+Green
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 22
+France retains poll position 
+France is an innovator in sustainable finance 
+and remains the largest source of sovereign 
+GSS+ debt with its green liabilities standing 
+at EUR76bn (USD84.9bn) by the end of 2024.26 
+In January, France priced its fourth green 
+sovereign. The EUR8bn (USD8.7bn) 2049 
+maturity was priced by syndicate and obtained 
+a EUR98bn (USD107bn) order book, covering 
+the deal more than 12 times. This is on the 
+higher end of the demand scale, and the 
+longer tenor would have contributed to that. 
+The French Treasury reported that 80% of the 
+deal was allocated to investors describing 
+themselves as green or socially responsible.27 
+Climate Bonds research demonstrates that the 
+deal obtained a marginal greenium or pricing 
+benefit. The deal was reopened for EUR1.9bn 
+(USD2.1bn) in October.  
+Massive potential for 
+governments to convert 
+expenditures 
+Most of the twenty largest issuers have massive 
+potential to convert their expenditures 
+to qualify for GSS+ funding. Despite a 
+solid commitment to preferencing green 
+expenditures, France’s green volume still only 
+contributed 3% to its total liabilities at the 
+end of 2024. Among the 20 largest sovereign 
+GSS+ issuers, Chile is the only issuer to have 
+deployed green, social, sustainability, and SLB 
+instruments, which contributed 42% to its total 
+liabilities at the end of 2024. Japan has already 
+begun an ambitious issuance programme, but 
+its aligned volume remains a small fraction of 
+its total liabilities.  
+Largest sources of sovereign GSS+ debt in 2024 
+ USD bn Theme USD bn Theme
+Germany 19.0 Green Peru 4.4 Sustainability 
+UK 17.3 Green Canada 4.4 Green
+France 15.3 Green Spain 4.0 Green
+Italy 14.5 Green China HK 3.9 Green
+Austria 13.6 Green Belgium 3.2 Green
+Japan 10.6 Green Singapore 3.0 Green
+Mexico 7.1 Sustainability Thailand 2.8 Sustainability, SLB 
+Chile 6.0 Social Indai 2.6 Green
+Australia 5.0 Green Romania 2.4 Green
+Netherlands 4.6 Green New Zealand 2.3 Green
+Aligned GSS+ as a percentage of total liabilities outstanding
+Total 
+liabilities 
+outstanding 
+Aligned 
+GSS+ 
+outstanding
+Contribution 
+to total 
+liabilities 
+Themes 
+France 2,848.4 84.9 3.0% Green
+Germany  2,081.1 81.5 3.9% Green
+UK 3,532.9 73.5 2.1% Green
+Italy  2,777.8 53.7 1.9% Green
+Chile 116.0 48.8 42.1% Green, social, 
+sustainability, SLB
+Hong Kong, China 241.2 28.2 11.7% Green
+Netherlands 441.0 27.2 6.2% Green
+Belguim 539.6 22.0 4.1% Green
+Mexico  761.4 19.3 2.5% Sustainability
+Spain 1,556.4 16.9 1.1% Green
+Thailand 273.4 15.3 5.6% Sustainability, SLB
+Austia 376.7 15.1 4.0% Green
+Peru 69.5 13.3 19.1% Social, 
+sustainability
+Ireland 169.9 12.5 7.4% Green
+Indonesia  551.4 11.0 2.0% Green, 
+sustainability
+Japan 10,679.3 10.6 0.1% Green
+Canada  1,092.8 8.4 0.8% Green
+Hungry 154.9 7.0 4.5% Green
+Singapore 214.6 6.8 3.2% Green
+India 1,746.9 5.7 0.3% Green
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 23
+USD is the preferred currency 
+of EM sovereign issuers 
+Sovereign issuers of aligned GSS+ deals have 
+deployed 26 currencies, with 29 countries 
+pricing in EUR which together with USD, and 
+GBP collectively represents 81% of the total 
+volume. While the USA is yet to price its first 
+GSS+ treasury, 24 other countries have priced 
+aligned deals in USD: one DM (Hong Kong, 
+China) plus 23 EM countries.  
+In 2024, 20 currencies were deployed. The 
+fifth largest of those was AUD, which was the 
+only new currency in the sovereign space, 
+introduced by Australia for its AUD7.6bn 
+(USD5bn) debut green bond.  
+JPY took fourth place in 2024, with a 7% share 
+of aligned GSS+ volume. Aside from Japan’s GX 
+Transition bonds (JPY1.6tn, USD10.6bn), JPY was 
+also the chosen currency of Hungary (JPY1.3bn, 
+USD9m), Indonesia (JPY25bn, USD159m), 
+Mexico (JPY152.2bn, USD1bn), Romania 
+(JPY33bn, USD222.4m), and Slovenia (JPY50bn, 
+USD347m). This reflects issuers leveraging 
+strong Japanese investor demand for GSS+ 
+labels to diversify their funding sources.  
+Most sovereign volume is green
+The green theme is the firm favourite of 
+sovereign issuers, taking 80% of the cumulative 
+aligned total. In 2024, 24 countries issued new 
+green deals or taps, with combined volume 
+of USD134.1bn, 9% more than USD123.5bn 
+recorded in 2023.   
+Sustainability volume grew by 3% to 
+USD24.7bn in 2024 from USD24bn in 2023. 
+Twenty sovereign issuers had priced aligned 
+sustainability deals with combined volume 
+of USD86bn by the end of 2024. Twelve EM 
+governments accessed the market in 2024, led 
+by Mexico which priced USD7.1bn in a mixture 
+of taps and new deals in JPY, MXN, and EUR.  
+Honduras became the 59th country and the 
+twelfth from the LAC region to price a GSS+ deal 
+when it issued its debut sustainability bond in 
+November 2024. The USD700m ten-year deal 
+referenced Honduras’ framework for green, 
+social, and sustainable thematic bonds published 
+earlier that same month.28 The 28 eligible project 
+categories specified in the framework were 
+selected for their potential to contribute to 
+a reduction in poverty, or support climate action.  
+The social theme has attracted combined 
+aligned volume of USD33.7bn from seven 
+sovereign issuers altogether, among which 
+Iceland is the only DM. In 2024, the social theme 
+experienced growth of 31% YOY, the strongest 
+rise among the sovereign GSS+ themes, with 
+volume reaching USD7.7bn compared to 
+USD5.9bn the prior year. Repeat social issuers 
+Chile (USD6bn from one new issue and two 
+taps), and Colombia (USD1.3bn from two taps) 
+were joined by newcomers Iceland (EUR50m, 
+USD53m) and Slovenia (JPY50bn, USD346.6bn).  
+Sovereign SLB issuance declined by 89% 
+to USD868m compared to USD8bn priced 
+by Chile in 2023. Thailand was the only 
+source of sovereign SLB volume in 2024, 
+and its November deal was the first from the 
+ASEAN region. Thailand has two outstanding 
+sustainability deals priced in 2020 and 2022. 
+Its 2040 maturity THB30bn (USD868m) 
+SLB references Thailand’s October 2024 
+sustainability-linked financing framework 
+and includes material KPIs with ambitious 
+targets, given Thailand is an EM growing its 
+economy through industrial production.29 
+The achievement of the SPTs is supported by 
+policy action, such as Thailand’s 2024 power 
+development plan (explained in the framework), 
+for use until 2037. It forms part of the national 
+energy plan and states the intention to increase 
+the share of energy from renewable sources 
+to 51% by 2037 from 20% in 2023 in addition 
+to measures that improve power supply 
+management. The Thailand Board of Investment 
+(BOI) has introduced several measures including 
+policies, tax breaks, and non-tax incentives to 
+raise EV use to 30% by 2030.30 While this deal 
+encourages accountability from Thailand, 
+larger coupon adjustments would enhance its 
+credibility as an incentive.  
+JPY took 7% of the aligned 
+sovereign GSS+ volume in 2024
+EUR, USD, and GBP together 
+are 81% of aligned sovereign 
+GSS+ volume
+JPY 7%
+USD 
+9.5% USD 
+11.9%
+EUR 
+56.8% 
+EUR 
+57.5% 
+GBP 
+11.3% 
+GBP 
+11.3% 
+Others 
+11.3%
+Others 
+8.3%
+AUD 3.2% 
+PEN 2.8% 
+CAD 2.8% 
+MXN 2.5%
+CLP 2.3% 
+THB 2.3% 
+JPY 2.2% 
+PEN 1.3%
+SGD 1.9% 
+THB 1.8%
+CAD 1.2% 
+MXN 1.2% 
+CNY 1.0%
+Source: Climate Bonds Initiative Source: Climate Bonds Initiative
+Thailand’s debut SLB 
+KPI SPT Baseline Bonds
+Total GHG 
+emissions (ktCO2e)
+Total GHG emissions 
+(excluding land use, land 
+use change, and forestry 
+(LULUCF)) reduced by 
+30% by 2030.
+BAU projection 
+from a 2005 
+baseline. 
+2.5bps step up or 
+down if targets are 
+missed or met.
+Registration of 
+new zero-emission 
+vehicles
+Increase of 476% by 2030. 76,361 in 2023 2.5bps step up or 
+down if targets are 
+missed or met.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 24
+Nationally determined 
+contributions (NDCs) are 
+the climate action plans of 
+individual countries under the 
+Paris Agreement, describing 
+how they will decarbonise and adapt 
+to climate change impacts. The Paris 
+Agreement mandates that NDCs be updated 
+every five years, with ambition ratcheting 
+in each iteration. NDCs 3.0, due in 2025, will 
+outline country level climate plans until 
+2035. Updates are informed by the Global 
+Stocktake, which assesses global progress 
+toward the Paris Agreement goals. Countries 
+can use this opportunity to stretch their 
+mitigation and adaptation ambitions by 
+enhancing the scope, depth, and urgency of 
+their actions.
+Only 13 out of 195 countries had submitted 
+by the original 10 February deadline. Those 
+countries were Andorra, Brazil, Ecuador, the 
+Marshall Islands, New Zealand, Singapore, 
+Saint Lucia, Switzerland, the United Arab 
+Emirates (UAE), the UK, Uruguay, the United 
+States, and Zimbabwe.31  
+Among these, the UAE, Brazil, and 
+Azerbaijan are expected to increase fossil 
+fuel production up to 2035. 32 The UAE is one 
+of the ten largest oil producing nations and 
+has committed to reducing its emissions by 
+47% by 2035 compared to a 2019 baseline. 
+The territory plans a shift away from fossil 
+fuels through solar capacity, waste to 
+energy technologies, and nuclear energy. 
+These activities can be financed through 
+the green bond market and simultaneous 
+plans to cut fossil fuel production and 
+exports could engender the required 
+credibility to obtain investor confidence 
+and perhaps pricing benefits.  
+Brazil’s NDC was strengthened to a 59-67% 
+GHG emissions reduction on 2005 levels by 
+2035, however it was evaluated by Climate 
+Action Tracker to be insufficient, largely due to 
+uncertainty over the LULUCF contribution.33  
+The UK NDC, while ambitious at 78% 
+by 2035, is undermined by doubts over 
+policy backing. This is why it is crucial for 
+ambitious NDCs to be backed by strong, 
+fully costed, sovereign transition plans. 
+Climate Bonds is developing guidance for 
+sovereign transition planning, with a focus 
+on how to unlock the financing needed to 
+deliver targets.   
+Nationally determined contributions: 2025 is the year to finance increased ambition 
+Canada, Japan, Montenegro, Maldives, and Cuba 
+had all submitted by the end of February. The 
+UNFCCC extended the deadline for submissions 
+to September 2025, urging countries to 
+prioritise the quality of their climate action 
+plans over meeting the initial deadline.34  
+It is important to remember that while NDCs 
+have a strong signalling effect regarding 
+ambition, they are not binding and are just 
+one tool which must be combined with and 
+supported by robust policy and adequate, 
+committed financing.  
+The enhanced NDCs were required to provide 
+improved targets for 2030 and 2035.    
+However, several of those submitted did not 
+increase 2030 targets, implying the need for 
+substantial emissions reductions 2030–2035, 
+for example by 41% in the UAE. This creates 
+uncertainty over the ability of countries to 
+meet such targets, again highlighting the 
+need for strong policy backing of targets, and 
+to demonstrate near-term action to inspire 
+confidence in them.   
+Financing NDCs is a major challenge for all 
+parties but particularly for least developed 
+countries (LDCs). Most countries have six 
+options, each of which can be supported 
+through the GSS+ market:  
+1. Public finance. Many countries such as 
+Canada, France, Germany, Japan, and the UK 
+have earmarked national budgets to invest in 
+low-carbon technologies, renewable energy, 
+and infrastructure i  mprovements. Such 
+expenditures can be funded through the green 
+bond market which would also attract private 
+sector investment and stimulate local issuance. 
+Fiscally constrained budgets can still be tilted 
+to green, through fiscally efficient policies 
+such as reallocating subsidies from fossil fuels 
+to cleaner energy sources, as deployed by 
+Canada, Germany, New Zealand, the UK, and 
+Costa Rica among others.  
+2. Public-private partnerships (PPP). 
+Countries can leverage public investment 
+to mobilise private investment, transfer 
+technology, share risks, and scale climate 
+action projects. PPPs ensure that countries 
+can access a diversified financial base to meet 
+their climate goals. The Ultra Mega Solar 
+Power Project in Madhya Pradesh, India, which 
+increased India’s solar energy generation 
+capacity by 2.5% was the result of a successful 
+PPP .35 The Netherlands has implemented PPPs 
+such as its Room for the River project to 
+address resilience to flooding.36 
+3. Private investment. Policy action can 
+stimulate private investment in NDC-aligned 
+projects. This requires a comprehensive 
+policy framework that tilts the playing field 
+to green, providing the standards and targets 
+for industrial sectors, developing demand 
+and supply chain security, and smoothing 
+investment processes.37 Much of this can be 
+done at minimal cost to the public purse, 
+although a certain level of public risk-sharing 
+will be required.    
+4. International climate finance. 
+Developed countries have committed to 
+providing financial support for developing 
+countries to meet NDCs and national 
+adaptation plans, with the annual goal 
+recently increased from USD100bn to 
+USD300bn by 2035 at COP29 in 2024.38This 
+funding is channelled through mechanisms 
+such as the Green Climate Fund (GCF) and 
+the Global Environment Facility (GEF), with 
+the goal of assisting countries to meet their 
+NDC targets. Strong national transition 
+planning can help developing countries to 
+access these funds.  
+5. Multilateral development banks 
+(MDBs) and bilateral development finance 
+institutions (DFIs): Organisations such as 
+the World Bank and Asian Development 
+Bank (ADB) play a crucial role in helping 
+LDCs address their mitigation and 
+adaptation priorities. They provide loans, 
+grants, guidance, capacity building, and 
+technical assistance to support climate 
+ambitions. MDBs and DFIs can maximise 
+their impact by prioritising private capital 
+mobilisation whenever possible, rates of 
+which are particularly low in LDC financing.39 
+6. Carbon markets and climate finance 
+mechanisms: Some countries like Mexico, 
+China, and South Korea, or regions 
+such as the EU deploy carbon markets/
+emissions trading systems or carbon offset 
+mechanisms. These allow them to invest in 
+carbon reduction projects both domestically 
+and internationally.  
+2025
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 25
+5. Blue- and water-labelled GSS+ market
+Introduction
+The blue label remained a considerable source 
+of GSS+ bonds in 2024. While not quite matching 
+the uptick witnessed in 2023 (+163%), GSS+ 
+bonds with a blue theme collectively amounted 
+to USD6.4bn across 37 instruments (versus 
+USD7.4bn, 40 bonds in 2023). Estimates point 
+to an investment opportunity of over USD3tn 
+until 2050 for areas such as the decarbonisation 
+of marine transportation, protection of marine 
+and coastal ecosystems, marine renewable 
+energy, and sustainable aquaculture.40 
+Climate Bonds screens bonds bearing the 
+blue label for its GBD (environmental UoP) 
+and SSBD (social and environmental UoP) 
+while SLBs from issuers with operations in 
+the blue economy are eligible for inclusion 
+in Climate Bonds SLBD. For example, a blue 
+bond focused solely on green projects such as 
+marine renewable energy, would be considered 
+green-themed, whereas a blue bond including 
+categories with inherent green and social 
+characteristics, such as sustainable coastal 
+and marine tourism, would be considered 
+sustainability-themed. 
+Climate Bonds reinforces the need for blue 
+bond issuers to follow the appropriate ICMA 
+principles according to the thematic nature of 
+the stated UoP .41 
+Blue bonds can be considered 
+‘green’ or ‘sustainability’, 
+according to their UoP categories 
+(adapted from ICMA principles)
+Scope of the analysis
+The methodological approach for this 
+research consists of data analysis of GSS+ 
+bonds recorded in Climate Bonds’ three 
+datasets: GBD, SSBD, and SLBD. Three 
+different mapping exercises were done for 
+this piece: 
+1. A mapping of all bonds in which issuers 
+labelled their bonds explicitly with blue 
+and water tags according to publicly 
+available information recorded in the 
+different Climate Bonds datasets.
+2. A mapping of bonds where Climate 
+Bonds recorded water as one of the bond’s 
+UoP categories.
+3. A mapping of bonds meeting one of 
+these three pre-defined criteria: bearing 
+a blue or water label; or having water as 
+one of its UoP categories as recorded in 
+the Climate Bonds datasets; or having one 
+keyword related to the blue economy in its 
+UoP categories.42 
+The results of the mappings demonstrate 
+the potential of the blue label to expand 
+within the current GSS+ market. The water 
+label can be considered a subset of blue, 
+and considered a blue label at the same 
+time. Results show that several labelled 
+debt instruments aside from blue and water 
+bonds have already dedicated proceeds to 
+projects and assets associated with different 
+blue economy activities. 
+The precise total capital flows towards blue 
+sectors are difficult to map accurately because 
+issuers do not always report the specific 
+allocation of proceeds to different project 
+categories in advance. Moreover, Climate 
+Bonds datasets do not track post-issuance 
+allocations but record flat allocations 
+(i.e., equal amounts in each category) 
+unless relevant data is available when the 
+instrument is issued. Therefore, the results 
+of this mapping exercise represent a proxy 
+and do not reflect the actual capital flows 
+being directed to blue economy investments 
+through GSS+ bond instruments. 
+Disclosure and tagging practices must evolve 
+before Climate Bonds can capture and track 
+blue-related finance with a greater degree of 
+accuracy in the global thematic debt market. 
+Using blue and water labels while adopting 
+best practices regarding disclosure and 
+technical eligibility criteria for projects and 
+assets will make it easier to gauge capital 
+flows to the blue economy.
+Sustainability  
+Bonds
+Green  
+Bonds
+Blue  
+Bonds
+Social  
+Bonds
+2024 saw a 13% YOY decline in blue and  
+water labelled GSS+ bonds
+Number of issuers
+USD Billions
+Number of issuers
+2 10
+6 30
+4 20
+8 40
+00
+Source: Climate Bonds Initiative
+2014 202020192018201720162015 20222021 20242023
+The emergence of blue and 
+water labels 
+The first water-labelled bond recorded by 
+Climate Bonds in 2014 was a EUR500m bond 
+that matured in 2019, issued by the NWB 
+Bank, which was the only water-labelled 
+bond issuer recorded from 2014–2017. NWB 
+Bank is a Dutch public bank that funds water 
+and municipal authorities. Therefore, water 
+bonds are an integral part of its operations, 
+with most proceeds dedicated to adaptation 
+efforts, such as flood protection, water 
+management, and water quality activities. 43  
+Its most recent water bond, priced in 2024, 
+was a EUR1bn deal maturing in 2031. In 2024, 
+it also priced a smaller EUR50m water bond 
+maturing in 2051. 
+In 2024, Climate Bonds recorded aligned 
+blue- or water-labelled debt volume of nearly 
+USD5.4bn which represents 83% of the total 
+blue or water-labelled debt volume recorded 
+in 2023, and an 18% decrease. Despite the 
+more recent surge, blue- and water-labelled 
+instruments still comprise less than 0.5% of the 
+GSS+ debt market, signalling a large amount of 
+untapped potential. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 26
+Asia-Pacific and Europe 
+account for 74% of the market
+Asia-Pacific represents 40% of the marketRegional blue landscape
+Asia Pacific, with 40% (USD10.5bn) of the 
+cumulative volume issued, replaced Europe in 
+2024 as the main source of blue- and water-
+labelled bonds issued. Europe accounted for 
+34% and LAC 22%. Europe and Asia Pacific 
+are the regions with the largest shares of 
+cumulative GSS+ debt, so their rankings are no 
+surprise. In Asia Pacific, the private sector is by 
+far the largest source of issuance accounting for 
+60% of the blue- or water-labelled debt volume, 
+while in Europe government-backed entities 
+dominate the market representing 83% of the 
+volume, and in LAC non-financial corporates 
+account for 65%.
+Government-backed  
+entities and non-financial 
+corporates dominate
+The cumulative issuance from government-
+backed entities and non-financial corporates 
+is USD8.6bn, however the number of deals is 
+far greater from non-financial corporations (52 
+versus 24). In 2024, non-financial corporations 
+and sovereigns were the only issuer types to 
+mark an increase in volume. The former, largely 
+driven by multiple issues from Companhia 
+de Saneamento Básico do Estado de São 
+Paulo - Sabesp (4, USD1bn); and the latter, 
+solely driven by a sovereign from the Republic 
+of Indonesia (USD1bn), marking the second 
+consecutive year of issuance from Indonesia in 
+this market.
+Government-backed  
+entities and non-financial 
+corporates account for  
+two-thirds of the market 
+Issuer count
+Issue amount USD Billions
+Number of deals
+25 20
+50
+75 60
+40
+100 80
+00
+Source: Climate Bonds Initiative
+Source: Climate Bonds InitiativeSource: Climate Bonds Initiative
+Africa Asia-Pacific LACEurope North  
+America
+Supranational
+LAC  
+25%
+Europe 
+34%
+Asia-Pacific 
+40% 
+Supranational 1% 
+Africa >1%
+Development  
+Bank 10%
+Local Government 2%
+North America  
+>1% 
+Sovereign 8% 
+Government-
+Backed Entity 
+33%
+Financial 
+Corporate 
+14%Non- 
+Financial 
+Corporate 
+33%
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 27
+6. Policy overview
+Green defence 
+As 2030 approaches, governments increasingly 
+need to confront what ‘whole economy 
+transition’ means. Decarbonisation efforts 
+can no longer be focused on specific sectors 
+but need to be embedded across all areas of 
+the economy, including those not typically 
+associated with environmental action, such as 
+health, education, and even the defence sector.  
+Decision makers cannot avoid the interaction 
+between defence priorities and key climate-
+related objectives, for example resilience 
+and energy security. Engaging with the 
+defence sector is critical, not only to meet 
+these objectives but also to ensure its 
+decarbonisation. Not engaging runs the risk 
+of the sector being excluded from sovereign 
+transition planning and absorbing much of 
+limited carbon budgets.  
+The defence sector accounts for a large share of 
+public budgets, emissions, and raw materials 
+consumption, which is projected to increase, 
+therefore, it has high decarbonisation potential. 
+Defence spending equates to 2% of EU GDP , 
+3.4% in the USA, and 1.7% in China.44,45 The UK 
+recently pledged to reach defence spending 
+of 2.5% GDP by 2027, and Japan pledged 
+to double spending to 2% GDP by 2027.46,47 
+However, defence is not included in national 
+carbon budgets or NDCs, despite accounting 
+for up to 5.5% of global emissions and large 
+proportions of central government emissions 
+(50% in the UK).48
+Additionally, the sector accounts for a large 
+proportion of government procurement. Green 
+public procurement across all government 
+spending can provide demand certainty to 
+green industry which is crucial in more nascent 
+industries. Green procurement practices and 
+offtake agreements in defence spending can 
+stimulate renewable energy, green steel, and 
+synthetic fuel production.  
+R&D is an important element of defence 
+investment, which in the defence sector can 
+facilitate the wider transition. For example, 
+aviation accounts for a significant portion 
+of defence emissions so R&D to develop 
+sustainable aviation fuels will also facilitate 
+decarbonisation of a major hard-to-abate sector.  
+Governments across the world will need to 
+ramp up climate resilience investment for 
+defence. This not only directly ensures resilience 
+of critical defence infrastructure, but also 
+broader national and global resilience to reduce 
+social unrest, resource scarcity, and migration 
+which increase the likelihood of conflicts. 
+Recognising the value of climate resilience and 
+global mitigation efforts to conflict prevention 
+and geopolitical stability, which therefore 
+minimises pressures on defence budgets, 
+ensures that climate mitigation and resilience 
+remain as high priorities.  
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 28
+7. Sector Criteria guide issuers  
+to make genuine contribution 
+Climate Bonds Standards team 
+has been working to update, 
+strengthen, and expand the 
+Sector Criteria for agriculture 
+and food systems
+According to the latest IPCC assessment, 
+agrifood system emissions from production to 
+consumption, represent around 31% of global 
+GHG emissions. Although most of the sector’s 
+emissions come from agricultural production 
+and land use change, a third occurs during the 
+post-production stage. Thus, addressing the 
+challenges and reducing emissions from this 
+critical sector will be essential to reaching the 
+global climate goals.
+Climate Bonds has worked on updating, 
+strengthening, and expanding Agriculture 
+Production (Crop and Livestock) Criteria. 
+The aim was to offer guidance on the emissions 
+reductions required to transition to net-zero 
+and sustainable agriculture production and 
+keep it aligned with the most up-to-date 
+science and technologies. The Criteria propose 
+emissions reduction trajectories for the sector, 
+expand the scope to Certify not only UoP bonds 
+but also sustainability debt instruments and 
+entities, and incorporate safeguards for other 
+environmental impacts and social aspects. The 
+new versions were launched in 2024 and are 
+now available for Certification.49
+Additionally, as part of the food systems 
+work, Climate Bonds launched Alternative 
+Proteins Criteria in April 2025 and started the 
+development process for the entire Food Value 
+Chain Criteria, both of which will be available 
+for Certification in 2025.
+As the Alternative Proteins sector is growing 
+very rapidly it represents an excellent 
+opportunity for green investment in projects 
+and assets that reduce emissions from 
+traditional protein sources, such as livestock. 
+The Alternative Proteins Criteria provide the 
+first certification scheme focused on sustainable 
+protein alternatives, which will facilitate capital 
+flows to scale the sector and contribute to the 
+transformation of the food industry.
+Furthermore, the Food Value Chain Criteria 
+will address eight key factors identified 
+as emissions drivers across the food value 
+chain:
+ • Energy use
+ • Transport
+ • Buildings
+ • Cold chain
+ • Packaging
+ • Food loss and waste
+ • Sustainable sourcing
+ • Consumption patterns
+With these Criteria, Climate Bonds 
+demonstrates its commitment to promoting 
+science-based standards and alignment with a 
+net-zero future by increasing their applicability, 
+coverage, and impact in a strategic sector such 
+as the agrifood system.
+Collaborative projects
+New Agrifood Criteria from Climate Bonds 
+unlock investment opportunities for 
+climate action
+Climate Bonds has launched four new sets 
+of Agrifood Criteria, developed with support 
+from the Gordon and Betty Moore Foundation 
+through The Finance Hub. These science-
+backed tools empower investors, industry 
+leaders, and policymakers to drive real 
+transformation in the agrifood sector.
+For the first time, market-ready screening tools 
+outline transition pathways to mobilise capital 
+for reducing emissions and environmental 
+pressures in agriculture while fostering rural 
+economic development.
+Covering Agriculture Production (Crops 
+& Livestock), Alternative Proteins, the 
+Food Value Chain, and Deforestation- and 
+Conversion-Free Sourcing (DCF), these 
+Criteria provide forward-thinking solutions 
+tailored to industry needs and clear, expert-
+backed actions to align investments with 
+critical climate goals.
+By sharing these tools, Climate Bonds 
+reinforces its commitment to a net-zero  
+future and reshaping global food systems  
+for sustainability.
+Methane Abatement Financial Taskforce
+COP28 marked a turning point in the oil 
+and gas industry’s commitment to reducing 
+methane and flaring emissions. The Oil & Gas 
+Decarbonization Charter (OGDC) brought 
+together 50 companies, including 29 national 
+oil companies (NOCs), in a ground-breaking 
+commitment to eliminate methane and flaring 
+pollution, which was an unprecedented step 
+for a segment that had previously remained 
+largely outside global emission reduction 
+initiatives. Since then, the OGDC has expanded 
+to 54 companies, reinforcing its potential as 
+a key driver of industry-led climate action. 
+Additionally, the World Bank launched 
+the Global Flaring and Methane Reduction 
+Partnership’s Trust Fund (GFMR) to provide 
+NOCs with technical expertise and seed funding 
+for methane and flaring abatement projects, 
+further supporting the transition toward lower-
+emission oil and gas operations.
+Climate Bonds, sponsored by the Global 
+Methane Hub (GMH), is leading the Methane 
+Abatement Financial Taskforce (MAFT) 
+alongside the Environmental Defense Fund 
+(EDF), Columbia University, and other partners. 
+This initiative aims to develop guidance for 
+integrating methane abatement into oil and gas 
+debt structuring, exploring how debt capital 
+markets can accelerate investment in methane 
+mitigation projects. Climate Bonds has played 
+a pivotal role in this effort, helping to define 
+mitigation activities for investors, and oil and 
+gas companies, to structure financing that 
+aligns with fiduciary responsibilities and climate 
+goals. The forthcoming guidance will provide a 
+framework for scaling up methane mitigation 
+financing, with a particular focus on NOCs, 
+ensuring that capital seekers and providers can 
+confidently engage in transactions that drive 
+measurable emissions reductions.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 29
+8. Climate Bonds supports  
+local taxonomy development
+Climate Bonds provides expert guidance in 
+designing sustainable taxonomies, supporting 
+over 30 national and regional governments in 
+creating clear definitions and science-based 
+criteria for green economic activities aligned 
+with national priorities and the Paris Agreement.
+As pioneers in the field, Climate Bonds 
+launched the first green taxonomy in 2012, 
+which became the foundation for voluntary and 
+mandatory frameworks worldwide, and the 
+new gambit to combat greenwashing.
+As a trusted partner, Climate Bonds helps 
+countries develop taxonomies that bridge 
+the gap between financial markets and 
+sustainability goals. This work ensures that 
+taxonomies are not just theoretical concepts 
+but practical tools that drive real-world impact. 
+This involves close collaboration with 
+governments, international organisations, 
+multilateral development banks, development 
+agencies, regulators, and local experts, 
+ensuring each taxonomy is tailored to its 
+unique context while promoting global 
+interoperability. 
+For years, Climate Bonds has led the way in 
+green taxonomy development, focusing on 
+mitigation. Now, this expertise is expanding 
+into adaptation and resilience (A&R) to 
+accelerate global capital flows into resilience 
+investments, both through the 
+ innovative Climate Bonds Resilience Taxonomy 
+(CBRT) and the development of A&R objectives 
+under national taxonomies (e.g., Rwanda, 
+Brazil, and Senegal).
+In 2024, Australia, New Zealand, Thailand, 
+Rwanda, Brazil, and the Common Ground 
+Taxonomy (CGT) made the most significant 
+progress in Climate Bonds’ taxonomy work. 
+The key developments in each country are 
+summarised below:
+Australia
+Led by the Australian 
+Sustainable Finance Institute 
+(ASFI), the Australian 
+Taxonomy is a joint industry-
+government initiative developed in partnership 
+with the Commonwealth Treasury. 
+Building its experience with other sustainable 
+finance taxonomies globally, Climate Bonds 
+has provided technical assistance for the 
+development of the taxonomy’s technical 
+screening criteria including substantial 
+contribution, do no significant harm (DNSH,) 
+and minimum social safeguards (MSS) criteria. 
+The taxonomy was co-developed with experts 
+and stakeholders across the Australian 
+financial system in order to design credible, 
+usable, and internationally interoperable 
+criteria that could also be tailored and 
+adapted to the Australian context.  
+The initial phase of the taxonomy development 
+process that started in July 2023 and ended in 
+February 2025 focused on six priority sectors:
+ • Electricity generation and supply;
+ • Minerals, mining, and metals; 
+ • Built environment; 
+ • Manufacturing and industry;
+ • Transport;
+ • Agriculture and forestry.
+New Zealand
+The Centre for Sustainable 
+Finance (Toitū Tahua (CSF)) 
+is leading the effort to 
+design and develop the first 
+phase of the Aotearoa New Zealand (NZ) 
+Taxonomy with the support of Climate Bonds 
+as a technical partner. The work builds on 
+the Recommendations Report published 
+in July 2024, which provided an initial set 
+of recommendations for the design of the 
+Taxonomy.50 The report was developed by an 
+independent technical advisory group (ITAG) 
+convened by the CSF. Climate Bonds served 
+as a delivery partner for the project and 
+provided technical assistance to the ITAG for 
+the formulation of the recommendations based 
+on the organisation’s experience with other 
+benchmark taxonomies.
+Aiming to be interoperable with the Australian 
+Taxonomy, the NZ Taxonomy is initially focusing 
+on the design of technical screening criteria 
+for the agriculture and forestry sectors. It will 
+address two environmental objectives, namely 
+climate mitigation and climate A&R. In addition, 
+it will also cover DNSH and MSS criteria. 
+Furthermore, the Taxonomy will integrate the 
+knowledge and rights of iwi/Māori groups as a 
+transversal theme across the entire Taxonomy, 
+highlighting the leadership of Aotearoa New 
+Zealand in recognising the contribution 
+and rights of indigenous peoples and local 
+communities as custodians of biodiversity, and 
+as partners in its conservation, restoration, and 
+sustainable land use.
+Thailand
+In 2024, the development 
+of phase II of the Thailand 
+Taxonomy was initiated, 
+continuing work on phase 
+I, which was finalised in 2023. Climate 
+Bonds was selected by the International 
+Finance Corporation (IFC) and the 
+Deutsche Gesellschaft für Internationale 
+Zusammenarbeit (GIZ) in an open competition 
+as the main technical contractor for both 
+phases, and 2024 brought sectors such as 
+industry, agriculture, and construction to 
+the Thailand Taxonomy. The second phase 
+of development continues to utilise the 
+innovative ‘traffic lights’ scheme to create 
+not only a green label but also a transition 
+label to facilitate economic transformation 
+and attract investor funds to hard-to-abate 
+sectors. In phase II, Thailand’s taxonomy has 
+received several innovative elements. It is the 
+first taxonomy having sustainable aquaculture 
+practices and the first one having generic 
+criteria and thresholds that allow industries not 
+traditionally covered by this type of document 
+(e.g., light manufacturing industries that are 
+not significant sources of emission) to benefit 
+from the taxonomy. Phase I of the taxonomy 
+was also updated to include the production of 
+sustainable aviation fuels.
+Rwanda
+The second phase of the 
+Rwanda Taxonomy was 
+initiated and largely finalised 
+in 2024, a continuation of the 
+first phase initiated and finalised in 2023 and 
+presented at COP28. During the second phase, 
+sectors such as industry, waste management, 
+water, and information and communications 
+technology (ICT) were added. The Climate 
+Bonds team also developed roadmaps to 
+integrate the Taxonomy into green budget 
+tagging and lending policies for local 
+development institutions.
+An innovative mechanism for assessing the 
+substantial contribution of activity to A&R has 
+been integrated into the Rwanda Taxonomy 
+2024 for the first time. It was based on the CBRT 
+published in mid-2024, the first such detailed 
+document of its kind for labelling adaptation 
+investments. The methodology mechanism is 
+based on the use of 1,500 metrics distributed 
+among thematic clusters (building, energy, 
+ecosystems, etc.) and linked to the specific 
+natural hazards to which the Taxonomy user 
+wants to build resilience.
+
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 30
+Brazil
+The first phase of the  
+Brazilian Sustainable 
+Taxonomy (BST) is an initiative 
+led by the Brazilian Ministry of 
+Finance and supported by GIZ and the United 
+Nations Environment Programme Finance 
+Initiative (UNEP FI). On the environmental 
+front, Climate Bonds and its long-term 
+partner Ambire Global are providing technical 
+consultancy for the development of the criteria 
+for the objectives of climate change mitigation, 
+adaptation to climate change, and the 
+conservation, sustainable management, and 
+use of soil and forests.
+The BST is structured around priority sectors 
+that are crucial to Brazil’s environmental 
+and socio-economic landscape, selected on 
+their potential to substantially contribute 
+to environmental objectives, economic and 
+social relevance, and interoperability with 
+existing international taxonomies. In 2024, 
+the focus was on identifying key economic 
+activities through a robust quantitative 
+and qualitative approach, and developing 
+technical screening criteria to guide 
+sustainable investments. These criteria are 
+currently undergoing a two-phased public 
+consultation process to ensure transparency 
+and stakeholder engagement. The final 
+publication of the BST is expected in the 
+second half of 2025, representing a major step 
+forward in Brazil’s sustainable finance agenda.
+CGT 51
+In November 2024, the International Platform 
+on Sustainable Finance (IPSF) presented the 
+Multi-Jurisdiction Common Ground Taxonomy 
+(M-CGT), a comparison of the sustainable 
+finance taxonomies of China, the EU, and 
+Singapore. The scope of M-CGT builds on 
+the bilateral EU-China CGT , covering green 
+activities and their corresponding substantial 
+contribution criteria that meet the climate 
+change mitigation objective. The M-CGT 
+analysed and mapped a total of 110 activities 
+across eight focus sectors, supported by 
+Climate Bonds.
+The M-CGT serves as a technical reference 
+document for a wide range of market 
+participants including financial institutions, 
+corporates, investors, and external reviewers. 
+It allows them to assess what could be 
+considered green across the three jurisdictions 
+in scope, based on the activities, environmental 
+objectives, and criteria covered in the M-CGT . 
+The M-CGT will also serve as a reference for 
+jurisdictions that are developing their domestic 
+green taxonomies and has been designed 
+to accommodate the comparison of more 
+jurisdictional taxonomies in the future. This will 
+increase the number of taxonomies that are 
+interoperable and help facilitate cross-border 
+green capital flows.
+Projects in Cambodia, Fiji, Indonesia, Hong 
+Kong, Peru, and Senegal have also launched in 
+2024, with publications anticipated in 2025. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 31
+9. Certification at Climate Bonds  
+reinforces rigour 
+The Climate Bonds Standard 
+and Certification Scheme 
+experienced robust growth 
+of 42% in 2024, as Certified 
+volume rose to USD31.1bn 
+compared to USD21.9bn the 
+prior year. Cumulative Certified issuance to 
+the end of 2024 amounted to USD298.7bn, just 
+short of 10% of cumulative aligned green bond 
+volume to date. 
+The Certification of Japan’s two-tranche  
+GX transition bond (JPY1.6tn, USD11bn) in  
+early 2024 was the largest Certification against 
+the Climate Bonds Standard to date. The 
+deal was a major milestone in sovereign-led 
+transition finance, supporting advanced 
+sustainable technologies and early-stage 
+research and development.52 
+Other notable firsts in 2024 included the 
+Certification of the first Indian municipality 
+bond. Vadodara Municipal Corporation’s 
+INR1bn (USD12m), 5-year bond will finance 
+investments in water, waste management, 
+and flood resilience projects. Bloomberg data 
+records 47 local and regional government bond 
+issuers from India at the end of 2024, with 
+combined outstanding volume of USD900bn. 
+This level of autonomous funding offers a huge 
+opportunity for Indian municipality issuers to 
+leverage the green bond market to support a 
+pipeline of green mitigation, and adaptation 
+and resilience (A&R) expenditures.53
+Climate Bonds Certified deals originating from 
+Australia reached an all-time high, totalling 
+USD6.7bn or a 41% of aligned green volume, 
+reinforcing Climate Bonds’ important role in 
+the rapid growth of the Australian sustainable 
+finance market.  Annual aligned green volume 
+from Australia grew by 83% in 2024 reaching 
+USD16bn compared to USD8.8bn in 2023.  
+Among the issuers obtaining Climate Bonds 
+Certification was Firstmac, Australia’s largest 
+non-bank lending company to either owner 
+occupiers, or landlords for residential property. 
+The privately owned entity priced a pair of long 
+dated residential mortgage-backed securities 
+(RMBS), Certified against Climate Bonds 
+Low-Carbon Buildings Criteria. The AUD306M 
+(USD203.5m) 2055 deal was priced in June, 
+followed by the AUD240m (USD156.2m) 2056 
+in November. The proceeds of both deals were 
+earmarked to finance or refinance buildings 
+with rooftop solar installations.  
+In June 2024, South Australia’s main electricity 
+distributor, South Australian Power Network 
+(SAPN) priced a 3- and 8.5-year dual tranche 
+deal with combined volume of AUD495m 
+(USD330m). The deal was Certified against 
+Climate Bonds Electric Grids and Storage 
+Criteria with proceeds earmarked to support 
+SAPN’s transition to a distributed and 
+decarbonised energy system, and adaptation 
+and resilience projects, such as network 
+bushfire readiness to maintain and enhance 
+grid resilience and reliability.  
+Climate Bonds Standard V4.2 reinforced the 
+rigour and expanded the scope of Certification to 
+planned assets and assets under development.54 
+The new DCF Entity Certification label was 
+also introduced in 2024, enabling Agrifood 
+entities to showcase their deforestation and 
+conversion-free supply chains. 
+Looking ahead to 2025, the Climate Bonds 
+Standard and Certification Scheme is set to 
+evolve further, integrating resilience criteria 
+to address climate adaptation and strengthen 
+market frameworks. Climate Bonds is working 
+with interested parties in obtaining the 
+Entity Certification label, setting a precedent 
+for company-level alignment with net-zero 
+pathways. Climate Bonds is also focused on 
+applying its Sector Criteria in hard-to-abate 
+sectors, supporting the decarbonisation of 
+critical industries such as cement and steel. 
+The revamped Climate Bonds Agriculture 
+Production Criteria launched in 2024, 
+introduced innovative science-based transition 
+pathways for several important commodities. 
+These developments reaffirm Climate Bonds’ 
+commitment to driving robust standards and 
+mobilising finance at the scale required for 
+climate action. 
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 32
+10. Capacity building and technical assistance 
+offers guidance and customised solutions 
+The Capacity Building and Technical Assistance 
+(CBTA) team offers expert guidance on GSS+ 
+bond issuance, transition planning, and 
+sustainable finance lending criteria. CBTA take 
+a science-based approach, aligning with a 
+1.5°C pathway, ensuring best practices while 
+customising solutions to fit the unique needs 
+of each market and region. With Climate 
+Bonds’ extensive global network and deep 
+understanding of diverse policy and regulatory 
+landscapes, CBTA deliver tailored, high-impact 
+support for every client. Below is a brief 
+overview of the comprehensive scope of CBTA’s 
+work in 2024: 
+Case study 1: Development of 
+an e-learning course 
+The project achieved 
+significant success in advancing 
+subnational sustainable 
+finance, with key outcomes 
+including the successful 
+delivery of thematic workshops, webinars, 
+and development of e-learning courses. These 
+initiatives have made substantial contributions 
+to building capacity among stakeholders, 
+particularly in the areas of sustainable finance, 
+nature-based solutions (NbS), and ESG risk 
+management. Below are some of the key 
+successes that highlight the overall impact of 
+the project. 
+Successful stakeholder engagement and 
+knowledge transfer 
+One of the greatest successes of the project 
+was its ability to engage a diverse and wide-
+ranging group of stakeholders. A total of 264 
+participants attended the thematic workshops, 
+which were held across four countries, while 
+482 participants attended the webinars. 
+This level of participation highlights the 
+project’s ability to attract the right audience, 
+including public officials, project developers, 
+and financial sector representatives, all of 
+whom play a crucial role in driving climate-
+resilient investments at the subnational level. 
+These workshops and webinars provided 
+practical insights, case studies, and actionable 
+knowledge that stakeholders can apply in their 
+day-to-day work, greatly enhancing their ability 
+to integrate NbS into investment projects and 
+adopt sustainable financial practices. 
+High-quality, relevant content, and 
+practical applications 
+The project’s ability to deliver high-quality, 
+relevant content was also a major success. 
+Participants consistently highlighted the 
+practical nature of the materials, the value of 
+real-world case studies, and the application of 
+financing mechanisms that could be directly 
+integrated into their work. The inclusion 
+of sector-specific strategies, such as those 
+tailored to regenerative agriculture, further 
+added value and demonstrated the project’s 
+commitment to addressing the diverse needs of 
+the stakeholders involved. 
+Commitment to long-term  
+capacity building 
+A key achievement was the project’s focus 
+on building long-term capacity, rather than 
+merely offering one-time training. The 
+sustained engagement through workshops, 
+webinars, and e-learning courses contributed 
+to a continuous learning process. This 
+demonstrates the project’s impact not only in 
+terms of immediate knowledge transfer but 
+also in fostering an environment of ongoing 
+professional development in the field of 
+sustainable finance. 
+Case study 2: Transition  
+plan assessments  
+Climate transition 
+plans are vital tools for 
+companies to demonstrate 
+their commitment to a 
+1.5°C-aligned, net-zero 
+economy. Given the urgency to 
+reverse rising greenhouse gas emissions, many 
+companies are re-imagining their operations 
+in the context of a net-zero future. As more 
+companies seek guidance on this critical 
+transformation, Climate Bonds’ expertise on 
+the topic is increasingly sought after. Climate 
+Bonds’ collaborative cross-team approach 
+which includes research, taxonomy, and policy 
+expertise, provides organisations with a clear, 
+actionable roadmap for what a credible and 
+ambitious transition plan should look like. 
+From corporates to financial institutions, 
+CBTA has collaborated on navigating the 
+complexities of decarbonisation across supply 
+chains and all emission scopes. Some of the 
+most challenging sectors have been tackled, 
+including steel, cement, chemicals, energy 
+industries, and agriculture, leading the way in 
+transforming hard-to-abate industries toward 
+a sustainable future. Below is an example of 
+the methodology employed in a project where 
+CBTA supported transition.  
+Gap assessment of existing sustainable 
+finance offerings  
+As part of this successful project, sustainable 
+lending criteria were developed that empowered 
+financial institutions to elevate their climate 
+ambitions, starting with assessing each 
+institution’s current sustainable finance offerings 
+and evaluating their engagement with transition 
+efforts. Where gaps were identified, tailored 
+solutions were designed, ensuring Climate 
+Bonds’ support was customised to meet the 
+unique needs and business activities of each 
+institution. The approach involved closing 
+these gaps by benchmarking against Climate 
+Bonds’ science-based Criteria, motivating 
+financial institutions to set more ambitious 
+targets, particularly in hard-to-abate sectors, 
+and align their strategies with climate goals.  
+Establish milestones and KPIs for corporate 
+transition planning for SMEs that make up 
+the supply chain of global brands
+Through the successful implementation of 
+Climate Bonds’ science-based, 1.5°C aligned 
+Criteria, CBTA supported small and medium-
+sized enterprises (SMEs) in selecting material key 
+performance indicators (KPIs) and targets that 
+comprehensively addressed emissions scopes 
+1, 2, and 3, both in the short, medium, and long 
+term. A critical aspect of the approach was 
+integrating regional nuances and understanding 
+the diverse needs of investors, which allowed 
+CBTA to craft transition plans that significantly 
+enhanced SME access to sustainable bank 
+financing. This work helped the clients gain a 
+competitive edge by aligning their operations 
+with climate elements, while positioning them 
+to attract greater global brand interest and 
+financing opportunities. 
+Mapping the role and impact of the 
+carbon market on driving transition  
+Given that many organisations are citing the use 
+of carbon markets to drive transition, the CBTA 
+team performed an analysis of its effectiveness. 
+One of the research papers analysed how carbon 
+markets can be used to provide a funding source 
+for decarbonisation activities to spur innovative 
+energy transition solutions and the risks 
+associated with doing so.  
+e.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 33
+11. Climate Bonds teams around the world
+Climate Bond’s work involves many teams 
+around the world who are collectively 
+focused on identifying opportunities, 
+addressing difficulties and concerns, 
+and finding solutions with one collective 
+ambition: to mobilise global capital for 
+climate action.  
+The main body of this report has relied upon 
+the data collected by the Market Intelligence 
+Data team which is then analysed by the 
+Market Research team to identify market 
+developments and trends. In addition to 
+offering an in-depth analysis of the GSS+ 
+market landscape, trends, and outlook, this 
+report has highlighted the work done by the 
+Standards, Taxonomy, Certification, and CBTA 
+teams. This section provides a brief overview 
+of the work undertaken by many of the other 
+teams at Climate Bonds. 
+Market Research Team 
+The Climate Bonds Market Research team 
+produces standalone reports while also 
+supporting a wide range of varied projects 
+which endeavour to serve Climate Bonds 
+ambition, collaborating with partners both 
+internally and externally. The Market Research 
+team translates Climate Bonds definitional 
+work into solutions for issuers, investors, and 
+policy makers.
+The Climate Bonds Sustainable Debt Summary 
+and Global State of the Market research report 
+series, which includes both global and region/
+country specific reports, describe the shape 
+and size of the investible opportunity set. This 
+data illustrates to asset owners and asset 
+managers that there are investable climate, 
+social, and sustainable opportunities, which 
+they can allocate capital to.55
+Additionally, the Market Research team 
+conducts market, sector, country, and product 
+analysis to inform standalone and collaborative 
+reports. More recently the team has assessed 
+transition plans for priority decarbonisation 
+sectors and financial institutions against 
+proprietary frameworks, to support investors in 
+designing their own frameworks for identifying 
+and evaluating transition investments, examine 
+the quality of post-issuance reporting and 
+make recommendations for improvements.
+Market Intelligence Data Team 
+2024 highlights:
+The Market Intelligence Data team had another 
+busy year screening labelled issuance from 
+around the globe. The total number of bonds 
+screened increased YOY by 25% with green 
+increasing by 4%, S&S by 44%, and SLBs 
+declining by 9%. The screened data creates the 
+three data products that are part of the Market 
+Intelligence Data Subscription Service which 
+are delivered to clients monthly. The data 
+team supply asset managers, index providers, 
+issuers, NGOs, and academics with the data 
+to meet their various use cases such as index 
+eligibility, portfolio profiling, and research. In 
+addition to regular screening activities, the 
+team also released the updated green bond 
+methodology which improved interoperability 
+with the market, especially for the cement, 
+steel, and blue economy sectors. 
+Outlook for 2025:
+Following on from the release of the updated 
+green bond methodology, 2025 has already 
+seen the release of the new S&S methodology 
+(detailed on page 16), with enhanced criteria 
+Policy Analysis & Advocacy 
+We shape the future of sustainable 
+finance through:
+ • In-depth global and country-level policy  
+research and analysis
+ • Strategic advisory to governments, regulators, 
+central banks, and cities
+ • Active engagement with policymakers to  
+influence climate finance agendas
+ • Sharing insights through reports, policy briefs,  
+blogs, and webinars
+Standards & Taxonomies  
+Setting the benchmarks  
+for credible green finance:
+ • Defining robust Green Bond Standards
+ • Guiding investments with the Climate Bonds Taxonomy
+ • Advising on regional standards and  
+taxonomies to support local markets
+ • Leading thought on green finance  
+frameworks globally
+Certification  
+Ensuring credibility  
+and integrity in green finance:
+ • Climate Bonds Standard for rigorous  
+climate alignment
+ • Certification of green bonds, loans,  
+and debt instruments
+ • Entity-level certification for climate leadership
+ • Oversight of third-party verifiers for trusted assurance
+Advisory & Capacity Building 
+Empowering markets to scale 
+climate finance:
+ • Technical assistance for issuers, governments, 
+investors, and development banks
+ • Tailored training programmes and workshops
+ • Portfolio reviews to align assets with taxonomies 
+and standards
+ • Expert guidance on GSS+ Bonds Frameworks
+Market Development  
+Catalysing green finance 
+ecosystems worldwide:
+ • Supporting market growth in Asia-Pacific,  
+Africa, Latin America, and the EU
+ • Connecting stakeholders through events, 
+conferences, and dialogues
+ • Building partnerships to drive local green  
+finance initiatives
+ • Strategic advisory on localised green  
+finance strategies
+Investor Engagement  
+Mobilising capital for  
+a sustainable future:
+ • Providing green bond data, analysis,  
+and advisory services
+ • Tools and insights to help investors drive  
+climate-positive outcomes
+ • Ensuring environmental integrity  
+through rigorous standards
+ • Convening a global network of finance leaders, 
+issuers, and policymakers
+Market Intelligence & Research 
+Delivering data-driven insights  
+for climate action:
+ • Climate Bonds Green Bonds Dataset for robust 
+market tracking
+ • Research and analysis on green bond trends  
+and developments
+ • Data provision for indices, financial platforms,  
+and investors
+ • Highlighting investment opportunities through 
+targeted reports
+Climate  
+Bonds 
+activities
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 34
+for the assessment of UoP in S&S, as well 
+as integration of criteria around affordable 
+housing, in addition to environmental and 
+social resilience. A new version of the SLB 
+methodology is anticipated, which will review 
+the current alignment rationale where required. 
+Thought Leadership
+Climate Bonds expands its guidance on 
+credible transition plans
+Following the earlier publication of a checklist 
+for credible corporate transition plans, 
+Climate Bonds is shortly to release best 
+practice guidance on bank transition plans, 
+and on sovereign transition plans.56 Transition 
+plans are set to become a key source of 
+information for investors and lenders seeking 
+to finance the transition to a low-carbon, 
+climate-resilient economy, whether through 
+labelled instruments such as SLBs or SLLs, 
+general purpose debt including corporate 
+and sovereign lending, or equity. Transition 
+planning processes can also help increase 
+national climate ambition. Investment planning 
+that prioritises private finance mobilisation 
+can reveal greater capacity for climate action, 
+allowing more ambitious target setting. 
+This work builds on existing guidance and 
+assessment frameworks, as Climate Bonds 
+seeks to promote consistency in market 
+definitions, guidance, and standards.
+Policy 
+Policy at Climate Bonds is managed by the Global 
+Policy Team (GPT) and the EU Policy Team, both 
+of which work collaboratively internally and 
+externally to maximise Climate Bonds’ impact 
+and influence on the policy landscape. 
+Global Policy Team 
+The GPT supports policymakers globally 
+with the objective of accelerating sustainable 
+investment and capital market flows into GSS+ 
+bond markets. Climate Bonds works at all 
+policymaking levels from international to local 
+endeavouring to tilt global financial systems to 
+deliver climate action.
+Hard-to-abate transition on the global agenda
+In 2024, the G20 sustainable finance working 
+group specifically focused on the transition of 
+hard-to-abate sectors. Climate Bonds’ input 
+paper The role of policymakers in mobilising 
+private finance to ensure a credible and just 
+transition in steel and cement highlighted 
+this decade as the best chance for a stable 
+transition in these sectors.57
+There is increasing recognition of the role of 
+development finance institutions (DFIs) in 
+mobilising private capital. Climate Bonds’ 
+policy paper The Role of DFIs in Accelerating 
+the Mobilisation of Green Capital sets out 
+key recommendations for European DFIs, 
+shareholders, and the European Commission, 
+which can unlock greater mobilisation 
+potential to deliver climate impacts.58 The GPT 
+are now actively working with development 
+banks to help them to develop tailored de-
+risking policies. 
+However, public sector risk-sharing is limited. 
+Policymakers and investors will need to 
+identify innovative ways to de-risk key climate 
+investments. As seen at COP29, the insurance 
+sector is increasingly being called on to fulfil 
+this role and de-risk climate resilience and 
+transition investments.59  
+The EU Policy Team  
+The EU team provides thought leadership, 
+research, and advocacy on sustainable finance 
+regulations, including the EU Taxonomy, EU 
+green bond standards, and transition finance. 
+Through partnerships and stakeholder 
+engagement, the team supports the 
+development of credible, science-based criteria 
+to ensure investments drive meaningful climate 
+action.
+The EU team is actively building networks in 
+Brussels and with key institutions, launching 
+its first Climate Bonds Connect event at the 
+European Parliament in 2024, with the support 
+of 30% of the European political parties. 
+Climate Bonds’ work is gaining EU-level 
+recognition, and in 2024, its 20 Policy Levers 
+for Decarbonising Buildings in Europe report 
+was the first Climate Bonds publication to 
+feature on the European Commission’s BuildUP 
+portal.60
+In an evolving EU political landscape, Climate 
+Bonds is refining its positioning and messaging 
+to push for stronger climate action, including 
+ensuring fossil fuel companies take methane 
+abatement seriously. The team produces 
+positions on EU legislative files such as the 
+Omnibus proposal, competitiveness compass, 
+and Clean Industrial Deal.
+China Team 
+2024 Highlights
+In 2024, Climate Bonds China continued 
+to support the development of a robust 
+transition finance taxonomy at both national 
+and subnational levels in China. Climate 
+Bonds produced research reports analysing 
+the transition investment landscape and 
+identifying implementation challenges in 
+key sectors such as steel, power, and the 
+agricultural-food system. In collaboration 
+with the Climate Bonds policy and market 
+research teams via targeted market briefings 
+and engagement, Climate Bonds endeavours to 
+foster high-quality GSS+ market development 
+in Greater China, ensuring that its practices 
+align more closely with international 
+standards.61,62
+2025 Outlook 
+In 2025, the China team will support the further 
+development of incentive structures for China’s 
+green and transition finance market. Climate 
+Bonds China plans to launch an initiative 
+focused on A&R finance, with comprehensive 
+research into the necessary policy frameworks, 
+incentive structures, and the continued 
+development of related taxonomies. The China 
+team will continue to promote innovative 
+actions and financial instruments to catalyse 
+decarbonisation financing in high-emitting 
+sectors, which will involve research into the 
+power market and coal transition mechanisms, 
+both in China and emerging economies. 
+India Team 
+Climate Bonds in South Asia engages with 
+policymakers, regulators, financial institutions, 
+businesses, and investors to advance 
+sustainable finance and manage climate risks. 
+In India, the team’s work, while primarily 
+focused on India, also expands to other 
+countries in the region, promoting credible 
+transition planning and climate risk analysis, 
+encouraging capacity building, and supporting 
+the development of policies and taxonomies to 
+ensure market integrity through Certification.
+Climate Bonds aims to drive financial flows by 
+fostering investor engagement and creating 
+narratives that build consensus toward a 
+resilient and sustainable finance market in 
+India. The India team’s efforts also focus on 
+enhancing knowledge and understanding, and 
+awareness of green, transition, and resilience 
+(GTR) concepts, together with the associated 
+GSS+ instruments, among key stakeholders 
+including financial institutions, corporates, and 
+pension and insurance funds.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 35
+From a policy perspective, Climate Bonds 
+is working with regulators on climate risk 
+and transition, and other topics such as 
+proposing mandatory carve-outs, fiscal 
+incentives, guarantees, and mechanisms 
+such as carbon capture and storage (CCS) 
+into sustainable finance frameworks. Climate 
+Bonds involvement includes contributing to 
+the technical committee on climate finance 
+taxonomy, ensuring that taxonomies reflect 
+emerging best practices and support the 
+development of a credible and harmonised 
+sustainable finance market. Additionally, 
+Climate Bonds is in the process of establishing 
+a resilience programme to further strengthen 
+the market’s capacity to address climate-
+related risks and opportunities.
+The India team’s engagement spans national, 
+sub-national, and international levels, including 
+participation in multi-stakeholder assemblies 
+such as the G20 and COP . Climate Bonds’ 
+leadership in India is reflected by its presence 
+on influential policy committees on climate risk 
+and finance, including those under IFSCA, Niti 
+Aayog, and the Ministry of Finance; ensuring its 
+work continues to shape the broader sustainable 
+finance agenda in the region.
+Japan Team 
+2024 Highlights
+In 2024, the Japan team made significant 
+strides in advancing credible transition finance 
+and shaping national policy discussion. 
+Policy influence and GX Bond Certification: 
+Climate Bonds guidelines were referenced by 
+METI in official documents, and Climate Bonds 
+CEO Sean Kidney was appointed as an advisor 
+to the GX Acceleration Agency. Climate Bonds 
+provided technical input to METI, MOF, and 
+MOE on the GX Strategy for energy transition 
+and transition finance. Climate Bonds 
+Certified Japan’s first climate transition bond, 
+positioning Japan’s sovereign issuance within 
+international best practices and excluding LNG 
+and operational use of ammonia co-firing from 
+UoP .63,64
+Corporate Transition Guidance: The Japan 
+team developed the Transition Strategy Toolkit 
+with IGES and hosted a high-impact webinar 
+with participants across finance, corporate, and 
+consulting sectors.65 
+Investor Engagement: The Japan team held 
+bilateral dialogues and various roundtables 
+with asset managers (e.g., GPIF, Nippon Life, 
+Dai-ichi Life) and co-hosted sessions with 
+AIGCC and PRI to drive credible transition 
+assessments.66
+Municipality collaboration: Climate Bonds 
+published a Joint Statement with the Hokkaido 
+Government and the City of Sapporo, which 
+aims to promote Green Transformation (GX) and 
+the Asset Management Special Zone in Hokkaido 
+with Regional Revitalisation in Hokkaido.67  
+Outlook for 2025 
+In 2025, Climate Bonds Japan will focus on 
+driving systemic change toward a credible 
+and ambitious 1.5°C-aligned transition, with 
+particular emphasis on reducing LNG reliance 
+to ensure energy security, accelerating 
+decarbonisation in the energy sector, and 
+promoting methane reduction. 
+Climate Bonds Japan’s work will centre around 
+four key areas. 
+ • Policy engagement: Advocating for the 
+removal of LNG from government policies 
+and support schemes, and promoting the 
+adoption of transition finance policies that 
+align with international standards. Through 
+close engagement with METI, MOF, MOE, 
+and GX Acceleration Agency, Climate Bonds 
+aims to influence Japan’s policies and key 
+regulatory frameworks. 
+ • Investor mobilisation: Climate Bonds 
+will strengthen the capacity of Japanese 
+investors, including banks, asset owners, 
+and asset managers, to integrate transition 
+assessments and decarbonisation targets 
+into their investment strategies. 
+ • Corporate transition: Climate Bonds 
+will work directly with high-emission 
+corporations, particularly in the electric 
+utilities and gas sectors, to support the 
+development of credible, science-aligned 
+transition plans.  
+ • Local government collaboration: Climate 
+Bonds Japan team will continue engagement 
+with local governments to support the 
+scaling of revitalisation through renewable 
+energy, regional energy efficiency, and green 
+investment pipelines, ensuring alignment 
+with international standards and attracting 
+both domestic and international capital. 
+Latin America and the 
+Caribbean Team 
+2024 Highlights
+G20 Engagement: Climate Bonds, as a 
+knowledge partner for the Brazilian G20 
+presidency, contributed with an input paper 
+emphasising the crucial role of policymakers 
+in mobilising private finance to support a 
+credible and just transition in the steel and 
+cement sectors. Presented during the third 
+meeting of the Sustainable Finance Working 
+Group (SFWG) in Belém, the paper served as 
+a key reference being cited in the 2024 G20 
+Sustainable Finance Report. 
+Latin America and Caribbean (LAC) Stock 
+Exchange network: Last year Climate Bonds 
+forged a partnership with 10 stock exchanges 
+in LAC, which are highly relevant for the 
+development of the sustainable market in the 
+region. Through the signature of agreements, 
+stock exchanges have committed to collaborate 
+with Climate Bonds to promote and reinforce 
+their sustainable market. 
+Adoption and implementation of the 
+Colombian Green Taxonomy (TVC): Climate 
+Bonds successfully advanced the adoption and 
+implementation of the TVC within Colombia’s 
+financial and real economy sectors by building 
+capacity through 38 training sessions that 
+engaged 2,700 participants, and by developing 
+33 tailored tools to support key actors 
+throughout the implementation process. 
+Through the technical assistance processes, 
+COP334.7bn was mobilised toward green 
+and sustainable projects. This achievement 
+marks a significant milestone in strengthening 
+sustainable finance practices and the greening 
+of the financial system in Colombia.
+Outlook for 2025
+The LAC region will play a pivotal role in 
+sustainable finance, particularly as it prepares to 
+host COP30 in the Brazilian Amazon. Additionally, 
+emerging markets such as Chile, Peru, and Brazil 
+will introduce their local green and sustainable 
+taxonomies, while others like Panama, Costa 
+Rica, and the Dominican Republic will advance 
+in their taxonomy implementation.
+Building on this momentum, the LAC team will 
+continue to expand its presence and support 
+in the region, strengthening its role in the 
+development of sustainable finance frameworks. 
+By fostering collaboration, driving innovation, 
+and engaging with key stakeholders, the team 
+will be well-positioned to contribute to the 
+region’s growing sustainable finance ecosystem 
+in 2025 and beyond.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 36
+Collaboration at Climate Bonds
+Collaboration lies at the heart of Climate 
+Bonds’ ethos, which can take the form of 
+internal collaboration across teams and/or 
+working with external partners. The Mobilizing 
+sustainable finance for methane abatement 
+programme, funded by the Global Methane 
+Hub, is a great example of Climate Bonds’ 
+collaborative initiatives. The two-year project, 
+with a global reach which involves almost 
+every team across Climate Bonds, also involves 
+partnerships with a multitude of external 
+experts in the field; the Climate Policy Initiative 
+being one of the key partners in this work.
+The project goal is a reduction in methane 
+emissions and increased methane abatement 
+finance in line with 1.5-degree scenarios 
+through facilitating finance flows to activities 
+and entities that are cutting methane emissions 
+in key sectors, including fossil fuel energy, 
+agriculture, and waste.
+Climate Bonds aims to promote thought 
+leadership via advisory groups and events e.g., 
+webinars, conferences, and lunch and learn 
+sessions, which have been scheduled to take 
+place over the duration of the project.
+Stakeholder engagement activities have 
+been, and will continue to be, held over 
+the course of the project. Events that have 
+already taken place to date include COP side 
+events (November 2024), Verifiers Assurance 
+Roundtable (November 2024), and the China 
+Sustainable Investment Forum seminar 
+(December 2024).
+As the first year of the project draws to a close, 
+several reports are due to be published. Those 
+that have been published from teams across 
+Climate Bonds involve thought leadership, 
+policy, market research, standards, taxonomy, 
+and many of the regional teams. Subject 
+matter and details of reports published to-
+date include:
+Transition Finance Framework & Assessment 
+Guidance Developed. Climate Bonds 
+published a report on lessons learned from 
+bank disclosures (January 2025), which is 
+a stocktake on the state of bank net-zero 
+disclosures, highlighting best practices and 
+areas for improvement. 68
+Policy Research. Three Opportunities in 
+Japan for 2025 gave a new year’s reflection on 
+green transformation where Climate Bonds 
+issued a joint statement with Sapporo City 
+and Hokkaido on GX promotion and regional 
+revitalization.69 
+Benchmarking methane in transition plans: 
+Published the Transparency & Reporting in the 
+GSS Bond Market which is a comprehensive 
+study of post-issuance reporting in the GSS 
+bond market, aimed at enabling a healthy and 
+transparent market.70
+Climate Bonds values such an opportunity to 
+investigate, research, reporting, and influence 
+the relatively unexplored, yet critical, area of 
+methane abatement. As work continues in this 
+field, further publications and related events 
+will be forthcoming.
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 37
+12. Outlook 
+Aligned GSS+ volume had 
+reached USD5.7tn by the end 
+of 2024 and was anticipated 
+to break through the USD6tn 
+mark by mid 2025. That said, 
+there is still enormous untapped potential for 
+this market, with aligned cumulative figures 
+representing just 4% of a growing global debt 
+market as of year-end 2024, and supply and 
+demand imbalances persisting in the primary 
+markets.71 The gap between the USD6.9tn 
+issued at year-end 2024 and the USD5.7tn 
+meeting the requirements of Climate Bonds 
+Dataset Methodologies suggests there is an 
+opportunity for issuers to be more ambitious 
+and embrace greater rigour in their planning 
+and disclosure.
+The green bond market continues to thrive with 
+labels such as blue and transition continuing 
+to develop and adding to the diversity of the 
+investible opportunity set. The leadership being 
+shown by sovereign issuers through new and 
+repeat issuance is guiding the growth of GSS+ 
+markets around the globe raising the profile 
+of decarbonisation plans and encouraging 
+crowding in from the private sector. 
+Around half of all debt issuing nations have 
+now mobilised the GSS+ market which suggests 
+that governments are prioritising expenditures 
+with green and social purpose. Social and 
+sustainability labels have been used to support 
+inclusive, sustainable growth contributing to a 
+just transition, and the success of these labels 
+in EM demonstrates the influence that policy 
+support can have on market growth. Climate 
+Bonds expects the following themes to shape 
+and drive the GSS+ market in 2025:
+1. Government defence 
+spending and energy security. 
+As noted in the policy section 
+while not a new theme as such 
+Climate Bonds believes that, 
+partially driven by the on-going unpredictable 
+political landscape, there will be a continued 
+focus on defence sector spending and shoring 
+up national energy security.72,73 As the majority 
+of national budgets are stretched, funding for 
+both of these areas could lead to an increased 
+supply of related GSS+ bonds.
+2. (Re-) Issuance triggered by 
+a steep maturity schedule.  
+The GSS+ bond market is 
+reaching a coming-of-age 
+moment which means that 
+many of the GSS+ bonds 
+issued in past years are scheduled to mature. 
+All the GSS+ labels face a significant upcoming 
+maturity profile between 2025–2030, the 
+percentage of each label due to expire is 
+between 40-48% (Green 40%, Social 48%, 
+Sustainability 47%, SLB 43%) together 
+amounting to 43% of the total aligned GSS+ 
+market outstanding at the end of 2024. By 
+country over the next three years China, South 
+Korea, and France are scheduled to have the 
+largest amounts of aligned GSS+ debt mature. 
+By issuer type development banks, financial 
+corporates, and government-backed entities 
+are those that account for the largest shares 
+of the upcoming maturity schedule, and they 
+have also been the most prolific issuer type 
+by volume and deal count which bodes well 
+for the potential issue profile. Auspiciously, 
+the experience of issuers attests to the 
+authenticity of the market, given that many 
+will have returned to it in the interim, and will 
+continue to depend on it to refinance with 
+like-for-like instruments as with other fixed 
+income markets.
+3. Transition finance 
+framework assessment and 
+validation. Climate Bonds is 
+participating in, contributing 
+to, and supporting the 
+development of an increasing number 
+of financial institution transition-finance 
+framework assessments. Climate Bonds is 
+responding to a rising demand for external 
+validation of transition-finance frameworks 
+across the financial market spectrum. Market 
+participants endeavour to enhance the 
+credibility of their investment decision-making 
+process by collaborating with external and 
+independent partners to seek their expertise in 
+the field.
+4. Sustainability-linked 
+bonds can be scaled. While 
+SLBs are by far the smallest 
+segment of the GSS+ market 
+they continue to show potential 
+for scale. More issuers are 
+endeavouring to uplift the quality of the market 
+by referencing credible transition plans in their 
+selection of KPIs and SPTs, with the support 
+and guidance of Climate Bonds and others. 
+Sovereign SLB issuance could be a catalyst for 
+growth in this market, as with other GSS labels, 
+which is given impetus by the recent SLB issue 
+from the Thai government and the planned SLB 
+sovereign issue from Slovenia.74
+5. A&R being further 
+integrated into the 
+sustainable debt market. 
+The damaging effects of 
+global warming are being 
+felt with growing frequency 
+and severity, which according to the IPCC 
+affects approximately 3.3-3.6 billion people 
+living in areas highly vulnerable to climate 
+change. Major investment is required to build 
+resilience against climate-related impacts, yet 
+there is a substantial gap in A&R financing. 
+Private capital has a vital role to play, with the 
+sustainable debt market offering a significant 
+opportunity to bridge the A&R financing gap. 
+To this end, the Climate Bonds Resilience 
+Taxonomy (CBRT) was published in 2024, 
+which aims to enable a convergence between 
+the social and green themes, promoting the 
+eligibility of many social expenditures for larger 
+green programmes of issuers to support further 
+growth in the GSS+ market. 75
+GSS+
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 38
+Appendix 
+Scope of analysis 
+This report includes four sustainable debt 
+themes based on the projects, activities, 
+and expenditures financed: green, social, 
+sustainability, and SLB. The GSS+ themes can 
+be described as follows: 
+Green: dedicated environmental benefits 
+(captured since 2012). 
+Social: dedicated social benefits  
+(captured since 2020). 
+Sustainability: green and social  
+benefits combined into one instrument 
+(captured since 2020). 
+SLB: changes in coupon (almost always 
+step-ups) linked the fulfilment of key 
+performance indicators (KPIs) against entity 
+level sustainability performance targets (SPTs) 
+(captured since 2021). 
+Transition bonds
+Historically, Climate Bonds 
+recorded but did not screen 
+bonds bearing the transition 
+label. As of January 2024, 
+Climate Bonds stopped reporting transition 
+bonds as a separate category but regards them 
+as a sub-set of the green label. Climate Bonds 
+now adds such bonds to the Climate Bonds 
+Green Bond Dataset, and screens them against 
+its Green Bond Dataset Methodology.76
+Methodology overview 
+This report draws on three Climate  
+Bonds datasets: 
+1. Green Bond Dataset (GBD) 
+2. Social and Sustainability Bond Dataset (SSBD) 
+3. SLB Dataset (SLBD)
+Bonds meeting the requirements outlined in 
+Climate Bonds’ screening methodology qualify 
+for inclusion in the datasets and are classified 
+as aligned. Labelled bonds for which there is 
+not enough information to determine eligibility 
+for dataset inclusion are classified as pending 
+until sufficient disclosure is available to decide. 
+Bonds failing to meet the requirements of 
+Climate Bonds’ screening methodology are 
+classified as non-aligned and are excluded from 
+the datasets.
+Green, social, and sustainability bonds 
+captured by Climate Bonds meeting the 
+requirements outlined in its screening 
+methodology qualify for inclusion in the 
+datasets and are classified as aligned. 
+Labelled bonds for which there is not enough 
+information to determine eligibility for dataset 
+inclusion are classified as pending until 
+sufficient disclosure is available to decide. 
+Bonds failing to meet the requirements of 
+Climate Bonds’ screening methodology are 
+classified as non-aligned and are excluded 
+from the datasets.
+SLBs are assessed according to Climate 
+Bonds Sustainability-Linked Bond Dataset 
+Methodology (SLBD Methodology) and classified 
+according to four levels of alignment.77 
+1. Fully aligned: SLB targets cover all material 
+sources of emissions and are aligned with the 
+relevant pathway.
+Green, social, and sustainability bonds Aligned Pending Excluded
+Cumulative USD billion  
+as of 31 December 2024
+5.7tn 26.1bn 1.2tn
+SLBs Fully aligned Strongly aligned Aligning Not aligned
+Cumulative USD billion 
+as of 31 December 2024
+49.1bn 2.5bn 4.7bn 275.5bn
+2. Strongly aligned: SLB targets cover all 
+material sources of emissions and will be 
+aligned with the relevant pathway by 2030. 
+3. Aligning: SLB targets cover all material 
+sources of emissions, are aligned with the 
+pathway on a % reduction basis, and the issuer 
+has the basic tenets of a transition plan. 
+4. Not aligned: SLB targets fail to meet any of 
+the above criteria, or do not meet the other 
+requirements detailed in the SLBD Methodology.
+As Criteria are developed, Climate Bonds will 
+update its GBD methodology and then begin 
+screening bonds from issuers in those sectors 
+for inclusion, whether labelled as transition 
+or as green. The Climate Bonds Taxonomy 
+defines the assets and activities that are 
+aligned with a 1.5-degree pathway, accepting 
+financing with either label. 
+List of acronyms 
+A&R: adaptation and resilience 
+ABS: asset-backed securities 
+AFFLU: agriculture, forestry, food,  
+and land use 
+CBS: Climate Bonds Standard
+CBS v4.2: Climate Bonds Standard V4.2 
+DM: developed market 
+EM: emerging market 
+ESG: environmental, social, and governance 
+EU: European Union 
+GBD: green bond dataset 
+GBP: (ICMA) Green Bond Principles 
+GHG: greenhouse gas 
+GSS: green, social and sustainability 
+GSS+: GSS and SLB bonds
+KPI: key performance indicator 
+LAC: Latin America and Caribbean 
+MDB: multilateral development bank 
+S&S: social and sustainability 
+SME: small and medium-sized enterprise 
+SSBD: social and sustainability  
+bond dataset 
+SBP: (ICMA) Social Bond Principles 
+SDG: sustainable development goal 
+SLB: sustainability-linked bond 
+SLL: sustainability-linked loan 
+SNAT: supranational 
+SPT: sustainability performance target 
+UoP: use of proceeds 
+YOY: year-on-year
+Sustainable Debt Global State of the Market 2024  Climate Bonds Initiative
+ 39
+Endnotes
+1. CCCFA. (2025). CCCFA. Retrieved from https://www.cccfa.org/. 
+2. McKinsey & Co. (2024). How hyperscalers are fueling the race 
+for 24/7 clean power. Retrieved from https://www.mckinsey.com/
+industries/electric-power-and-natural-gas/our-insights/how-
+hyperscalers-are-fueling-the-race-for-24-7-clean-power.
+3. S&P Global. (2024). Data centers account for half of US clean 
+energy procurement but only 20% in Europe: report. Retrieved from 
+https://www.spglobal.com/commodity-insights/en/news-research/
+latest-news/electric-power/103124-data-centers-account-for-half-of-
+us-clean-energy-procurement-but-only-20-in-europe-report. 
+4. The Nature Conservancy. (2025). Stories in California: Strategy 
+Driven by Science. Retrieved from https://www.nature.org/en-us/
+about-us/where-we-work/united-states/california/stories-in-
+california/climate-change-resilience/#:~:text=Proposition%20
+4%2C%20a%20monumental%20$10,communities%2C%20
+health%2C%20and%20economy.  
+5. Green Bond Endorsed Projects Catalogue (2021 Edition). (2021). 
+The People’s Bank of China (PBOC), the National Development 
+and Reform Commission (NDRC), the China Securities Regulatory 
+Commission (CSRC). Retrieved from http://www.pbc.gov.cn/
+goutongjiaoliu/113456/113469/4342400/2021091617180089879.pdf.  
+6. Common Ground Taxonomy published as part of the PBoC and 
+EU Commission co-led work. (2021). The People’s Bank of China. 
+http://www.pbc.gov.cn/en/3688006/3995557/4382112/index.html. 
+7. The Green Finance Committee (GFC) of China Society for Finance 
+and Banking. (2024). 符合中欧 《共同分类目录》 标准的中国存
+量绿色债券清单 （2024年9月版） . Retrived from http://www.
+greenfinance.org.cn/displaynews.php?id=4391. 
+8. Pattern Energy Closes $11 Billion Financing of Largest Clean 
+Energy Infrastructure Project in U.S. History. Pattern Energy Closes 
+$11 Billion Financing of Largest Clean Energy Infrastructure Project 
+in U.S. History - Pattern Energy
+9. Transparency & Reporting in the GSS Bond Market, February 
+2025. Climate Bonds Initiative. transparency_reporting_in_the_
+gss_bond_market.pdf
+10. https://www.worldbank.org/en/news/feature/2024/11/14/
+pioneering-sustainable-and-inclusive-finance 
+11. https://banfondesa.com.do/nosotros/quienes-somos/ 
+12. https://www.climatebonds.net/resources/press-
+releases/2025/03/lianhe-equator-becomes-first-approved-verifier-
+china-entity-and-sld 
+13. https://www.ginniemae.gov/about_us/what_we_do/Documents/
+GinnieMaeSocialImpactandSustainabilityFramework.pdf 
+14. https://www.ginniemae.gov/newsroom/Pages/
+PressReleaseDispPage.aspx?ParamID=296 
+15. https://www.environmental-finance.com/content/news/ginnie-
+mae-launches-social-bond-label-for-investors.html 
+16. https://idbinvest.org/en/news-media/bancosol-and-idb-invest-
+promote-businesses-led-women-through-first-gender-bond-bolivia 
+17. https://financialallianceforwomen.org/members/bancosol/ 
+18. https://cib.bnpparibas/the-republic-of-iceland-issues-first-
+sovereign-gender-bond/ 
+19. https://www.government.is/library/Files/2023-04-28%20
+Icelands%20Sovereign%20Sustainable%20Financing%20
+Frameworkvefurpdf.pdf 
+20. Climate Bonds Social and Sustainability Bond Dataset (SSBD). 
+Climate Bonds Initiative. Climate Bonds Social and Sustainability 
+Bond Dataset (SSBD) | Climate Bonds Initiative
+21. Total number of issuers is lower than adding individual issuer counts 
+as some repeat issuers have SLBs with different alignment levels.
+22. Climate Bonds Initiative, March 2024, Sustainability-Linked 
+Bonds: Building a High-Quality Market. https://www.climatebonds.
+net/resources/reports/sustainability-linked-bonds-building-high-
+quality-market
+23. Please note the most recent version of the CBS is CBSv4.2 which 
+can be found here Climate Bonds Standard V4.2 | Climate Bonds 
+Initiative however the SLBDB was created referencing the CBS v4.0 
+which can be found here Climate Bonds Standard V4.0 | Climate 
+Bonds Initiative
+24. Compared to other reasons, lacking GHG targets is less a ‘fault’ 
+of issuers than a current limitation of the SLBDB Methodology, 
+which currently only screens bonds from the perspective of climate 
+mitigation. On the other hand, climate impacts are material for 
+virtually all companies, so while Climate Bonds may not advocate 
+that every SLB should have climate mitigation KPIs/targets, all 
+issuers should have at least one outstanding SLB containing this.
+25. Partial emission scope coverage is even slightly higher in reality 
+due to the funnel approach described.
+26. Spotlight: France’s podium position,  Sustainable Debt Market 
+Summary H1 2024, August 2024, Climate Bonds Initiative, cbi_mr_
+h1_2024_02e_1.pdf
+27. 16 January 2024: Launch of the new green OAT 3.00% 25 June 
+2049 for an amount of EUR8 billion, Agence France Tresor, 16 
+January 2024: Launch of the new Green OAT 3.00% 25 June 2049 
+for an amount of €8 billion | Agence France Trésor 
+28. Green, Social, Sustainability, Thematic Bonds Framework of 
+the Republic of Honduras, November 2024, Secretaria de Finanzas, 
+Marco-Referencia-ING (1).pdf 
+29. Kingdom of Thailand Sustainability-Linked Financing 
+Framework, October 2024, Public Debt Management Office PDMO 
+SLB Framework_Final.pdf
+30. Opportunities and Support Measures for EV Activities, 06 July 
+2023, Office of the Board of Investment, PowerPoint Presentation
+31. Over 90% of countries fail to submit new NDCs by deadline, 11 
+February 2025, Climate Action Network, Over 90% of countries fail 
+to submit new NDCs by deadline - Climate Action Network  
+32. SHORT TAKE UAE pledges to cut emissions 47% by 2035, 07 
+November 2025, Reuters, reuters.com
+33. Brazil, Climate Action Tracker, https://climateactiontracker.org/
+countries/brazil/2035-ndc/.
+34. UN gives countries more time to submit ‘quality’ climate plans 
+for 2035, 06 February 2025, Climate Home News, https://www.
+climatechangenews.com/2025/02/06/un-extends-deadline-for-
+countries-to-submit-2035-climate-plans/
+35. Ultra Mega Solar Power Project in Rewa, Madhya Pradesh, 
+Department of Economic Affairs, India, Home-Public Private 
+Partneships in India
+36. Room for the River, Rijkswaterstaat, Ministry of Infrastructure 
+and Water Management, Room for the River 
+37. 101 Sustainable Finance Policies for 1.5oC, Climate Bonds 
+Initiative, March 2023, 101 Sustainable Finance Policies for 1.5°C | 
+Climate Bonds Initiative
+38. New collective quantified goal on climate finance. Draft decision 
+- /CMA.6.Proposal by the President, 24 November 2024, United 
+Nations Climate Change, https://unfccc.int/documents/643641
+39. The Role of DFIs in Accelerating the Mobilisation of Green 
+Capital, November 2024, Climate Bonds Initiative, The Role of DFIs in 
+Accelerating the Mobilisation of Green Capital | Climate Bonds Initiative
+40. Institute for Sustainable Investing, Morgan Stanley. (2023, April). 
+4 Ways to Invest in a Sustainable Blue Economy. https://www.
+morganstanley.com/ideas/blue-economy-investing-ocean-priorities 
+41. ICMA. (2021). Green Bond Principles—Voluntary Process Guidelines 
+for Issuing Green Bonds; ICMA. (2023). Social Bond Principles—
+Voluntary Process Guidelines for Issuing Social Bonds; ICMA. 
+(2021). Sustainability Bond Guidelines; ICMA. (2023). Sustainability-
+Linked Bond Principles—Voluntary Process Guidelines. 
+42. List of keywords used: aquaculture, aquatic, boat, blue, coastal, 
+fisheries, marine, ocean, offshore, port, ports, sewage, shipping, 
+ship, wastewater, water.
+43. NWB Bank Investor Relations website: https://nwbbank.com/
+en/investor-relations/water-bonds (accessed in February 2024) 
+44. EU defence in numbers, EU defence in numbers - Consilium
+45. China’s military rise: Comparative military spending in China 
+and the US, Dec 2024. China’s military rise: Comparative military 
+spending in China and the US | CEPR
+46. Prime Minister sets out biggest sustained increase in defence 
+spending since the Cold War, protecting British people in new era 
+for national security. Prime Minister sets out biggest sustained 
+increase in defence spending since the Cold War, protecting British 
+people in new era for national security - GOV.UK
+47. National security Strategy of Japan,.Dec 2022, nss-e.pdf
+48. European Defence Agency and EU Commission partner on 
+green defence initiative, Dec 2024. European Defence Agency and 
+EU Commission partner on green defence initiative
+49. Agriculture Production Standard Criteria, 2024. Climate Bonds 
+Initiative. Agriculture Production | Climate Bonds Initiative
+50. Centre for Sustainable Finance: Toitū Tahua and Climate Bonds 
+Initiative 2024, Developing a
+Sustainable Finance Taxonomy for Aotearoa New Zealand, 
+accessed online 25.03.2025: https://www.climatebonds.net/files/
+reports/csf-cbi-taxonomy-full-recommendations-report-final.pdf 
+51. International Platform for Sustainable Finance 2024, Press 
+release:  The International Platform on Sustainable Finance 
+presents the Multi-Jurisdiction Common Ground Taxonomy to 
+enhance interoperability of taxonomies across EU, China and 
+Singapore, accessed online 25.03.2025: https://finance.ec.europa.
+eu/document/download/0e76f418-792a-4ede-b382-eb3cfcbbd633_
+en?filename=241113-press-release-multi-jurisdiction-common-
+ground-taxonomy_en.pdf 
+52. Japan’s Climate Transition Bond, 13 February 2024,  
+Climate Bonds Initiative,  Japan’s Climate Transition Bond | Climate 
+Bonds Initiative 
+53. Accelerating Green Bonds for Municipalities in Southeast 
+Asia, December 2024, Asian Development Bank, Accelerating 
+Green Bonds for Municipalities in South East Asia | Climate Bonds 
+Initiative
+54. Climate Bonds Standard V4.2, June 2024, Climate Bonds 
+Initiative, Climate Bonds Standard V4.2 | Climate Bonds Initiative 
+55. Sustainable Debt Global State Of The Market, 2024. cbi_
+sotm23_02h.pdf
+56. Checklist for entity certification, April 2023. Climate Bonds 
+Initiative. CBSv4_0 - ENTITY Certification Checklist.pdf
+57. The role of policymakers in mobilising private finance to ensure 
+a credible and just transition in steel and cement,2024. Climate 
+Bonds Initiative. https://www.climatebonds.net/resources/reports/
+role-policymakers-mobilising-private-finance-ensure-credible-and-
+just-transition
+58. The Role of DFIs in Accelerating the Mobilisation of Green Capital, 
+2024. Climate Bonds Initiative, https://www.climatebonds.net/
+resources/reports/role-dfis-accelerating-mobilisation-green-capital
+59. https://www.linkedin.com/pulse/five-takeaways-from-cop29-
+climate-bonds-initiative-gfcke/
+60. 20 Policy Levers for Decarbonising Buildings in Europe, April 
+2024. Climate Bonds Initiative. 20_policy_levers_to_decarbonise_
+buildings.pdf
+61. China Sustainable Debt – State of the market report 2023, May 
+2024.Climate Bonds Initiative. 2023年中国可持续债券市场报告 
+| China Sustainable Debt State of the Market Report 2023 | Climate 
+Bonds Initiative
+62. Hong Kong Sustainable Debt Market Briefing 2023, June 2024. 
+Climate Bonds Initiative. Hong Kong Sustainable Debt Market 
+Briefing 2023 | Climate Bonds Initiative
+63. Climate Bonds CEO Sean Kidney appointed to GX Acceleration 
+Agency Global Advisory Council, January 2025. Climate Bonds 
+Initiative. Climate Bonds CEO Sean Kidney appointed to GX 
+Acceleration Agency Global Advisory Council | Climate Bonds Initiative
+64. Japan’s Climate Transition Bond, February 2024.  
+Climate Bonds initiative. Japan’s Climate Transition Bond | Climate 
+Bonds Initiative
+65. Transition Strategy Toolkit. July 2024. トランジション戦略ツ
+ールキット
+66. Nippon Life to develop Nippon Life Transition Finance Framework, 
+June 2024, Nippon Life Insurance Company. 20240611.pdf
+67. Joint Statement on Promoting Green Transformation (GX) and 
+Regional Revitalisation in Hokkaido by Climate Bonds Initiative, 
+Hokkaido Government and the City of Sapporo, December 2024. 
+Climate Bonds initiative. Joint Statement on Promoting Green 
+Transformation (GX) and Regional Revitalisation in Hokkaido by 
+Climate Bonds Initiative, Hokkaido Government and the City of 
+Sapporo | Climate Bonds Initiative
+68. Lessons for Report on Current Bank Practice, Jan 2025. Climate 
+Bonds Initiative. cbi_banking_lessons_02a.pdf
+69. Three Opportunities in Japan for 2025 - a New Year’s reflection 
+on Green Transformation, Dec 2024. Climate Bonds Initiative. Three 
+opportunities for Japan in 2025 - a New Year’s reflection on Green 
+Transformation (GX) | Climate Bonds Initiative
+70. Transparency & Reporting in the GSS Bond Market, Feb 2025. 
+Climate Bonds Initiative. transparency_reporting_in_the_gss_
+bond_market.pdf
+71. 2024 Capital Markets Fact Book, July 2024. SIFMA Capital 
+Markets Fact Book 2024
+72. Prime Minister sets out biggest sustained increase in defence 
+spending since the Cold War, protecting British people in new 
+era for national security, February 2025. Prime Minister sets out 
+biggest sustained increase in defence spending since the Cold War, 
+protecting British people in new era for national security - GOV.UK
+73. Macron urges Europe to boost defense spending to over 3 
+percent of GDP , March 2025. Politico. Macron urges Europe to boost 
+defense spending to over 3 percent of GDP – POLITICO
+74. Slovenia launches ‘pioneering’ sovereign SLB framework and 
+eyes June debut, Environmental Finance, March 2025. Slovenia 
+launches ‘pioneering’ sovereign SLB framework and eyes June 
+debut :: Environmental Finance
+75. Climate Bonds Resilience Taxonomy Methodology, 2024. 
+Climate Bonds Initiative. CBI_Res_Meth_24_03C(1).pdf
+76. Climate Bonds Initiative Green Bond Database Methodology, 
+Green Bond Database Methodology | Climate Bonds Initiative
+77. Climate Bonds SLB Database Methodology, Sustainability-
+Linked Bond Database Methodology | Climate Bonds Initiative
+Disclaimer: The information contained in this communication does not constitute investment advice in any form and the Climate Bonds Initiative is not an investment adviser. Any 
+reference to a financial organisation or debt instrument or investment product is for information purposes only. Links to external websites are for information purposes only. The Climate 
+Bonds Initiative accepts no responsibility for content on external websites. The Climate Bonds Initiative is not endorsing, recommending or advising on the financial merits or otherwise 
+of any debt instrument or investment product and no information within this communication should be taken as such, nor should any information in this communication be relied upon 
+in making any investment decision. Certification under the Climate Bond Standard only reflects the climate attributes of the use of proceeds of a designated debt instrument. It does not 
+reflect the credit worthiness of the designated debt instrument, nor its compliance with national or international laws. A decision to invest in anything is solely yours. The Climate Bonds 
+Initiative accepts no liability of any kind, for any investment an individual or organisation makes, nor for any investment made by third parties on behalf of an individual or organisation, 
+based in whole or in part on any information contained within this, or any other Climate Bonds Initiative public communication.
+Lead Authors: Clodagh Muldoon, Caroline Harrison, Deepak Sharma 
+Contributors: Lily Burge, Daniel Costa, Ana Diaz, Meggie Eloy, Ang Gao, 
+Carlotta Michetti, Marian Rodriguez, Isabella Rolla, Marina Strovolidou, 
+Reyes Tirado, Zofia Wetmańska, Xinru Xu 
+Editorial support: Stephanie Edghill
+Design: Jason Godfrey, Joel Milstead 
+ 
+© Published by Climate Bonds Initiative, May 2025      
+ 
+www.climatebonds.net
+Prepared by Climate Bonds Initiative

@@ -1,0 +1,1703 @@
+www.iss -corporate. com  
+© 202 4 | Institutional Shareholder Services and/or its affiliates  
+  
+ 
+ 
+P O S T- I S S U A N C E 
+V E R I F I C A T I O N  R E P O R T  F O R  
+C L I M A T E B O N D I N I T I A T I V E  
+U S E  O F  P R O C E E D S  
+C E R T I F I C A T I O N:  
+ 
+ 
+Verification Report for Post -Issuance Certification  
+for the Green Bond s Issued by EnBW  
+ 
+ 
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  2  o f  34  
+C O N T E N T S  
+ 
+ 
+SCOPE OF WORK ................................ ................................ ................................ ................................ ...............  3 
+CRITERIA ................................ ................................ ................................ ................................ ...............................  3 
+ISSUER’S RESPONSIBILITY ................................ ................................ ................................ ...............................  3 
+ISS-CORPORATE’S VERIFICATION PROCESS ................................ ................................ .............................  3 
+ISS-CORPORATE’S BUSINESS PRACTICES ................................ ................................ ................................ .. 4 
+RESTRICTION ON DISTRIBUTION AND USE OF REPORT ................................ ................................ ....... 4 
+OPINION ................................ ................................ ................................ ................................ ...............................  4 
+Disclaimer ................................ ................................ ................................ ................................ .............................  5 
+About ISS-Corporate ................................ ................................ ................................ ................................ ........ 5 
+ANNEXES ................................ ................................ ................................ ................................ ..............................  6 
+ANNEX 1: DETAILED FINDINGS ................................ ................................ ................................ .....................  7 
+5. USE OF PROCEEDS ................................ ................................ ................................ ...............................  7 
+6. PROCESS FOR EVALUATION AND SELECTION OF PROJECTS AND ASSETS ......................  9 
+7. MANAGEMENT OF PROCEEDS ................................ ................................ ................................ ....... 10 
+8. REPORTING ................................ ................................ ................................ ................................ .......... 11 
+9. CLIMATE BOND TAXONOMY................................ ................................ ................................ .......... 12 
+10. TECHNICAL CRITERIA ................................ ................................ ................................ ....................  12 
+ANNEX 2: DETAILED FINDINGS LOW CARBON TRANSPORT (ELECTRIC VEHICLES CHARGING 
+STATIONS)................................ ................................ ................................ ................................ ..........................  13 
+ANNEX 3: DETAILED FINDINGS SOLAR POWER ................................ ................................ .....................  13 
+ANNEX 4: DETAILED FINDINGS WIND POWER (ONSHORE WIND) ................................ .................  14 
+ANNEX 5: DETAILED FINDINGS MARINE RENEWABLE ENERGY (OFFSHORE WIND) .................  15 
+Disclosure Component ................................ ................................ ................................ ..............................  15 
+Mitigation Component ................................ ................................ ................................ ..............................  19 
+Adaptation and Resilience Component ................................ ................................ ................................  20 
+ANNEX 6: DETAILED FINDINGS GRID AND STORAGE INFRASTRUCTURE ................................ ..... 27 
+Adaptation and Resilience Component ................................ ................................ ................................  27 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  3  o f  34  
+SCOPE OF WORK  
+EnBW commissioned ISS -Corporate to compile a Verifi cation Report for Post -Issuance 
+Certification of its Green Bond s by the Climate Bonds Initiative (CBI). The Climate Bonds 
+Certification process includes verifying whether the provisions of the CBI’s Climate Bonds 
+Standard are met and obtaining evidence to support the verification. 
+CRITERIA  
+Relevant CBI standards for this Climate Bonds Certification: 
+▪ Climate Bonds Standard V3.0 
+▪ Wind Sector Eligibility Criteria (Version 1.2) 
+▪ Solar Sector Eligibility Criteria (Version 2.1) 
+▪ Marine Renewable Energy Criteria (Version 1.2) 
+▪ Low Carbon Transport Criteria (Version 2) 
+▪ Electrical Grids and Storage Eligibility Criteria (March 2022) 
+ISSUER’S RESPONSIBILITY  
+EnBW’s responsibility was to provide information and documentation on:  
+▪ Selection of nominated projects and assets 
+▪ Technical aspects of projects and assets 
+▪ Internal processes and controls 
+▪ Proposed reporting 
+ISS-CORPORATE ’S VERIFICATION PROCESS  
+Since 2014, ISS Group, which ISS-Corporate is part of, has built up a reputation as a highly  
+reputed thought leader in the green and social bond market and has become one of the first 
+CBI-approved verifiers.  
+This independent P ost-Issuance Verification of the Green Bond s (XS2558395278, 
+XS2558395351) issued by EnBW has been conducted based on the Climate Bonds Standard 
+V3.0, and limited assurance procedures based on common market practices and voluntary 
+guidelines, in accordance with relevant assurance standards such as the International Standard 
+on Assurance Engagements, other than Audits or Reviews of Historical Financial Information 
+(ISAE 3000). 
+The approach to assess whether the Issuer’s green bonds meet the criteria of the Climate 
+Bonds Standard V3.0. is as follows: 
+▪ The Issuer provided an overview over the assets to be included in the green bond asset 
+pool and the relevant processes and documentation regarding the proceeds (e.g., use 
+of proceeds, management of proceeds). 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  4  o f  34  
+▪ The Issuer filled in a questionnaire that covers all criteria of the Climate Bonds Standard 
+V3.0. 
+▪ The Issuer provided background documents that elaborate further on the information 
+mentioned in the questionnaire. 
+▪ An assessment of the CBI criteria has been carried out using the questionnaire and 
+background documents. In case any answers were unclear, the Issuer has been 
+contacted for more details and clarification. 
+The engagement with EnBW took place from November to December 2024. 
+ISS-CORPORATE’S  BUSINESS PRACTICES  
+ISS-Corporate has conducted this verification in strict compliance with the ISS Group Code of 
+Ethics, which lays out detailed requirements in integrity, transparency , professional 
+competence and due care, professional behavior and objectivity for the ISS business and team 
+members. It is designed to ensure that the verification is conducted independently and without 
+any conflicts of interest with other parts of the ISS Group. 
+RESTRICTION ON DISTRIBUTION AND USE OF 
+REPORT  
+This Verification Report for Climate Bonds Certification, including all documentation provided 
+alongside, is intended for the use of EnBW and the Climate Bonds Standard Board. The present 
+document may be published by EnBW, CBI and ISS-Corporate. The CBI and ISS-Corporate 
+agree to publish the report with the consent of EnBW. 
+OPINION  
+Based on the limited assurance procedures conducted and evidence obtained, nothing has 
+come to our attention , which causes us to believe that, in all material respects, the Issuer’s 
+November 2022 Green Bond s (ISIN: XS2558395351 and ISIN: XS2558395278) are not in 
+conformance with the Climate Bonds Standard’s post-issuance requirements. 
+ 
+ 
+M A R I J A  K R A M E R 
+ISS Corporate Solutions Business 
+Rockville, MD, 20 December 2024  
+  
+
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  5  o f  34  
+Disclaimer  
+Copyright © 2024 Institutional Shareholder Services Inc. (“ISS”). This document and all of the 
+information contained in it is the property of ISS and/or its subsidiaries. The Information may 
+not be reproduced or redisseminated in whole or in part without the prior written permission 
+of ISS. While we exercise due care in compiling this document, we assume no liability with 
+respect to the consequences of relying on this information for investment or other purposes. 
+ISS makes no express or implied warranties or representations with respect to the information. 
+About ISS-Corporate  
+Companies turn to ISS -Corporate for expertise in designing and managing governance, 
+compensation, sustainability and cyber risk programs that align with company goals, reduce 
+risk and manage the needs of a diverse shareholder base by delivering best-in-class data, tools 
+and advisory services. 
+ISS-Corporate assesses alignment with external principles (e.g. the Green/Social Bond 
+Principles), analyzes the sustainability quality of the assets and review s the sustainability 
+performance of the issuer itself. Following these three steps, we draw up an independent SPO 
+so that investors are as well -informed as possible about the quality of the bond/loan from a 
+sustainability perspective. 
+Learn more: https://www.iss-corporate.com/solutions/sustainable-finance/. 
+ 
+For more information on SPO services, please contact: SPOsales@iss-corporate.com. 
+ 
+Project team 
+Project lead 
+Orane Busto 
+Associate 
+Sustainable Finance Research 
+Project support 
+Clara Schouler 
+Analyst 
+Sustainable Finance Research 
+Project supervision 
+Marie-Bénédicte Beaudoin 
+Associate Director 
+Head of Sustainable Finance 
+Research 
+Project support 
+João Ferreira 
+Associate 
+Sustainable Finance Research 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  6  o f  34  
+ANNEX ES 
+Annex 1: Detailed Findings 
+Annex 2: Detailed Findings Low Carbon Transport (electric vehicle charging stations) 
+Annex 3: Detailed Findings Solar Power 
+Annex 4: Detailed Finding Wind Power (onshore) 
+Annex 5: Detailed Findings Wind Power (offshore) 
+Annex 6: Detailed Findings Grid and Storage Infrastructure 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  7  o f  34  
+ANNEX 1: DETAILED FINDINGS  
+5.  USE OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+5.1 
+Net proceeds 
+allocation to 
+nominated 
+projects  
+The full amount of the net proceeds has been 
+allocated to nominated eligible assets.  
+EUR 497.125 million has been allocated  to 
+renewable energy  (solar, wind 
+onshore/offshore) and electric vehicle 
+charging infrastructure projects for the green 
+bond with  a four-year maturity (ISIN: 
+XS2558395351).  
+EUR 498.75 million has been allocated to grid 
+and infrastructure projects for the  green 
+bond with a seven-year maturity  (ISIN: 
+XS2558395278).  
+✓ 
+5.2 
+Conformance 
+with the bond’s 
+documented 
+objectives and 
+requirements of 
+Part C of the 
+Climate Bonds 
+Standard 
+The full amount of the net proceeds has been 
+used to finance and/or refinance onshore 
+and offshore wind projects, solar  
+(photovoltaics) projects, electricity and grid 
+storage, and electric vehicle charging 
+infrastructure.  
+Each project financed meet the Climate 
+Bonds Standard and is in conformance with 
+Part C of the Climate Bonds Standard. 
+✓ 
+5.3 
+Allocation of 
+proceeds within 
+24 months of 
+issuance of the 
+bond 
+The full amount of the net proceeds was 
+allocated a year after the issuance.  The 
+proceeds have been allocated to projects 
+that were nominated in the 2022 pre-
+issuance verification process as well  as to 
+projects that have been verified by the CBI as 
+part of further pre -issuance verification 
+processes prior to and after 2022 where 
+allocation was necessary due to business 
+developments.  
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  8  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+5.4 
+No double 
+nomination of 
+projects and 
+assets 
+The projects and assets (or portions of those) 
+financed and refinanced by the proceeds of 
+these bonds have not been nominated for 
+other certified debt instruments.  
+✓ 
+5.5 Share of financing 
+vs. refinancing  
+The proceeds have been allocated according 
+to the respective projects’ eligible CapEx. For 
+the green bond s issued in November 2022, 
+refinancing accounts for around 9% on the 
+four-year maturity bond while the seven-year 
+maturity bond  proceeds are used 100% for 
+refinancing, accounting for a lookback period 
+of 36 months as stated in EnBW’s Green 
+Financing Framework.  
+✓ 
+5.6 Tracking of 
+proceeds 
+The green bond proceeds were managed by 
+EnBW using a portfolio approach. EnBW’s 
+internal accounting system  (green finance 
+register) allows for tracking and controlling at 
+any point in time the amount of funds that 
+have been allocated to an individual project.  
+✓ 
+5.7 
+Size of net 
+proceeds vs. 
+investment 
+exposure to 
+nominated 
+projects and 
+assets  
+EnBW confirms that  net proceeds of the 
+bonds are no greater than the investment to 
+the nominated projects/assets. Net proceeds 
+of the issuance have been EUR 497.125  
+million for the four-year bond  and EUR 
+498.75 million for the seven-year bond.  
+✓ 
+5.8 
+Additional 
+projects and 
+assets  
+Additional projects or assets have been 
+added to the nominated list. EnBW confirms 
+that such added projects or assets had been 
+previously assessed in other pre-issuance 
+verification engagements that occurred prior 
+to or after the issuance of the bond. EnBW 
+also confirms that such projects or assets (or 
+portions of those ) were not previously 
+funded under other certified debt 
+instruments. 
+✓ 
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  9  o f  34  
+6.  PROCESS FOR EVALUATION AND SELECTION OF PROJECTS 
+AND  ASSETS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+6.1 
+Documented and 
+maintained a 
+decision-making 
+process, including: 
+A statement on the 
+climate-related 
+objectives of the bond 
+Climate-related 
+objectives of the bond 
+in the context of the 
+Issuer’s strategy 
+Issuer’s rationale for 
+issuance the bond 
+Process determining 
+that the 
+projects/assets meet 
+the eligibility criteria 
+EnBW confirms that it has  a Green 
+Financing Committee and a selection 
+process to ensure only eligible and 
+appropriate projects and assets are 
+included for nomination and financing 
+by the proceeds. 
+An appropriate statement has been 
+included in EnBW’s Green Financing 
+Framework, which incorporates all the 
+necessary elements. 
+EnBW’s Green Financing Framework 
+focuses on supporting sustainability on 
+both its asset and liabilit y sides. The 
+bonds were issued to fund the 
+implementation of EnBW’s 2025 
+strategy, which encompasses projects  
+to support the  renewable energy and 
+mobility transition in Germany. By 2025, 
+EnBW plans to add 1.5 -2.5 GW of 
+renewable energy capacity and expand 
+its electric vehicle quick charging 
+network to 2,500 locations, aligning 
+with its sustainability strateg y. The 
+company’s renewable energy capacity 
+currently accounts for about 47% of its 
+12.23 GW total, and it aims to increase 
+this share to 75%-80% by 2030.  
+In addition, aligned with the Paris 
+Agreement, EnBW has set near -term 
+science-based targets, verified by the 
+Science Based Targets initiative. Key 
+milestones in its climate transition plan 
+include reducing Scope 1 and Scope 2 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  10  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+emissions by 50% by 2027 and 70% by 
+2030 (from a 2018 baseline). 
+ 
+7.  MANAGEMENT OF PROCEEDS  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+7.1 
+Net proceeds are 
+credited to a 
+subaccount and 
+documented 
+EnBW confirms that it has implemented 
+an internal accounting system that 
+allows it to track and control at any 
+point in time the amount of funds that 
+have been allocated to an individual 
+project. 
+✓ 
+7.2 Net proceeds are 
+earmarked 
+EnBW confirms that it has  set up a 
+register and put internal systems in 
+place to track the outstanding proceeds 
+of green financing instruments 
+internally. Until full allocation, proceeds 
+will be held in any form of cash, bank 
+deposit or other form of available 
+current financial assets. However, the 
+full amount of the net proceeds was 
+allocated immediately after issuance  
+and EnBW confirms that none of the 
+proceeds have been used for 
+temporary investments.  
+✓ 
+7.3 Unallocated proceeds 
+The full amount of the net proceeds 
+was allocated immediately after 
+issuance. 
+- 
+ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  11  o f  34  
+8.  REPORTING  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+8.1 
+Timing and 
+availability of 
+update reports 
+EnBW publishes both impact and allocation 
+reporting annually on its website. ✓ 
+8.2 
+Allocation 
+report, eligibility 
+report, impact 
+report 
+EnBW published details on both the 
+allocation and impact of the projects 
+financed by these bonds. 
+✓ 
+8.3 Allocation 
+reporting 
+The allocation reporting details are available 
+on EnBW’s website. ✓ 
+8.4 Eligibility 
+reporting 
+The eligibility details are available  on 
+EnBW’s website , in both the impact and 
+allocation report as well as in the verification 
+report. 
+✓ 
+8.5 Reasons for 
+confidentiality 
+Public disclosure of the nominated projects 
+and assets is available on the website. ✓ 
+8.6 Impact reporting The impact reporting details are available on 
+EnBW’s website. ✓ 
+8.7 Public verifier 
+reports 
+Relevant verifier reports will be publicly 
+available on EnBW website.  ✓ 
+8.8 
+Availability of 
+information 
+provided to 
+verifier 
+Relevant information has been provided to 
+ISS-Corporate. ✓ 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  12  o f  34  
+9.  CLIMATE BOND TAXONOMY  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+9.1 Matching of climate 
+bond category 
+The full amount of the net proceeds 
+was allocated to eligible assets, which 
+fall within the areas included in the 
+Climate Bonds Taxonomy. 
+✓  
+ 
+10.  TECHNICAL CRITERIA  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+10.1 Sector-specific 
+eligibility criteria 
+The full amount of the net proceeds is 
+allocated to eligible assets related to 
+the aforementioned categories and 
+conforms with the relevant eligibility 
+requirements under Part C of the 
+Climate Bonds Standard. 
+✓ 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  13  o f  34  
+ANNEX 2: DETAILED FINDINGS LOW CARBON 
+TRANSPORT (ELECTRIC VEHICLES CHARGING 
+STATIONS)  
+✓ 
+The green bond(s) asset pool complies with the Climate Bonds Initiative’s Low 
+Carbon Transport Criteria. 
+All dedicated electric vehicle charging stations are eligible for Climate Bonds 
+Certification. EnBW funded 221 locations across Germany during 2022. 
+ 
+ANNEX 3: DETAILED FINDINGS  SOLAR POWER  
+✓ 
+The green bond(s) asset pool complies with the  Climate Bonds Initiative’s 
+Solar Criteria. 
+The Issuer has confirmed that the solar farms do not have fossil fuel generation 
+over 15% and therefore are eligible for Climate Bonds Certification. The proceeds 
+were used to finance the following solar facilities (installed capacity attributable 
+to the bond/installed capacity) in Germany: 
+▪ Widdern, 8.4 (9) MW 
+▪ Roigheim, 8.5 (8.6) MW 
+▪ Tauberb. Fichtengrund, 2.3 (2.4) MW 
+▪ Braunsbach-Tierberg, 5.1 (5.2) MW 
+▪ Billigheim-Waldmühlbach, 11.8 (12.3) MW 
+▪ Ulrichshof, 3.3 (6.5) MW 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  14  o f  34  
+ANNEX 4: DETAILED FINDINGS WIND POWER 
+(ONSHORE WIND)  
+✓ 
+The green bond(s) asset pool complies with the  Climate Bonds Initiative’s  
+Wind Criteria. 
+All onshore wind farms are eligible for Climate Bonds Certification.  The proceeds 
+were used to finance the following wind onshore facilities  (installed capacity 
+attributable to the bond/installed capacity) in Germany: 
+▪ Grömbach, 7.2 (7.2) MW 
+▪ Wiemerstedt I & II, 0,1 (11.4) MW 
+▪ Oberramstadt, 4.6 (8.4) MW 
+▪ Hüttersdorf, 3.4 (6.6) MW 
+▪ Obhausen, 22.6 (36) MW 
+▪ Steinheim, 21 (21) MW 
+▪ Wulkow-Trebnitz, 21 (21) MW 
+▪ Düsedau II, 22.4 (22.4) MW 
+▪ Häusern, 6.5 (6.9) MW 
+▪ Hohenstadt, 12.6 (12.6) MW 
+▪ Lentföhrden, 24 (24) MW 
+▪ Veringenstadt B, 3.8 (4) MW 
+▪ Prötzel II, 37.8 (37.8) MW 
+▪ Hardheim-Höpfingen, 0.1 (17) MW 
+▪ Sulzbach-Laufen, 7.4 (22.2) MW 
+ 
+  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  15  o f  34  
+ANNEX 5: DETAILED FINDINGS MARINE RENEWABLE 
+ENERGY (OFFSHORE WIND)  
+✓ 
+The green bond(s) asset pool complies with the  Climate Bonds Initiative’s  
+Marine Renewable Energy Criteria. 
+All offshore wind farms are eligible for Climate Bonds Certification. The proceeds 
+were used to finance the following offshore wind facilities (installed capacity 
+attributable to the bond/installed capacity) in the Irish Sea and North Sea:  
+▪ Morgan and Mona 160.5 (3,000) MW 
+▪ Morven 994.2 (2,900) MW. 
+The offshore wind parks are eligible for the Climate Bonds Initiative because they 
+comply with the mitigation, adaptation and resilient components (please see below 
+for further details). 
+ 
+Disclosure Component  
+ 
+ITEM INFORMATION DISCLOSED 
+1 
+Project location and 
+size, including 
+description of marine 
+coastal ecosystem in 
+proximity to planned 
+installations, noting, 
+for example, whether 
+located in marine 
+protected areas or 
+vulnerable marine 
+ecosystems 
+There are two lease areas in the Irish Sea, with a  combined 
+potential generating capacity of 2 × 1,500 MW = 3,000 MW. 
+The projects are Mona in Welsh waters and Morgan in English 
+waters. Whilst the agreement for lease areas are bigger, the 
+project array areas have been refined down during the 
+consenting process, therefore Mona is now approx imately 
+300 km² and Morgan is now approximately 280 km². 
+Three Development Consent Order (DCO) applications, which 
+cover both the generation and the transmission assets , have 
+been submitted for the two projects earlier in 2024: 
+▪ A DCO for Mona  
+▪ A DCO for the Morgan Generation Assets  
+▪ A DCO for the Morgan Transmission Assets  
+Their environmental impact assessments (EIAs) and Habitats 
+Regulations Assessments (HRAs) have studied impacts 
+related to protected areas in the project area and impacts 
+related to nearby protected areas. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  16  o f  34  
+Both the Mona and the Morgan Generation Assets DCOs are 
+currently in examination. The Morgan Transmission Assets 
+DCO is currently in pre-examination. 
+The lease option area is in the North Sea, with a  potential 
+generating capacity of approximately 2.9  GW. Morven is in 
+Scottish waters and the potential array area is 860 km².  
+The EIAs and HRAs for the project and its grid connections 
+will study impacts related to protected areas in the project 
+area and impacts related to nearby protected areas. 
+2 Projected lifespan of 
+the asset/project 
+Projected lifespan for Mona and Morgan as of today is 56 
+years. Morven will have an operation lifetime of  
+approximately 56 years. 
+The lease period upon entry  (post consenting) will be 60 
+years, from which the  construction duration will have to be 
+deducted to determine the operation lifetime. 
+3 
+Key stakeholders 
+involved, including 
+other users of the area 
+and surrounding area 
+(sea, land or air 
+depending on what is 
+applicable) of the 
+facility 
+For Mona and Morgan offshore wind projects , k ey 
+stakeholders include but are not limited to: 
+▪ The Crown Estate 
+▪ English and Welsh governmental institutions  and 
+agencies 
+▪ Department for Environment, Food and Rural Affairs 
+▪ Department for Energy Security and Net Zero 
+▪ Natural England 
+▪ Natural Resources Wales 
+▪ Joint Nature Conservation Committee 
+▪ The Wildlife Trusts 
+▪ Historic England 
+▪ The Royal Commission on the Ancient and  Historical 
+Monuments of Wales 
+▪ Marine Management Organisation 
+▪ Maritime and Coastguard Agency 
+▪ Trinity House 
+▪ Local communities 
+▪ Ferry operators 
+▪ English, Welsh, Scottish and Irish fishing industries 
+▪ National Grid (transmission system operator) 
+▪ The Royal Society for Protection of Birds 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  17  o f  34  
+For the Morven offshore wind project , k ey stakeholders 
+include but are not limited to: 
+▪ Crown Estate Scotland 
+▪ Scottish Environment Protection Agency 
+▪ Marine Scotland 
+▪ NatureScot 
+▪ Joint Nature Conservation Committee 
+▪ The Scottish Wildlife Trusts 
+▪ Historic Environment Scotland 
+▪ Maritime and Coastguard Agency 
+▪ Northern Lighthouse Board 
+▪ Civil Aviation Authority 
+▪ Ministry of Defence 
+▪ Royal Society for the Protection of Birds 
+▪ Royal Yachting Association Scotland 
+▪ Scottish Fishermen’s Federation 
+▪ Local communities 
+▪ Local Planning Authorities 
+▪ Ferry operators 
+▪ Scottish and English fishing industries 
+▪ National Grid (Transmission System Operator) 
+▪ The Royal Society for Protection of Birds 
+ 
+4 
+Description of project 
+activities, including 
+details on installation, 
+operation and 
+decommissioning 
+activities 
+For the Mona and Morgan offshore wind projects:  
+1. Preferred bidder status, later agreement for lease, 
+then lease agreement (the process of the latter can be 
+started after all necessary consents are in place) — 
+completed  
+2. Plan-level Habitats Regulations Assessment ( carried 
+out by The Crown Estate) — completed 
+3. Site surveys and investigations 
+4. Consenting (preparation of consent application s, in 
+particular DCO and marine licenses)  
+5. Grid connection process with bilateral connection 
+agreements 
+6. Procurement (Invitation to tender phase)  
+7. Detailed design  
+8. Fabrication 
+9. Installation 
+10. Commissioning 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  18  o f  34  
+11. Operation phase 
+12. Decommissioning 
+For the Morven offshore wind project: 
+1. The option to lease agreement was executed April 6, 
+2022. Entry into the lease agreement is planned after 
+all necessary consents are in place. 
+2. Consenting (preparation of section 36 application for 
+the array and further consents for the grid 
+connections/transmission assets) 
+3. Grid connection with bilateral connection agreements 
+4. Procurement (Invitation to tender phase) 
+5. Detailed design 
+6. Fabrication 
+7. Installation 
+8. Commissioning 
+9. Operation phase  
+10. Decommissioning 
+5 
+Expected/current 
+facility capacity and 
+generation during and 
+after the life of the 
+bond 
+The potential combined Mona and Morgan generating 
+capacity is 3 GW.  
+The potential generating capacity of Morven is approximately 
+3 GW. 
+6 
+Details of where the 
+energy generated is 
+being fed into, and 
+estimated impact on 
+grid mix 
+For Mona, there will be a radial connection into the National 
+Grid Bodelwyddan substation in Wales.  
+For Morgan, there will be a coordinated grid connection with 
+a shared cable corridor with another Round 4 project 
+(Morecambe Offshore Wind) into the National Grid 
+substation at Penwortham in England . Morven will have two 
+grid connections of about 1.5 GW each , but both grid 
+connection designs are not yet finalized.  The holistic network 
+design (HND) process is considering 1.5  GW of the Morven 
+project in a coordinated design ( with neighboring  wind 
+farms) and developer-built solution exporting the power into 
+Hawthorn Pit point of interconnection (i.e., into England with 
+HVDC technology). 
+The other 1.5 GW of the Morven project is being considered 
+in the HND follow up process. The point of interconnection  
+will be Branxton in Scotland. This grid connection will also be 
+developer-built. The project anticipates more clarification on 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  19  o f  34  
+the grid connection system and final grid connection 
+agreements in 2025. 
+7 
+Projected avoided 
+GHG emissions 
+compared to fossil 
+fuel counterfactual (in 
+kgCO2e) using 
+recognized conversion 
+factors 
+While there is no such comparison for the projects, there is a 
+climate change chapter in the three DCO applications 
+submitted earlier in 2024  for Mona, the Morgan Generation 
+Assets and the Morgan Transmission Assets. 
+8 
+The planning 
+standards, 
+environmental 
+regulations and other 
+regulations that the 
+project has been 
+required to comply 
+with 
+A DCO will be required for Mona and Morgan under the  
+Planning Act 2008  and deemed marine license will be 
+required for the project area s in Welsh and English offshore 
+waters. However, as the offshore export cable route for Mona 
+will pass through both Welsh offshore and Welsh inshore 
+waters, a separate marine license will be required under the 
+Marine and Coastal Access Act 2009 for the offshore export 
+cable route within Welsh inshore waters.  
+For the Morven Wind Farm Array, the project intends to apply 
+for Section 36 consent under the Electricity Act 1989 together 
+with associated marine licenses. The offshore transmission 
+infrastructure will require marine licenses for those elements 
+located within Scottish waters. For any onshore transmission 
+infrastructure located in Scotland , a separate planning 
+permission under the Town and Country Planning (Scotland) 
+Act 1997 will also be required. 
+The Morven Hawthorn Pit Grid Connection Project will pass 
+through English waters and land to Hawthorn Pit and will 
+require a DCO , which will cover both offshore and onshore 
+elements. 
+Depending on the final grid connection design and 
+depending on where exactly both export cables and grid 
+connection infrastructure (cables and substations) will be 
+located, more applications/consents will be required with the 
+respective competent English and/or Scottish authorities. 
+Mitigation Component  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  20  o f  34  
+1 The asset is 100% dedicated to 
+renewable energy 
+Within the wind offshore 
+project category , EnBW 
+confirms that all assets of the 
+2022 green bond have been 
+used for  its U.K. wind 
+offshore projects Mona, 
+Morgan and Morven. 
+✓ 
+2 
+Any fossil fuel back up in place 
+is limited to powering 
+monitoring, operating and 
+maintenance equipment in the 
+event of no renewable power in 
+the system, powering resilience 
+or protection measures in the 
+event of no renewable power in 
+the system, restart capability 
+EnBW confirms the any fossil 
+fuel back up in place is not 
+designated nor designed to 
+generate electricity but 
+rather restart capabilities or 
+ensuring the operation on 
+the site. 
+✓ 
+Adaptation and Resilience Component  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1.1 
+Processes are in place 
+to assess key risks to 
+the assets from a 
+changing climate and 
+its impact on marine 
+conditions 
+The possible effects of climate change 
+and its impact on marine conditions 
+are assessed through an environmental 
+impact assessment for the Mona and 
+Morgan offshore wind projects. 
+For the Mona Offshore Wind Farm, a 
+DCO application was submitted in 
+February 2024 and is under review. As 
+part of the DCO application, an 
+Environmental Statement was 
+included, which examines potential 
+impacts like rising sea temperatures 
+and ocean acidification. Proposed 
+mitigation measures address these 
+risks, reducing them to a non -
+significant level according to EIA 
+standards. 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  21  o f  34  
+The Morgan Offshore Wind Project 
+Generation Assets have also 
+undergone review, with a DCO 
+application submitted in April 2024  
+and accepted  by the Planning 
+Inspectorate. This application includes 
+an Environmental Statement featuring 
+a climate change chapter and risk 
+assessment, focusing on long -term 
+changes in marine conditions such as 
+sea-level rise and increased wave 
+heights, is publicly available. Proposed 
+mitigation measures reduce these 
+potential risks to negligible, non -
+significant levels under EIA criteria. 
+The Morven Offshore Wind Array 
+Project has completed a Scoping 
+Report submission in July 2023, with 
+the Scoping Opinion published in 
+November 2023. A Section 36 
+application is in preparation for further 
+approvals. Additionally, Morven grid 
+connections 1 and 2 are in progress, 
+with Grid Connection 1’s DCO process 
+initiated and Grid Connection 2’s 
+consenting strategy dependent on 
+National Grid’s further guidance. 
+2.1 
+Processes are in place 
+to assess 
+improvements and 
+impacts the assets 
+have on the resilience 
+of other stakeholders 
+EnBW confirms that the process is 
+described in the D CO, the EIA and the 
+Preliminary Environmental Information 
+Report. Scoping is the first milestone in 
+the preapplication process  for the 
+DCO, followed by the Preliminary 
+Environmental Information Report, 
+then the Environmental Statement , 
+which is submitted as an integral part 
+of the DCO application. This iterative 
+approach allows for feedback from 
+stakeholders both through statutory 
+and non -statutory consultations, as 
+well as for refinements to the project 
+design envelope, which ha s been 
+✓  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  22  o f  34  
+introduced for both the Mona and the 
+Morgan projects. Moreover, the DCO 
+process has been accompanied by 
+several expert working groups. 
+For Morven Offshore Windfarm, the 
+project is in the non -statutory 
+consultation phase, where initial plans 
+are shared with the public and 
+stakeholders for early feedback. This 
+will be followed by statutory 
+consultation and submitting for a DCO 
+to the Secretary of State for Energy 
+Security and Net Zero. 
+3.1 
+An adaptation plan has 
+been designed and is 
+being implemented to 
+address the risks 
+identified in the 
+assessments outlined 
+above 
+The EIA will provide an assessment of 
+the potential environmental impacts 
+associated with the construction, 
+operation and maintenance, and 
+decommissioning phases of the 
+project.  
+An iterative approach to assessment 
+will be adopted, whereby a specific 
+impact is initially assessed, and if this is 
+deemed to be a significant adverse 
+effect in EIA terms, changes are made 
+(where practicable) to relevant project 
+parameters or design to av oid, reduce 
+or offset the magnitude of that impact.  
+The assessment is then repeated until 
+either the effect has been reduced to a 
+level that is not significant in EIA terms 
+or no further changes may be made to 
+the project design parameters to 
+reduce the magnitude of the impact.  
+The EIA is to be accompanied by an 
+Environmental Management and 
+Monitoring Plan, which will include all 
+project mitigation/monitoring 
+measures and commitments made 
+within the EIA. 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  23  o f  34  
+3.2 
+Inspections are carried 
+out regularly and there 
+is a maintenance 
+regime for future 
+inspections with 
+evidence that this is 
+adhered to. 
+EnBW confirms that inspections will be 
+carried out regularly and there will be a 
+maintenance regime for future 
+inspections once the projects will be in 
+operation. The frequency will depend 
+on the maintenance approach for the 
+different elements of the projects. 
+✓ 
+4.1 
+Issuer is involved in 
+stakeholder 
+engagement and 
+collaboration 
+Stakeholder engagement is an 
+essential part of the consenting and 
+grid connection process, as well as the 
+supply chain engagement, and thus an 
+indispensable component of the 
+project. 
+For Morgan and Mona, stakeholder 
+engagement has been ongoing since 
+2021 and will be further continued. 
+Currently, several Statements of 
+Common Grounds are being 
+negotiated with key stakeholders of 
+the Mona Offshore Wind Farm and the 
+Morgan Offshore Wind Project 
+Generation Assets.  For Morven 
+Offshore Windfarm, the project is at 
+the non -statutory consultation phase , 
+where initial plans are shared with the 
+public and stakeholders for early 
+feedback. This will be followed by 
+statutory consultation and submitting 
+for a DCO to the Secretary of State for 
+Energy Security and Net Zero.  
+✓ 
+5.1 
+The assets or projects 
+do not put at risk or 
+endangered species or 
+habitat or unduly 
+impact ecosystem 
+services. Where there 
+are possible negative 
+impacts to habitats, 
+mitigation measures 
+are implemented to 
+offset the negative 
+impacts 
+EnBW confirms that appropriate 
+mitigation measures will be 
+implemented to mitigate risks to 
+endangered species or habitats. These 
+may include shifting the construction 
+period or reducing underwater noise 
+during the foundation piling  for the 
+wind turbine generator foundations.  
+The Environmental Statements comes 
+with several proposed mitigation 
+measures. The DCO applications 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  24  o f  34  
+submitted to date can be found 
+online.1  
+For the Morven Offshore Windfarm, 
+the project is in the  pre-EIA phase , 
+which will highlight mitigation 
+measures needed to mitigate risks to 
+endangered species or habitats. All 
+EnBW U.K. offshore wind projects have 
+been audited to meet the relevant EU 
+Taxonomy technical screen ing criteria 
+and do no significant harm criteria, 
+including the protect and restore 
+biodiversity and ecosystems aspect. 
+5.2 
+Waste is responsibly 
+dealt with, including 
+appropriate disposal of 
+construction waste and 
+oil-based lubricants, 
+including recycling 
+options where possible 
+EnBW confirms that for Mona and 
+Morgan, the EIA will be accompanied 
+by an Environmental Management and 
+Monitoring Plan, which will include a 
+Waste Management Plan.2 An Offshore 
+environmental management plan  
+covering the period of construction 
+and operation will also be submitted 
+post-consent phase for the Morgan 
+project, including details of waste 
+management and disposal 
+arrangements, covering marine 
+pollution under the marine pollution 
+contingency plan. 
+For the Morven project, EnBW confirms 
+that, if required , the EIA will be 
+accompanied by draft management 
+plans, which will include an Outline Site 
+Waste Management Plan. 
+✓ 
+5.3 
+The Issuer has 
+recognized and listed 
+the potential risks for 
+For the Mona project, adherence to an 
+offshore Environmental Management 
+Plan (EMP) that will include a Marine 
+Pollution Contingency Plan (MPCP)  
+✓ 
+ 
+1 For the Mona Offshore Wind Farm, in the Mitigation and Monitoring Schedule, the Outline Marine Mammal Mitigation Protocol 
+or the Outline Underwater Sound Management Strategy . For the Morgan Offshore Wind Project Generation Assets , in the 
+Mitigation and Monitoring Schedule , the Outline Marine Mammal Mitigation Protocol  or the Outline Underwater Sound 
+Management Strategy. 
+2 For the Mona Offshore Wind Farm, the Outline Site Waste Management Plan is available here. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  25  o f  34  
+accidental site 
+contamination either 
+from leakage of 
+hydraulic fluid or from 
+wreckage/debris on 
+the seabed. 
+Demonstrable steps 
+have been taken to 
+minimise these risks 
+and plans have been 
+made for clean-up 
+should a site 
+contamination event 
+occur. 
+which will include planning for 
+accidental spills, address all potential 
+contaminant releases and include  key 
+emergency details will be developed. 
+The Mona project  DCO applications 
+submitted included the Outline 
+Spillage and Emergency Response 
+Plan, which applies exclusively to its 
+onshore elements.  
+There is an Outline Spillage and 
+Emergency Response Plan , for the 
+transmission of the Morgan Offshore 
+Wind Proje ct, and a Marine Pollution 
+Contingency Plan  covering oil spill 
+response for  Morgan’s generation 
+assets.3 
+For the Morven project, if required, the 
+EIA will be accompanied by an Outline 
+Spillage and Emergency Response Plan 
+will accompany the EIA . The 
+development to the Marine Pollution 
+Contingency Plan, to help avoid and 
+tackle water pollution incidents, was 
+also required by the East Lothian 
+Council when replying to the Scoping 
+Request linked with the project. 
+All of EnBW UK offshore wind projects 
+have also been audited to meet the 
+relevant EU taxonomy technical screen 
+criteria and the Do Not Significant 
+Harm criteria, including the protect and 
+restore biodiversity and ecosystems 
+aspect. 
+5.4 
+Decommissioning of 
+the plant is planned in 
+a way that considers 
+environmental impacts 
+EnBW confirms that information on the 
+decommissioning phase requirements 
+is included in various chapters of the 
+project-specific Environmental 
+✓ 
+ 
+3 For the Morgan Offshore Wind Farm: Generation Assets, pollution response arrangements can be found in Chapter 5.1, Annex 
+A: S_D4_11_Morgan Gen_Outline Offshore Environmental Management Plan_F01. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  26  o f  34  
+Statements.4 EnBW commits that it will 
+fully comply with the requirements set 
+out in the U.K. Energy Act, including all 
+decommission-related matters. 
+5.5 
+Issuer has plans and 
+processes in place to 
+effectively manage and 
+minimize conflict with 
+other users of marine 
+and coastal place. 
+EnBW has identified the  relevant 
+stakeholders and has a stakeholder 
+management strategy in place  to 
+minimize or, where deemed necessary, 
+mitigate any potential conflicts. 
+✓ 
+ 
+  
+ 
+4 For the Mona Offshore Wind Farm, please see the Project Description. For the Morgan Offshore Wind Project Generation Assets, 
+please see the Project Description. For the Morven Offshore Wind Array Project, please see the Scoping Report. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  27  o f  34  
+ANNEX 6: DETAILED FINDINGS GRID AND STORAGE 
+INFRASTRUCTURE  
+✓ 
+The green bond(s) asset pool complies with the Climate Bonds Initiative’s Grid 
+and Storage Criteria. 
+EnBW's distribution grid meets the criterion that more than 67% of connections in 
+the last five years are below the generation threshold value of 100 gCO2e/kWh 
+measured on a life cycle basis in accordance with electricity generation criteria. 
+ 
+Adaptation and Resilience Component  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+1 Clear boundaries and critical interdependencies between the infrastructure and the 
+system it operates within are identified. 
+1.1 
+Boundaries of the 
+infrastructure are 
+defined 
+EnBW allocated the proceeds to projects 
+executed, approved or planned in 2020 
+and 2021, as detailed in a list that 
+includes the location and investment 
+volume of each project within this 
+timeframe. As a result, the specific parts 
+of the grid financed (or refinanced) by the 
+green bond can be clearly identified. The 
+assets have lifespans ranging from 25 to 
+100 years, which extends beyond the 
+duration of the bond. 
+✓ 
+1.2 
+Critical 
+interdependencies 
+between the 
+infrastructure and the 
+system within which it 
+operates are 
+identified.  
+EnBW records unscheduled interruptions 
+to supply as one of its key performance 
+indicators since 2014. This data flows into 
+the System Average Interruption 
+Duration Index (SAIDI). It states the 
+average duration of supply interruptions 
+per end consumer in minutes per year.  
+Furthermore, EnBW’s risk management 
+approach includes the identification of 
+critical interdependencies between its 
+infrastructure and the systems within 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  28  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+which it operates. This is achieved 
+through an environmental management 
+system, certified under DIN EN ISO 
+14001, and adherence to legal 
+requirements such as EIAs for the 
+construction and operation of electricity 
+networks. In line with regulatory 
+frameworks in Germany and Europe, 
+EnBW must systematically identify and 
+document how a project may affect 
+various environme ntal factors  including 
+human health, animals, plants, 
+biodiversity, soil, water, air, climate, 
+landscape and cultural assets . Regular 
+crisis m anagement exercises further 
+ensure that any emergent risks are 
+promptly identified and mitigated. 
+Additionally, all the electricity grids are 
+taxonomy aligned. As part of the 
+taxonomy reporting, EnBW conducts a 
+comprehensive climate risk analysis to 
+ensure it fulfills the do no significant 
+harm criteria of climate change 
+adaptation. This approach is annually 
+audited by auditors as part of the EU 
+Taxonomy reporting. 
+2 An assessment has been undertaken to identify the key physical climate hazards to 
+which the infrastructure will be exposed and vulnerable to over its operating life 
+2.1 
+Key physical climate 
+risks and indicators of 
+these risks are 
+identified in line with 
+the sector criteria 
+guidelines. 
+EnBW identifies and assesses key physical 
+climate risks through a standardized risk 
+map, which evaluates the exposure of its 
+activities to climate hazards as part of its 
+annual EU Taxonomy alignment process. 
+The physical climate risk analysis is done  
+with third-party support  provided by 
+Jupiter Intelligence,  and the approach 
+has been confirmed by auditors. Climate 
+risks are categorized into temperature, 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  29  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+wind, water and ground, and are 
+assessed using short-term, medium-term 
+and long-term forecasts. All forecasts are 
+analyzed based on  the IPCC scenarios 
+SSP1-RCP2.6, SSP2 -RCP4.5 and SSP5 -
+RCP8.5. The analysis includes risks 
+concerning temper ature changes (heat 
+and cold), changes in wind patterns 
+(including thunderstorms), changes in 
+water patterns (including heavy rainfall 
+and flooding  and sea-level rise) and 
+solid-related hazards like landslides. 
+The assets are then rated based on their 
+exposure and resilience, ensuring that 
+those most vulnerable to climate impacts 
+are prioritized for mitigation. This 
+approach meets the criteria for 
+identifying critical interdependencies and 
+assessing the robustness of infrastructure 
+in the face of climate change 
+uncertainties, including those that could 
+affect the stability and performance of 
+electrical energy systems over their 
+operational lifetime. 
+3  
+The measures that have or will be taken to address those risks mitigate them to a 
+level such that the infrastructure is suitable to climate change conditions over its 
+operational life. 
+3.1 
+Risk management 
+activities that are 
+relevant to the 
+climate risks and 
+impacts identified in 
+the risk assessment.  
+EnBW’s risk management process 
+mandates implementing measures to 
+avoid or reduce identified physical and 
+transition risks. For these risks, EnBW rolls 
+out adaptation plans developed by 
+internal experts. Additionally, EnBW has 
+established an internal screening process 
+for climate risks, addressing both short -
+term (next three years) and long -term 
+(10-30 years) perspectives. The 
+mitigation measures are designed to 
+✓  
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  30  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+cover the climatic changes over the entire 
+period of operation . Regular updates of 
+the climate risk analysis enable 
+readjustment with IPCC scenario 
+updates. Mitigation measures are 
+organized into categories such as 
+temperature, wind, water and ground, 
+and are evaluated for each activity. 
+3.2 
+Risk reduction 
+measures must be 
+tolerant to a range of 
+climate hazards and 
+not lock in conditions 
+that could result in 
+maladaptation 
+EnBW confirms that the measures 
+implemented to mitigate the 
+consequences of climate change in line 
+with current knowledge do not create 
+any additional limits or dependencies in 
+the system during the transformation 
+process. 
+The Issuer also precise that EnBW’s 
+distribution grids meet EU Taxonomy 
+criteria under Activity 4.9 ( transmission 
+and distribution of electricity). An annual 
+climate risk analysis of relevant assets 
+plays a crucial role in ensuring 
+compliance with the do no significant 
+harm requirements for EU Environmental 
+Goal 2 (climate change mitigation). This 
+climate risk analysis is integrated into 
+EnBW's internal annual review process to 
+reaffirm the taxonomy alignment of its 
+grid activities. 
+✓ 
+4. 
+The infrastructure enhances the climate resilience of the defined system it operates 
+within, as indicated by the boundaries of and critical interdependencies with that 
+system as identified in Item 1 in this checklist. 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  31  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+4.1 
+The climate resilience 
+benefits of system 
+focused assets and 
+activities are assessed 
+and it is 
+demonstrated they 
+are “fit for purpose,” 
+in the sense that they 
+enhance climate 
+resilience at a 
+systemic level, with 
+the flexibility to take 
+into account the 
+uncertainty around 
+future climate change 
+impacts. 
+EnBW confi rmed that the adaption 
+measures and plan described previously 
+enhance the climate resilience of the 
+system. The effects that derive from the 
+climate risk analysis are integrated based 
+on severity and likelihood of occurrence 
+into th e climate transition plan and 
+correlated adaptation measures.  The 
+adaptation measures are designed at the 
+local and project level and align with the 
+risk analysis and risk management 
+processes in place.  
+EnBW also confirms that the adaptation 
+solutions implemented do not adversely 
+affect the adaptation efforts or the level 
+of resilience to physical climate risks of 
+other people, nature, cultural heritage, of 
+assets and of other economic activities 
+and are consistent with local, sectoral, 
+regional or national adaptation strategies 
+and plans. EnBW also considers the use 
+of nature -based solutions and rel ies on 
+blue or green infrastructure to the extent 
+possible. 
+The Issuer also confirms that the 
+measures are compliant with national 
+and European nature protection laws , 
+including th ose addressing bird 
+protections. 
+✓ 
+5. 
+The issuance is required to demonstrate that there will be ongoing monitoring and 
+evaluation of the relevance of the risks and resilience measures and related 
+adjustments to those measures will be taken as needed. 
+5.1 
+Indicators for risk 
+identified under Item 
+2 in this checklist are 
+provided 
+The risks of the Issuer’s business activities 
+are monitored and evaluated regular ly 
+and published in the "report on 
+ ✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  32  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+opportunities and risks " in its  Annual 
+Report. 
+For grid infrastructure projects in 
+Germany, particularly in Baden -
+Württemberg, the identified risks 
+primarily stem from heat and flooding. 
+Several indicators related to the 
+temperature-related hazards and water -
+related hazards were also defined to 
+assess the relevancy of the risks. For 
+example, the number of days per year 
+with temperature above 35  °C, the 
+average annual temperature (in °C) or the 
+total water equivalent precipitation (in 
+mm) for the year. 
+Additionally, the Issuer confirms that all 
+EnBW offshore activities and electricity 
+grids are aligned with the EU Taxonomy, 
+as per the Group selection process. This 
+means that all activities fulfi ll the do no 
+significant harm criteri a for EU 
+Environmental Objective 2 (adaptation to 
+climate change ), which is audited and 
+certified annually by an auditor. 
+5.2 
+Indicators for risk 
+mitigation measures 
+identified under Item 
+3 in this checklist are 
+provided 
+The Issuer  explains that the mitigation 
+measures are specifically developed for 
+each individual asset for which climate 
+risks have been identified. 
+For grid infrastructure projects, several 
+indicators were identified , which are 
+addressed with corresponding migration 
+measures (e.g., reduction of conductivity 
+due to heat stress, replacement of 
+operating equipment/spare parts with 
+special properties regarding extreme 
+weather and climatic changes). 
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  33  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+The implementation of these measures is 
+needs-based and being reviewed on a n 
+asset-specific basis. 
+Measures include the regular adaptation 
+of financial forecasts to account for 
+potential increases in repair costs or 
+reductions in revenues. To prepare for 
+potential damage to electricity poles, 
+they are assessed for their structural 
+integrity and exposure to clima te risks. 
+The poles are then rated and categorized 
+based on their resilience and stability.  
+5.3 
+Indicators for “fit for 
+purpose” resilience 
+benefit measures 
+identified under Item 
+4 in this checklist are 
+provided 
+The Issuer confirmed that the mitigation 
+measures are specifically developed for 
+each individual asset, as described in the 
+dedicated section, and that indicators are 
+used to track and monitor the rollout of 
+the measures. For example, for electricity 
+grids: 
+▪ Impacts of higher temperatures 
+include the regular adaptation of 
+financial forecasts to consider 
+possible higher costs for repairs 
+or lower revenues.  
+▪ To be prepared for any damages 
+to electricity poles, the poles are 
+evaluated concerning their 
+statics and exposure. The poles 
+are then rated and clustered into 
+different categories concerning 
+their resilience and stability. 
+✓ 
+5.4 
+Issuers have a viable 
+plan to annually 
+monitor (a) climate 
+risks linked to the 
+infrastructure, (b) 
+The Issuer confirms to regularly monitor 
+the risks and measures outlined. EnBW 
+began implementing the EU guidelines 
+for the new Corporate Sustainability 
+Reporting Directive in 2023. The climate-
+✓ 
+P O S T- I S S U A N C E  C B I  C E R T I F I C A T I O N 
+ 
+ 
+www.iss -corporate.com  34  o f  34  
+ 
+REQUIREMENT FACTUAL FINDINGS 
+ANALYSIS 
+AGAINST 
+REQUIREMENTS 
+climate resilience 
+performance, (c) 
+appropriateness of 
+climate resilience 
+measure(s) and to 
+adjust as necessary to 
+address evolving 
+climate risks 
+related risk analysis is a key component 
+of the general reporting requirements 
+under ESRS 2.  
+As part of this, EnBW initiated a project 
+aimed at enhancing its climate risk 
+management practices with involvement 
+from the risk, accounting, and 
+sustainability departments. Measures 
+aligned with the EU Taxonomy will be 
+expanded, further systematized and 
+integrated into processes as part of this 
+initiative. EnBW follows the 
+recommendations of the Task Force on 
+Climate-Related Financial Disclosures. 
+5.5 
+Where electricity 
+supply has been 
+interrupted, the 
+number of customer 
+interruptions and 
+customer minutes lost 
+(i.e., aggregate 
+duration of supply 
+interruptions) should 
+be measured and 
+reported, together 
+with the cause of the 
+interruption. Any 
+actions taken to 
+reduce the risk of 
+further impacts 
+should also be 
+recorded. 
+EnBW has been tracking all unscheduled 
+supply interruptions at its distribution 
+grid operators for gas and electricity as a 
+key performance indicator since 2014. 
+This data contributes to the calculation of 
+the SAIDI, which measures the average 
+duration of supply interruptions per end 
+consumer, expressed in minutes per year. 
+This KPI is published annually in EnBW’s 
+Integrated Report. In 2023, the SAIDI was 
+19.3 minutes per year, an increase from 
+16.6 minutes per year in 2022. 
+✓

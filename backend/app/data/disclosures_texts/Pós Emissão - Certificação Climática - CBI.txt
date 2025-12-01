@@ -1,0 +1,860 @@
+Post-Issuance 
+Verification Report 
+ 
+Second Climate Bond Issuance of 
+Aliança Energia S.A. 
+  
+PREPARED FOR 
+ 
+ 
+ 
+DATE 
+02 September 2024 
+ 
+
+ 
+CLIENT:  Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  
+ 
+DOCUMENT DETAILS 
+The details entered below are automatically shown on the cover and  the main page footer. PLEASE 
+NOTE: This table must NOT be removed from this document.  
+DOCUMENT TITLE  Post-Issuance Verification Report  
+DOCUMENT SUBTITLE  Second Climate Bond Issuance of Aliança Energia S.A.  
+DATE 02 September 2024 
+AUTHOR Camila Ballini Luiz, Camila Toigo, Cristóvão Alve s 
+CLIENT NAME  Aliança Geração de Energia S .A. 
+ 
+  
+ 
+CLIENT:  Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  
+SIGNATURE PAGE 
+Post-Issuance Verification Report 
+Second Climate Bond Issuance of Aliança Energia S.A. 
+  
+ 
+Camila Ballini Luiz 
+Consultant 
+ Camila Toigo 
+Principal Consultant 
+ 
+  
+Cristóvão Alves 
+Partner 
+  
+ERM’s Brasil Ltda. 
+Avenida Luis Carlos Berrini, nº105, Edifício 
+Thera Corporate, cj 171, Cidade Monções, 
+São Paulo, Estado de São Paulo 
+ 
+  
+ 
+© Copyright 2024 by The ERM International Group Limited and/or its affiliates (‘ERM’). All Rights Reserved.  
+No part of this work may be reproduced or transmitted in any form or by any means, without prior written permission of ERM. 
+ 
+ 
+
+POST-ISSUANCE VERIFICATION REPORT   
+  
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024    Page i 
+CONTENTS  
+1. ENGAGEMENT SUMMARY  1 
+2. ASSESSMENT STATEMENT  3 
+3. SUMMARY OF FINDINGS  4 
+3.1 POST -ISSUANCE REQUIREMENTS ASSESSMENT  4 
+3.1.1 Use of proceeds 4 
+3.1.2 Process for Evaluation and Selection of projects and assets 9 
+3.1.3 Management of proceeds 11 
+3.1.4 Post-Issuance Reporting 13 
+3.2 THE WIND SECTOR ELIGIBILITY CRITERIA OF THE CLIMATE BONDS STANDARD & 
+CERTIFICATION SCHEME VERSION 2.3 (APRIL 2023) ASSESSMENT  16 
+4. REFERENCES  18 
+POST-ISSUANCE VERIFICATION REPORT  ENGAGEMENT SUMMARY 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 1 
+1. ENGAGEMENT SUMMARY  
+The purpose of this Report is to provide a Post -Issuance Verification for the Fifth Issuance of 
+Non-convertible Debentures (“Bond”) issued by Aliança Geração de Energia S.A.  (Issuer) as a 
+Certified Climate Bond. This issuance was the second Climate Bond of Aliança Geração de Energia 
+S.A. 
+The issuance occurred on May 2022 and amounted to BRL 240 ,000,000.00. In 2022, SITAWI's 
+sustainable finance program, which became NINT and was acquired by ERM in 2023 (“Approved 
+Verifier”), conducted the Pre-Issuance Verification assessment, as an independent th ird-party 
+provider accredited by the Climate Bonds Standards Board. 
+The proceeds from the issuance were used  to finance and reimburse expenses  related to the 
+implementation of the Complexo Eólico Gravier project and the Complexo Eólico Acauã project  
+(“Nominated Projects & Assets”). The Gravier project was developed to generate electricity from 
+renewable and clean source, utilizing the wind potential of the state of Ceará, specifically in the 
+municipality of Icapuí. The Acauã project was implemented in the municipalities of Santana dos 
+Matos, Lagoa Nova, Tenente Laurentino a nd São Vicente, in the state of Rio Grande do Norte. 
+Both projects are located in Brazil. 
+ERM’s assessment method follows the Climate Bonds Standards, Version 4.11. The assessment 
+followed the Climate Bond Initiative (CBI)’s general requirements (applicable to all bonds) and 
+the Wind Sector Eligibility Criteria of the Climate Bonds Standard & Certification Scheme Version 
+2.3 under the Climate Bonds Standard (April 2023)2. 
+The assessment process consisted of the following: 
+• Planning the assessment; 
+• Risk assessment; 
+• Performing the assessment, including client preparation, obtaining evidence and 
+practitioner assessment; 
+• Forming the assessment conclusion; 
+• Preparing the assessment report; 
+• Submission for CBI certification 
+ 
+The assessment relied on both confidential and public information and documents provided by 
+Aliança Geração de  Energia S.A., desk research and remote interviews conducted with the 
+sustainability and finance areas. This process was carried out in August and September 2024. 
+ 
+The assessment process was performed under relevant general principles & professional 
+standards of independent auditing and in line with the International Standard on Assessment 
+Engagements other than Audits or Reviews of Historical Financial Information (ISAE 3000), 
+International Standard in Quality Control (ISQC 1, 2009) and Code of Ethics for Professional 
+Accountants of International Ethics Standards Board for Accountants (IESBA, 2019). 
+The professionals that performed this assessment have previous knowledge and experience on 
+applying Climate Bonds Standard version 4.1 and Climate Bond Sector Criteria and are familiar 
+with the sector’s main ESG risks and opportunities. 
+ 
+ 
+1 climate-bonds-pre-issuance-uop-checklist-v4_1.docx (live.com) 
+2 Wind Sector Criteria (climatebonds.net) 
+POST-ISSUANCE VERIFICATION REPORT  ENGAGEMENT SUMMARY 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 2 
+ERM had access to all documents and professionals requested,  including reports, financial 
+statements, and licenses.  However, due to the lack of detailed financial statements,  ERM was 
+able to provide an  assessment with a limited3 level of assurance regarding completeness, 
+accuracy, and reliability. 
+ERM is not a shareholder, subsidiary, supplier or client of Aliança Geração de Energia. SITAWI's 
+sustainable finance program, which began operating as NINT in 2023 and was acquired by ERM 
+in 2023, was responsible for preparing a Pre-Issuance and a Post-Issuance CBI Verification 
+Report, as well as an Independent Pre-Issuance Verification Opinion in 2021 for Aliança Geração 
+de Energia. In 2022, NINT prepared a CBI Pre-Issuance Verification Report and an Independent 
+Pre-Issuance Verification Opinion. In 2023, another CBI Pre-Issuance Verification Report and an 
+Independent Pre-Issuance Verification Opinion were prepared for the Company. 
+The assessment contained in this Report is based on both public and confidential documents 
+provided by Aliança. We cannot attest to these sources’ completeness, preciseness, or reliability. 
+Therefore, ERM will not be held responsible for any decisions based upon the information in this 
+report provided to us by these sources that turn out to be incomplete, inaccurate, or unreliable. 
+ERM is responsible for providing an external and independent assessment of the conformance of 
+the Framework with the Climate Bonds Standard version 4.1 requirements and associated 
+sector-specific technical criteria. We reinforce that the analysis and opini on in this report shall 
+not be taken as an investment recommendation or a proxy for liquidity or returns.  
+ 
+3 “An assurance engagement in which the practitioner reduces engagement risk to a level that is acceptable in the 
+circumstances of the engagement but where that risk is greater than for a reasonable assurance engagement as the 
+basis for expressing a conclusio n in a form that conveys whether, based on the procedures performed and evidence 
+obtained, a matter(s) has come to the practitioner’s attention to cause the practitioner to believe the subject matter 
+information is materially misstated. The nature, timing, and extent of procedures performed in a limited assurance  
+engagement is limited compared with that necessary in a reasonable assurance engagement but is planned to obtain a 
+level of assurance that is, in the practitioner’s professional judgment, meaningful. To be meaningful, the level of 
+assurance obtained by the  practitioner is likely to enhance the intended users’ confidence about the subject matter 
+information to a degree that is clearly more than inconsequential” (ISAE 3000, 2013). 
+POST-ISSUANCE VERIFICATION REPORT  ASSESSMENT STATEMENT 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 3 
+2. ASSESSMENT STATEMENT  
+ 
+Based on the limited assurance procedures conducted and evidence obtained, nothing has come 
+to our attention that causes us to believe that, in all material respects, the Second Climate Bond 
+Issuance of Aliança Geração de Energia S.A. issued in 2022  is not in conformance with the 
+Climate Bonds Standard’s Post-Issuance Requirements. 
+  
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 4 
+3. SUMMARY OF FINDINGS  
+Upon guidance from the Climate Bond Standards, Version 4.1, ERM assessed the Bond issuance 
+and the Nominated Projects & Assets, with the following subdivisions: 
+1. Post-Issuance Requirements4 Assessment; 
+2. The Wind Sector Eligibility Criteria of the Climate Bonds Standard & Certification Scheme 
+Version 2.3 (April 2023)5 Assessment. 
+3.1  POST-ISSUANCE REQUIREMENTS ASSESSMENT  
+The following assessment is based on Section A.3 of the Climate Bonds Standards Version 4.1, 
+namely the P ost-Issuance Requirements. It is organised according to the items listed in the 
+Standard provided by CBI. The Climate Bonds Standard Requirements are listed, followed by 
+each requirement’s factual findings. Each of the four sections ( 3.1.1. Use of Proceeds; 3.1.2. 
+Process for Evaluation and Selection of Projects and Assets; 3.1.3. Management of Proceeds; 
+3.1.4. Reporting Prior To Issuance) is concluded with ERM’s assessment conclusion. 
+3.1.1 USE OF PROCEEDS  
+3.1.1.1 THE NET PROCEEDS OF THE DEBT INSTRUMENTS MUST BE ALLOCATED TO THE 
+NOMINATED PROJECTS AND ASSETS. 
+The BRL 240 million issuance took place on  May 3, 2022 . The bond indenture and the 
+Independent Pre -Issuance Verification Opinion limit the allocation to of the Complexo Eólico 
+Gravier project and the Complexo Eólico Acauã project . In October 2023 , 100% of the net 
+proceeds (BRL 240 million)  were already allocated on the Nominated Projects and Assets, 
+according to the audited financial statements publicly available on the compan y’s website 
+relating to the financial year 2022 and 2023.  
+The Gravier project is a wind energy park in the municipality of Icapuí, in the state of Ceará; 17 
+(seventeen) wind turbines with a nominal power of 4.2 MW have been installed at the Gravier 
+Project, totaling an installed capacity of 71.4 MW in a total are a of 377.9 ha.  The project was 
+implemented using funds allocated to a Special Purpose Entity (SPE) called Central Eólica Gravier 
+S.A. and began commercial operations in December 2022. 
+ The Acauã Wind Complex is a wind energy project implemented in the municipalities of Santana 
+dos Matos, Lagoa Nova, Tenente Laurentino and São Vicente, in the state of Rio Grande do Norte. 
+Twenty-six (26) wind turbines with a nominal power of 4.2 MW were installed, totaling an 
+installed capacity of 109.2 MW.  The four wind power plants that make up the Complex were 
+grouped into three different Special Purpose Entities (SPEs), named:  
+(i) Central Eólica Acauã I S.A., comprising EOL Acauã I and EOL Acauã II, with areas of 
+27.85 ha and 22.64 ha, respectively.  
+(ii) Central Eólica Acauã II S.A., comprising EOL Baixa do Sítio, with an area of 55.26 ha; 
+and  
+(iii) Central Eólica Acauã III S.A., comprising EOL Acauã III, with an area of 37.55 ha. 
+ 
+4 climate-bonds-standard-v4-1-202403.pdf (climatebonds.net) 
+5 Wind Sector Criteria (climatebonds.net) 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 5 
+3.1.1.2 ALL NOMINATED PROJECTS AND ASSETS MUST MEET THE DOCUMENTED OBJECTIVES 
+OF THE DEBT INSTRUMENT AS SET OUT IN THE ISSUER’S GREEN FINANCE 
+FRAMEWORK.  
+The Bond’s indenture indicates that its proceeds would be allocated to the costs related to the 
+generation of wind energy.  
+ERM assessed the Nominated Project s under the Wind Sector Criteria Version 2.3 (A pril 2023) 
+of the Climate Bonds Standard version 4.0. ERM concluded the bond is in conformance, in all 
+material respects, with the Wind Criteria. The facilit ies have 100% of its electricity generated 
+from wind, thus having 0% of fossil fuel back up. Therefore, the projects listed in item 3.1.1.1 
+remain in conformance with the CBI criteria.  
+3.1.1.3 ISSUERS MUST ALLOCATE AT LEAST 95% OF THE NET PROCEEDS OF THE DEBT 
+INSTRUMENT TO PROJECTS AND ASSETS THAT MEET THE SECTOR CRITERIA 
+REQUIREMENTS OF THE STANDARD. 
+100% of the proceeds from the Green Bond Issuance were allocated to projects and assets 
+that comply with the Wind Sector Criteria established by the Climate Bonds Standard version 
+4.0. 
+3.1.1.4 FOR ANY PART OF THE NET PROCEEDS THAT FINANCE PROJECTS AND ASSETS THAT 
+DO NOT FULLY SATISFY THE SECTOR CRITERIA REQUIREMENTS (UP TO 5%), THE 
+ISSUER MUST PROVIDE DETAILED DISCLOSURES IN THE GREEN FINANCE 
+FRAMEWORK. 
+All the Nominated Projects & Assets that received allocations of green bond proceeds were fully 
+in accordance with the Wind Sector Criteria Version 2.3 (April 2023) of the Climate Bonds 
+Standard version 4.0, as mentioned on item 3.1.1.2.  
+3.1.1.5 ANY NOMINATED PROJECTS AND ASSETS WHICH DO NOT FULLY SATISFY THE SECTOR 
+CRITERIA MAY BE CONSIDERED ELIGIBLE IF THEY MEET ALL OF THE FOLLOWING 
+CONDITIONS: 
+I. THEY MUST RELATE TO SECTORS FOR WHICH CLIMATE BONDS HAS NOT YET 
+DEVELOPED SECTOR CRITERIA; AND  
+II. II. THEY MUST FALL UNDER ANY OF THE GREEN PROJECT CATEGORIES LISTED 
+IN THE ICMA GREEN BOND PRINCIPLES OR THE ICMA SOCIAL BOND 
+PRINCIPLES; AND  
+III. III. THE VERIFICATION REPORT OPINION MUST CONFIRM THEIR ALIGNMENT 
+WITH THE ICMA GREEN/SOCIAL BOND PRINCIPLES IV. THEY MUST NOT 
+RELATE TO ANY OF THE FOLLOWING EXCLUDED ACTIVITIES:  
+• THE EXPLORATION, EXTRACTION OR TRANSPORTATION OF PROVEN 
+CONVENTIONAL OR UNCONVENTIONAL FOSSIL FUEL RESERVES.  
+• NATURAL GAS PRODUCTION.  
+• REFINING CRUDE OIL TO PRODUCE DERIVATIVE PRODUCTS.  
+• THE SUPPLY AND/OR USE OF FOSSIL FUELS FOR POWER GENERATION AND 
+HEAT.  
+• CONVERSION OR FRAGMENTATION OF HIGH -CARBON-STOCK LAND OR 
+UNSUSTAINABLE OPERATIONS ON HIGH-CARBON STOCK LAND LEADING TO 
+THE LOSS OF ITS STATUS AS HIGH-CARBON STOCK LAND. 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 6 
+All the Nominated Projects & Assets that received allocations of green bond funds were fully in 
+accordance with the wind sector criteria. 
+3.1.1.6 THE ISSUER MUST ALLOCATE THE NET PROCEEDS TO THE NOMINATED PROJECTS AND 
+ASSETS WITHIN 24 MONTHS OF ISSUANCE OF THE DEBT INSTRUMENT. THE 24 -
+MONTH DEADLINE CAN BE EXTENDED BY THE CLIMATE BONDS STANDARD 
+SECRETARIAT FOR UP TO 5 YEARS (AND EXCEPTIONALLY UP TO 1 0 YEARS IF DULY 
+JUSTIFIED BY THE NATURE OF THE PROJECTS TO BE FINANCED). AN EXTENSION WILL 
+BE GRANTED AT THE DISCRETION OF THE CLIMATE BONDS STANDARD SECRETARIAT, 
+PROVIDED THE JUSTIFICATION FOR IT CAN BE SUBSTANTIATED BY THE ISSUER AND 
+CONFIRMED BY THE APPROVED VERIFIER. AT THE END OF THE ALLOCATION PERIOD 
+SPECIFIED IN THE CERTIFICATION, THE ISSUER MUST PROVIDE A POST -ISSUANCE 
+VERIFICATION REPORT BY AN APPROVED VERIFIER. THE ISSUER MAY BE REQUESTED 
+TO PROVIDE ANNUAL POST-ISSUANCE VERIFICATION REPORTS UNTIL THE APPROVED 
+VERIFIER CONFIRMS THAT 100% OF THE PROCEEDS HAVE BEEN ALLOCATED. 
+The company has allocated 100% of the net proceeds to the Nominated Project within 24 months 
+of the issuance, as evidenced by the 2022 and 2023 audited Financial Statements sent by 
+Aliança.  
+There was no extension requested on the 24-month deadline. 
+Furthermore, Aliança has published its Sustainability Report6 and Financial Statements7 annually, 
+containing information regarding the projects financed.  
+3.1.1.7 THE NET PROCEEDS MAY BE REALLOCATED TO OTHER NOMINATED PROJECTS AND 
+ASSETS AT ANY TIME WHILE THE DEBT INSTRUMENT REMAINS OUTSTANDING, 
+PROVIDED THE APPROVED VERIFIER HAS VERIFIED SUCH ASSETS. 
+The net proceeds were entirely allocated to the nominated project listed in item 3.1.1. 1. No 
+other project received funding from the issuance. The projects were considered a priority by the 
+Ministry of Regional Development, in accordance with Brazilian Law 12,431/2011. 
+3.1.1.8 NOMINATED PROJECTS AND ASSETS MUST NOT BE NOMINATED TO OTHER CERTIFIED 
+DEBT INSTRUMENTS, UNLESS THE ISSUER DEMONSTRATES THAT DIFFERENT 
+CERTIFIED CLIMATE BONDS ARE FUNDING DISTINCT PORTIONS OF THE NOMINATED 
+PROJECTS AND ASSETS, OR THE CERTIFIED DEBT INSTRUM ENT IS BEING 
+REFINANCED VIA ANOTHER CERTIFIED DEBT INSTRUMENT. 
+In addition to the climate bond that is the subject of this verification, another climate operation  
+(4th debenture issuance of Aliança Energia) financed the Gravier Complex. This operation had its 
+structure previously assessed by SITAWI in an Independent Pre-Issuance Verification Opinion 
+and took place in April 2022. One hundred and ninety million reais ( BRL190,000,000.00) were 
+allocated to the project. It is important to note that this issuance also received certification from 
+the CBI. 
+Table 1 below illustrates the representativeness of the issuance funds in relation to the total 
+value of the Gravier project.   
+Table 1: Funding sources of the Gravier Complex 
+Source Targeted resources (BRL MM) % of project value 
+ 
+6 Sustainability Report - Aliança Energia (aliancaenergia.com.br) 
+7 Financial Statements - Aliança Energia (aliancaenergia.com.br) 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 7 
+4th issuance - green 
+and climate 220,0 51,40% 
+5th issuance – green 
+and climate 190,0 44,39% 
+Total Green and 
+Climate Resources 410,0 95,79% 
+Remaining backing, 
+completed with own 
+capital 
+18,0 4,21% 
+Total Value 428,0 100% 
+Source: Aliança; Prepared by ERM 
+Similarly, another climate operation financed the Acauã Complex. This operation (6th debenture 
+issuance) also had its structure previously assessed by NINT in an Independent Pre-Issuance 
+Verification Opinion and took place in October 2023. NINT prepared a Pre-Issuance Verification 
+Report in October 2023 , and the operation was certified by CBI . This issuance directed 
+BRL340,000,000.00 (three hundred and forty million reais) to the project.  The proceeds from 
+this issuance were allocated to the implementation and/or reimbursement of expenses or debts 
+directly related to the Acauã project, with a maturity date in November 2037, as verified in the 
+issuance indenture.  
+Table 2 below illustrates how emissions funds represent the total value of the Acauã project. 
+Table 2: Funding sources of the Acauã Complex  
+Source Targeted resources (BRL MM) % of project value 
+5th issuance – green 
+and climate 50,0 6,83% 
+6th issuance – green 
+and climate 340,0 46,45% 
+Total Green and 
+Climate Resources 390,0 53,28% 
+Remaining backing, 
+completed with own 
+capital 
+342,0 46,72% 
+Total Value 732,0 100% 
+Source: Aliança; Prepared by ERM 
+3.1.1.9 WHERE A PROPORTION OF THE NET PROCEEDS OF THE DEBT INSTRUMENT ARE USED 
+FOR REFINANCING, THE ISSUER MUST TRACK THE RESPECTIVE SHARES OF THE NET 
+PROCEEDS USED FOR FINANCING AND REFINANCING AND IDENTIFY WHICH 
+NOMINATED PROJECTS AND ASSETS MAY BE REFINANCED. THIS MAY ALSO INCLUDE 
+THE EXPECTED LOOK -BACK PERIOD FOR REFINANCED NOMINATED PROJECTS AND 
+ASSETS WHICH SHOULD REFLECT THE FUNCTIONAL LIFETIME OF THE PROJECTS OR 
+ASSETS FOR DELIVERING THE STATED CLIMATE MITIGATION/ ADAPTATION/ 
+RESILIENCE BENEFITS. THE REMAIN ING FUNCTIONAL LIFETIME OF THE FINANCED 
+PHYSICAL PROJECTS OR ASSETS MUST BE EQUAL TO OR GREATER THAN THE TERM 
+OF THE INSTRUMENT BEING CERTIFIED. THE NET PROCEEDS MAY ONLY BE USED FOR 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 8 
+REFINANCING OPERATING EXPENDITURES THAT WERE INCURRED WITHIN THREE 
+YEARS PRIOR TO THE ISSUANCE OF THE CERTIFIED DEBT INSTRUMENT. 
+From the total proceeds of the bond issuance, approximately BRL101,000,000.00 (one hundred 
+and one million reais) was allocated to reimburse expenses incurred on the Gravier Project and 
+BRL5,500,000.00 (five million, five hundred thousand reais) was allocated to reimburse 
+expenses incurred on the Ac auã Project, totaling BRL106,500,000.00 (one hundred and six 
+million, five hundred thousand reais). This amount corresponds to 44% of the total issuance. 
+The remaining amount, corresponding to BRL133,500,000.00 (one hundred and thirty -three 
+million, five hundred thousand reais), was allocated to future project expenses. Of this total, 
+BRL89,000,000.00 (eighty -nine million reais) was earmarked for the Gravie r Wind Complex, 
+between April and June 2022 . About B RL44,500,000.00 (forty -four million, five hundred 
+thousand reais) for the Acauã Wind Complex, between April 2022 and October 2023, including 
+the costs of the Transition Line. The amount allocated to future expenses corresponded to 56% 
+of the total value of the issuance.  
+Table 3 below details the use of proceeds from the issuance. 
+Table 3: Use of proceeds from Aliança's 5th debenture issuance 
+Destination Gravier Project Acauã Project Total 
+Reimbursement 42% 2% 44% 
+Future Expenses 37% 19% 56% 
+Total 79% 21% 100% 
+Source: Aliança; Prepared by ERM 
+3.1.1.10 THE ISSUER MUST TRACK THE NET PROCEEDS OF THE DEBT INSTRUMENT 
+FOLLOWING A FORMAL INTERNAL PROCESS WHICH IS DOCUMENTED IN 
+ACCORDANCE WITH CLAUSE A.3.3. 
+Aliança ring-fenced the proceeds to Central Eólica Gravier S.A. SPV, as well as to Central Eólica 
+Acauã I S.A. SPV, Central Eólica Acauã II S.A. SPV, and Central Eólica Acauã III S.A. SPV.  
+Initially, the funds were deposited into Aliança’s current account, responsible for allocating them 
+to the eligible projects. Subsequently, the portion earmarked for future expenditures was 
+transferred to Central Eólica Gravier S.A. SPV, Central Eólica Aca uã I S.A. SPV, Central Eólica 
+Acauã II S.A. SPV, and Central Eólica Acauã III S.A. SPV through capital contributions. The 
+portion designated for reimbursement was transferred to Aliança’s account (Issuer), which 
+contributed amounts equivalent to those prev iously paid for the execution of the projects. ERM 
+verified this process through the 2022 and 2023 Financial Statements.  
+Therefore, it is possible to conclude that Aliança monitored the net proceeds following a formal 
+internal process. 
+3.1.1.11 THE NET PROCEEDS OF THE DEBT INSTRUMENT MUST BE NO GREATER THAN THE 
+ISSUER’S TOTAL INVESTMENT EXPOSURE OR DEBT OBLIGATION TO THE NOMINATED 
+PROJECTS AND ASSETS OR THE RELEVANT PROPORTION OF THE TOTAL MARKET 
+VALUE OF THE NOMINATED PROJECTS AND ASSETS WHICH A RE OWNED OR 
+FINANCED BY THE ISSUER. WHEN SATISFYING THIS CLAUSE, THE ISSUER MAY 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 9 
+CHOOSE EITHER (I) THE INVESTMENT EXPOSURE OR DEBT OBLIGATION TO THE 
+NOMINATED PROJECTS AND ASSETS, OR (II) THEIR MARKET VALUE. 
+According to Aliança, the total investment costs of the Gravier - BRL 428,000,000.00 - and Acauã 
+- BRL 728,000,000.00 - projects remained unchanged from the 2022 estimates presented in the 
+Independent Pre-issuance Verification Opinion. Therefore, as shown in Table 4, the value of the 
+projects exceeds the proceeds raised by the 5th bond issuance, thus there were no unallocated 
+green proceeds. 
+Table 4: Ratio between total CAPEX of projects and value raised by the 5th issuance 
+Project Total CAPEX value (BRL 
+MM) 
+Amount raised by the 5th bond issuance (BRL 
+MM) 
+Gravier 428,0 
+240,0 Acauã 732,0 
+Total 1.160 
+Source: Aliança; Prepared by ERM 
+3.1.1.12 ADDITIONAL NOMINATED PROJECTS AND ASSETS MAY BE ADDED TO, OR USED TO 
+SUBSTITUTE OR REPLENISH, THE PORTFOLIO OF NOMINATED PROJECTS AND ASSETS 
+AS LONG AS THE ADDITIONAL NOMINATED PROJECTS AND ASSETS ARE ELIGIBLE 
+UNDER THE STANDARD AND ARE CONSISTENT WITH THE  DEBT INSTRUMENT’S 
+OBJECTIVES. WHERE ADDITIONAL NOMINATED PROJECTS AND ASSETS ARE 
+COVERED BY SECTOR CRITERIA WHICH WERE NOT INCLUDED IN THE SCOPE OF 
+EITHER THE PRE -ISSUANCE VERIFICATION OR THE POST -ISSUANCE VERIFICATION 
+ENGAGEMENTS, THE ISSUER MUST ENGAGE AN APPROVED VERIFIER TO PROVIDE A 
+VERIFICATION REPORT COVERING AT LEAST THE CONFORMANCE OF THE ADDITIONAL 
+NOMINATED PROJECTS AND ASSETS WITH THE RELEVANT SECTOR CRITERIA. 
+No other Nominated Projects & Assets have been added to receive the proceeds from the green 
+bond issuance, apart from the projects described in the Green Finance Framework and ratified 
+by Aliança's issuance structure. 
+ 
+ 
+ 
+3.1.2 PROCESS FOR EVALUATION AND SELECTION OF PROJECTS AND 
+ASSETS  
+3.1.2.1 THE ISSUER MUST DOCUMENT AND MAINTAIN A DECISION -MAKING PROCESS TO 
+DETERMINE THE CONTINUED ELIGIBILITY OF THE NOMINATED PROJECTS AND 
+ASSETS. THIS INCLUDES, WITHOUT LIMITATION:  
+I. A STATEMENT ON THE CLIMATE-RELATED OBJECTIVES OF THE BOND.  
+The main environmental benefit of renewable energy generation is associated with the reduction 
+of greenhouse gas (GHG) emissions in the electricity sector. The energy sector has a significant 
+role to play in combating climate change in Brazil, with the potential to reduce emissions by 
+1,221.4 million tCO₂ by 2050 and is essential to achieving Brazil’s NDC. 
+Based on the evidence assessed , the Bond is in conformance, in all material 
+respects, with the ‘Use of Proceeds’ portion of the Post -Issuance Certification 
+Requirements. 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 10 
+According to the Issuer, the climate -related objectives of the bond are the reduction of 
+greenhouse gas (GHG) emissions, through the increase of renewable energy in the Brazilian 
+power grid. 
+The Table 5 below presents the climate impacts of the project so far.  
+Table 5: Characteristics and capacity of wind power plants 
+Name of the Wind 
+Power Plant 
+Installed capacity 
+(MW) 
+Total Gross Power 
+Generated (MWh)8 
+GHG emissions avoided 
+(tCO2)9 
+Gravier 71,4 MW 204.793,99 MWh 60.526,86 tCO2 
+Acauã 109,2 MW 101.120,662 MWh 29.886,21 tCO2 
+Total 180,6 MW 305.914,652 MWh 90.413,08 tCO2 
+Source: Aliança; Prepared by ERM 
+II. HOW THE CLIMATE-RELATED OBJECTIVES OF THE DEBT INSTRUMENT ARE 
+POSITIONED WITHIN THE CONTEXT OF THE ISSUER’S OVERARCHING 
+GOALS, STRATEGY, POLICY AND/OR PROCESSES RELATING TO 
+ENVIRONMENTAL SUSTAINABILITY.  
+III. THE ISSUER’S RATIONALE FOR ISSUING THE DEBT INSTRUMENT.  
+The Issuer’s social object as defined by its bylaws is the economic and commercial exploitation 
+of energy generation systems, consulting services and participation in other electric power 
+generation companies or ventures. Currently, the company operates on ly renewable energy 
+projects in Brazil. 
+The Issuer has a formalized Environmental Policy that includes guidelines and commitment to 
+environmental issues, which is also applied to its subsidiaries, controlled companies and/or 
+consortia. The environmental management of the Gravier Wind Complex  and Acauã Wind 
+Complex is held by Aliança’s dedicated team. Moreover, Aliança has an internal Environmental 
+Legislation Control and Assessment System, which provides registers the status of 
+environmental licenses, authorizations and conditions. 
+The bond’s indenture also contains early termination clauses to prevent changes in the scope of 
+the project or in the use of the proceeds to ensure compliance with applicable social and 
+environmental legislation throughout the life cycle of the project. It is important to note that the 
+bond falls under the Brazilian category of " Incentivized Infrastructure Bonds", as the project to 
+be financed is classified as a priority project by the Brazilian Ministry of Mines and Energy. As a 
+result, the bond will also have to comply with the provisions of Law 12,431/11 in order not to 
+lose the benefits of the special tax treatment. 
+ 
+8 The energy production data presented by Aliança for the eligible projects correspond to the following 
+periods: Gravier Wind Complex – production from June 2023 to May 2024; Acauã Wind Complex (Acauã II 
+– production from December 2023 to May 2024; Acauã III – from August 2023 to May 2024; Acauã I – no 
+production data available due to the start of commercial operations in July 2024). 
+9 The avoided GHG emissions were calculated using the methodology 'Tool to calculate the emission factor 
+for an electricity system.' This methodology is used in Clean Development Mechanism (CDM) projects and 
+involves the combination of two components: the op erating margin emission factor, reflecting the CO2 
+emission intensity of the dispatched energy at the margin, and the build margin emission factor, which 
+reflects the emission intensity of the most recently built power plants. This calculation is carried o ut in 
+accordance with the methodology approved by the CDM Executive Board and is used to quantify the 
+contribution of a new power plant to reducing CO2 emissions compared to a baseline scenario.  
+For reference: https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-07-v7.0.pdf 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 11 
+Considering the points, the climate-related objectives of the Bond are aligned with Aliança core 
+business and strategy. 
+IV. A PROCESS TO DETERMINE WHETHER THE NOMINATED PROJECTS AND 
+ASSETS MEET THE SECTOR ELIGIBILITY REQUIREMENTS SPECIFIED OF THE 
+STANDARD.  
+ERM has assessed the Nominated Projects and Assets under the Wind Sector Eligibility Criteria 
+of the Climate Bonds Standard and concluded that the issuance complied with all material 
+aspects described in the Wind Sector Criteria of the Climate Bonds Standard (Version 4.1). 
+• Climate Bonds Taxonomy: The Nominated Projects & Assets fall into the “Wind” 
+under “Energy” investment area as included in the Climate Bonds Taxonomy10. 
+• Sector Eligibility Criteria: The Nominated Projects & Assets meet the specific  
+eligibility requirements provided in the Wind Sector Eligibility Criteria document.  
+The clause 3.8.1 of the Bond’s indenture states that the issuance’s proceeds would be directed 
+to Gravier Wind Complex and to Acauã Wind Complex . Therefore, the Nominated Project meet 
+the CBI eligibility criteria and fall into the investment areas above. Therefore, ERM concluded 
+that the projects remain in conformance with the requirements specified by the Standard 4.1. 
+V. OTHER INFORMATION PROVIDED BY THE ISSUER AS DESCRIBED IN CLAUSE 
+A.2.2.  
+The eligible project s were defined prior to the issuance. As stated by the Issuer, there is an 
+internal process and dedicated employee to manage environmental and social risks. The 
+Nominated Project s had their environmental conditions and licenses checked for validity and 
+terms by ERM. 
+Besides, the Bond’s indenture points out the obligation to follow environmental and social 
+legislation. Some of the issues explicitly cited are prohibition of slavery -like labor, child labor, 
+race and gender discrimination. In addition, environmental protection and health and safety 
+aspects are also specified. The indenture sets early termination clause in case of non-compliance. 
+ERM has conducted an in -depth assessment on the environmental and social management 
+aspect of the eligible projects and assets. It has concluded that the project has a comfortable 
+E&S management system in place. 
+ 
+ 
+3.1.3 MANAGEMENT OF PROCEEDS  
+3.1.3.1 THE NET PROCEEDS OF THE DEBT INSTRUMENTS MUST BE CREDITED TO A SUB -
+ACCOUNT, MOVED TO BE A SUB-PORTFOLIO, OR OTHERWISE IDENTIFIED BY THE 
+ISSUER IN AN APPROPRIATE MANNER AND DOCUMENTED.  
+The named projects are linked to their respective Special Purpose Vehicle (SPV), separate legal 
+entities for the development of the projects. The proceeds were kept in the issuer's central 
+account and transferred to the SPVs' sub -account, allowing the fund s to be properly tracked. 
+ 
+10 CBI_Taxonomy_Tables-08A (1).pdf (climatebonds.net) 
+Base on the  evidence assessed, the Bond is in conformance, in all material 
+respects, with the ‘Process for Evaluation and Selection of Projects and Assets’ 
+portion of the Post-Issuance Certification Requirements 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 12 
+This information could be verified through the company's Financial Statements (2022 and 2023), 
+which are publicly available on the company's investor relations website.  
+Therefore, ERM considers that Aliança has identified the allocation of proceeds in an appropriate 
+and documented manner. 
+3.1.3.2 THE DEBT INSTRUMENT ISSUER MUST EITHER MAINTAIN AN EARMARKING PROCESS 
+OR RINGREFERENCE THE PROCEEDS PER CLAUSE A.2.3 TO MANAGE AND ACCOUNT 
+FOR THE ALLOCATION OF NET PROCEEDS TO THE NOMINATED PROJECTS AND 
+ASSETS. 
+As mentioned before, the named projects are associated with their respective Special Purpose 
+Vehicles (SPVs), which are distinct legal entities created for the purpose of project development. 
+The proceeds were initially deposited into the issuer's central account and subsequently 
+transferred to  the SPVs' sub -accounts, enabling accurate tracking of the funds. This can be 
+confirmed by reviewing the company's publicly available Financial Statements for 2022 and 
+2023, accessible on its investor relations website. Consequently, ERM considers that Aliança has 
+properly and documented the allocation of proceeds.  
+3.1.3.3 WHILE IN DEBT INSTRUMENTS REMAINS OUTSTANDING, THE BALANCE OF THE 
+TRAKED NET PROCEEDS MUST BE REDUCED BY AMOUNTS ALLOCATED TO NOMINATED 
+PROJECTS AND ASSETS. PENDING SUCH ALLOCATIONS TO NOMINATED PROJECTS 
+AND ASSETS, THE BALANCE OF UNALLOCATED NET PROCEEDS MUST BE: 
+i. Held in temporary investment instruments that are cash, money-
+market instruments or other liquid, short-term cash equivalent 
+instruments within a Treasury function; and/or 
+ii. Held in temporary investment instruments that do not relate to 
+greenhouse gas intensive projects or any projects which are 
+inconsistent with the delivery of a low carbon and climate resilient 
+economy; and/or 
+iii. Applied to temporarily reduce the indebtedness of a revolving nature 
+before being redrawn for investments in or disbursements to 
+Nominated projects and assets. 
+The proceeds were fully allocated to the eligible projects  between 2022 and 2023 . While the 
+proceeds were not fully allocated to the eligible projects, they were invested substantially in 
+Bank Deposit Certificates (Certificados de Depósito Bancário (CDB), in Portuguese) from private 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 13 
+banks, a financial instrument of high liquidity and low risk of default, as evidenced by the 2022 
+and 2023 Aliança’s Financial Statement.  
+Therefore, the unallocated net proceeds were withheld  in temporary investments instruments 
+that have high liquidity and do not include greenhouse gas-intensive projects. 
+3.1.4 POST-ISSUANCE REPORTIN G 
+3.1.4.1 FOLLOWING THE ISSUANCE OF A CERTIFICATE UOP INSTRUMENT, TO MAINTAIN THE 
+CERTIFICATION ALL ISSUERS MUST SUBMIT ANNUAL UPDATE REPORTS WITHIN 12 TO 
+24 MON THS FROM THE DATE OF ISSUANCE OF THE DEBT INSTRUMENT UNTIL ITS 
+MATURITY. ANY POST-ISSUANCE VERIFICATION REPORT BY AN APPROVED VERIFIER IN 
+ANY YEAR IS DEEMED TO SATISFY THE ISSUER’S REQUIREMENT TO SUBMIT AN UPDATE 
+REPORT FOR THAT YEAR. 
+The issuer is committed to preparing a report with information about the allocation of proceeds 
+and the environmental benefits to reaffirm the transaction's compliance with the Climate Bonds 
+Standard. However, it was verified that the Company has not made available an updated report 
+in accordance with CBI standards. 
+Nevertheless, in 2023, Aliança published the company's Annual Sustainability Report, available 
+on the company's website, which provided information on the projects financed, as well as their 
+installed capacity, completion date and geographical location. In addition, in the audited Financial 
+Statements for 2022 and 2023, the company presents the status of the allocation of net 
+proceeds, confirming that 100% of these funds have been allocated to the indicated project.  
+3.1.4.2 THE ISSUER SHOULD ALSO PROVIDE AN UPDATE REPORT ON A TIMELY BASIS IN CASE 
+OF MATERIAL DEVELOPMENTS . MATERIAL DEVELOPMENTS INCLUDE, BUT ARE NOT 
+LIMITED TO, EARLY REPAYMENT, CHANGE OF CONTROL OR ACQUISITION, CHANGE OF 
+NAME, CHANGES TO THE ELIGIBILITY OF ASSETS AND PROJECTS AND ANY MATERIAL 
+AMENDMENTS TO TRANSACTION DOCUMENTS, INCLUDING ANY WINDING-UP PROCESS 
+OR ENFORCEMENT. 
+There were no material developments involving the issuance nor the projects financed. 
+3.1.4.3 ISSUERS ARE ENCOURAGED TO PROVIDE THEIR UPDATE REPORTS THROUGH EXISTING 
+BOND MARKET REPORTING CHANNELS, SUCH AS THE US MUNICIPALITY SECTOR’S 
+ELECTRONIC MUNICIPAL MARKET ACCESS (EMMA) WEBSITE.  
+Aliança did not provide Update Reports following the CBI's Update Report template through 
+any bond market reporting channels.  
+Based on the limited assurance procedures conducted and evidence obtained, 
+nothing has come to our attention that causes us to believe that, in all material 
+respects the Issuer’s 2022 Climate Bond is not in conformance with the Climate 
+Bonds Standard’s Post-Issuance Requirements.  
+However, it is worth noting that the company's expenses in the financial 
+statements are not segregated monthly - making it not possible to confirm the 
+total allocation of the proceeds raised monthly. In addition, Aliança committed to 
+sending the Trustee a declaration attesting to the allocation of the proceeds of 
+the issuance after the total amount of the proceeds had been allocated. Despite 
+this, it was verified the documents attesting to the correct allocation of the 
+proceeds have not yet been sent to the Trustee. 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 14 
+3.1.4.4 AN UPDATE REPORT MAY CONTAIN THREE TYPES OF REPORTING: ALLOCATION 
+REPORTING, ELIGIBILITY REPORTING, AND IMPACT REPORTING:  
+I. ALLOCATION REPORTING CONFIRMS THE ALLOCATION OF BOND PROCEEDS 
+TO ELIGIBLE PROJECTS AND ASSETS AND IS MANDATORY FOR ALL CERTIFIED 
+DEBT INSTRUMENTS.  
+II. ELIGIBILITY REPORTING CONFIRMS THE CHARACTERISTICS OR 
+PERFORMANCE OF PROJECTS AND ASSETS TO DEMONSTRATE THEIR 
+ELIGIBILITY UNDER THE RELEVANT SECTOR CRITERIA AND IS MANDATORY 
+FOR ALL CERTIFIED DEBT INSTRUMENTS.  
+III. IMPACT REPORTING DISCLOSES THE METRICS OR INDICATORS WHICH 
+REFLECT THE EXPECTED OR ACTUAL IMPACT OF ELIGIBLE PROJECTS AND 
+ASSETS AND IS ENCOURAGED FOR ALL CERTIFIED DEBT INSTRUMENTS. 
+Both allocation and impact reporting were covered by Aliança through its 202 2 and 202 3 
+Financial Statements and Sustainability Report, while eligibility criteria was included in the 
+Second-Party Opinion Pre -Issuance developed by SITAWI in 2022 and confirmed in the Post -
+Issunace Report developed in 202 4. The first three documents are available on the Aliança’s 
+website. 
+It is important to reinforce that the reporting did not comply with CBI’s Update Report template. 
+In other words, although Aliança has reported part of the environmental indicators and 
+information on proceeds allocation, it did not follow the CBI’s Update Report template. 
+3.1.4.5 THE THREE DIFFERENT TYPES OF REPORTING CAN BE INCLUDED IN A SINGLE UPDATE 
+REPORT, WHICH MUST BE PROVIDED TO THE CLIMATE BONDS STANDARD 
+SECRETARIAT AND MADE PUBLICLY AVAILABLE OR PROVIDED ANNUALLY TO THE 
+BONDHOLDERS/LENDERS FOR AS LONG AS THE DEBT INSTRUMEN T REMAINS 
+OUTSTANDING. 
+At the time of this verification, Aliança Geração de Energia had not sent the updated report to 
+the CBI. 
+3.1.4.6 THE TIMING OF REPORTING UNDER THIS CLAUSE CAN BE ALIGNED WITH THE 
+ISSUER’S REGULAR REPORTING SCHEDULE AND DOES NOT NEED TO FOLLOW THE 
+ANNIVERSARY OF THE CERTIFICATION OR ISSUANCE OF THE BOND. 
+The timing of reporting was not aligned with the anniversary of the issuance of the Bond, as it 
+followed the issuer’s regular reporting schedule. 
+3.1.4.7 THE ALLOCATION REPORTING MUST INCLUDE, WITHOUT LIMITATION:  
+I. CONFIRMATION THAT THE BONDS ISSUED UNDER THE ISSUER’S GREEN 
+FINANCE FRAMEWORK ARE ALIGNED WITH THE CLIMATE BONDS STANDARD.  
+II. A STATEMENT ON THE CLIMATE-RELATED OBJECTIVES OF THE BOND. 
+III. THE LIST OF NOMINATED PROJECTS AND ASSETS TO WHICH NET PROCEEDS 
+HAVE BEEN ALLOCATED (OR RE-ALLOCATED). 
+IV. THE AMOUNTS ALLOCATED TO THE NOMINATED PROJECTS AND ASSETS. 
+V. AN ESTIMATE OF THE RESPECTIVE SHARES OF THE NET PROCEEDS USED 
+FOR FINANCING AND REFINANCING AND WHICH NOMINATED PROJECTS AND 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 15 
+ASSETS HAVE BEEN REFINANCED. THIS MAY ALSO INCLUDE THE EXPECTED 
+LOOK-BACK PERIOD FOR REFINANCING NOMINATED PROJECTS AND ASSETS. 
+VI. THE GEOGRAPHICAL DISTRIBUTION OF THE NOMINATED PROJECTS AND 
+ASSETS. 
+3.1.4.8 THE ELIGIBILITY REPORTING MUST INCLUDE, WITHOUT LIMITATION:  
+I. CONFIRMATION THAT THE NOMINATED PROJECTS AND ASSETS CONTINUE TO 
+MEET THE RELEVANT ELIGIBILITY REQUIREMENTS APPLICABLE WHEN 
+OBTAINING THE CERTIFICATION.  
+II. INFORMATION ON THE ENVIRONMENTAL CHARACTERISTICS OR 
+PERFORMANCE OF NOMINATED PROJECTS AND ASSETS, WHICH IS 
+PRESCRIBED BY THE RELEVANT SECTOR CRITERIA.  
+III. WHERE THE ISSUER HAS MADE USE OF THE 5% FLEXIBILITY POCKET IN 
+ACCORDANCE WITH PARAGRAPH A.3.1.3, THE PERCENTAGE OF THE USE OF 
+PROCEEDS ALLOCATED TO, AND DETAILED DESCRIPTION OF, THE NOMINATED 
+PROJECTS AND ASSETS WHICH DO NOT FULLY SATISFY THE SECTOR CRITERIA. 
+As previously mentioned, all of the items were included either on the Sustainability Report, or 
+on the 2023 Financial Statement, or in the bond’s indenture. However, any specific Allocation 
+Reporting, following CBI’s Update Report template, was performed. 
+3.1.4.9 SOME BONDS HAVE A VERY STABLE ALLOCATION OF PROCEEDS AND DO NOT NEED 
+TO TRACK ANY PERFORMANCE INDICATORS TO MAINTAIN THE ELIGIBILITY OF THE 
+PROJECTS AND ASSETS (SUCH AS FINANCING FOR A SINGLE LARGE -SCALE SOLAR 
+FACILITY). THIS MEANS THAT THE ANNUAL UPDATE R EPORT CAN BE CONCISE AND 
+RESTATE THE INFORMATION FROM PREVIOUS REPORTS. 
+3.1.4.10 WHERE THERE ARE LIMITS ON THE DETAIL THAT CAN BE MADE AVAILABLE IN THE 
+UPDATE REPORT ABOUT SPECIFIC NOMINATED PROJECTS AND ASSETS (AS PER 
+CLAUSE A.2.4.3), INFORMATION DISCLOSED MUST INCLUDE THE INVESTMENT AREAS 
+INTO WHICH THE NOMINATED PROJECTS AND ASSETS FALL AND AN EXPLANATION 
+OF WHY DETAIL ON NOMINATED PROJECTS AND ASSETS IS LIMITED. 
+There was no limitation on the level of detail provided from Aliança. 
+3.1.4.11 THE IMPACT REPORTING SHALL, WITHOUT LIMITATION: I. PROVIDE THE EXPECTED 
+OR ACTUAL OUTCOMES OR IMPACTS OF THE NOMINATED PROJECTS AND ASSETS 
+CONCERNING THE CLIMATE -RELATED OBJECTIVES OF THE BOND. II. USE 
+QUALITATIVE PERFORMANCE INDICATORS AND, WHERE FEASIBLE , QUANTITATIVE 
+PERFORMANCE MEASURES OF THE OUTCOMES OR IMPACTS OF THE NOMINATED 
+PROJECTS AND ASSETS FOR THE CLIMATE -RELATED OBJECTIVES OF THE BOND. III. 
+PROVIDE THE METHODS AND THE KEY UNDERLYING ASSUMPTIONS FOR THE 
+CALCULATION OF THE PERFORMANCE INDICATORS AND METRICS. 
+3.1.4.12 EXAMPLES OF QUANTITATIVE PERFORMANCE MEASURES OF THE OUTCOMES OF 
+NOMINATED PROJECTS AND ASSETS CAN INCLUDE BUT ARE NOT LIMITED TO: 
+RENEWABLE ENERGY CAPACITY INSTALLED, GREENHOUSE GAS EMISSIONS AVOIDED, 
+EMISSIONS INTENSITY, ENERGY PERFORMANCE OF BUILDINGS, NUMBER OF 
+PASSENGERS CARRIED BY PUBLIC TRANSPORT, VOLUME OF WASTEWATER TREATED. 
+IMPACT METRICS AND INDICATORS CAN INCLUDE BUT ARE NOT LIMITED TO: 
+GREENHOUSE GAS EMISSIONS REDUCED/AVOIDED, THE NUMBER OF HOUSEHOLDS 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 16 
+PROVIDED WITH ACCESS TO CLEAN POWER, A DECREASE IN WATER USE, A 
+REDUCTION IN THE NUMBER OF CARS REQUIRED 
+3.1.4.13 METHODS INCLUDE, BUT ARE NOT LIMITED TO, THE FRAMEWORK USED AND THE 
+CALCULATION METHODOLOGY, INCLUDING ANNUALIZED METRICS AND/OR LIFETIME 
+CALCULATIONS. BOTH INSTITUTIONAL AND PROPRIETARY FRAMEWORKS MAY BE 
+USED: INSTITUTIONAL FRAMEWORKS MAY BE REFERENCED BY  NAME, BUT 
+PROPRIETARY AND NEW FRAMEWORKS SHOULD BE DESCRIBED IN SUFFICIENT 
+DETAIL TO ALLOW ASSESSMENT 
+As previously stated, Aliança has provided the impact metric of renewable energy capacity 
+installed on its 2023 Sustainability Report. Also, Aliança has provided to ERM power generation 
+reports proving the project’s power generation between Juny 2023 and July 2024. This data has 
+been published externally  on its 2023 Financial Statement reports . However, any specific 
+Impacting Reporting, following CBI’s Update Report template, was performed. 
+3.1.4.14 THE ISSUER MUST MAKE AVAILABLE TO THE PUBLIC OR TO THE BONDHOLDERS ANY 
+VERIFICATION REPORTS OR OTHER RELEVANT MATERIAL WHICH SUPPORTS THE 
+UPDATE REPORT. 
+Aliança has informed about the CBI certification 11 on its website, as well as made available the 
+SPO elaborated by SITAWI in 202 212. The company also publishes its audited Financial 
+Statements and Sustainability Reports annually. 
+ 
+3.2  THE WIND SECTOR ELIGIBILITY CRITERIA OF THE CLIMATE BONDS 
+STANDARD & CERTIFICATION SCHEME VERSION 2.3 (APRIL 2023) 
+ASSESSMENT  
+The following assessment is based on the Part C of the Climate Bonds Standards Version 4.0, 
+namely the Eligibility of Projects & Assets. It is organized according to the items listed in the 
+Wind Energy under the Climate Bonds Standard provided by CBI. The Sectoral Criteria 
+Requirements are listed, followed by each requirement’s factual findings. The section is 
+concluded with ERM’s assessment conclusion. 
+Criteria 1 - Eligible Project & Assets relating to wind energy generation shall be 
+projects or assets that operate or are under construction to operate in one or more of 
+the following activities: 
+1. Onshore wind energy generation facilities. 
+2. Dedicated transmission infrastructure and support facilities (e.g. transformers, 
+backbone, transmission terminus, grid connections, dedicated facilities for 
+support vessels and vehicles, equipment storage, onshore assembly). 
+ 
+11 CBI Certification 
+12 SPO 2022 
+Based on the limited assurance procedures conducted and evidence obtained, 
+nothing has come to our attention that causes us to believe that, in all material 
+respects the Issuer’s 2022 Climate Bond is not in conformance with the Climate 
+Bonds Standard’s Post-Issuance Requirements. Nevertheless, Aliança has not yet 
+provided an updated report according to CBI Standards, as it had committed to. 
+POST-ISSUANCE VERIFICATION REPORT  SUMMARY OF FINDINGS 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 17 
+3. Dedicated operational production, manufacturing or distribution facilities for 
+key components for onshore or offshore wind energy generation, such as wind 
+turbines, platforms etc.  
+Since 100% of the net proceeds were allocated in the development, construction and operation 
+of onshore wind electricity generation facilities, where all the energy generated comes from wind 
+energy resources, it is feasible to state that the projects finan ced remain in conformance with 
+the CBI Wind Sector Criteria. 
+ 
+  Based on the evidence assessed , the bond is in conformance, in all material 
+respects, with the Wind Sector Eligibility Criteria (Version 2.3, April 2023) under 
+the Climate Bonds Standard  
+4.0. 
+POST-ISSUANCE VERIFICATION REPORT  REFERENCES 
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 18 
+4. REFERENCES  
+ 
+• Bond’s indenture 
+• Bond’s Pre-Issuance Second Party Opinion (2022) 
+• Bond’s Pre-Issuance CBI Verification Report (2022) 
+• Aliança’s Green Bond Framework 
+• Aliança 2023 Financial Statement 
+• Gravier Wind Complex 2023 Financial Statement 
+• Acauã Wind Complex 2023 Financial Statement 
+• Aliança 2023 Sustainability Report 
+• Aliança’s website
+ 
+CLIENT: Aliança Geração de Energia S.A.  
+DATE: 02 September 2024  Page 1 
+ERM HAS OVER 160 OFFICES ACROSS THE FOLLOWING 
+COUNTRIES AND TERRITORIES WORLDWIDE 
+  
+Argentina 
+Australia 
+Belgium 
+Brazil 
+Canada 
+China 
+Colombia 
+France 
+Germany 
+Ghana 
+Guyana 
+Hong Kong 
+India 
+Indonesia 
+Ireland 
+Italy 
+Japan 
+Kazakhstan 
+Kenya 
+Malaysia 
+Mexico 
+Mozambique 
+The Netherlands  
+New Zealand 
+Peru 
+Poland 
+Portugal 
+Romania 
+Senegal 
+Singapore 
+South Africa 
+South Korea 
+Spain 
+Switzerland 
+Taiwan 
+Tanzania 
+Thailand 
+UAE 
+UK 
+US 
+Vietnam 
+ ERM’s Brasil Ltda. 
+Avenida Luis Carlos Berrini, 
+nº105, Edifício Thera 
+Corporate, cj 171, Cidade 
+Monções, São Paulo 
+Estado de São Paulo, 04571-
+010 
+ 
+www.erm.com

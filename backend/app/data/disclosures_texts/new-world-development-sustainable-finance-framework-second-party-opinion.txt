@@ -1,0 +1,1673 @@
+© Sustainalytics 2020 
+  
+ 
+Second-Party Opinion 
+New World Development Sustainable 
+Finance Framework 
+ 
+Evaluation Summary 
+Sustainalytics is of the opinion that the New World Development (“NWD”) Sustainable 
+Finance Framework  aligns with the Green Bond Principles 2018 and Social Bond 
+Principles 2020. This assessment is based on the following:   
+ 
+ The eligible categories for the use of proceeds – 
+(i) Green Buildings  and Landscapes , (ii) Energy Efficiency, (iii) 
+Renewable Energy, (iv) Water Management, (v) Circular Economy and 
+Waste Management, (vi) Climate Change Adaptation, (vii) Access to 
+Basic Infrastructure and Essential Services, (viii) Affordable Housing, 
+and (ix) Socio-economic Advancement and Employment Generation  
+– are aligned with those recognized by both the Green Bond 
+Principles 2018 and Social Bond Principles  2020. Sustainalytics 
+considers that the eligible categories will lead to positive 
+environmental or social impacts and advance the UN  Sustainable 
+Development Goals  (SDGs), specifically SDG s 3,4,6,7,8,11,12,13,14 
+and 15.  
+ 
+ NWD will establish a 
+Sustainable Finance Review Panel consisting of representatives from 
+NWD’s Finance & Accounts, Group Audit and Management Services, 
+Project Management, and Sustainability de partments for its project 
+evaluation and selection process . The final approval for project 
+eligibility will be provided by NWD’s CEO and the Chairperson of the 
+Group Sustainability Steering Committee. Sustainalytics considers 
+the project selection process in line with market practice. 
+ 
+ NWD’s Finance and Accounting 
+departments will establish a register where it will record details of 
+funding transactions under this Framework. This register will contain 
+information for each funding transaction as well as information on 
+the allocation of proceed s. Unallocated proceeds will be held as 
+deposits, such as cash and cash equivalents, in banks in accordance 
+with NWD’s treasury or liquidity management policy . Sustainalytics 
+encourages NWD to  disclose the period over which the Company 
+intends to allocate the proceeds raised. 
+ 
+ NWD intends to report on allocation of proceeds on its 
+website on an annual basis  or in case of any material changes,  until 
+full allocation. In addition, NWD is committed to reporting on relevant 
+environmental and social impact metrics. Sustainalytics views 
+NWD’s allocation and impact reporting as aligned with market 
+practice. 
+ 
+ 
+Evaluation date November 3, 2020 
+Issuer Location Hong Kong, China 
+ 
+Report Sections 
+ 
+ 
+Introduction .................................................. 2 
+Sustainalytics’ Opinion ................................ 3 
+Appendices ................................................ 11 
+ 
+ 
+For inquiries, contact the Sustainable 
+Finance Solutions project team: 
+Begum Gursoy (Amsterdam) 
+Project Manager 
+begum.gursoy@sustainalytics.com 
+(+31) 20 205 0082 
+Winnie Toppo (Toronto) 
+Project Support 
+winnie.toppo@sustainalytics.com 
+(+1) 647 317 3648 
+Nicholas Gandolfo (Singapore) 
+Client Relations 
+susfinance.apac@sustainalytics.com 
+(+852) 3008 2391 
+ 
+  
+
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+2 
+Introduction 
+New World Development Company Limited (“New World Development”, “NWD” or “the company”) is an 
+investment holding company that invests in, develops, and manages properties in Hong Kong, Mainland China, 
+and internationally, including residential as well as commercial real estate, provision of property and facility 
+management, infrastructure operations, and a variety of other servi ces. The company was founded in 1970 
+and is headquartered in Hong Kong.  
+NWD has developed the New World Development Sustainable Finance Framework  (the “Framework”) under 
+which it intends to issue sustainability bonds and loans, and use the proceeds to finance and refinance, in 
+whole or in part, existing and future projects that will contribute to the reduction of greenhouse gas emissions, 
+promote sustainable resource management and provide social benefits in Hong Kong  and Mainland China. 
+The Framework defines eligibility criteria in seven green and three social areas: 
+Green Eligible Categories  
+1. Green Buildings and Landscapes 
+2. Energy Efficiency 
+3. Renewable Energy 
+4. Water Management 
+5. Circular Economy and Waste Management 
+6. Climate Change Adaptation 
+ 
+Social Eligible Categories 
+ 
+1. Access to Basic Infrastructure and Essential Services 
+2. Affordable Housing 
+3. Socio-economic Advancement and Employment Generation 
+ 
+NWD engaged Sustainalytics to review the updated New World Development Sustainable Finance Framework, 
+dated October 2020, and provide a second -party opinion on the Framework’s environmental and social 
+credentials and its alignment with the Sustainability Bond Guidelines 2018 (SBG).1 This Framework has been 
+published in a separate document.2  
+Scope of work and limitations of Sustainalytics Second-Party Opinion 
+Sustainalytics’ Second -Party Opinion reflects Sustainalytics ’ independent3 opinion on the alignment of the 
+reviewed Framework with the current market standards and the  extent to which the eligible categories are 
+credible and impactful. 
+As part of the Second-Party Opinion, Sustainalytics assessed the following: 
+• The Framework’s alignment with th e Green Bond Principles 2018, Social Bond Principles 20 20, and 
+Sustainability Bond Guidelines 2018, as administered by ICMA; 
+• The credibility and anticipated positive impacts of the use of proceeds; 
+• The alignment of the issuer ’s sustainability strategy and performance and sustainability risk 
+management in relation to the use of proceeds. 
+For the use of proceeds assessment, Sustainalytics relied on its internal taxonomy, version 1.4, which is 
+informed by market practice and Sustainalytics’ expertise as an ESG research provider. 
+As part of this engagement, Sustainalytics held conversations with various members of NWD’s management 
+team to understand the sustainability impact of their business processes and planned use of proceeds, as 
+well as management of proceeds and reporting aspects of the Framework. NWD representatives have 
+confirmed (1) they understand it is the sole responsibility of NWD to ensure that the information provided is 
+ 
+1  The Sustainability Bond Guidelines are administered by the International Capital Market Association and are available at 
+https://www.icmagroup.org/green-social-and-sustainability-bonds/sustainability-bond-guidelines-sbg/ 
+2 The New World Development Sustainable Finance Framework is available on NWD’s website at: https://sustainability.nwd.com.hk/ 
+3 When operating multiple lines of business that serve a variety of client types, objective research is a cornerstone of Sustainalytics and ensuring analyst 
+independence is paramount to producing objective, actionable research. Sustainalytics has therefore put in place a robust conflict management framework 
+that specifically addresses the need for analyst independence, consistency of process, structural separation of commercial an d research (and 
+engagement) teams, data protection and systems separation. Last but not the least, analyst compensation is not directly tied to specific commercial 
+outcomes. One of Sustainalytics’ hallmarks is integrity, another is transparency. 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+3 
+complete, accurate or up to date; (2) that they have provided Sustainalytics with all relevant information and 
+(3) that any prov ided material information has been duly disclosed in a timely manner. Sustainalytics also 
+reviewed relevant public documents and non-public information. 
+This document contains Sustainalytics’ opinion of the Framework and should be read in conjunction with that 
+Framework. 
+Any update of the present Second -Party Opinion will be conducted according to the agreed engagement 
+conditions between Sustainalytics and NWD. 
+Sustainalytics’ Second -Party Opinion, while reflecting on the alignment of the Framework with mar ket 
+standards, is no guarantee of alignment nor warrants any alignment with future versions of relevant market 
+standards. Furthermore, Sustainalytics’ Second -Party Opinion addresses the anticipated impacts of eligible 
+projects expected to be financed with bond proceeds but does not measure the actual impact. The 
+measurement and reporting of the impact achieved through projects financed under the Framework is the 
+responsibility of the Framework owner.  
+In addition, the Second -Party Opinion opines on the inte nded allocation of proceeds but does not guarantee 
+the realised allocation of the bond proceeds towards eligible activities. 
+No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
+being a statement, representation, warrant or argument either in favour or against, the truthfulness, reliability 
+or completeness of any facts or statements and related surrounding circumstances that NWD has made 
+available to Sustainalytics for the purpose of this SPO.   
+Sustainalytics’ Opinion 
+Section 1: Sustainalytics’ Opinion on the New World Development Sustainable 
+Finance Framework 
+Sustainalytics is of the opinion that the New World Development Sustainable Finance Framework is credible, 
+impactful and aligns with the four core components of the Green Bond Principles 2018 (GBP) and Social Bond 
+Principles 20 20 (SBP). Sustainalytics highlights the following elements of NWD’s Sustainability Bond 
+Framework: 
+• Use of Proceeds:  
+- The eligible categories, (i) Green Buildings and Landscapes, (ii) Energy Efficiency, (iii) Renewable 
+Energy, (iv) Water Management, (v) Circular Economy and Waste Management, (vi)  Climate 
+Change Adaptation, (vii) Access to Basic Infrastructure and Essential Services, ( viii) Affordable 
+Housing, and (ix) Socio-economic Advancement and Employment Generation , are aligned with 
+those recognized by the GBP and SBP. Sustainalytics acknowledges that NWD’s use of proceeds 
+will contribute to  the reduction of  greenhouse gas emissions, promote sustainable resource 
+management, and provide social benefits in Hong Kong and Mainland China. 
+- While NWD does not disclose a look -back period for its refinancing activities, the Company 
+intends to report on the share of financing vs. refinancing in its annual reporting.  
+- As part of the Green Building s category, NWD intends to invest in the development or 
+redevelopment of residential, commercial and retail buildings using recognized third-party 
+certification standards, namely Hong Kong BEAM Plus (Gold or above), China Green Building 
+Evaluation Label (2 star s or above), LEED (Gold or above), Living Building Challenge  (Living 
+Building Certification, Petal Certification with Energy as one of the Petals, or Zero Energy 
+Certification), BREEAM (Excellent or above), or equivalent recognized standards. Sustainalytics 
+views these certifications as credible, and the levels selected as impactful. (See Appendix 1 for 
+further description of the referenced building standards.) In addition to the listed standards, the 
+financed green buildings may achieve WELL Building Standard (any level) to improve the well -
+being of the occupants.  NWD may also invest in the development or redevelopment of green 
+landscapes4 using Sustainable SITES Initiative (any level).  
+ 
+4 NWD confirmed that the Company does not intend to finance green buildings under the green landscape projects using Sustainable SITES Initiative. 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+4 
+- Under the  Energy Efficiency category, NWD intends to invest in technologies, services, 
+operational improvements, and upgrades that will result in at least a 20% energy performance 
+improvement in commercial buildings. Examples of intended projects include the installation of 
+building and energy management systems, energy audits, feasibility studies as well as 
+equipment upgrades in new  and existing buildings.   Sustainalytics considers NWD’s energy 
+efficiency criteria to be in line with market practice.  
+- The Renewable Energy category includes investments in solar and wind power projects as well 
+as the procurement of Renewable Energy Certificates (RECs). NWD confirmed that procurement 
+projects will be directly tied to specific and identifiable renewable energy projects, and exclude 
+one-time, short-term purchases of unbundled RECs. 
+- Under the Circular Economy and Waste Management category, NWD plans to install equipment 
+and implement processes at its properties that will help reduce waste volume, divert waste from 
+landfills, or promote recycling, upcycling, and composting on  site. Intended project examples 
+include the installation of food decomposers and recycling facilities. In addition, the Company 
+intends to invest in responsible sourcing of materials, such as timber certified by The Forest 
+Stewardship Council (FSC) and The Progr amme for the Endorsement of Forest Certification 
+(PEFC). (See Appendix 2 for further description of the referenced standards.) 
+- Within the Climate Change Adaptation category, the Company may invest in the development of 
+“Sponge Cities” 5  that aim to reduce flood risk and replenish groundwater , installation and 
+upgrades of flood protection systems,  and climate observation and information support 
+initiatives such as the adoption of climate risk scenario planning tools and third -party 
+vulnerability assessments.  In 2019, NWD conducted a Climate Risk and Opportunities 
+assessment to its major sites to identify the level of climate risk exposure of its properties, 
+including heat stress, flood, water stress and extreme wind. Following the assessme nt, NWD 
+developed an adaptation plan to enhance its buildings’ climate resilience, which includes the 
+eligible projects listed above. Given NWD’s climate risk identification assessments and ongoing 
+adaptation plans, Sustainalytics considers the objectives of this category to be robust, credible 
+and impactful. 
+- Sustainalytics notes NWD’s eligibility criteria under the following social categories: 
+▪ Access to Basic Infrastructure and Essential Services : (i) Development of d rinking 
+water infrastructure, sewage and sanitation services for public use, (ii) Investments in 
+education and healthcare services and related infrastructure that are  free and  
+accessible to the public, (iii) Financing small and medium enterprises ( SMEs)6 and 
+groups facing natural and/or health disasters including but not limited to pandemics, 
+earthquakes, floods and droughts. Intended project examples include the distribution 
+of medical masks to low-income families during the coronavirus pandemic (COVID-19). 
+NWD confirm ed that the SMEs and groups most affected by natural and health 
+disasters would be identified through collaboration with NGOs and relevant entities on 
+a case -by-case basis . Sustainalytics encourages NWD to provide disclosure on the 
+identified groups and the projects financed in its annual reporting.  
+▪ Affordable Housing: (i) Development of affordable housing and (ii) Provision of support 
+for residents of affordable housing such as health programs and education initiatives. 
+NWD has clarified to Sustainalytics that the eligible affordable housing projects target 
+disadvantaged individuals or households  with a gross annual in come below 
+approximately 50% of the national median income.7 Examples of these groups include 
+individuals or house holds who are eligible under the social security allowance 8 and 
+ 
+5 The Sponge Cities concept is designed to absorb and capture rainwater, and includes green rooftops, low elevation greenbelt, bioretention, rainwater-
+based irrigation, and rainwater cisterns for flood prevention. 
+6 SMEs refer to manufacturing enterprises with fewer than 100 employees and non-manufacturing enterprises with fewer than 50 employees, at: 
+https://www.success.tid.gov.hk/english/aboutus/sme/service_detail_6863.html#:~:text=Manufacturing%20enterprises%20with%20fewer%20than,Stati
+stics 
+7 Median Income information can be found, at (General Household Survey, Census and Statistics Department): 
+https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?productCode=D5250038 
+8 Social Security Allowance eligibility income criteria, at : https://www.swd.gov.hk/en/index/site_pubsvc/page_socsecu/sub_comprehens/ 
+ 
+ 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+5 
+other government allowances such as old age living allowance,9 disability allowance10 
+and full rate working family allowance .11 Furthermore, NWD confirmed that intended 
+affordable housing projects ensure access to target populations through the provision 
+of affordable rent.12 Sustainalytics considers NWD’s targeted approach as aligned with 
+market practices. 
+▪ Socio-Economic Advancement and Employment Generation: (i) Project-based 
+financing of startups and social enterprises 13  whose revenue is derived from 
+businesses providing environmental and social impact in line with the Framework 
+criteria, such as  capacity building programmes aimed at supporting the enterprises in 
+achieving their environmental and social objectives, ( ii) Capacity building schemes in 
+SMEs14 to improve the sustainability practices of enterprises , and (iii) Social mobility 
+programmes that aim to strengthen young retired athletes’ career transition from sport 
+into the labour market , mainly through training initiatives and specialized recruitment 
+services.  
+- NWD confirmed that the Company excludes  financing of enterprises, projects and operations 
+associated with environmental and social risks such as fossil fuel, carbon-intensive activities, 
+palm oil, weapons, tobacco, child labor and forced labor under the Framework. 
+• Project Evaluation and Selection:  
+- NWD will establish a Sustainable Finance Review Panel  that will be responsible for selecting 
+eligible projects based on the criteria mention ed in the Framework.  This Panel will consist of 
+representatives from NWD’s Finance & Accounts, Group Audit and Management Services, 
+Project Management, and Sustainability departments. When needed,  the Company will also 
+consult with senior representatives from NWD Property Management, NWCL and K11, which are 
+wholly owned subsidies of NWD. 
+- NWD’s CEO and t he Chairperson of the Group Sustainability Steering Committee will be 
+responsible for providing the final approval of which projects will be eligible.  
+- NWD’s approach to substantiate project eligibility includes obtaining data about environmental 
+credits of eligible projects and assets, including performance related to energy, water, and waste 
+reduction, expected environmental or health benefits, description of schematic design of 
+projects and proof of pre-certification and certification documentation. 
+- Sustainalytics considers this process to be in line with market practice. 
+• Management of Proceeds: 
+- NWD will establish a register  where the Company will record details of funding transactions 
+under this Framework. This register will contai n information on issuer/borrower entity 
+transaction date, the principal amount of proceeds, repayment or amortization profile, maturity 
+date, and interest or coup on. The register will also include information about allocation of 
+proceeds such as details of eligible projects, amount of proceeds allocated to each project, and 
+amount of unallocated proceeds . Unallocated proceeds will be held as deposits, such as cash 
+and cash equivalents, in banks in accordance with NWD’s treasury or liquidity manage ment 
+policy. 
+- While Sustainalytics considers the above process as aligned with market practice, Sustainalytics 
+encourages NWD to disclose the period over which they intend to allocate the proceeds raised. 
+• Reporting: 
+- NWD commits to disclosing annually, the allocation and impact of net proceeds raised under 
+this Framework, on its corporate website, until the full allocation of proceeds. 
+ 
+9 Old Age Living Allowance, at: https://www.swd.gov.hk/oala/index_e.html#s4 
+10 Disability Allowance, at: https://www.1823.gov.hk/en/faq/what-are-the-eligibility-criteria-of-disability-allowance-what-is-the-amount-of-assistance-
+payable 
+11 Full Rate Working Family Allowance income criteria, at: https://www.wfsfaa.gov.hk/wfao/en/eligibility.htm 
+12 For instance, as part of the LightBe affordable housing project that the Company invested in the past, rents were determined based on the income 
+characteristics of individuals and households, and ranged between 20 – 70 % of the market rate. 
+13 Definition of social enterprises in Hong Kong can be found at: https://www.legco.gov.hk/research-publications/english/essentials-1617ise05-social-
+enterprises-in-hong-kong-and-the-united-kingdom.htm#endnote1. 
+14  SMEs refer to manufacturing enterprises with fewer than 100 employees and non -manufacturing enterprises with fewer than 50 employees, at: 
+https://www.success.tid.gov.hk/english/aboutus/sme/service_detail_6863.html#:~:text=Manufacturing%20enterprises%20with%20fewer%20than,Stati
+stics 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+6 
+- Disclosed impact information will include environmental indicators such as building/landscape 
+certification achieved (system & level), energy consumption reduction (kWh), carbon emission 
+reduction (tonnes of CO2e), water consumption reduction (m3), amount of waste reduced and/or 
+diverted from landfills (tonnes) as well as social indicators such as number of beneficiaries of 
+the various social projects and number of employment opportunities created. 
+- Sustainalytics considers this process to be in line with market practice. 
+Alignment with Sustainability Bond Guidelines 2018 
+Sustainalytics has determined that the New World Development Sustainable Finance Framework aligns to the 
+four core components of the Green Bond Principles (2018) and Social Bond Principles (20 20). For detailed 
+information please refer to Appendix 2: Sustainability Bond/ Sustainability Bond Programme External Review 
+Form. 
+Section 2: Sustainability Strategy of NWD 
+Contribution of Framework to NWD’s sustainability strategy 
+Sustainalytics is of the opinion that NWD demonstrates a strong commitment to sustainability through its 
+New World Sustainability Vision 203015  which is underpinned by four pillars; (i) Green: Environment Protection 
+(ii) Wellness: Promotion of Healthy Living, (iii) Caring: Creating Shared Value for Communities, and  (iv) Smart: 
+Technology Adoption and Promotion of Entrepreneurship. Sustainalytics highlights below practices of NWD 
+that speak to the Company’s position as a credible sustainability bond issuer and demonstrates how the 
+Company’s sustainability strategy aligns with the issuance of green, social and sustainability bonds. 
+Under the Green pillar, NWD strives to reduce its adverse environmental impact, achieve operational resource 
+efficiency, and mitigate and adapt to climate change impacts . NWD’s environmental targets include  the 
+reduction of energy and carbon intensity by 50% by 2030 as compared to 2015 across the New World 
+Group’s16 business properties; the reduction of water intensity by 25% as compared to 2015; and the reduction 
+of waste to landfill intensity by 15% by 2030 as compared to  2015 within New World Development’s 
+construction business.  NWD reports its progress on the mentioned targets in its 2019 Sustainability Report.17 
+Some of the progress made by 2019 compared to 2015 baseline include following: (i) 21% reduction in energy 
+intensity measured in MWh/ million HKD revenue, (ii) 29% reduction in carbon intensity (tCO2e/million HKD 
+revenue), (iii) 8% reduction in water intensity (m3 /million HKD revenue) and (iv) 5% reductio n in waste to 
+landfill intensity (tonnes/million HKD revenue).  In addition to its goals and performance, NWD supports Hong 
+Kong's Long -term Decarbonization Strategy18  by participating in the Energy Saving Charter 19  as well as 
+developing energy and carbon emission targets. NWD is also a signatory to Business Environment Council’s 
+Low Carbon Charter20 and Hong Kong Green Building Council’s Advancing Net Zero movement21. 
+ 
+Under the pillar of Wellness, NWD commits to improving community health by supporting innovative 
+healthcare solution s such as healthy built environment, wellness ventures and programs. NWD’s wellness 
+ventures and programs are carried out through its  WELL certified TM buildings, wellness centers, and 
+rehabilitation businesses.  Under the pillar of Caring, NWD, seeks to improve the quality of life of 300 million 
+people through nursing facilities, as well as education, cultural and community programs.   Additionally, to 
+foster local entrepreneurship and intrapreneurship, NWD encourages the development of innovative solutions 
+through research and development (R&D) initiatives, and its incubation and acceleration programs. 
+Based on above practices of NWD, Sustainalytics is  of the opinion that the NWD Sustainable Finance 
+Framework is aligned with the Company’s overall sustainability strategy and initiatives and will advance the 
+Company’s action on its key environmental and social priorities. 
+ 
+15 New World Development, New World Sustainability Vision 2030, (accessed on 15 July 2020), at: https://sustainability.nwd.com.hk/sustainability-vision-
+2030/  
+16 New World Group includes New World Development (NWD), New World China Land Limited (NWCL) and K11, as well as construction businesses, NWS 
+Holdings Limited (NWSH) and New World Department Stores (NWDS). 
+17 New World Development, Sustainability Report 2019, December 2019, at: https://sustainability.nwd.com.hk/wp-
+content/uploads/2020/08/NWD_SR2019_EN.pdf  
+18 The Government of the Hong Kong Special Administrative Region, Public engagement on Long-term Decarbonization Strategy launched, June 2019, at: 
+https://www.info.gov.hk/gia/general/201906/14/P2019061400309.htm 
+19 Environment Bureau, The Government of Hong Kong Special Administrative Region, About Energy Saving Charter & 4T Charter Schemes, accessed on 
+August 2020, at: https://www.energysaving.gov.hk/esc2019/en/charter/index.html  
+20 Business Environment Council, BEC Low Carbon Charter, (accessed in 15 July 2020), at: http://bec.org.hk/articles/bec-low-carbon-charter 
+21  Hong Kong Green Building Council, Advancing Net Zero, (accessed in 15 July 2020),, at: https://www.hkgbc.org.hk/eng/global-movement/world-
+gbc/advancing-net-zero/index.jsp 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+7 
+Well positioned to address common environmental and social risks associated with the projects  
+While the eligible categories are  recognized as impactful by the GBP and SBP, Sustainalytics is aware that 
+such eligible projects could also lead to negative environmental and social outcomes such as waste generated 
+during construction, land use and biodiversity issues associated with large -scale infrastructure projects, 
+occupational health and safety  of workers, as well as  possibility of deteriorating community relations as a 
+result of inadequate public consultation. Sustainalytics is of the opinion that NWD is able to manage and/or 
+mitigate potential risks through the implementation of the following:22  
+NWD has integrated ESG risk identification and management considerations into its overall Corporate Risk 
+Management Policy. Risk owners across the group are required to undertake and report risk review exercise, 
+which includes reviewing ESG  related risks such as  - bribery and corruption, business ethics, occupational 
+health and safety and climate change. Any material ESG risks identified are reported to NWD’s Sustainability 
+Committee. The Company also has an early risk flagging mechanism, under which it facilitates the 
+identification and assessment of emerging risks, including ESG related risks. Additionally, NWD established a 
+sustainability governance structure, Sustainability Committee, which comprises two independent non -
+executive directors and one executive director. This committee advises on the NWD’s sustainability strategy, 
+and oversees the Company’s ESG r isks and opportunities with a focus on climate related risks and 
+opportunities.  
+ 
+Under its Health and Safety Policy, NWD commits to building a healthy and safe workplace for its employees.23 
+In its construction business, the Company strive to ensure safety of employees and contractors in day to day 
+operations and provides regular training on operational guidelines, quality control and environment, health and 
+safety topics. 100% of NWD’s construction operations in Hong Kong are certified to ISO 14001 Environmental 
+Management System and about 66% of its office building (gross floor area) in the Hong Kong portfolio are 
+certified to ISO 50001 Energy Management System. 
+ 
+NWD conducts internal and external stakeholder engagement to strengthen its ESG governance. The 
+Company uses various channels such as surveys, interviews, focus groups, townhall meetings and forums to 
+engage with multiple stakeholder groups , including employees, tenants, customers, supply chain, local 
+communities, investors, the academic community, NGOs, government and peer companies . Furthermore, 
+NWD confirmed to Sustainalytics that the Company implements local community consultation process before 
+and during the design and development stages of large-scale infrastructure projects. 
+ 
+Based on the mentioned systems, standards, and assessments, Sustainalytics is of the opinion that NWD has 
+implemented adequate measures and is well positioned to manage and mitigate environmental and social 
+risks commonly associated with the eligible categories. 
+Section 3: Impact of Use of Proceeds  
+All ten use of proceeds categories are aligned with those recognized by GBP or SBP. Sustainalytics has 
+focused on three areas below, where the impact is specifically relevant in the local context. 
+Importance of Promoting Sustainable Development in Hong Kong’s Building Sector  
+In 2017, Hong Kong’s residential and commercial sector accounted for 93% of the region’s electricity 
+consumption 24 and contributed to over 60% of the region’s total carbon emissions25. Furthermore, in 2017, 
+air conditioning and lighting alone accounted for 42% of the regions’ electricity consumption. Recognizing the 
+building sector’s large carbon footprint, Hong Kong has established the Energy Saving Plan for Hong Kong’s 
+Built Environment, under which an emission intensity reduction target of 40% by 2025 as compared to 2005 
+intensity levels has been established.26  Hong Kong has also launched the Hong Kong Climate Action 2030+ 
+ 
+22 New World Development, Sustainability Report 2019, December 2019, at: https://sustainability.nwd.com.hk/wp-
+content/uploads/2020/08/NWD_SR2019_EN.pdf  
+23 New World Development, Health and Safety Policy, August 2020, at: https://sustainability.nwd.com.hk/wp-
+content/uploads/2020/10/Health_and_Safety_Policy_EN.pdf  
+24 The residential sector used 27% while the commercial sector used 66% of electricity. EMSD, Hong Kong End -Use Energy Data 2019, September 2019, 
+at: https://www.emsd.gov.hk/filemanager/en/content_762/HKEEUD2019.pdf 
+25 Government of Hong Kong, Climate Ready, Hong Kong’s Climate Action Plan 2030+, January 2017, at: 
+https://www.enb.gov.hk/sites/default/files/pdf/ClimateActionPlanEng.pdf 
+26 Government of Hong Kong, Environment Bureau, Energy Saving Plan for Hong Kong’s Built Environment 2015- 2025+, May 2015, at: 
+https://policy.asiapacificenergy.org/sites/default/files/EnergySavingPlanEn.pdf 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+8 
+plan27 in 2017, under which it seeks to reduce the region’s carbon intensity by 65% to 70% by 2030 using 2005 
+as the base year. This translates into a 26% to 36% absolute emission reduction for the country. 
+Based on the above context, NWD’s investments in development and redevelopment of green buildings will 
+help contribute meaningfully to Hong Kong’s climate goals while reducing the carbon footprint of the building 
+sector. 
+Importance of Waste Reduction and Climate Change Adaptation in Hong Kong 
+In 2018, nearly 40% of Hong Kong’s total solid waste (amounting to 5.87 million tonnes) came from domestic 
+sources and 25% consisted of construction waste, demonstrating the importance of facilitating proper waste 
+management processes, especially in the construction sector.28 Hong Kong has established the ‘Blueprint for 
+Sustainable Use of Resources 2013 – 2022’, under which the region seeks to reduce the municipal solid waste 
+disposal rate by 40% by 2022 on a per capita basis. 29 Despite its efforts, Hong Kong has been experiencing 
+challenges in expanding its waste processing capacity and improv ing the region’s recycling capabilities.30 . 
+The region has been exporting most of its waste, which includes 90% of its recyclables, to Mainland China.31  
+Following China’s 2018 regulation that bans imports of several types of unprocessed waste, the Hong Kong 
+waste problem is expected to intensify.  
+Hong Kong is a coastal port, with much of its densely populated urban areas located  in low lying areas or on 
+reclaimed land,32 which makes the region vulnerable to sea level rise and storm surges. 33,34 In addition, the 
+region has been experiencing an increase in annual mean temperatures, leading to heavier rainfall and 
+increased year to year variability in drought.  35 Warmer, wetter and more extreme weather put immense 
+pressure on the built environment. 36  Several of the recognized Green Building Certification schemes, not only 
+help reduce environmental impacts but also increase resilience to the adverse effects of cl imate change, by 
+facilitating mitigating and coping mechanisms such as stormwater management systems, rain -water 
+harvesting, recycling and reuse of waste and sewage on site. 
+Based on the above, Sustainalytics believes that NWD’s investments under the Waste Management and the 
+Climate Change Adaptation categories will deliver a positive contribution to Hong Kong’s waste reduction 
+efforts while improving Hong Kong’s urban built environment’s resilience to climate change impacts. 
+Alignment with/contribution to SDGs 
+The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
+sustainable development by the year 2030. This sustainability bond advances the following SDG goals and 
+targets:  
+Use of Proceeds 
+Category 
+SDG SDG target 
+Green Buildings 
+11. Sustainable Cities and 
+Communities  
+11.6 By 2030, reduce the adverse per capita 
+environmental impact of cities, including by 
+paying special attention to air quality and 
+municipal and other waste management 
+Green Landscapes 
+ 
+11. Sustainable Cities and 
+Communities 
+ 
+11.6 By 2030, reduce the adverse per capita 
+environmental impact of cities, including by 
+paying special attention to air quality and 
+municipal and other waste management 
+ 
+27 Government of Hong Kong, Climate Ready, Hong Kong’s Climate Action Plan 2030+, January 2017, at: 
+https://www.enb.gov.hk/sites/default/files/pdf/ClimateActionPlanEng.pdf 
+28 The Government of the Hong Kong Special Administrative Region, Environment Protection Department,  Hong Kong Waste Treatment and Disposal 
+Statistics, (accessed on 16 July 2020), at: https://www.epd.gov.hk/epd/english/environmentinhk/waste/data/stat_treat.html 
+29 Government of Hong Kong, Environment Bureau, Hong Kong’s ‘Blueprint for Sustainable Use Of Resources 2013 – 2022, May 2013, at: 
+https://www.enb.gov.hk/en/files/WastePlan-E.pdf 
+30 BBC, Hong Kong has a monumental waste problem, April 2017, at: https://www.bbc.com/future/article/20170427-hong-kong-has-a-monumental-waste-
+problem 
+31 https://www.reuters.com/article/us-hongkong-rubbish/hong-kong-drowning-in-waste-as-china-rubbish-ban-takes-toll-idUSKBN1FK0J4 
+32 Climate Change Business Forum, How will Hong Kong be Affected by Climate Change?, (accessed on 16 July 2020), at: http://bec.org.hk/ccfb/en-
+us/hong_kong_context_affected.html 
+33 http://www.iccc.hk/pdf/Day%201/4.%20Mr.%20Shun%20Chi%20Ming,%20JP.PDF 
+34 Xinhuanet, Hong Kong to strengthen ability to combat climate change, October 2018, at: http://www.xinhuanet.com/english/2019-
+10/18/c_138483562.htm 
+35 http://www.iccc.hk/pdf/Day%201/4.%20Mr.%20Shun%20Chi%20Ming,%20JP.PDF 
+36 Climate Change Business Forum, How will Hong Kong be Affected by Climate Change?, (accessed on 16 July 2020), at: http://bec.org.hk/ccfb/en-
+us/hong_kong_context_affected.html 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+9 
+ 
+Energy Efficiency   
+Renewable Energy 
+7. Affordable and Clean 
+Energy 
+7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix 
+7.3 By 2030, double the global rate of 
+improvement in energy efficiency. 
+Water Management 
+6. Clean Water and 
+Sanitation 
+ 
+  
+6.4 By 2030, substantially increase water -use 
+efficiency across all sectors and ensure 
+sustainable withdrawals and supply of 
+freshwater to address water scarcity and 
+substantially reduce the number of people 
+suffering from water scarcity. 
+ 
+Circular Economy and 
+Waste Management 
+12. Responsible 
+Consumption and 
+Production 
+12.5 By 2030, substantially reduce waste 
+generation through prevention, reduction, 
+recycling and reuse 
+Climate Change 
+Adaptation 
+11. Sustainable Cities and 
+Communities 
+ 
+ 
+ 
+ 
+ 
+11.b By 2020, substantially increase the 
+number of cities and human settlements 
+adopting and implementing integrated policies 
+and plans towards inclusion, resource 
+efficiency, mitigation and adaptation to climate 
+change, resilience to disasters, and develop 
+and implement, in line with the Sendai 
+Framework for Disaster Risk Reduction 2015-
+2030, holistic disaster risk management at all 
+levels. 
+ 
+Access to Basic 
+Infrastructure and 
+Essential Services 
+3.Good Health and Well-
+Being  
+ 
+ 
+4. Quality Education 
+ 
+ 
+ 
+3.8 Achieve universal health coverage, 
+including financial risk protection, access to 
+quality essential health-care services and 
+access to safe, effective, quality and affordable 
+essential medicines and vaccines for all. 
+4.4 Substantially increase the number of youth 
+and adults who have relevant skills, including 
+technical and vocational skills, for employment, 
+decent jobs and entrepreneurship.  
+ 
+Affordable Housing 
+11. Sustainable Cities and 
+Communities 
+11.1 - By 2030, ensure access for all to 
+adequate, safe and affordable housing and 
+basic services and upgrade slums 
+Socio-economic 
+Advancement and 
+Employment Generation 
+8. Decent Work and 
+Economic Growth 
+8.6 By 2020, substantially reduce the 
+proportion of youth not in employment, 
+education or training. 
+Conclusion  
+NWD has developed the New World Development Sustainable Finance Framework under which it will issue 
+sustainability bonds and loans, and use the proceeds to finance and refinance eligible projects in the areas of  
+(i) Green Buildings and Landscapes, (ii) Energy Efficiency,  (iii) Renewable Energy, (iv) Water Management, (v) 
+Circular Economy and Waste  Management, (vi)  Climate Change Adaptation,  (vii) Access to Basic 
+Infrastructure and Essential Services, ( viii) Affordable Housing, and ( ix) Socio-economic Advancement and 
+Employment Generation . Sustainalytics considers that the projec ts funded by the bond proceeds will 
+contribute to the reduction of g reenhouse gas emissions, promote sustainable resource management and 
+provide social benefits in Hong Kong and Mainland China. 
+The New World Development Sustainable Finance Framework  outlines a process by which proceeds will be 
+tracked, allocated, and managed, and commitments have been made for reporting on the allocation and 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+10 
+impact of the use of proceeds. Sustainalytics believes that the New World Development Sustainable Finance 
+Framework is aligned with the overall sustainability strategy of the company and that the use of proceeds 
+categories will contribute to the advancement of the UN Sustainable Development Goals (SDGs), specifically 
+SDGs 3,4,6,7,8,11,12,13,14 and 15. Additionally, Sustainalytics is of the opinion that NWD has adequate 
+measures to identify, manage and mitigate environmental and social risks commonly associated with the 
+eligible projects funded by the use of proceeds. 
+Based on the above, Sustainalytics is confident that NWD is well-positioned to issue sustainability bonds and 
+that that New World Development Sustainable Finance Framework  is robust, transparent, and in alignment 
+with the four core components of the Green Bond Principles (2018) and Social Bond Principles (2020). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+11 
+Appendices 
+Appendix 1: Summary of referenced green building certification schemes 
+ 
+ HK BEAM PLUS BREEAM LEED WELL Building 
+Standard  
+Living Building 
+Challenge 
+Background BEAM Society 
+Limited (BSL) 
+developed the 
+Building 
+Environmental 
+Assessment 
+Method (“BEAM”), 
+namely the BEAM 
+Plus assessment - 
+a green building 
+assessment tool 
+tailor-made for the 
+high-rise, high 
+density-built 
+environment of 
+sub-tropical 
+climate in Hong 
+Kong. BEAM Plus 
+assessment is 
+Hong Kong’s 
+leading initiative 
+to offer 
+assessments of 
+building 
+sustainability 
+performance, with 
+the Hong Kong 
+Green Building 
+Council being its 
+certification body. 
+BREEAM (Building 
+Research 
+Establishment 
+Environmental 
+Assessment 
+Method) was first 
+published by the 
+Building Research 
+Establishment 
+(BRE) in 1990.  
+ 
+Based in the UK, 
+BREEAM is used in 
+more than 70 
+countries and this 
+scheme can be 
+used for new, 
+refurbished and 
+extension of 
+existing buildings. 
+Leadership in Energy 
+and Environmental 
+Design (LEED) is a US 
+Certification System 
+for residential and 
+commercial buildings 
+used worldwide. LEED 
+was developed by the 
+non-profit U.S. Green 
+Building Council 
+(USGBC) and covers 
+the design, 
+construction, 
+maintenance and 
+operation of 
+buildings. 
+WELL Building 
+Standard (“WELL”) is a 
+building certification 
+issued by the 
+International WELL 
+Building Institute 
+(IWBI); Comprehensive, 
+third-party verified 
+standard targeting the 
+commercial and 
+institutional office 
+buildings. The WELL 
+standards measure the 
+health, well-being, 
+productivity and the 
+happiness of building 
+occupants. In 2018, the 
+WELL standard was 
+updated to WELL V2, 
+which makes some 
+changes to the 
+requirements and 
+scoring compared to 
+WELL V1. 
+The Living Building 
+Challenge is an 
+international green 
+building certification 
+program and 
+sustainable design 
+framework run by the 
+International Living 
+Future Institute, a US 
+non-profit organization 
+seeking to tackle 
+climate change by 
+pushing for a built 
+urban environment free 
+of fossil fuels. 
+Certification 
+levels 
+Bronze 
+Silver 
+Gold  
+Platinum 
+• Pass  
+• Good  
+• Very Good 
+• Excellent 
+• Outstanding 
+Certified 
+Silver 
+Gold  
+Platinum 
+Core (V2 Only) 
+Silver 
+Gold 
+Platinum 
+Living Building 
+Certification Petal 
+Certification Net Zero 
+Energy Building 
+Certification 
+Areas of 
+Assessment: 
+Environmental 
+Performance of 
+the Building  
+• Site Aspects 
+(location and 
+design of 
+building, 
+emissions from 
+the site, site 
+management) 
+• Materials 
+Aspects 
+(selection of 
+materials, 
+efficient use of 
+materials, 
+• Management 
+• Energy  
+• Land Use and 
+Ecology  
+• Pollution 
+• Transport  
+• Materials  
+• Water 
+• Waste 
+• Health and 
+Wellbeing 
+• Innovation 
+• Energy and 
+atmosphere  
+• Sustainable Sites  
+• Location and 
+Transportation 
+• Materials and 
+resources  
+• Water efficiency  
+• Indoor 
+environmental 
+quality  
+• Innovation in 
+Design 
+• Regional Priority 
+V1 
+• Air 
+• Water 
+• Nourishment 
+• Light 
+• Fitness 
+• Comfort 
+• Mind  
+ 
+V2 
+• Air 
+•  Water 
+•  Nourishment 
+•  Light 
+• Place  
+• Water  
+• Energy  
+• Health and 
+Happiness 
+Materials 
+• Equity  
+• Beauty 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+12 
+waste disposal 
+and recycling)  
+• Energy Use 
+(annual CO2 
+emissions or 
+energy use, 
+energy efficient 
+systems and 
+equipment, 
+energy 
+management)  
+• Water Use 
+(water quality, 
+water 
+conservation, 
+effluent 
+discharges) 
+• Indoor 
+Environmental 
+Quality  
+• Innovations and 
+additions 
+ 
+•  Movement 
+•  Thermal comfort 
+•  Sound 
+•  Materials 
+•  Mind 
+•  Community 
+Requirements  Prerequisites for 
+each performance 
+area + Credits 
+with associated 
+points 
+ 
+Detailed 
+compliance with 
+legal 
+requirements is a 
+prerequisite for 
+the award of 
+credits.  
+ 
+For every 
+performance area 
+BEAM Plus 
+prescribes 
+different 
+prerequisites. 
+Every applicable 
+prerequisite in 
+every BEAM Plus 
+category must be 
+achieved for the 
+project to be 
+assessed.  
+ 
+Credits are 
+allocated for each 
+performance area, 
+and every area is 
+weighted as per 
+international 
+consensus. The 
+Overall 
+Assessment 
+Minimum 
+requirements 
+depending on the 
+level of certification; 
+scoring system 
+weighted by 
+category, producing 
+a percentage-based 
+overall score. The 
+majority of BREEAM 
+issues are flexible, 
+meaning that the 
+client can choose 
+which to comply 
+with to build their 
+performance score.  
+ 
+BREAAM has two 
+stages/ audit 
+reports: a ‘BREEAM 
+Design Stage’ and a 
+‘Post Construction 
+Stage’, with 
+different 
+assessment criteria. 
+Prerequisites 
+(independent of level 
+of certification) + 
+Credits with 
+associated points  
+ 
+These points are then 
+added together to 
+obtain the LEED level 
+of certification 
+ 
+There are several 
+different rating 
+systems within LEED. 
+Each rating system is 
+designed to apply to a 
+specific sector (e.g. 
+New Construction, 
+Major Renovation, 
+Core and Shell 
+Development, 
+Schools-/Retail-
+/Healthcare New 
+Construction and 
+Major Renovations, 
+Existing Buildings: 
+Operation and 
+Maintenance).  
+ 
+V1 
+The building has to 
+meet a minimum of 5 
+preconditions to 
+receive the Silver 
+Certification, a 
+minimum of 7 
+preconditions to 
+receive the Gold 
+certification or a 
+minimum of 9 to 
+receive the Platinum 
+certification. The 
+preconditions comprise 
+102 KPIs for the 
+following quality 
+indicators: Air, Water, 
+Nourishment, Light, 
+Fitness, Comfort, Mind 
+ 
+V2 
+Projects must achieve 
+all preconditions, as 
+well as a certain 
+number of points to 
+earn different levels of 
+certification. Projects 
+must earn a minimum 
+of two points per 
+concept. Projects may 
+earn no more than 12 
+points per concept. 
+Point thresholds are 40, 
+50, 60, & 80 for the four 
+certification levels. 
+The Living Building 
+Challenge is organized 
+into seven performance 
+areas called Petals. 
+Each Petal is further 
+sub-divided into 
+Imperatives, which 
+address specific issues 
+through detailed 
+requirements. All 
+Imperatives assigned 
+to a Typology are 
+mandatory. Living 
+Building Challenge 
+certification requires 
+actual, rather than 
+anticipated, 
+performance 
+demonstrated over 
+twelve consecutive 
+months. 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+13 
+Grade is 
+determined by the 
+percentage (%) of 
+the applicable 
+credits gained 
+under each 
+performance 
+category and its 
+weighting factor. 
+ 
+Verification of 
+compliance with 
+BEAM Plus criteria 
+is done by an 
+independent 
+BEAM Plus 
+assessor. 
+Performance 
+Display  
+ 
+    
+ 
+Appendix 2:  Certification Schemes for Forestry  
+ 
+ Forest Stewardship Council (FSC)37 Programme for the Endorsement of Forest Certification 
+(PEFC)38 
+Background The Forest Stewardship (FSC) is a non -profit 
+organization established in 1993 that aims to 
+promote sustainable forest management practice by 
+evaluating forest management planning and 
+practices independently against FSC’s standards.  
+Founded in 1999, the Programme for the Endorsement 
+of Forest Certifi cation (PEFC)  is a non -profit 
+organization that promotes sustainable forest 
+management through independent third -party 
+certification, this includes assessments, endorsements 
+and recognition of national forest certification systems. 
+PEFC was created in resp onse to the specific 
+requirements of small - and family forest owners as an 
+international umbrella organization.  
+Basic Principles • Compliance with laws and FSC principles 
+• Tenure and use rights and responsibilities 
+• Indigenous peoples' rights 
+• Community relations and workers' rights 
+• Benefits from the forests 
+• Environmental impact 
+• Management plans 
+• Monitoring and assessment 
+• Special sites – high conservation value forests 
+(HCVF) 
+• Plantations 
+ 
+• Maintenance and appropriate enhancement of 
+forest resources and their contribution to the 
+global carbon cycle 
+• Maintenance and enhancement of forest 
+ecosystem health and vitality 
+• Maintenance and encouragement of productive 
+functions of forests (wood and no-wood) 
+• Maintenance, conservation and appropriate 
+enhancement of biological diversity in forest 
+ecosystems 
+• Maintenance and appropriate enhancement of 
+protective functions in forest management 
+(notably soil and water) 
+• Maintenance of socioeconomic functions and 
+conditions 
+• Compliance with legal requirements 
+Types of 
+standards/benchmarks  
+• Forest Management certification (for 
+single/multiple applicant(s) – industrial or 
+• Sustainable Forest Management benchmark – 
+international requirements for sustainable forest 
+ 
+37 Forest Stewardship Council, FSC Principles and Criteria for Forest Stewardship: https://ca.fsc.org/preview.principles-criteria-v5.a-1112.pdf 
+38 PEFC, Standards and Implementation: https://www.pefc.org/standards-implementation 
+
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+14 
+private forest owners, forest license holders, 
+community forests, and government-managed 
+forests) 
+• Small and Low Intensity Management Forests 
+(SLIMFs) program (for small forests and 
+forests that are managed at low intensity would 
+be eligible)  
+• Chain of Custody (CoC) certification (for supply 
+chain companies’ planning, practices and 
+products – all operations that want to produce 
+or make claims related to FSC-certified 
+products must possess this certificate)  
+• Controlled Wood verification (for assurance 
+that 100% virgin fiber mixed with FSC-certified 
+and recycled fiber originates from a verified 
+and approved source) 
+management. National forest management 
+standards must meet these requirements in order 
+to obtain PEFC endorsement  
+• Group Forest Management Certification – outlines 
+the requirements for national forest certification 
+systems who have group forest management 
+certification 
+• Standard Setting – covers the processes that must 
+be adhered to during the development, review and 
+revision of national forest management standards 
+• Chain of Custody – outlines the conditions for 
+obtaining CoC certification for forest-based 
+products  
+• PEFC logo Usage Rules – outlines the 
+requirements entities must abide by when using 
+the PEFC logo 
+• Endorsement of National Systems – outlines the 
+process that national systems must go through to 
+achieve PEFC endorsement  
+Governance The General Assembly is comprised of all FSC 
+members and constitutes the highest decision -
+making body. Members can apply to join one of three 
+chambers – environmental, social, or e conomic – 
+that are further divided into northern and southern 
+sub-chambers. Each chamber maintains 33.3% of 
+the weight in votes, and votes are weighted so that 
+the North and South hold an equal portion of 
+authority in each chamber, to ensure influence is 
+shared equitably between interest groups and 
+countries with different levels of economic 
+development.  
+ 
+ 
+PEFC’s governance structure is formed by the General 
+Assembly (GA) which is the highest authority and 
+decision-making body. It is made up of all PEFC 
+members, including national and international 
+stakeholders. In general, PEFC’s governance structure is 
+more representative of industry and government 
+stakeholders than of social or environmental groups. 
+Members vote on key decisions including endorsements, 
+international standards, new members, statutes and 
+budgets. All national members have between one and 
+seven votes, depending on membership fees, while 
+international stakeholder members have one vote each.  
+Scope FSC is a global, multi-stakeholder owned system. All 
+FSC standards and policies are set by a consultative 
+process. There is an FSC Global standard and for 
+certain countries FSC National standards. Economic, 
+social, and environmental interests have equal 
+weight in the stand ard setting process. FSC follows 
+the ISEAL Code of Good Practice for Setting Social 
+and Environmental Standards. 
+Multi-stakeholder participation is required in the 
+governance of national schemes as well as in the 
+standard-setting process. Standards and nor mative 
+documents are reviewed periodically at intervals that do 
+not exceed five years. The PEFC Standard Setting 
+standard is based on ISO/IEC Code for good practice for 
+standardization (Guide 59) 39  and the ISEAL Code of 
+Good Practice for Setting Social and  Environmental 
+Standards. 
+Chain-of-Custody • The Chain-of-Custody (CoC) standard is 
+evaluated by a third-party body that is 
+accredited by FSC and compliant with 
+international standards 
+• CoC standard includes procedures for tracking 
+wood origin 
+• CoC standard includes specifications for the 
+physical separation of certified and non-
+certified wood, and for the percentage of mixed 
+content (certified and non-certified) of products 
+• CoC certificates state the geographical location 
+of the producer and the standards against 
+which the process was evaluated. Certificates 
+also state the starting and finishing point of the 
+CoC 
+• Quality or environmental management systems 
+(ISO 9001:2008 or ISO 14001:2004 respectively) 
+may be used to implement the minimum 
+requirements for chain-of-custody management 
+systems required by PEFC 
+• Only accredited certification bodies can undertake 
+certification 
+• CoC requirements include specifications for 
+physical separation of wood and percentage-based 
+methods for products with mixed content. 
+• The CoC standard includes specifications for 
+tracking and collecting and maintaining 
+documentation about the origin of the materials 
+• The CoC standard includes specifications for the 
+physical separation of certified and non-certified 
+wood 
+ 
+39 ISO, ISO/IEC Guide 59:2019: https://www.iso.org/standard/23390.html 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+15 
+• The CoC standard includes specifications about 
+procedures for dealing with complains related to 
+participant’s chain of custody 
+Non-certified wood 
+sources 
+FSC’s Controlled Wood Standard establishes 
+requirements to participants to establish supply -
+chain control systems, and documentation to avoid 
+sourcing materials from controversial sources, 
+including: 
+a. Illegally harvested wood, including wood 
+that is harvested without legal 
+authorization, from protected areas, 
+without payment of appropriate taxes and 
+fees, using fraudulent papers and 
+mechanisms, in violation of CITES 
+requirements, and others, 
+b. Wood harvested in violation of traditional 
+and civil rights, 
+c. Wood harvested in forests where high 
+conservation values are threatened by 
+management activities, 
+d. Wood harvested in forests being converted 
+from forests and other wooded 
+ecosystems to plantations or non-forest 
+uses, 
+e. Wood from management units in which 
+genetically modified trees are planted. 
+The PEFC’s Due Diligence System requires participants 
+to establish systems to minimize the risk of sourcing raw 
+materials from: 
+a. forest management activities that do not 
+comply with local, national or international 
+laws related to: 
+- operations and harvesting, including 
+land use conversion, 
+- management of areas with 
+designated high environmental and 
+cultural values, 
+- protected and endangered species, 
+including CITES species, 
+- health and labor issues, 
+- indigenous peoples’ property, tenure 
+and use rights, 
+- payment of royalties and taxes. 
+b. genetically modified organisms, 
+c. forest conversion, including conversion of 
+primary forests to forest plantations. 
+ 
+Accreditation/verification FSC-accredited Certification Bodies (CB) conduct an 
+initial assessment, upon successful completion 
+companies are granted a 5 -year certificate.  
+Companies must undergo an annual audit and a 
+reassessment audit every 5 years. Certification 
+Bodies undergo annu al audits from Accreditation 
+Services International (ASI) to ensure conformance 
+with ISO standard requirements.  
+Accreditation is carried out by an accreditation body 
+(AB). In the same way that a certification body checks 
+that a company meets the PEFC stan dard, the 
+accreditation body checks that a certification body 
+meets specific PEFC and ISO requirements. Through the 
+accreditation process, PEFC has assurance that 
+certification bodies are independent and impartial, that 
+they follow PEFC certification procedures. 
+ 
+PEFC does not have their own accreditation body. Like 
+with the majority of ISO based certifications, PEFC relies 
+on national ABs under the umbrella of the International 
+Accreditation Forum (IAF). National ABs need to be a 
+member of the IAF, which means they must follow IAF’s 
+rules and regulations. 
+ Qualitative 
+considerations 
+Sustainalytics views both FSC and PEFC as being robust, credible standards that are based on comprehensive 
+principles and criteria that are aligned with ISO. Both schemes have received praise for their contribution to 
+sustainable forest management practices 40 and both have also faced criticism from civil society actors. 41,42 In 
+certain instances, these standards go above and beyond national regulation and are capable of providing a high 
+level of assurance that sustainable forest management practices are in place. However, in other cases, the 
+standards are similar or equal to national legislation and provide little additional assurance. Ultimately, the level 
+of assurance that can be provided by either scheme is contingent upon several factors including the certification 
+bodies conducting audits, national regulations and local context.   
+ 
+ 
+40 FESPA, FSC, PEFC and ISO 38200: https://www.fespa.com/en/news-media/blog/fsc-pefc-and-iso-38200 
+41 Yale Environment 360, Greenwashed Timber: How Sustainable Forest Certification Has Failed: https://e360.yale.edu/features/greenwashed-timber-
+how-sustainable-forest-certification-has-failed 
+42 EIA, PEFC: A Fig Leaf for Stolen Timber: https://eia-global.org/blog-posts/PEFC-fig-leaf-for-stolen-timber 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+16 
+Appendix 3: Sustainability Bond / Sustainability Bond Programme - External 
+Review Form 
+Section 1. Basic Information 
+Issuer name: New World Development Company Limited  
+Sustainability Bond ISIN or Issuer Sustainability 
+Bond Framework Name, if applicable: 
+New World Development Sustainable Finance 
+Framework 
+Review provider’s name: Sustainalytics 
+Completion date of this form:  October 21, 2020 
+Publication date of review publication:  Update to March 2018 Sustainalytics SPO 
+Section 2. Review overview 
+SCOPE OF REVIEW 
+The following may be used or adapted, where appropriate, to summarise the scope of the review.  
+The review assessed the following elements and confirmed their alignment with the GBP and SBP: 
+☒ Use of Proceeds ☒ Process for Project Evaluation and 
+Selection 
+☒ Management of Proceeds ☒ Reporting 
+ROLE(S) OF REVIEW PROVIDER 
+☒ Consultancy (incl. 2nd opinion) ☐ Certification 
+☐ Verification ☐ Rating 
+☐ Other (please specify):   
+Note: In case of multiple reviews / different providers, please provide separate forms for each review.  
+EXECUTIVE SUMMARY OF REVIEW and/or LINK TO FULL REVIEW (if applicable) 
+Please refer to Evaluation Summary above.  
+ 
+ 
+Section 3. Detailed review 
+Reviewers are encouraged to provide the information below to the extent possible and use the comment 
+section to explain the scope of their review.  
+1. USE OF PROCEEDS 
+Overall comment on section (if applicable):  
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+17 
+The eligible categories for the use of proceeds – (i)Green Buildings and Landscapes, (ii)Energy Efficiency,  
+(iii)Renewable Energy, (iv) Water Management, (v)Circular Economy and Waste Management, (vi)Climate 
+Change Adaptation, (vii)Access to Basic Infrastructure and Essential Services, ( viii)Affordable Housing, and 
+(ix)Socio-economic Advancement and Employment Generation – are aligned with those recognized by both 
+the Green Bond Principles 2018 and Social Bond Principles 2020. Sustainalytics considers that the eligible 
+categories will lead to positive environmental or social impacts and advance the UN Sustainable Development 
+Goals (SDGs), specifically SDGs 3,4,6,7,8,11,12,13,14 and 15. 
+ 
+Use of proceeds categories as per GBP: 
+☒ Renewable energy ☒ Energy efficiency  
+☒ Pollution prevention and control ☐ Environmentally sustainable management of 
+living natural resources and land use 
+☐ Terrestrial and aquatic biodiversity 
+conservation 
+☐ Clean transportation 
+☒ Sustainable water and wastewater 
+management  
+☒ Climate change adaptation 
+☒ Eco-efficient and/or circular economy adapted 
+products, production technologies and 
+processes 
+☒ Green buildings 
+☐ Unknown at issuance but currently expected to 
+conform with GBP categories, or other eligible 
+areas not yet stated in GBPs 
+☐ Other (please specify): 
+If applicable please specify the environmental taxonomy, if other than GBPs: 
+ 
+Use of proceeds categories as per SBP: 
+☒ Affordable basic infrastructure ☒ Access to essential services  
+☒ Affordable housing ☒ Employment generation (through SME financing 
+and microfinance) 
+☐ Food security ☒ Socioeconomic advancement and empowerment 
+☐ Unknown at issuance but currently expected to 
+conform with SBP categories, or other eligible 
+areas not yet stated in SBP 
+☐ Other (please specify): 
+If applicable please specify the social taxonomy, if other than SBP: 
+ 
+2. PROCESS FOR PROJECT EVALUATION AND SELECTION 
+Overall comment on section (if applicable):  
+NWD will establish a ‘Sustainable Finance Review Panel’ (“the Panel”) who will be responsible for selecting 
+eligible projects based on the criteria mention in the Framework. This Panel will consist of representa tives 
+from NWD’s Finance & Accounts, Group Audit and Management Services, Project Management, and 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+18 
+Sustainability departments. When needed, the Company will also consult with senior representatives from 
+NWD Property Management, NWCL and K11, which are wholly owned subsidies of NWD. 
+NWD’s CEO and the Chairperson of the Group Sustainability Steering Committee will be responsible for 
+providing the final approval of which projects will be eligible.  
+NWD’s approach to substantiate project eligibility includes obt aining data about environmental credits of 
+eligible projects and assets, including performance related to energy, water, and waste reduction, expected 
+environmental or health benefits, description of schematic design of projects and proof of pre -certification 
+and certification documentation. 
+ 
+ 
+Evaluation and selection 
+☒ Credentials on the issuer’s social and green 
+objectives 
+☒ Documented process to determine that 
+projects fit within defined categories  
+☒ Defined and transparent criteria for projects 
+eligible for Sustainability Bond proceeds 
+☐ Documented process to identify and 
+manage potential ESG risks associated 
+with the project 
+☐ Summary criteria for project evaluation and 
+selection publicly available 
+☐ Other (please specify): 
+Information on Responsibilities and Accountability  
+☒ Evaluation / Selection criteria subject to 
+external advice or verification 
+☐ In-house assessment 
+☐ Other (please specify):   
+3. MANAGEMENT OF PROCEEDS 
+Overall comment on section (if applicable): 
+NWD will establish a register where the Company will record details of funding transaction under this 
+Framework. This register will contain information on issuer/borrower entity transaction date, the principal 
+amount of proceeds, repayment or amortization profile, maturity date, and interest or coupon. The register will 
+also include information about allocation of proceed such as details of eligible projects, amount of proceeds 
+allocated to each project, and amount of unallocated proceeds. Unallocated proceeds will be held as deposits, 
+such as cash and cash equivalents, in banks in accordance with NWD’s treasury or liquidity management 
+policy.      
+While Sustainalytics considers the above process as aligned with market practice, Sustainalytics encourages 
+NWD to disclose the period over which they intend to allocate the proceeds raised. 
+Tracking of proceeds: 
+☒ Sustainability Bond proceeds segregated or tracked by the issuer in an appropriate manner 
+☒ Disclosure of intended types of temporary investment instruments for unallocated proceeds 
+☐ Other (please specify): 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+19 
+Additional disclosure: 
+☐ Allocations to future investments only ☒ Allocations to both existing and future 
+investments 
+☐ Allocation to individual disbursements ☒ Allocation to a portfolio of disbursements 
+☒ Disclosure of portfolio balance of 
+unallocated proceeds 
+☐ Other (please specify): 
+ 
+4. REPORTING 
+Overall comment on section (if applicable):  
+NWD commits to disclosing annually, or in case of any material changes, the allocation and impact of net 
+proceeds raised under this Framework, on its corporate website, until the full allocation of proceeds. 
+Disclosed impact information will include environmental indicators such as building/landscape certification 
+achieved (system & level), energy consumption reduction (kWh), carbon emission reduction (tonnes of CO2e), 
+water consumption reduction (m3), amount of waste reduced and/or diverted from landfills (tonnes) as well 
+as social indicators such as number of beneficiaries of the various social projects and number of employment 
+opportunities created. 
+ 
+Use of proceeds reporting: 
+☒ Project-by-project ☒ On a project portfolio basis 
+☐ Linkage to individual bond(s) ☐ Other (please specify): 
+Information reported: 
+☒ Allocated amounts ☐ Sustainability Bond financed share of 
+total investment 
+☐ Other (please specify):   
+Frequency: 
+☒ Annual ☐ Semi-annual 
+☐ Other (please specify):  
+Impact reporting: 
+☒ Project-by-project ☒ On a project portfolio basis 
+☐ Linkage to individual bond(s) ☐ Other (please specify): 
+Information reported (expected or ex-post): 
+☒ GHG Emissions / Savings ☒  Energy Savings  
+☒ Decrease in water use ☒  Number of beneficiaries 
+☐ Target populations ☐  Other ESG indicators (please 
+specify): Building/landscape 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+20 
+certification achieved 
+(system & level 
+Amount of waste reduced 
+and/or diverted from landfills 
+(tonnes). 
+Number of employment 
+opportunities created 
+ 
+Number of facilities built 
+Frequency: 
+☒ Annual ☐ Semi-annual 
+☐ Other (please specify):   
+Means of Disclosure 
+☐ Information published in financial report ☐ Information published in sustainability 
+report 
+☐ Information published in ad hoc documents ☒ Other (please specify): corporate 
+website 
+☐ Reporting reviewed (if yes, please specify which parts of the reporting are subject to 
+external review): 
+ 
+Where appropriate, please specify name and date of publication in the useful links section. 
+ 
+USEFUL LINKS (e.g. to review provider methodology or credentials, to issuer’s documentation, etc.) 
+ 
+https://www.nwd.com.hk/ 
+ 
+SPECIFY OTHER EXTERNAL REVIEWS AVAILABLE, IF APPROPRIATE 
+Type(s) of Review provided: 
+☐ Consultancy (incl. 2nd opinion) ☐ Certification 
+☐ Verification / Audit ☐ Rating 
+☐ Other (please specify): 
+Review provider(s): Date of publication: 
+  
+ 
+ 
+ABOUT ROLE(S) OF REVIEW PROVIDERS AS DEFINED BY THE GBP AND THE SBP 
+i. Second Party Opinion: An institution with sustainability expertise that is independent from the issuer may 
+provide a Second Party Opinion. The institution should be independent from the issuer’s adviser for its 
+Sustainability Bond framework, or appropriate procedures such as information barriers will have been 
+implemented within the institution to ensure the independence of the Second Party Opinion.  It normally entails 
+an assessment of the alignment with the Principles. In particular, it can include an assessment of the issuer’s 
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+21 
+overarching objectives, strategy, policy, and/or pr ocesses relating to sustainability and an evaluation of the 
+environmental and social features of the type of Projects intended for the Use of Proceeds. 
+ii. Verification: An issuer can obtain independent verification against a designated set of criteria, typically 
+pertaining to business processes and/or sustainability criteria. Verification may focus on alignment with 
+internal or external standards or claims made by the issuer. Also, evaluation of the environmentally or socially 
+sustainable featu res of underlying assets may be termed verification and may reference external criteria. 
+Assurance or attestation regarding an issuer’s internal tracking method for use of proceeds, allocation of 
+funds from Sustainability Bond proceeds, statement of enviro nmental or social impact or alignment of 
+reporting with the Principles may also be termed verification. 
+iii. Certification: An issuer can have its Sustainability Bond or associated Sustainability Bond framework or Use 
+of Proceeds certified against a recognised external sustainability standard or label. A standard or label defines 
+specific criteria, and alignment with such criteria is normally tested by qualified, accredited third parties, which 
+may verify consistency with the certification criteria.  
+iv. Green, Social and Sustainability Bond Scoring/Rating: An issuer can have its Sustainability Bond, associated 
+Sustainability Bond framework or a key feature such as Use of Proceeds evaluated or assessed by qualified 
+third parties, such as specialised research provider s or rating agencies, according to an established 
+scoring/rating methodology. The output may include a focus on environmental and/or social performance 
+data, process relative to the Principles, or another benchmark, such as a 2 -degree climate change scenario. 
+Such scoring/rating is distinct from credit ratings, which may nonetheless reflect material sustainability risks. 
+  
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+22 
+Disclaimer 
+Copyright ©2020 Sustainalytics. All rights reserved. 
+The information, methodologies and opinions contained or reflected herei n are proprietary of Sustainalytics 
+and/or its third party suppliers (Third Party Data), and may be made available to third parties only in the form 
+and format disclosed by Sustainalytics, or  provided that appropriate citation and acknowledgement is 
+ensured. They are provided for informational purposes only and (1) do not constitute an endorsement of any 
+product or project;  (2) do not constitute investment advice, financial advice  or a prospectus; (3) cannot be 
+interpreted as an offer or indication to buy o r sell securities, to select a project or make any kind of business 
+transactions; (4) do not represent an assessment of the issuer’s economic performance, financial obligations 
+nor of its creditworthiness; and/or (5) have not and cannot be incorporated into any offering disclosure. 
+These are  based on information made available by the issuer and therefore are not warranted as to their 
+merchantability, completeness, accuracy, up-to-dateness or fitness for a particular purpose. The information 
+and data are provided “as is” and reflect Sustainalytics` opinion at the date of their elaboration and publication. 
+Sustainalytics accepts no liability for damage arising from the use of the information, data or opinions 
+contained herein, in any manner whatsoever, except where explicitly required by law. Any reference to third 
+party names or Third Party Data is for appropriate acknowledgement of their ownership and does not 
+constitute a sponsorship or endorsement by such owner. A list of our third -party data providers and their 
+respective terms of use is available on our website. For more information, 
+visit http://www.sustainalytics.com/legal-disclaimers. 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for their 
+implementation and monitoring. 
+In case of discrepancies between the English language and translated versions, the English language version 
+shall prevail.  
+Second-Party Opinion  
+New World Development Sustainable Finance Framework  
+  
+ 
+  
+ 
+23 
+About Sustainalytics, a Morningstar Company 
+Sustainalytics, a Morningstar Company, is a leading independent ESG and corporate governance research, 
+ratings and analytics firm that supports investors around the world with the development and implementation 
+of responsible investment strategies. For more than 25 years, the firm has been at the forefront of developing 
+high-quality, innovative solutions to meet the evolving needs of global investors. Today, Sustainalytics works 
+with hundreds of the world’s leading asset managers and pension funds who incorporate ESG and corporate 
+governance information and assessments into their investment processes. Sustainalytics also works with 
+hundreds of companies and their financial intermediaries to help them consider sustainability in policies, 
+practices and capital  projects. With 16 offices globally, Sustainalytics has more than 650 staff members, 
+including more than 200 analysts with varied multidisciplinary expertise across more than 40 industry groups. 
+For more information, visit www.sustainalytics.com.

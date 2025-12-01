@@ -1,0 +1,671 @@
+,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pre-Issuance Reasonable Assessment Engagement 
+ 
+Second Climate Bond Issuance of Aliança Geração de Energia 
+S.A S.A.  
+ 
+Climate Bond Standard version 3.0 and CBI Wind Energy 
+Criteria (September 2020) 
+Assessment Report 
+March 21st, 2022 | Rio de Janeiro  
+Practitioner Team 
+Gustavo Pimentel | gpimentel@sitawi.net   
+ Cristóvão Alves| calves@sitawi.net  
+Camila Toigo | ctoigo@sitawi.net  
+ 
+
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 1 
+ 
+About SITAWI 
+ 
+SITAWI Finance for Good is a Brazil -based organization whose mission is to mobilize  
+capital for positive environmental and social impact. We develop financial solutions for  
+social impact and advise the financial sector on how to incorporate environmental and  
+social issues into strategy, risk management and investment analysis. We are one of the 
+5 best ESG research houses for investors according to Extel  Independent Research in 
+Responsible Investment - IRRI 2019 – and a pioneer in the green bond market in Brazil. 
+ 
+ 
+Index 
+1. Engagement Summary ................................ ................................ .......................... 2 
+2. Assessment Statement ................................ ................................ .......................... 4 
+3. Summary of Findings ................................ ................................ ............................. 5 
+4. Supporting Documents................................ ................................ ......................... 12 
+ 
+ 
+2 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+1. Engagement Summary 
+ 
+This report aims to provide a Pre -Issuance Verification for the Fifth Issuance of Non -
+convertible Debentures (“Bond”) to be issued by Aliança Geração de Energia S.A. 
+(“Aliança” or “Issuer”) as a Certified Climate Bond. The assessment was conducted by 
+SITAWI Finance for Good (“Verifier”), as an independent third-party provider accredited 
+by the Cli mate Bonds Standards Board.  This issuance is the second  Climate Bond of 
+Aliança Geração de Energia S.A. 
+ 
+The proceeds will be allocated to reimbursements and future expenses related to the 
+implementation of Gravier and Acauã Wind Complexes (“Nominated Projects & Assets”). 
+The use of proceeds is set in the Bond’s indenture.  
+ 
+This is the second climate issuance directed to the Gravier project. The first one has 
+represented about 51% of the project’s total costs  and the second one will represent 
+about 44%. Aliança is the only shareholder in the project thereby the value of green 
+emissions is not greater than the issuer’s exposure to the green project , since the sum 
+of the climate bonds proceeds is less than the project’s total value.  
+ 
+Regarding the Acauã project, the present climate issuance will represent about 7% of its 
+total costs. Both projects are also being financed with equity and other non-labelled 
+debentures1.  
+ 
+SITAWI’s assessment method follows the Climate Bonds Standards, Version 3.0 2. The 
+assessment followed Climate Bond Initiative (CBI)’s general requirements (applicable to 
+all bonds) and the Wind Sector Eligibility Criteria of the Climate Bonds Standard Version 
+1.2 under the Climate Bonds Standard (Version September 2020). 
+ 
+The assessment process consisted of: 
+• Planning the assessment;  
+• Risk Assessment;  
+• Performing the assessment, including client preparation, obtaining evidence and 
+practitioner assessment;  
+• Forming the assessment conclusion;  
+• Preparing the assessment report;  
+• Submission for CBI certification. 
+ 
+The assessment relied on both confidential an d public information and documents 
+provided by  the Issuer , desk research and remote interviews conducted with the 
+sustainability and finance  areas. This process was carried out between February and 
+March 2022.  
+ 
+The assessment process was performed in accordance with relevant general principles 
+& professional standards of independent auditing, and in line with the International 
+Standard on Assessment Engagements other than Audits or Reviews of Historical 
+Financial Information (ISAE 3000), International Standard in Quality Control (ISQC 1, 
+2009) and Code of Ethics for Professional Accountants of International Ethic Standards 
+Board for Accountants (IESBA, 2019). 
+ 
+The professionals that perform ed this assessment have previous knowledge and 
+experience in applying Climate Bonds Standard version 3.0 and Climate Bond Sector 
+Criteria and are familiar with the sector’s main ESG risks and opportunities. 
+                                                
+1 The Third Issuance was not labelled as a climate bond. 
+2 https://www.climatebonds.net/files/files/climate-bonds-standard-v3-20191210.pdf  
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 3 
+ 
+ 
+SITAWI had access to all documents and professionals requested, thus being able to 
+provide an opinion with a reasonable3 level of  assurance regarding completeness, 
+accuracy, and reliability. The Issuer displayed a high level of transparency during the 
+execution of this process. 
+ 
+SITAWI is not Aliança Geração de Energia S.A ’s shareholder, subsidiary, supplier or 
+client. SITAWI declares to have no conflict of interest to provide an independent 
+assessment regarding the current issuance. SITAWI was responsible for a Second-Party 
+Opinion on the Fourth  Issuance of Non -convertible Debentures issued by Aliança 
+Geração de Energia S.A in 2021. The issuance was labelled as a green bond. 
+ 
+The assessment contained in this Report is based on both public and confidential 
+documents provided by Aliança Geração de Energia S.A. SITAWI cannot attest or be 
+held responsible for the completeness, preciseness, or reliability of these sources.  
+ 
+SITAWI is responsible to provide an external and independent assessment on the 
+conformance of the Bond with the Climate Bonds Standard version 3.0 requirements and 
+associated sector-specific technical criteria. We reinforce that the analysis and opinion 
+in this report shall not be taken as an investment recommendation or a proxy for liquidity 
+or returns. 
+ 
+  
+ 
+                                                
+3 “In a reasonable assurance engagement, the practitioner reduces assurance engagement risk to an acceptably low level 
+in the circumstances of the engagement to obtain reasonable assurance as the basis for a positive form of expression of 
+the practitioner’s conclusion. The level of assurance engagement risk is higher in a limited assurance engagement than 
+in a reasonable assurance engagement because of the different nature, tim ing or extent of evidence -gathering 
+procedures” (ISAE 3000, 2013).  
+ 
+4 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+2. Assessment Statement
+The proceeds from the Bond will be allocated to reimbursements and future expenses 
+related to the implementation of Gravier Wind Complex and Acauã Wind Complex. The 
+use of proceeds is set in the Bond’s indenture.  
+ 
+Based on the reasonable assessment procedures conducted and evidence obtained, in 
+our opinion, the Second Climate Bond Issuance of Aliança Geração de Energia S.A in 
+2022 is in conformance, in all material respects, with the Wind Sector Eligibility Criteria 
+of the Climate Bonds Initiative Version 1.2 and applicable sector -specific technical 
+criteria (Version September 2020), and with the Climate Bonds Standard Version 3.0.  
+The Issuer is committed to reviewing the bond for up to 24 months to confirm compliance 
+with the Climate Bonds Standard. 
+ 
+ 
+  
+______________ 
+Camila Toigo 
+Practitioner 
+ctoigo@sitawi.net 
+ 
+_______________ 
+Cristóvão Alves 
+Practitioner 
+Leader 
+calves@sitawi.net 
+ 
+______________ 
+Gustavo Pimentel 
+Leader Responsible 
+for Quality 
+gpimentel@sitawi.net                  
+ 
+ 
+ 
+Practitioner Team 
+Rio de Janeiro, March 21st, 2022
+
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 5 
+ 
+3. Summary of Findings 
+Upon guidance from the Climate Bond Standards, Version 3.0, SITAWI assessed the 
+Bond issuance and the Nominated Projects & Assets, with the following subdivisions: 
+ 
+1. Pre-Issuance Certification Checklist Assessment 
+2. Wind Sector Eligibility Criteria of the Climate Bonds Standard Version 1.2  
+(Version September 2020)4 Assessment 
+ 
+ 
+3.1. Pre-Issuance Certification Checklist Assessment 
+ 
+The following assessment is based on the Part A of the Climate Bonds Standards 
+Version 3.0, namely the Pre-Issuance Requirements. It is organized according to the 
+items listed in the Pre-Issuance Certification Checklist5 provided by CBI. Climate Bonds 
+Standard Requirements are listed, followed by each requirement of factual findings. Each 
+of the four sections ( 1. Use of  Proceeds; 2. Process for Evaluation and Selection of 
+Projects and Assets; 3. Management of Proceeds; 4. Reporting Prior To Issuance) 
+contains SITAWI’s conclusions. 
+ 
+1. Use of Proceeds 
+ 
+1.1 The Issuer shall document the Nominated Projects & Assets which are proposed 
+to be associated with the Bond and which have been assessed as likely to be 
+Eligible Projects & Assets. The Issuer shall establish a list of Nominated Projects 
+& Assets which can be kept up to date during the term of the Bond. 
+ 
+The Bond’s indenture indicates that the proceeds will be allocated to the costs related 
+to the construction of two Wind Complex es (indenture’s clause 3.8.1). The covered 
+expenses include future expenses (about 56%) and reimbursements  (about 44%) 
+related to the implementation  of Gravier Wind Complex  in Icapuí municipality, Ceará 
+State, and Acauã Wind Complex  in Santana dos Matos, Lagoa Nova, Tenente 
+Laurentino and São Vicente municipalities, Rio Grande do Norte State (Brazil). None of 
+the facilities has/will have >15% fossil fuel back up.  The proceeds will also finance a 
+wholly dedicated transmission infrastructure for Acauã Wind Complex, whose costs are 
+accounted for in the project’s total CAPEX. 
+ 
+The lookback period for the refinancing share is 24 months. The remaining proceeds will 
+be allocated to the projects within 24 months.  The Gravier Wind Complex is in the final 
+stage of construction and its operations are due to occur after April 2022. The Acauã 
+Wind Complex is in the initial phase of construction and its operations are due to occur 
+after March 2023. 
+ 
+1.2 The expected Net Proceeds of the Bond shall be no greater than the Issuer’s total 
+investment exposure to the proposed Nominated Projects & Assets, or the 
+relevant proportion of the total Market Value of the proposed Nominated Projects 
+& Assets which are owned or funded by the Issuer. 
+ 
+The financial instrument is a non -convertible bond, which will finance and reimburse  
+expenses related to the Nominated Projects & Ass ets. The issuance value is BRL 
+240,000,000.00.  
+ 
+The expected cost of the Gravier project is BRL 429,000,000.00, and the expected cost 
+of the Acauã project is BRL 732,000,000.00, which include the dedicated transmission 
+infrastructure’s coast. The climate issuance will represent about 44% of the total costs 
+                                                
+4 https://www.climatebonds.net/files/files/Sector%20Criteria%20-%20Wind%20v1_2_28September2020.pdf  
+5 https://www.climatebonds.net/files/files/pre-issuance-certification-checklist-CBS-v3.docx  
+ 
+6 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+of the Gravier project and about 6% of the Acauã project. Therefore, the net proceeds 
+of the bond are smaller than the project total CAPEX. 
+ 
+ 
+1.3 Nominated Projects & Assets shall not be nominated to other Certified Climate 
+Bonds, Certified Climate Loans, Certified Climate Debt Instruments, green bonds, 
+green loans, or other labelled instruments (such as social bonds or SDG bonds) 
+unless it is demonstrated by the Issuer that: 
+ 
+1.3.1 Distinct portions of the Nominated Projects & Assets are being funded by 
+different Certified Climate Bonds, Certified Climate Loans, Certified Climate 
+Debt Instruments, green bond, green loans or other labelled instruments or;  
+ 
+1.3.2 The existing Certified Climate Bond, Certified Climate Loan or Certified Climate 
+Debt Instrument is being refinanced via another Certified Climate Bond, 
+Certified Climate Loan or Certified Climate Debt Instrument. 
+ 
+In 2021, Gravier Wind Complex have been nominated for a green/climate bond. The 
+proceeds of the first issuance represented about 51% of the CAPEX costs, and the 
+proceeds of the second issuance will represent about 44% of it.  
+ 
+As presented below, the sum of the proceeds derived from the two  climate bonds is 
+less than the project’s total value. 
+ 
+ 
+Table 1 – Estimated CAPEX vs. Climate bonds proceeds 
+Source Gravier Wind Complex 
+1st Climate Bond Issuance BRL 220,000,000.00 
+2nd Climate 
+Bond 
+Issuance 
+Reimbursement* BRL 100,945,423.92 
+Future 
+expenses* BRL 89,054,576.08 
+Equity BRL 19,000,000.00 
+Total (CAPEX) BRL 429,000,000.00 
+ 
+*The breakdown between reimbursement and future values is estimative and can change according to the 
+project cash flow and the date of debentures’ sale off.   
+ 
+The same issuance has been subject to a second-party opinion provided by SITAWI. 
+ 
+ 
+In our opinion, the Bond is in conformance, in all material respects, with the ‘Use of 
+Proceeds’ portion of the Pre-Issuance Certification Checklist. 
+ 
+ 
+2. Process for Evaluation and Selection of Projects and Assets 
+ 
+2.1 The Issuer shall establish, document and maintain a decision -making process 
+which it uses to determine the eligibility of the Nominated Projects & Assets. The 
+decision-making process shall include, without limitation: 
+2.1.1 A statement on the climate-related objectives of the Bond. 
+ 
+According to the Issuer, the climate -related objectives of the bond are the reduction of 
+greenhouse gas (GHG) emissions, through the increase of renewable energy in the 
+Brazilian power grid. Table 2 describes the nominated projects , the installed capacity 
+and gross annual power generation, according to Gravier and Acauã Wind Complexes’ 
+Consolidated Reports on Power Generation (“Estudo de Vento” in Portuguese): 
+ 
+  
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 7 
+ 
+Table 2 – Gravier and Acauã Benefits 
+Project Installed 
+Capacity (MW) 
+Estimated Gross 
+Annual Generation 
+(GWh/yr) 
+Estimated GHG 
+emissions avoided 
+(tCO2e/yr)6 
+Gravier Wind 
+Complex 71.4 370.9 46,881.76 
+Acauã Wind Complex 109.2 597.7 75,549.28 
+ 
+2.1.2 How the climate -related objectives of the Bond are positioned within the 
+context of the Issuer’s overarching objectives, strategy, policy and/or 
+processes relating to environmental sustainability. 
+ 
+The Issuer’s social object as defined by its bylaws  is the economic and commercial 
+exploitation of energy generation systems,  consulting services and participation in 
+other electric power generation companies or ventures . Currently, the company 
+operates only renewable energy projects in Brazil7. 
+ 
+The Issuer has a formalized Environmental Policy that includes guidelines and 
+commitment to environmental issues, which is also applied to its subsidiaries, 
+controlled companies and/or consortia.  The environmental  management of the 
+Nominated Projects & Assets is held by Aliança’s dedicated team. Moreover, Aliança 
+has an internal  Environmental Legislation Contr ol and Assessment System, which 
+provides registers with the status of environmental licenses, authorizations and 
+conditions. 
+ 
+Considering the aforementioned points, the climate -related objectives of the Bond  
+are aligned with its core business and strategy. 
+ 
+2.1.3 Issuer’s rationale for issuing the Bond. 
+ 
+The issuer’s rationale for issuing the Bond is to optimize the project’s capital structure, 
+matching the long term and stable revenues with its liabilities. 
+ 
+2.1.4 A process to determine whether the Nominated Projects & Assets meet the 
+eligibility requirements specified in Part C  (Clauses 9 and 10 ) of the Climate 
+Bonds Standard. 
+ 
+The Bond’s indenture states that the issuance’s proceeds will be directed to the 
+Nominated Projects & Assets, which are wind farms. Therefore,  all Nominated 
+Projects meet the CBI eligibility criteria and fall into the investment areas below.  
+ 
+9. Climate Bonds Taxonomy:  The Nominated Projects & Assets fall into the “Wind” 
+under “Energy” investment area as included in the Climate Bonds Taxonomy.  
+10. Sector Eligibility Criteria : The Nominated Projects & Assets meet the specific 
+eligibility requirements provided in the Wind Sector Eligibility Criteria document (see 
+section 3.2). 
+ 
+2.2 Issuer should include under Clause 2.1 further aspects of the decisio n-making 
+process, including: 
+2.2.1 Related eligibility criteria, including, if applicable, exclusion criteria or any 
+other process, applied to identify and manage potentially material 
+environmental, social or governance risks associated with the Nominated 
+Projects & Assets. 
+ 
+As the eligible projects and assets are already defined prior to the issuance, there is 
+no mention of the decision-making process. 
+ 
+                                                
+6 The avoided GHG emissions was estimated by multiplying the GHG emission factor of the Brazilian power grid (0.1264 
+tCO2/MWh) by the gross annual power generation. The GHG emission factor was provided by the Ministry of Science, 
+Technology, Innovations and Communications. 
+7 Available at: http://ri.aliancaenergia.com.br/conteudo_pt.asp?idioma=0&conta=28&tipo=55343  
+ 
+8 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+The Issuer has stated  there is  an internal process and dedicated employee to 
+manage environmental and social  risks. To demonstrate the adequate internal 
+capacity to ensure that the environmental benefits of projects can be achieved, 
+Aliança has relied on an EMS inspired by the requirements of the ISO 14001:2015 
+standard. 
+ 
+Is important to highlight that t he Nomin ated Projects & Assets  also have their 
+environmental license in force. Besides, Bond’s indenture points out the obligation to 
+follow environmental and social legislation. Some of the issues explicitly cited are the 
+prohibition of slavery -like labour, child labour, race and gender discrimination . In 
+addition, environmental protection and health and safety aspects are also specified.  
+The indenture sets an early termination clause in case of non-compliance. 
+ 
+SITAWI has conducted an in -depth assessment o n the environmental and social 
+management aspect of the eligible projects and assets. It has been concluded that 
+the projects have a comfortable E&S management system in place. 
+ 
+2.2.2 Green standards or certifications referenced in the selection of Nominated 
+Projects & Assets. 
+ 
+The projects do not have any green standards or certifications.  
+ 
+2.2.3 The issuer shall assess that all proposed Nominated Projects & Assets to be 
+associated with the Bond meet the documented objectives as stated under 
+Clause 2.1.1 and are likely to conform to the relevant eligibility requirements 
+under Part C (Clauses 9 and 10) of the Climate Bonds Standard. 
+ 
+9. Climate Bonds Taxonomy : All of t he Nominated Projects & Assets fall into the 
+“Wind” under “Energy” investment area as included in the Climate Bonds Taxonomy. 
+10. Sector Eligibility Criteria:  The Nominated Projects & Assets meet the specific 
+eligibility requirements provided in the Wind Sector Eligibility Criteria document (see 
+section 3.2). 
+ 
+The Bond’s indenture states that the issuance’s proceeds are exclusively for the 
+Nominated Projects & Assets,  which comply with CBI’s clauses 9 and 10.  None of 
+the facilities has/will have >15% fossil fuel back up. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Management of Proceeds 
+ 
+3.1 The systems, policies, and processes to be used for management of the Net 
+Proceeds shall be documented by the Issuer and disclosed to the Verifier, and 
+shall include arrangements for the following activities: 
+ 
+3.1.1 The Net Proceeds of the Bond can be credited to a sub -account, moved to a 
+sub-portfolio, or otherwise tracked by the Issuer in an appropriate manner and 
+documented. 
+ 
+The nominated projects and assets are operated by special purpose vehicles (SPV), 
+separate legal entities for the projects’ development.  The remaining portion  of the 
+proceeds will be held in the Issuer’s central account and transferred to its segregated 
+subaccounts of the SPV, which enables the proper tracking of the proceeds.  
+ 
+Early termination clause s have been included in the debenture's indenture to avoid 
+changes in the scope of the projects or the use of proceeds for another purpose than 
+the development of wind power projects. 
+ 
+In our opinion, the Issuance is in conformance, in all material respects, with the 
+‘Process for Evaluation and Selection of Projects and Assets’ portion of the Pre -
+Issuance Certification Checklist. 
+ 
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 9 
+ 
+The bond falls under the Brazilian category of “incentivized infrastructure bond” since 
+the project to be financed is classified as a priority project by the Brazilian Ministry of 
+Mines and Energy. Thus, the bond must also comply with the provisions of Law 
+12,431/11, in order not to lose the special tax treatment benefits. 
+ 
+The proceeds will be fully allocated within 24 months after the issuance.  
+ 
+3.1.2 The balance of unallocated Net Proceeds can be managed as per the 
+requirements in Clause 7.3. 
+ 
+According to the Issuer’s internal investment policy , whenever the proceeds are not 
+immediately destined for future expenses of the Gravier and Acauã Wind Complexes, 
+they will be allocated in  cash and high-liquidity low-risk instruments, such as fixed -
+income instruments issued by financial institutions.  As the funds will finance the 
+portfolio of financial institutions as a whole, the risk of contamination in these cash 
+instruments is lower. 
+ 
+3.1.3 The earmarking process can be used to manage and account for funding to the 
+Nominated Projects & Assets and enables es timation of the share of the Net 
+Proceeds being used for financing and refinancing. 
+ 
+According to the Issuer, about 44% of the proceeds will be allocated to reimburse 
+expenses related to the implementation of Gravier and Acauã Wind Complexes. The 
+remaining portion of the proceeds, about 56%, will be held in the Issuer’s central 
+account and transferred to its segregated subaccounts and financial statements of 
+the SPV from up to 24 months. 
+ 
+ 
+ In our opinion, the Bond is in conformance, in all mat erial respects, with the 
+‘Management of Proceeds’ portion of the Pre-Issuance Certification Checklist. 
+ 
+ 
+4. Reporting Prior To Issuance 
+ 
+4.1 The Issuer shall prepare a Green Bond Framework and make it publicly available 
+prior to Issuance or at the time of Issuance. The Green Bond Framework shall 
+include, without limitation:  
+4.1.1 Confirmation that the Bonds issued under the Green Bond Framework are 
+aligned with the Climate Bonds Standard. This may include statements of 
+alignment with other applicable standards, such as the EU Green Bond 
+Standard, the ASEAN Green Bond Standard, Chinese domestic regulations, 
+Japanese Green Bond Guidelines, etc.;  
+ 
+The Green Bond Framework declares alignment with Climate Bond Standard version 
+3.0. and the Green Bond Principles, by the International Capital markets Association 
+(ICMA). 
+ 
+4.1.2 A summary of the expected use of proceeds, as defined under Clause 1.1, and 
+the expected contribution of the relevant sectors or sub -sectors to the rapid 
+transition required to achieve the goals of the Paris Climate Agreement;  
+ 
+According to the Framework, the Green Bond will be allocated for future payments 
+and reimbursement of costs related to the implementation of the Gravier and Acauã 
+Project, wind farms located in Ceará  and the Rio Grande do Norte (Brazil) . The 
+eligible projects will increase in 180.6 MW the installed capacity of renewable energy 
+in the Brazilian power mix and, consequently, the reduction of greenhouse gas (GHG) 
+emissions. 
+ 
+4.1.3  A description of the decision -making process, as defined under Clause 2.1, 
+with particular reference to the requirements in Clause 2.1.2;  
+ 
+ 
+10 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+Since the projects that will receive the proceeds from the bond are already defined, 
+there is no mention of the decision-making process after the issuance. According to 
+the Framework , before receiving investments, p rojects developed by Aliança 
+Geração de Energia S.A  are submitted for budget approval, supported by the 
+project’s financial analysis and alignment with the company’s strategy, and approved 
+by the Board of Officers and subsequently by the  Board of Directors and  
+Shareholders’ Meeting. Aliança has an adequate internal capacity to ensure that the 
+project’s e nvironmental benefits can be achieved, with an environmental 
+management system aligned with the requirements of the ISO 14001:2015 standard. 
+Additionally, Aliança has an Operations Officer, which controls all processes related 
+to the operations of the Gravier and Acauã Project plant. 
+ 
+4.1.4 Information on the methodology and assumptions to be used for: confirming, 
+where required by relevant Sector Eligibility Criteria, the characteristics or 
+performance of Nominated Projects & Assets required to conform to the 
+relevant eligibility requirement s under Part C of the Climate Bonds Standard; 
+and any other additional impact metrics that the issuer will define.  
+ 
+The Framework declares that the projects fit into CBI Taxonomy for wind energy. The 
+Gravier and Acauã Project fit into the CBI Taxonomy as a wind energy generation 
+facility (onshore wind farm).  
+ 
+4.1.5 A summary of the approach to the management of unallocated Net Proceeds 
+in accordance with Clause 3.1; 
+ 
+The Framework states that the proceeds will be temporarily allocated in low-risk high 
+liquidity fixed income instruments issued by the financial institution. The allocation of 
+proceeds used will be annually reviewed by an external audit. 
+ 
+4.1.6 The intended approach to providing Update Reports to reaffirm conformance 
+with the Climate Bonds Standard while the Bond remains outstanding;  
+ 
+The Framework states that the issuer will provide information regarding the allocation 
+of proceeds and its environmental impacts until the full allocation. The financial and 
+environmental indicators will be published in the Sustainability Report, which will be 
+available on the company ’s website. This report will disclose information about the 
+amount of renewable energy generated annually (MWh) by the project and the 
+respective GHG emission avoided (MtCO2e). 
+ 
+4.1.7 The list of proposed Nominated Projects & Assets associated with the Bond 
+and the investment areas, as provided in Clause 9.1, into which the Nominated 
+Projects & Assets fall. Where there are limits on the amount of detail that can 
+be made available about specific Nominated Projects & Assets, information 
+shall be presented on the investment areas which the Nominated Projects & 
+Assets fall into, as  provided in Clause 9.1, and the Issuer shall provide an 
+explanation of why detail on Nominated Projects & Assets is limited; 15 Climate 
+Bonds Standard Version 3.0  
+ 
+The Framework specifies that the Bond will finance and reimburse costs, exclusively, 
+related to CAPEX for the Gravier and Acauã Project implementation. The project was 
+approved as a priority project by the Ministry of Mines and Energy, through Ordinance 
+No. 332/SPE, for the purposes of art. 2 of Law No. 12,431. 
+ 
+4.1.8 Where a proportion of the Net Proceeds are used for refinancing, an estimate 
+of the share of the Net Proceeds used for financing and refinancing, and the 
+relevant Nominated Projects & Assets or investment areas which may be 
+refinanced. This may also include the expected look-back period for refinanced 
+Nominated Projects & Assets. 
+ 
+The framework informs that the proportion of reimbursement is about 44% and the 
+remaining 56% for future expenses. The Issuer informs that the proceeds will be 
+allocated up to 24 months after the Issuance.  
+ 
+ 
+ 
+ ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT | 11 
+ 
+4.2 The Issuer shall include in the Disclosure Documentation: 
+4.2.1 Tthe investment areas, as provided in Clause 9.1, into which the Nominated 
+Projects & Assets fall. 
+ 
+The Bond’s indenture indicated that the Nominated Projects & Assets fall in the 'Wind' 
+classification under the 'Energy' head of the Climate Bonds Taxonomy  (clause 
+4.16.1). 
+ 
+4.2.2 The intended types of temporary investment instruments for the management 
+of unallocated Net Proceeds in accordance with Clause 7.3. 
+ 
+In accordance with a declared commitment duly signed by the responsible managers 
+of the Aliança’s Finance and Fundraising department,  whenever the proceeds are 
+not immediately destined for reimbursements of expenses of the wind farms, they will 
+be allocate d in high-liquidity low -risk fixed-income instruments issued by financial 
+institutions, complying with Alianç a’s financial investment policy . As the funds will 
+finance the portfolio of financial institutions as a whole, the risk of contamination in 
+these cash instruments is lower. 
+ 
+4.2.3 The Verifier engaged by the Issuer for the mandatory verification engagements. 
+ 
+The Bond’s indenture mentions an accredited verifier was engaged by the Issuer for 
+the mandatory verification engagements. 
+ 
+4.2.4 The intended approach to  providing Update Reports to reaffirm conformance 
+with the Climate Bonds Standard while the Bond remains outstanding, 
+including the location of the published documents. 
+ 
+The Debenture’s indenture includes the intended approach to providing Update 
+Reports to reaffirm conformance with the Climate Bonds Standard while the Bond 
+remains outstanding. The Update Reports will be published on the Issuer’s website  
+and sent to its fiduciary agent. 
+ 
+4.2.5 The CBI Disclaimer provided in the Certification Agreement. 
+ 
+The Bond’s indenture includes the CBI Disclaimer provided in the Certification 
+Agreement. 
+ 
+ 
+ In our opinion, the Bond is in conformance, in all material respects, with the 
+‘Reporting Prior to Issuance’ portion of the Pre-Issuance Certification Checklist. 
+ 
+ 
+3.2. Climate Bonds Initiative’s taxonomy and Wind Sector Eligibility 
+Criteria of the Climate Bonds Standard Version 1.2 (Version September 
+2020) Assessment 
+ 
+The following assessment is based on the Part C of the Climate Bonds Standards Version 3.0, 
+namely the Eligibility of Projects & Assets. It is organized according to the items listed in the Wind 
+Energy Taxonomy and its respective sectorial criteria under the Climate Bonds Standard provided 
+by CBI. The Sectoral Criteria  Requirements are listed, followed by each requirement’s factual 
+findings. The section (3.2) is concluded with SITAWI’s assessment conclusion.  
+ 
+Mitigation Component: Wind energy generation shall be projects & assets that operate or 
+are under construction to operating in one or more of the following activities:  
+ 
+1) The development, construction and operation of wind farms 
+2) Operational production or manufacturing facilities wholly dedicated to wind energy 
+development  
+3) Wholly dedicated transmission infrastructure for wind farms.  
+ 
+12 | ASSESSMENT REPORT – PRE-ISSUANCE REASONABLE ASSESSMENT ENGAGEMENT  
+ 
+ 
+The Nominated Projects fall under  the activity 1, 2 and 3 above: the development, construction 
+and operation of wind farms , dedicated transmission lines and dedicated operational facilities . 
+None of the facilities has/will have >15% fossil fuel back up. 
+ 
+ 
+ 
+ 
+ 
+4. Supporting Documents 
+• Bond’s indenture; 
+• Second Party Opinion Report; 
+• Aliança’s Green Bonds Framework. 
+• Consolidated Reports on Power Generation; 
+• Interview with the Issuer;  
+• Declaration of temporary investments of the issuance proceeds 
+• Issuer’s institutional presentation 
+• Issuer’s website 
+In our opinion, the bond is in conformance, in all material respects, with the Wind Sectoral 
+Criteria under the Climate Bonds Standard (Version September 2020).

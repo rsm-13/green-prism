@@ -1,0 +1,1447 @@
+VERIFICATION REPORT FOR PRE-ISSUANCE CERTIFICATION 
+For the Green Bond of the Development Bank of Kazakhstan
+ 
+Verification report for the pre-issuance certification 
+Green Bond of the Development Bank of Kazakhstan 
+1 
+ 
+Assessment Summary  
+  
+ 
+AIFC Green Finance Centre Ltd. (GFC), based on the limited assur ance procedures 
+conducted and evidence obtained, has provided an assuranc e opinion that nothing 
+has come to its attention that causes GFC to believe that, in all material respects the 
+Development Bank of Kazakhstan JSC’s (DBK, Bank) Green Bond seeking certification 
+is not in conformance with the Climate Bonds Standard Versio n 4.0 and the sector-
+specific Wind and Solar Sector Eligibility Criteria. This assurance opinion is based on 
+the following:  
+Evaluation Date: 15 December, 2023 
+Issuer Location: Astana, Kazakhstan 
+For Inquiries Contact the GFC 
+verification team: 
+ 
+Aigul Kussaliyeva, Head of External 
+review Assignments, Advisor, GFC 
+A.kussaliyeva@aifc.kz 
+ 
+Milana Takhanova, Senior 
+Economist, GFC 
+M.Takhanova@aifc.kz 
+ 
+UTILISATION OF PROCEEDS. The Nominated Eligible Assets and Projects for the use 
+of proceeds: 
+• Construction of a 15 MW Wind power plant Jasil Jel Energy p roject in Akmola 
+region, Kazakhstan,  
+• Construction of a 153 MW Wind power plant Khromtau projec t, Aktobe region, 
+Kazakhstan 
+• Construction of a 50 MW Solar power station Balkhash, Ka raganda region, 
+Kazakhstan 
+ 
+– are aligned with the Climate Bonds Standard Version 4.0 and  the sector-specific 
+Wind and Solar Sector Eligibility Criteria. GFC considers that investments in the eligible 
+Nominated projects will lead to positive environmental impacts and help in reducing 
+Kazakhstan’s contribution to climate change. 
+ 
+PROJECT EVALUATION AND SELECTION. DBK has established a process for green 
+project selection and evaluation carried out in accordance  with the Bank’s internal 
+regulations on review, financing, monitoring and implementat ion of investment 
+projects, and its Green Bond Framework, with responsible structural units submitting 
+to the Credit Committee materials on the compliance or no n-compliance of an 
+investment project with green project categories and criteria, including cases of bonds 
+seeking certification. GFC considers that the project selection process is aligned with 
+the Climate Bonds Standard Version 4.0 in terms of establi shing, documenting, and 
+maintaining a decision-making process to determine the eligibility of the Nominated 
+projects and assets. 
+ 
+MANAGEMENT OF PROCEEDS . Allocation of DBK’s Green Bond proceeds is 
+accounted for through a special off-system sub-account "Green Bonds" (in Excel) for 
+separate accounting and control of Green Bond use of procee ds. The Bank has 
+identified a structural unit responsible for organizing, ensuring, and implementing an 
+effective Green Bond management process to account for the sub-account, as well as 
+to maintain a Registry of green projects tracking projects financed and / or refinanced 
+with green bond proceeds. GFC considers that the management  of proceeds is 
+aligned with the Climate Bonds Standard Version 4.0 in terms of tracking of proceeds, 
+Managing unallocated proceeds, Earmarking funds to Nominated projects and assets, 
+as well as documenting and disclosing the related processes to the verifier. 
+ 
+REPORTING. The Issuer adopted a Green Bond Framework and made it available prior 
+to issuance. According to green bond disclosure requirement s in the Green Bond 
+Framework, the Bank intends to provide and keep publicly avai lable annual updated 
+reports on issued Green Bonds, including certified bonds, from the date of issue until 
+full repayment and in case of any significant changes, covering  the report on the 
+allocation of proceeds and on the environmental impact of  each project. The 
+nominated project identified for the green bond seeking certification shall be 
+disclosed in the Bond Prospectus and the pre-issuance Assurance  report. GFC 
+considers that the reporting processes are aligned with the Climate Bonds Standard 
+Version 4.0 in terms of disclosing Nominated Projects inv ested in, the intended 
+approach to providing update reports to reaffirm confor mance with the Green Bond 
+Framework, as well as external review aspects. 
+  
+
+ 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+2 
+ 
+ 
+Table of Contents 
+2. Scope .................................................. ................................................... ............................................... 3 
+3. Subject matter and criteria .................................................. ................................................... .............. 4 
+4. Work performed .................................................. ................................................... .............................. 4 
+5. Responsibility of Issuer .................................................. ................................................... .................... 5 
+6. Assurance opinion .................................................. ................................................... ........................... 5 
+7. GFC Disclaimer .................................................. ................................................... ................................. 5 
+8. About GFC................................................... ................................................... ....................................... 6 
+Appendix II. List of Documents Reviewed .......................................................................... .............................18 
+Appendix III. Assurance Procedures and Findings ...................................................................... .....................19 
+Climate Bonds Initiative Disclaimer ........................................................................... .....................................20 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+3 
+ 
+2. Scope 
+ 
+Issuing Entity Development Bank of Kazakhstan JSC 
+Issuer Group (if different from above)  
+Date of Green Bond Framework of Issuer Adopted on February 1st, 2022 (#5/22) by Management 
+Board, as amended on November 21st, 2022, (#85/23) 
+Approved Verifier Firm AIFC Green Finance Centre Ltd. (GFC) 
+Signatory of the audit opinion Nursultan Serikbay, CEO 
+Email address in relation to this report Greenfinance@aifc.kz; M.Takhanova@aifc.kz 
+Debt Instrument Type(s) bond 
+Debt Instrument(s)/Program Name Green Bond 
+Refinancing/Financing new projects 100 % of allocation of proceeds to financing new projects 
+Expected period over which proceeds will be 
+allocated  
+1 year 
+Expected Size of Debt Issuance (if known) 15 mln USD 
+Expected Debt Issuance Date (if known) 20-22 December 2023 
+Sector Criteria governing the Project/Assets to 
+be financed 
+Wind Sector Eligibility Criteria of the Climate Bonds 
+Standard & Certification Scheme 
+Solar Sector Eligibility Criteria of the Climate Bonds 
+Standard 
+Adaptation & Resilience Requirements N/A 
+Project/Assets to be financed Bank loan transactions to finance:  
+1) Construction of a Wind power plant Jasil Jel 
+Energy with a capacity of 15 MW in Akmola 
+region, Kazakhstan. The project in question is part 
+of a larger mid-term wind power project titled 
+“Modernization of a 220.95 MW wind farm in the 
+Akmola region” consisting of 5 different wind 
+power plants (Borey wind farm 100 MW, 
+EnergoTrust wind farm 50 MW, Sofievskaya wind 
+farm 40 MW, Arkalykskaya wind farm 15 MW and 
+Jasil Jel Energy wind farm 15 MW) 
+ 
+2) Construction and commissioning of a Wind power 
+development project with a total installed capacity 
+of about 153 MW, near the city of Khromtau, 
+Aktobe region, Kazakhstan (Khromtau Wind Power 
+Plant) 
+ 
+3) Construction of a stage 2 solar power station 
+Balkhash 50 MW near town Balkhash, Karaganda 
+region (2nd stage of an aggregate 100 MW 
+Balkhash SPP) 
+Assurance Opinion Limited 
+Assurance Standard ISAE3000  
+Period over which the verification work was 
+conducted 
+1 month 
+Date of Issuance of Verification Report December 15th, 2023 
+ 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+4 
+ 
+AIFC Green Finance Centre Ltd. (hereinafter referred to as GFC) was engaged by the Dev elopment Bank of 
+Kazakhstan JSC (hereinafter referred to as DBK, or Bank) to undertake a limited assuran ce engagement, in 
+relation to a 15 MW Wind power development project in Akmola regi on, Kazakhstan, a 153 MW Wind power 
+development project in Khromtau, Aktobe region, Kazakhstan, and a Balkhash 50 MW solar power station near 
+town Balkhash, Karaganda, Kazakhstan, and the corresponding Green Bond seeking certific ation. This includes 
+confirming the eligibility of the Green Bond and the 2 WPP and 1 SPP development projects against the Climate 
+Bonds Initiative Standard Version 4.0 Pre-issuance Requirements and the t echnical requirements of the 
+applicable Sector Criteria. 
+ 
+ 
+3. Subject matter and criteria 
+ 
+• The subject matter for this limited assurance engagement includes The Climate Bonds Standard Version 
+4.0, and the relevant sector criteria as follows: 
+ 
+Detailed list of Project/Assets to be financed (1) Sector Criteria Document; (2) Page 
+number(s) and paragraphs/references used to 
+confirm the project/asset eligibility. 
+Bank loan transactions to finance: 
+1) Construction of a Wind power plant Jasil Jel 
+Energy with a capacity of 15 MW in Akmola 
+region. The project in question is part of a 
+larger mid-term wind power project titled 
+“Modernization of a 220.95 MW wind farm 
+in the Akmola region” consisting of 5 
+different wind power plants (Borey wind 
+farm 100 MW, EnergoTrust wind farm 50 
+MW, Sofievskaya wind farm 40 MW, 
+Arkalykskaya wind farm 15 MW and Jasil Jel 
+Energy wind farm 15 MW) 
+ 
+2) Construction and commissioning of a Wind 
+power development project with a total 
+installed capacity of about 153 MW, near 
+the city of Khromtau, Aktobe region 
+(Khromtau Wind Power Plant) 
+(1) The Wind Sector Eligibility Criteria (Rev. 1.3 as of 13 
+April 2023; (2) Page 5, “Onshore wind energy 
+generation facilities” - Automatically eligible 
+Bank loan transaction to finance: 
+3) Construction of a stage 2 solar power station 
+Balkhash 50 MW near town Balkhash, 
+Karaganda region (2nd stage of an aggregate 
+100 MW Balkhash SPP) 
+ 
+(1) The Solar Sector Eligibility Criteria (Rev 2.3 as of 13 
+April 2023; (2) Page 5, “Onshore solar energy 
+generation facilities” – Eligible if a minimum of 85% of 
+electricity is generated from solar energy resources
+ 
+ 
+ 
+4. Work performed 
+ 
+The assurance procedures performed included, but were not limited to: 
+• Assessing the Green Bond Framework against the Climate Bonds Standard Version 4.0 
+• Assessing technical information on the two wind and 1 solar power d evelopment projects in consideration 
+(a) 15 MW Jasil Jel Energy Wind Power Plant, b) 153 MW Khromtau Wind Power Plant; c) 50 MW Balkhash 
+ 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+5 
+ 
+Solar Power Station, Karaganda region,  against the technical requirements of the Wind and Solar Sector 
+Eligibility Criteria   
+• Documentation reviewed supporting assertions made in the Subject Matter (provide details in Appendix) 
+• Interviews with Issuer representatives, experts  
+• Seeking management representation on key assertions. 
+ 
+ 
+5. Responsibility of Issuer 
+ 
+The management of GFC is responsible for the preparation and fair presentat ion of the Subject Matter. This 
+responsibility includes establishing and maintaining internal cont rols relevant to the preparation and 
+presentation of the Subject Matter that is free from material misstatement,  whether due to fraud or error, 
+selecting and applying appropriate accounting policies and making  reasonable estimates under the current 
+circumstances. 
+  
+ 
+6. Assurance opinion  
+ 
+GFC conducted the pre-issuance verification in accordance with th e International Standard on Assurance 
+Engagements 3000 (Assurance Engagements other than Audits or Reviews  of Historical Information). GFC’s 
+verification approach draws on an understanding of the risks associated with conforming to the Climate Bond 
+Standard Version 4.0 and the controls in place to mitigate these. GFC planned and performed the verification by 
+obtaining evidence and other information and explanations that GFC considers necessary to give assurance that 
+the Debt Instrument meets the requirements of the Climate Bond Standard Version 4.0.  
+ 
+Limited Assurance 
+Based on the limited assurance procedures conducted and evidence obtained,  nothing has come to our 
+attention that causes us to believe that, in all material respects th e Issuer’s Green Bond seeking certification is 
+not in conformance with the Climate Bonds Standard Version 4.0 and the sector-specific Wind and Solar Sector 
+Eligibility Criteria. Procedures performed in a limited assurance engagement vary in nature and timing from, and 
+are less in extent than for, a reasonable assurance engagement. 
+ 
+Our independence and quality control  
+We have complied with the independence and other ethical requir ements of GFC’s Code of Ethics and 
+Professional Conduct based on the Code of Business Ethics and Stand ards of Professional Conduct1 developed 
+by the CFA Institute and the Extended Materials of the Code o f Business Ethics and Standards of Professional 
+Conduct, taking into account the requirements of the Code of Ethics of Professional Accountants that are 
+members of the Association "Chamber of Professional Accountants of  the Republic of Kazakhstan”, which is 
+founded on fundamental principles of integrity, objectivity, professional competence and due care, 
+confidentiality and professional behaviour. 
+GFC applies International Standard for Quality Control 1 (ISQC 1) 2 and accordingly maintains a comprehensive 
+system of quality control including documented policies and  procedures regarding compliance with ethical 
+requirements, professional standards and applicable legal and regulatory requirements. 
+ 
+ 
+7. GFC Disclaimer 
+ 
+1  This statement of adherence to the principles of the CFA Institute Code of Conduct is not verified by the CFA Institute. 
+2 International Standard on Quality Control 1: Quality control for firms that perform audits and reviews of financial 
+statements, and other assurance and related services engagements. This statement of adherence to the principles of the 
+IFAC standard has not been verified 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+7  
+Appendix I. Completed Pre-Issuance Verification Checklist  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+1.1 The Issuer shall document the Nominated 
+Projects & Assets which are proposed to be 
+associated with the Bond and which have been 
+assessed as likely to be Eligible Projects & 
+Assets. The Issuer must establish a list of 
+Nominated Projects & Assets which must be 
+kept up-to-date during the term of the Bond. 
+B,  
+C.1.1.,  
+C.1.4., 
+C.2.1., 
+C.2.5 
+Document 
+review, 
+Interview 
+The proposed green bond (hereinafter referred to as Bond) to be issued by DBK is to finance 3 bank 
+loan transactions associated with the following wind and solar power development projects: 
+• Construction of a Wind power plant Jasil Jel Energy with a capacity of 15 MW in Akmola 
+region. The project in question is part of a larger mid-term wind power project titled 
+“Modernization of a 220.95 MW wind farm in the Akmola region” consisting of 5 different 
+wind power plants (Borey wind farm 100 MW, EnergoTrust wind farm 50 MW, 
+Sofievskaya wind farm 40 MW, Arkalykskaya wind farm 15 MW and Jasil Jel Energy wind 
+farm 15 MW) 
+• Construction and commissioning of a Wind power development project with a total 
+installed capacity of about 153 MW, near the city of Khromtau, Aktobe region (Khromtau 
+Wind Power Plant) 
+• Construction of a second stage Solar power station Balkhash 50 MW near town Balkhash, 
+Karaganda region (2nd stage of an aggregate 100 MW Balkhash SPP)  
+The nominated projects were recommended by DBK's project managers (responsible for initial ESG 
+screening) for inclusion in the list of nominated projects eligi ble for financing through issuance of 
+certified green bonds in accordance with the Green Bond Framework. GFC reviewed these internal 
+recommendations for the inclusion of the projects to the list of nominated projects eligible for 
+financing through issuance of certified green bonds, and also confirmed wi th DBK that for Project 
+#2 (Khromtau Wind Power Plant ) there’s a Credit Committee approval (reviewed by GFC), while 
+Projects #1 (Jasil Jel WPP) and #3 (Balkhash SPP) are undergoing internal bank credit assessment as 
+of the time of report preparation.  
+Thus, the proposed Bond is for new loans and no subsequent use of p roceeds is proposed, the 
+documented decision-making process used is covered by the written do cumentation for the 
+nominated projects. The specific project will be identified in the bond issuance prospectus. 
+DBK issues other green bonds, however the environmental objectives associat ed with the Bond 
+seeking certification have been clearly defined by and limited to the project that complies with the 
+Wind and Solar Energy Technical Criteria of the Climate Bond Standard.  
+Compliant with the requirement 
+1.2 The expected Net Proceeds of the Bond  
+shall be no greater than the Issuer’s total 
+investment exposure to the proposed 
+Nominated Projects & Assets, or the relevant 
+proportion of the total Market Value of the 
+proposed Nominated Projects & Assets which 
+are owned or funded by the Issuer. 
+Credit 
+Committe
+e 
+decisions, 
+A, 
+B 
+ According to DBK’s Green Bond Framework, when issuing green bonds for which the Bank expects 
+to be certified under the CBI Standard, the nominated green projects  eligible for financing and/or 
+refinancing with green bond proceeds are determined in accordance wi th the CBI Technical 
+Eligibility Criteria, taking into account all the requirements of the of the Climate Bond Standard CBI 
+Standard. In particular, the expected net proceeds from the issuance of such green bond will not 
+exceed the Bank's total investment in the nominated green projects or  the Bank's financing share 
+of the total market value of the nominated green projects.   
+As per information obtained from the Issuer, the Green Bonds will be  issued in USD. 
+GFC, through the review of the current eligible project summary, veri fied that DBK’s expected 
+exposure to the nominated projects, i.e the expected aggregate loan amount is USD 187,309,000 in 
+total for all 3 projects (of which at least USD 15,000,000 is the smallest loan transaction), which is 
+greater than the bond issuance value (USD 15,000,000).  
+Overall, in its GBF the Bank declares that 100% of the proceed s from green bonds will be used to 
+finance and / or refinance green projects that have specific environmental  benefits and can be 
+measured by quantitatively and qualitatively. 
+Compliant with the requirement 
+1.3 Nominated Projects & Assets shall not be 
+nominated to other Certified Debt 
+A, 
+C.1.1.,  
+C.1.4., 
+ According to DBK’s Green Bond Framework, when issuing green bonds for which the Bank expects 
+to be certified under the CBI Standard, the nominated green projects cannot be attributed to other 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+8  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+instruments unless it is demonstrated by the 
+Issuer that: 
+C.2.1., 
+C.2
+.5 
+CBI certified green bonds unless the Bank demonstrates that different parts of the nominated green 
+projects are financed by different certified bonds, or the certified bo nds are being refinanced by 
+issuing other certified bonds. 
+The nominated projects have not been earmarked or otherwise nominated  in other Certified 
+Climate Bonds, Certified Climate Loans, Certified Climate Debt Bonds, green bonds, green loans or 
+other labelled Bonds.  
+No previous Climate Bond has been issued in respect to the nominated  project as confirmed with 
+DBK representatives. 
+1.3.1 Distinct portions of the Nominated 
+Projects & Assets are being funded by 
+different Certified Debt instruments; or, 
+ Cross-
+checking Not Applicable.  
+1.3.2 The existing Certified Climate Bond, 
+Certified Climate Loan or Certified Climate Debt 
+Instrument is being refinanced via another 
+Certified Climate Bond, Certified Climate Loan or 
+Certified Climate Debt Instrument 
+  Not Applicable.   
+2.1 The Issuer must establish a document and 
+maintain a decision-making process which it uses 
+to determine the eligibility of the Nominated 
+Projects & Assets. The decision-making process 
+includes, without limitation: 
+A, B, 
+Credit 
+Committ
+ee 
+decision 
+ DBK’s Green Bond Framework sets forth the decision-making process for the selection of nominated 
+projects. DBK issues other bonds, however the environmental objectives associated with the bond 
+seeking certification have been clearly defined in DBK’s internal decision-making documents and are 
+limited to the projects that comply with the applicable Technical Criteria of the Climate Bond 
+Standard. 
+Compliant with the requirement 
+2.1.1 A statement on the environmental or 
+climate-related objectives of the Bond; 
+A, B, 
+C.1.1.,  
+C.1.4., 
+C.2.1., 
+C.2
+.5 
+ DBK has included a statement of the environmental objectives of its  green bond issuances in the 
+Green Bond Framework specifying Renewable Energy (Wind, Solar) in the Use of Proceeds segment. 
+With regard to certified green bond issues the Green Bond Framework stipulates  that nominated 
+green projects eligible for financing and/or refinancing with green bonds seeking certification shall 
+be determined in accordance with the Sector Criteria of the CBI standard, in compliance with all the 
+requirements of the CBS. The environmental objectives of this particular bond seeking certification 
+are clarified in the Issuer’s issuance documentation and internal documentation. 
+Compliant with the requirement 
+2.1.2 How the climate-related objectives of the 
+Bond are positioned within the context of the 
+Issuer’s overarching objectives, strategy, policy 
+and/or processes relating to environmental 
+sustainability; 
+D, E, G, 
+H, I, J, K, 
+L, M, N, 
+O, P, Q, R 
+ The environmental objectives of the Bond were verified to be in li ne with the Sustainable 
+Development Policy. GFC confirmed through document and annual report ing review that DBK is 
+committed to sustainable development and responsible investment, paying significant attention to 
+the impact of its activities on Kazakhstan's economy, society, and the environment, as well as 
+balancing the interests of its stakeholders. The Bank's review and appraisal of investment projects 
+mandatorily consider their compliance with environmental standards. I n January, 2023, the Bank 
+adopted Criteria for assessing investment project applicants for compli ance with environmental, 
+social and corporate governance (ESG) principles that were developed i n accordance with its 
+Memorandum on Credit Policy, the Bank’s Development Strategy for 2014 –2023, Sustainable 
+Development Policy, the Bank's Corporate Governance Code and other i nternal regulations taking 
+into account the requirements of the UN Global Compact, the UN  Principles for Responsible 
+Investment, Sustainable Development Reporting Standards Global Reporting Ini tiative, as well as 
+UN Sustainable Development Goals. DBK’s draft Development Strategy for 2024 –2033 to be 
+officially adopted shortly by end of 2023, states among 3 of its main strategic goals the 
+implementation of ESG principles in the Bank's activities with t he objective of reducing the carbon 
+footprint in the Bank’s loan portfolio, and with an ESG rating indicated as a strategic KPI for the 
+Bank. The Bank's loan portfolio so far consists of 8 projects in the renewable energy sector and 
+energy efficiency, including the 100 MW Astana EXPO-2017 Wind Power Plant; 100 MW Solar Power 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+9  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+Plant in Kapshagay district of Almaty region, etc. 
+On March 29, 2023, the Bank had its debut issue of green bonds at the Kazakhstan Stock Exchange 
+(KASE) in the amount of 10 billion tenge (21,5K US). On April 4, 2023, DBK approved a Roadmap for 
+the implementation of ESG in its activities to demonstrate its commitment to ESG principles both in 
+internal processes and in project financing. The Bank annually publ ishes non-financial reports in 
+accordance with the international standard of the Global Reporting Initiative (GRI) 
+2.1.3 The Issuer’s rationale for issuing the 
+Bond; 
+A, B  DBK has provided a statement of the environmental objectives of the  issuance in the Green Bond 
+Framework for the financing and support of Renewable Energy. This is further clarified in paragraphs 
+of the Green Bond Framework referring to the CBI standard and Bond prospectus. 
+Compliant with the requirement 
+2.1.4 A process to determine whether the 
+Nominated Projects & Assets meet the 
+eligibility requirements specified in the 
+Sustainability Bond Framework. 
+A  DBK has set out in its Green Bond Framework the requirements under which  Nominated Projects 
+may be qualified for inclusion including compliance with Climate Bonds Standard Sector Criteria.  
+Compliant with the requirement 
+2.2 The Issuer should include under Clause 2.1 
+further aspects of the decision-making process, 
+including: 
+A, C.1.1.,  
+C.1.4., 
+C.2.1., 
+C.2.5 
+ DBK’s Green Bond Framework states that the process of green project selection and evaluation is 
+carried out in accordance with the Bank’s internal regulations on review, financing, monitoring and 
+implementation of investment projects, its GBF and other internal acts. The Bank's responsible 
+structural units submit to the Credit Committee materials on the compliance or non-compliance of 
+an investment project with green project categories and criteria, includ ing cases of bonds seeking 
+certification. If necessary, the Bank may engage external consultants for t he selection and 
+evaluation of green projects. The Credit Committee makes a decision o n the compliance or non-
+compliance of the project with green project categories and criteria. 
+Compliant with the requirement 
+2.2.1 related eligibility criteria, including, if 
+applicable, exclusion criteria or any other 
+process, applied to identify and manage 
+potentially material environmental, social or 
+governance risks associated with the Nominated 
+Projects & Assets. 
+A, C.1.1.,  
+C.1.4., 
+C.2.1., 
+C.2.5 
+ DBK, in its Green Bond Framework, has set out the conditions under which Projects and Assets may 
+be included in the issuance of green bonds. As mentioned above, with regard to certified green 
+bond issues the Green Bond Framework stipulates that nominated green projec ts eligible for 
+financing and/or refinancing with green bonds seeking certification a re to be determined in 
+accordance with the Sector Criteria of the CBI standard. 
+For projects that may be eligible for financing from green bond p roceeds, at the stage of 
+preliminary analysis the Bank screens projects for compliance with the categories of green projects 
+specified in the Use of Proceeds Chapter, as well as for compli ance with the Bank's mission and 
+strategic goals, taking into account environmental risks, including as part of the Bank's assessment 
+of investment projects for compliance with the principles of env ironmental, social and corporate 
+governance (ESG). DBK has assessed the proposed nominated project against the requirements 
+under clause 2.1.1 and the relevant sector criteria for compliance with the Climate Bonds Standard. 
+This includes the conclusions of an SPO regarding the nomin ated project provided by GFC 
+previously. 
+Compliant with the requirement 
+2.2.2 any green standards or certifications 
+referenced in the selection of Nominated 
+Projects & Assets. 
+  N/A   
+3.1 The systems, policies and processes to be 
+used for management of the Net Proceeds shall 
+be documented by the Issuer and disclosed to 
+the Verifier, and must include arrangements for 
+the following activities: 
+A, 
+E 
+ DBK has set out the commitments for internal tracking of proceeds in Chapter 6 (Management of 
+Proceeds) of its Green Bond Framework. DBK states: 
+“Allocation of Green Bond proceeds is accounted for through a special off-system sub-account 
+"Green Bonds" (sub-account in Excel) for separate accounting and contro l of the use of proceeds 
+from Green Bonds. The Bank has identified a structural unit responsible for  organizing, ensuring, 
+and implementing an effective Green Bond management process to account for  the sub-account 
+and a structural unit accountable for attracting and developing customer relationships and liaising 
+with financial institutions, as well as to maintain a Registry of green projects (hereinafter referred 
+to as registry) that keeps track of projects financed and / or refinanced with green bond proceeds. 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+10  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+Reports on the sub-account are intended to inform stakeholders, counterpa rties and the public 
+about the intended use of green bond proceeds 
+3.1.1. Tracking of proceeds: The Net Proceeds 
+of the Bond can be credited to a sub-account, 
+moved to a sub-portfolio, or otherwise tracked 
+by the Issuer in an appropriate manner and 
+documented. 
+A, 
+E 
+ As per the Green Bond Framework, DBK uses internal financial reporting system s to track and 
+monitor the earmarking and disbursement of proceeds to the nominated projects. GFC confirmed 
+with DBK that this system is in place having examined DBK’s working spreadsheets on the tracking 
+of sustainable bond issues and allocation to green projects (excel file).  For instance, this tracking 
+via “Special off-system sub-account for allocation accounting “Green Bonds”” is in place with 
+regard to the Bank’s debut green bonds issued at the Kazakhstan Stock Exchange in March, 2023 
+Compliant with the requirement 
+3.1.2 Managing unallocated proceeds: The 
+balance of unallocated Net Proceeds can be 
+managed as per Clause 7.3 (the following 
+requirements: 
+While the debt instrument remains outstanding, 
+the balance of the tracked Net Proceeds must be 
+reduced by amounts allocated to Nominated 
+projects and assets. Pending such allocations to 
+Nominated projects and assets, the balance of 
+unallocated Net Proceeds must be: 
+i. Held in temporary investment instruments 
+that are cash, money-market instruments 
+or other liquid, short-term cash equivalent 
+instruments within a Treasury function; 
+and/or  
+ii. Held in temporary investment instruments 
+that do not relate to greenhouse gas 
+intensive projects or any projects which are 
+inconsistent with the delivery of a low 
+carbon and climate resilient economy; 
+and/or  
+iii. Applied to temporarily reduce the 
+indebtedness of a revolving nature before 
+being redrawn for investments in or 
+disbursements to Nominated projects and 
+assets.) 
+A  As per the Green Bond Framework, the structural unit responsible for organ izing, ensuring, and 
+implementing an efficient Green Bond cash management process monitors the  sub-account 
+balance quarterly to identify deviations in the total amount of  Green Projects and Green Bond 
+proceeds. If, for any reason, the total amount of green projects financed in the sub-account is less 
+than the total amount of outstanding green bonds, the Bank will manage the unallocated amount 
+in accordance with the Bank's Investment Portfolio Management Policy until the amount of green 
+projects financed and / or refinanced equals the green bond amount. 
+Compliant with the requirement 
+3.1.3 Earmarking funds to Nominated Projects & 
+Assets: An earmarking process can be used to 
+manage and account for funding to the 
+Nominated Projects & Assets and enables 
+estimation of the share of the Net Proceeds 
+being used for financing and refinancing. 
+A, 
+B 
+ As per Chapter 6 (Management of Proceeds) of the Green Bond Framework, D BK has committed 
+to earmark 100% Green Bond proceeds raised to green projects included in  the green projects 
+register. Green projects included in the register are to be monito red for compliance or non-
+compliance with the green project criteria and categories, at least once a year. A non-green project 
+is removed from the register and funding for such a project from green b ond proceeds is 
+terminated. If possible, the excluded project is replaced by another green project. 
+As per prospectus DBK has committed to earmark 100% proceeds raised from Green Bond seeking 
+certification to the loan to finance the nominated wind and solar power projects. 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+11  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+3.1.4. Where the prospectus requires the 
+proceeds to be ring-fenced, they must be 
+credited to designated bank accounts that can 
+only fund the specified Nominated projects and 
+assets. The Issuer must track and monitor all 
+payments from the designated bank accounts 
+  N/A  
+4.1 The Issuer must prepare a Green Bond 
+Framework and make it publicly available prior 
+to Issuance or at the time of Issuance. The Green 
+Bond Framework shall include, without 
+limitation: 
+A  DBK has provided a Green Bond Framework for the issuance of Green   Bonds , which is available 
+on its website. 
+Compliant with the requirement 
+4.1.1 Confirmation that the Bonds issued 
+under the Green Bond Framework are 
+aligned with the Climate Bonds Standard. 
+This may include statements of alignment 
+with other applicable standards, such as 
+the 
+EU Green Bond Standard, the ASEAN Green 
+Bond Standard, Chinese domestic regulations, 
+Japanese Green Bond Guidelines, etc.; 
+A  As per the Green Bond Framework, in the case of raising funds throug h green bonds seeking 
+certification under the Climate Bonds Standard, the Bank shall follow the requirements of the CBI 
+Standard in relation to use-of-proceeds instruments in addition to compliance with those provided 
+for in the Green Bond Framework in relation to each of the four core  elements of the ICMA GBP 
+and GLP (LMA/ALSTA/APLMA). 
+Compliant with the requirement 
+4.1.2. A summary of the expected use of 
+proceeds, 
+as defined under Clause 1.1, 
+and the expected contribution of the 
+relevant sectors or sub-sectors to the 
+rapid transition required to achieve the 
+goals of the Paris Climate Agreement.
+ 
+A, 
+B 
+ DBK has set out a summary of potential use of proceeds in Chapter 4 (Use of Proceeds) of the Green 
+Bond Framework. This includes Energy generation from renewable sources: waste, biomass, wind, 
+solar, hydro (including generation, transmission, equipment and produc ts). In the case of the use 
+of proceeds from the particular green bond issue seeking certification the Sector Criteria of the CBI 
+standard for the Wind and Solar Power sector are applied. The wind and solar power projects in 
+question are identified in the bond prospectus with the correspondi ng climate mitigation impact 
+indicators identified  
+Compliant with the requirement 
+4.1.3. A description of the decision-making  
+process
+, as defined under Clause 2.1, 
+with particular reference to the 
+requirements in Clause 2.1.2.
+ 
+A, 
+C.1.1.,  
+C.1.4., 
+C.2.1., 
+C.2
+.5 
+ As per the Chapter 5 (Selection of Eligible Projects and Assets) of the Green Bond Framework, DBK 
+has set out the process for Selection of Eligible Projects, including bond issues seeking certification 
+under CBS. The relevant decision-making process on nominated projec t selection (The wind and 
+solar power projects in question) is documented by the Bank 
+ 
+Compliant with the requirement 
+4.1.4. A description of the Issuer’s processes 
+for managing the proceeds  
+A  As per the Chapter 6 (Management of Proceeds) of the Green Bond Framew ork, DBK has set out 
+the process for the management of proceeds, including issues seeking certification under CBS 
+Compliant with the requirement 
+ 4.1.5. A description of the Issuer’s processes 
+for reporting and external review or 
+verification 
+A, 
+E 
+ The proceeds of the Bond are to be fully and immediately allo cated to finance the loans for the 
+nominated projects through a special off-system sub-account "Green Bonds" (sub-account in Excel) 
+for separate accounting and control of the use of proceeds from Green Bonds, including certified 
+Bonds. The Bank has identified a structural unit responsible for organiz ing, ensuring, and 
+implementing an effective Green Bond management process to account for the sub-account and a 
+structural unit accountable for attracting and developing customer  relationships and liaising with 
+financial institutions, as well as to maintain a Registry of green projects that keeps track of projects 
+financed with green bond proceeds. Reports on the sub-account are in tended to inform 
+stakeholders, counterparties and the public about the intended use of certified green bond 
+proceeds. The Bank ensures that the green bond management process is evalu ated by an 
+independent external consultant 
+Compliant with the requirement 
+4.2. The Green Bond Framework should also 
+include, without limitation: 
+A  DBK has confirmed to GFC with regard to the Reporting chapter of the Green Bond Framework that 
+the requirements of the Climate Bond Standard reporting will be undert aken to maintain 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+12  
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+certification if required. 
+4.2.1. Information on the methodology and 
+assumptions to be used for confirming that the 
+characteristics or performance of the 
+Nominated projects and assets conform to the 
+relevant Sector Criteria, where required, and 
+any other additional impact metrics that the 
+Issuer will define. 
+A, 
+B 
+ DBK has identified the nominated projects as per Appendix II of  this Assurance report, with 
+reference to CBI Sector Eligibility Criteria, and as detailed in P rospectus. The GBF includes a 
+reference to CBI Sector Eligibility Criteria as a basis for project assessment with regard to potential 
+certified green bonds, indicating GHG reduction and RES capacities installed as impact metrics for 
+RES projects  
+Compliant with the requirement 
+4.2.2. A summary of the approach to the 
+management of unallocated Net Proceeds  
+in accordance with Clause 3.1.2; 
+A  The proposed issuance is for 100% financing for bank loans for the nominated wind and solar power 
+projects 
+Compliant with the requirement 
+4.2.3. The intended approach to providing 
+Update Reports to reaffirm conformance with 
+the Green Bond Framework while the  Bond 
+remains outstanding; 
+A  DBK has set out required on green bond disclosures in its Green Bond Framework. The Bank intends 
+to provide and keep publicly available annual updated reports on  issued Green Bonds, including 
+certified bonds, from the date of issue or attraction until full repayment and in case of any 
+significant changes. These reports will be published on the official website of the Bank: 
+https://www.kdb.kz/kz/  and may include but not limited to the following reports: 
+1. On the allocation of Green Bond proceeds: 
+- the net proceeds received from each Green Bond; 
+- the amount of proceeds allocated to each Green Project; 
+- balance of unallocated proceeds at the end of the reporting period. 
+2. On the environmental impact of each project:  
+- progress and status of project implementation; 
+- the actual effect, quantitative and qualitative, but not lim ited to, e.g., volume of electricity 
+generated; reduction of greenhouse gas emissions, etc.; 
+- deviation from projected quantitative and qualitative environmental impacts. 
+Compliant with the requirement 
+4.2.4. The list of proposed Nominated Projects 
+& Assets associated with the Bond and the 
+investment areas into which the Nominated 
+Projects & Assets fall. Where there are limits 
+on the amount of detail that can be made 
+available about specific Nominated Projects & 
+Assets, information shall be presented on the 
+investment areas which the Nominated 
+Projects & Assets fall into and the Issuer shall 
+provide an explanation of why detail on 
+Nominated Projects & Assets is limited; 
+A, 
+B 
+ The Green Bond Framework, made publicly available, discloses the eligi ble categories for the 
+nominated projects (including wind and solar). The nominated pro jects identified for the green 
+bond seeking certification shall be disclosed in the Bond Prospectus and the pre-issuance Assurance 
+report. GFC confirmed with DBK that the post-issuance reporting will show the amount of certified 
+bond proceeds allocated to the nominated green projects, as well  as climate mitigation impact 
+indicators (GHG emissions avoided) 
+ 
+Compliant with the requirement 
+4.2.5. Where a proportion of the Net 
+Proceeds are used for refinancing, an 
+estimate of the share of the Net Proceeds 
+used for financing and refinancing, and the 
+relevant Nominated Projects & Assets or 
+investment areas which may be refinanced. 
+This may also include the expected look- back 
+period for refinanced Nominated Projects & 
+Assets. 
+B  N/A. Proceeds from the Bond seeking certification will not be used for re-financing Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+13  
+ 
+ 
+ 
+ 
+Table 3. 
+NOMINATED PROJECTS AND ASSETS3 
+ 
+No. Projects and Assets Project description Location Verified Exposure 
+USD 
+Project value (est.) 
+1 Bank loan to finance the Construction of a Wind Power 
+Plant Jasil Jel Energy with a capacity of 15 MW  
+ 
+ 
+Construction of a Wind Power Plant Jasil Jel Energy with a capacity of 15 
+MW in Akmola region, Kazakhstan. The project in question is part of a larger 
+mid-term wind power project titled “Modernization of a 220.95 MW wind 
+farm in the Akmola region” consisting of 5 different wind power plants 
+(Borey wind farm 100 MW, EnergoTrust wind farm 50 MW, Sofievskaya 
+Arshaly district, Akmola 
+region, Kazakhstan.  
+ 
+CONFIDENTIAL 
+(expected loan 
+amount, Credit 
+Committee decision is 
+pending) 
+USD 15 mln for 15 MW Wind 
+farm.  
+USD 311 mln for the total 221 
+MW WWP project (mid-term)  
+ 
+3 The Issuer intends to allocate Green Bond proceeds to any of the Nominated assets and projects indicated herein depending on which one requires disbursement sooner. 
+Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verification 
+activity Findings Conclusion on Compliance with Requirement 
+4.3. Issuers are encouraged to disclose as much 
+information as possible with respect to 
+Nominated projects and assets. However, in 
+many cases it is not possible for the Issuer to 
+disclose detailed information about specific 
+projects and assets prior to the issuance of the 
+Bond. This limitation may be due to 
+confidentiality arrangements with owners of 
+projects and assets, the dynamic nature of the 
+project portfolio, competitive considerations, 
+or other legal provisions which limit the 
+disclosure of detailed information 
+A, 
+B 
+ Information with respect to Nominated projects and assets shall be disc losed in the Prospectus. 
+DBK discloses the engagement of GFC for the verification of the bond issuance seeking certification, 
+and shall share the GFC Pre-Issuance Assurance Statement to prospective and current investors on 
+their website and through sustainability reporting. 
+Compliant with the requirement 
+4.4. The Issuer shall include in the Disclosure 
+Documentation: 
+A  The proposed reporting to investors and stakeholders as set out in the Green  Bond Framework will 
+be disclosed to current and prospective investors. 
+Compliant with the requirement 
+4.4.1. The investment areas into which the 
+Nominated Projects & Assets fall; 
+A  Covered by the Green Bond Framework’s reporting chapter Compliant with the requirement 
+4.4.2. The intended types of temporary 
+investment Bonds for the management of 
+unallocated Net Proceeds in accordance with 
+Clause 3.1.2; 
+A  Covered by the Green Bond Framework’s management of proceeds chapter Compliant with the requirement 
+4.4.3. The Verifier engaged by the Issuer for 
+the mandatory verification engagements; 
+A  Identification of GFC as verifier for the verification engagements is covered in the External review 
+section of the Green Bond Framework 
+Compliant with the requirement 
+4.4.4. The intended approach to providing 
+Update Reports to reaffirm conformance with 
+the Green Bond Framework while the Bond 
+remains outstanding, including the location of 
+the published documents; 
+A  Covered by the Green Bond Framework’s reporting chapter Compliant with the requirement 
+4.2.5 The CBI Disclaimer provided in the 
+Certification Agreement  
+B  DBK has confirmed its intention to include the CBI disclaimer in the Bond Prospectus and Pre-
+issuance Assurance report. 
+Compliant with the requirement 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+14  
+wind farm 40 MW, Arkalykskaya wind farm 15 MW and Jasil Jel Energy wind 
+farm 15 MW) 
+ 
+ 
+2 Bank loan to finance the Construction and commissioning 
+of a Wind power development project with a total installed 
+capacity of about 153 MW (Khromtau Wind Power Plant)  
+Construction and commissioning of a Wind power development project with 
+a total installed capacity of about 153 MW (Khromtau Wind Power Plant) 
+Near the city of 
+Khromtau, Aktobe 
+region, Kazakhstan 
+CONFIDENTIAL (loan 
+amount as per Credit 
+Committee approval) 
+USD 178 mln 
+3 Project #3. Bank loan to finance the Construction of a 
+second stage Solar power station Balkhash 50 MW near 
+town Balkhash, Karaganda region (2nd stage of an 
+aggregate 100 MW Balkhash SPP)  
+Construction and commissioning of the stage 2 solar power station Balkhash 
+50 MW near town Balkhash, Karaganda region (2nd stage of an aggregate 
+100 MW Balkhash SPP), consisting of photovoltaic modules and inverters  
+Near town Balkhash, 
+Karaganda region, 
+Kazakhstan 
+CONFIDENTIAL (No 
+Credit Committee 
+decision yet, 
+borrower assessment 
+ongoing) 
+ 
+USD 37,885,600 
+ TOTAL   Approx. USD 
+187,309,000  
+ 
+ 
+ 
+1.1. Checklist Question 
+Ref to 
+reviewed 
+doc No. 
+Verificatio
+n activity Findings 
+Conclusion on Compliance with 
+Requirement 
+ 1.1. Nominated projects and assets must meet the eligibility 
+requirements provided in the relevant Sector Criteria 
+documents applicable at the time of certification. 
+C.1.1., 
+C.1.2., 
+C.1.3., 
+C.1.4., 
+C.2.1., 
+C.2.2., 
+C.2.3., 
+C.2.4., 
+C.2.5.  
+C.3.2., 
+  C.3.3 
+Document 
+review, 
+Interview 
+Project #1. Bank loan to finance the Construction of a Wind Power Plant Jasil Jel Energy with a capacity 
+of 15 MW.  
+The project in question is part of a larger mid-term wind power project titled “Modernization of a 
+220.95 MW wind farm in the Akmola region” consisting of 5 different wind power plants (Borey wind 
+farm 100 MW, EnergoTrust wind farm 50 MW, Sofievskaya wind farm 40 MW, Arkalykskaya wind farm 
+15 MW and Jasil Jel Energy wind farm 15 MW) with an estimated potential effect of 483K tonnes of 
+GHG annual emissions avoided. 
+The Jasil Jel 15 MW project includes several wind turbines of the WD172-5000 type, on-site cable 
+power collection lines, on-site fiber optic lines, transformer substations, technological driveways to 
+each wind power installation. 
+According to the Environmental Code of Kazakhstan, industrial installations for the production of 
+electrical energy, including renewable energy sources, with a capacity of up to 50 megawatts (MW) are 
+not subject to mandatory complex environmental impact assessment, with the environmental 
+assessment to be carried out according to a simplified procedure. As per the Conclusion of the state 
+examination on the project, the facilities of the “Wind power station of Jasil Jel Energy LLP to be 
+constructed in the Arshaly district of the Akmola region (WPP-7 and WPP-8)” with a total installed 
+capacity of 15 MW fall under category III facilities and are allowed for installment. During the 
+construction period, imported water will be used as a source of water supply, and water protection 
+measures will be implemented during operation. There will be no impact on the species composition, 
+number of fauna, gene pools, habitat, breeding conditions, migration routes and places of 
+concentration of animals during construction, installation and operation of the facility in question. 
+During the implementation of the project and after its completion, global changes in the vegetation 
+cover of the area at the construction site are not expected. 
+The environmental effect of Project #1 is annual prevented greenhouse gas emissions in the amount of 
+32 976 tCO2 per year. 
+The main environmental benefit will be in reducing Kazakhstan’s contribution to climate change and air 
+pollution. Annual output for the 15 MW Jasil Jel WPP project is estimated to range from 48 000 to 53 
+000 MWh /year. Given the more conservative forecast electricity generation of 48 000 MWh /year and 
+based on the national Combined Margin Grid Emission Factor of 698 g CO2/kWh, or 0,698 tCO2/ MWh 
+(for Kazakhstan4), the annual greenhouse gas (GHG) emissions avoided can be expected to be 48 000 
+Compliant with the requirement 
+ 
+4 According to the IFI Dataset of Default Grid Factors t able, version 3.2 (used by IFIs as a basis for accou nting for greenhouse gas emissions), Combined Margin G rid Emission Factor for Kazakhstan in relation to wind and solar energy projects is set at 0,698 tCO2/ MWh  
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+15  
+MWh x 0,698 tCO2/MWh = 33 504 tCO2. 
+However, according to IPCC, average life-cycle CO2 equivalent emissions for onshore wind power is 
+0,011t CO2 equivalent/MWh, therefore, with this correction in mind, the annual GHG emissions 
+avoided are expected to be 48 000 MWh x (0,698- 0,011tCO2)/MWh =  32 976 tCO2. 
+ 
+Meanwhile, for the context, as per ESIAs and environmental assessments available on the other 4 
+related projects within the larger (aggregate) mid-term 221 MW project in Akmola region, 3 projects 
+(50MW Energo Trust WPP, 15 MW Arkalyk WPP and 40 MW Sofiyevskaya WPP) were categorized as 
+Category 3 as per Environmental Code, and 1 project was categorized in respective ESIA as “B” for 
+environmental and social aspects (WPP Borey 100MW), with no critical environmental and social issues 
+identified and impacts judged to be site specific with a potential to be brought to acceptable level 
+through the implementation of mitigation measures established and approved in ESAP. Construction 
+for the Borey (100 MW) and Energo Trust (50 MW) projects were completed in December 2022. Also a 
+separate ESIA commissioned by EBRD and conducted for combined 4 projects (100 MW Borey WPP, 50 
+MW Energo Trust WPP, as well as two projects under development, 40 MW Sofievskaya WPP and 15 
+MW Arkalyk WPP) in Nov 2023 determined that the project is commensurate with a Category B project 
+although the overhead power line, with voltage of 110 kV and length >40 km is likely to fall under 
+Category A. Consideration has also been given to all relevant direct and indirect E&S impacts, the 
+company’s current operations and management capacity and their proposed plans to implement the 
+project including their procedures and practices and also during the full project cycle stages. The 
+recommendations are incorporated into a corporate level Environmental and Social Action Plan (ESAP) 
+to ensure compliance with the relevant standards. 
+Project #2. Bank loan to finance the Construction and commissioning of a Wind power development 
+project with a total installed capacity of about 153 MW (Khromtau Wind Power Plant) 
+As per Feasibility Study, a 3000 ha site for a 100 or 150MW wind power plant is selected 9 km northeast 
+of Khromtau town in Don Rural Area, Khromtau District, Aktobe Region. At the stage of this report 
+preparation, the 34 Goldwind GW155-4.5 and 25 Vestas V162-6.0 turbines were considered.  
+Four meter-wide internal roads will connect the turbines. The 35kV alternate current cables will be laid 
+2m deep in the ground between the turbines to connect them to the internal substation from where a 
+110kV overhead line will run 21km to the area set for a planned 220kV substation.  
+ 
+Based on the outcomes of the project risk assessment using GFC’s Environmental and Social Risk 
+Assessment Generic Checklist for Eligible Projects Financed under the Issue of Sustainability 
+Bonds/Loans, Project # 2 in question was assigned a MEDIUM (CATEGORY B) E&S risk rating. 
+As per preliminary ESIA, the project was categorized as “B” for environmental and social aspects and 
+the assessment has not identified any issues that would warrant a review of this categorization. No 
+critical environmental and social 
+issues have been identified and impacts are judged to be site specific with a potential to be brought to 
+acceptable by the stakeholders level and in compliance with the Bank’s Performance Requirements 
+with the mitigation measures.  
+The environmental effect of Project #2 is annual prevented greenhouse gas emissions in the amount of 
+366,501 tCO2 per year. 
+The P905 factor was used to correlate the annual output. Annual output is expected to be 592 757MWh 
+x 0.9 = 533 481 MWh.  
+Given the forecast electricity generation by the Khromtau WPP of 533 481 MWh /year and based on 
+the national Combined Margin Grid Emission Factor of 698 g CO2/kWh, or 0,698 tCO2/ MWh (for 
+Kazakhstan6), the annual greenhouse gas (GHG) emissions avoided can be expected to be 533 481 MWh 
+x 0,698 tCO2/MWh = 372 370 tCO2. 
+Since, according to IPCC, average life-cycle CO2 equivalent emissions for onshore wind power is 0,011t CO2 
+ 
+5 So called exceedance probability P90, which denotes the level of annual wind-driven electricity generation  that is forecasted to be exceeded 90% of the year   
+6 According to the IFI Dataset of Default Grid Factors t able, version 3.2 (used by IFIs as a basis for accou nting for greenhouse gas emissions), Combined Margin G rid Emission Factor for Kazakhstan in relation to wind and solar energy projects is set at 0,698 tCO2/ MWh  
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+16  
+equivalent/MWh, the annual GHG emissions avoided are expected to be 533 481 MWh x (0,698- 
+0,011tCO2)/MWh =  366 501 tCO2. 
+ 
+Note: According to an SPO issued to the borrower’s parent company in June, 2022, for this project and 
+related green loan, which referred to the national GHG emission factor for grid electricity generation 
+(EFgrid) equal to 844gCO2/kWh7, the annual reduction was estimated at 433 856 tCO2. However, for 
+the purposes of this Assurance Report, GFC employs a more conservative approach with reference to 
+the IFI Dataset of Default Grid Factors table.  
+ 
+When burning 1t of coal in Kazakhstan grid electricity generation network, 13-25kg of SO2 and 7-11kg 
+of NOx are thought to be released8 (the lower values of 13 and 7kg are accepted for this calculation). 
+The total annual reduction of SO2 and NOx emission is expected to be 948.4t and 509.8t respectively. 
+ 
+Project #3. Bank loan to finance the Construction of a stage 2 solar power station Balkhash 50 MW 
+near town Balkhash, Karaganda region (2nd stage of an aggregate 100 MW Balkhash SPP) 
+The site of the 100 MW SPP is located 8 km north from the town of Balkhash and consists of 
+photovoltaic modules and inverters. The area of SPP construction land plot is 400.0 hectares. The solar 
+panel site occupies the main part of the site and is divided into 16 solar panel fields with transformers. 
+Service and support area buildings are located in the northern part of the site and consist of service 
+premises. The 220/35 kV substation site is also located in the northern part of the SPP site.   
+ 
+As per ESIA (as of 2020), during the construction period, the impact is assessed as temporary and does not 
+cause irreversible natural processes and phenomena. Proposed design solutions, including organizational 
+and technical approaches to operation and environmental protection measures, ensure high industrial 
+and environmental safety of the planned reconstruction, rendering significant environmental disturbances 
+unlikely. For possible emergency situations, the facility has an action plan of mitigatory measures. The 
+project's environmental assessment complies with the Environmental Code of Kazakhstan. 
+ 
+The environmental effect of Project #3 is annual prevented greenhouse gas emissions in the amount of 
+53 165 tCO2 per year. 
+Given the forecast electricity generation by the Balkhash 50 MW SPP of 81 792 MWh /year and based on 
+the national Combined Margin Grid Emission Factor of 698 g CO2/kWh, or 0,698 tCO2/ MWh (for 
+Kazakhstan), the annual greenhouse gas (GHG) emissions avoided can be expected to be 81 792 MWh x 
+0,698 tCO2/MWh = 57 090 tCO2. 
+Since, according to IPCC, average life-cycle CO2 equivalent emissions for solar power utilities is 0,048t CO2 
+equivalent/MWh, the annual GHG emissions avoided are expected to be 81 792 MWh x (0,698- 
+0,048tCO2)/MWh =  53 165 tCO2. 
+ 
+ 
+Combined environmental effect of all projects to be financed is 452 642 tCO2 in annual avoided 
+emissions. 
+ 
+GFC notes that the Green Bond Framework has been prepared and structured to include Renewable energy 
+(Wind), referring to CBS Sector Eligibility Criteria as selection criteria for cases seeking CBI certification. 
+The Prospectus for the green bond seeking certification sets forth the use of proceeds and provides the 
+description of the wind power projects in question.  
+The issuer has described the decision-making process for the selection of nominated projects in the Green 
+Bond Framework. 
+DBK issues other green bonds, however the environmental objectives associated with the bond seeking 
+ 
+7 Green Economy Transition Handbook, EBRD, 2018 page 51  based on a study carried out by Lahmayer Internation al in 2012, which is still subject to approval. Alte rnatively, the baseline level of coal in terms of gree nhouse gas emissions could be set equal to the carbo n dioxide equivalent emission factor of 985 
+g/kWh (Order of the Minister of Energy of the Republic  of Kazakhstan dated June 28, 2017 № 222). 
+8 https://forbes.kz/process/probing/pyil_vekov  
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+17  
+certification have been clearly defined by the Issuer in the Prospectus and limited to the loan 
+transactions financing the wind power projects that comply with the applicable Technical Criteria of the 
+Climate Bond Standard. 
+ 
+ WIND SECTOR ELIGIBILITY CRITERIA of the Climate Bonds 
+Standard  
+ Version 1.2) 
+  
+ Wind energy assets relate to:  
+ • The establishment, acquisition, expansion, and/ or ongoing 
+management of a specified onshore wind energy facility.  
+ • The establishment, acquisition, expansion and/ or ongoing 
+management of related inputs and infrastructure to support 
+these facilities.  
+ These assets are eligible for inclusion in a Certified Climate 
+Bond if they meet:  
+.  
+. Onshore wind energy generation facilities are Automatically 
+eligible 
+C.1.1., 
+C.1.2., 
+C.1.3., 
+C.1.4., 
+C.2.1., 
+C.2.2., 
+C.2.3., 
+C.2.4., 
+C.2.5.  
+ GFC verified the procedure used by DBK to identify, check, review and include loans on the basis of their 
+use of proceeds.  
+ 
+GFC confirmed the procedure for selecting the eligible assets: 
+• Bank loan to finance the Construction of a Wind Power Plant Jasil Jel Energy with a capacity of 15 
+MW  
+• Bank loan to finance the Construction and commissioning of a Wind power development project 
+with a total installed capacity of about 153 MW (Khromtau Wind Power Plant) 
+ 
+GFC confirmed that based on the verification procedures undertaken, the use of proceeds is compliant 
+with the CBI Wind Sector Criteria, and the onshore wind energy generation facilities considered are 
+Automatically eligible. 
+1.12. SOLAR SECTOR ELIGIBILITY CRITERIA of the Climate Bonds 
+Standard & Certification Scheme (April 2023, Rev 2.3) 
+. Solar energy assets relate to:  
+• Onshore solar electricity generation facilities 
+• Wholly dedicated transmission infrastructure, grid 
+connections and other supporting infrastructure for 
+onshore solar electricity generation facilities including 
+inverters, transformers, energy storage systems and 
+control systems. 
+• etc.  
+.  
+. Onshore solar electricity generation facilities are eligible if 
+they meet the following criterion: 
+.  
+. A minimum of 85% of electricity is generated from solar 
+energy resources 
+C.3.2., 
+     C.3.3 
+ GFC verified the procedure used by DBK to identify, check, review and include loans on the basis of their 
+use of proceeds.  
+ 
+GFC confirmed the procedure for selecting the eligible assets: 
+• Bank loan to finance the Construction of a stage 2 solar power station Balkhash 50 MW near town 
+Balkhash, Karaganda region (2nd stage of an aggregate 100 MW Balkhash SPP) 
+ 
+GFC confirmed that based on the verification procedures undertaken, the use of proceeds is compliant 
+with the CBI Solar Sector Criteria, and Onshore solar electricity generation facilities, as well as 
+supporting infrastructure such as inverters and transformers, considered are eligible, since they meet 
+the following requirement: A minimum of 85% of electricity is generated from solar energy resources. 
+The Balkhash 50 MW SPP consists of photovoltaic modules and inverters and 100% of electricity is to be 
+generated from solar energy resources. 
+ 
+ 
+ 
+ 
+ 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+18  
+Appendix II. List of Documents Reviewed 
+ 
+Review of Documentation 
+Documents provided by DBK that relate to the Green Bond are listed below. These have been used as 
+direct sources of evidence for the verification conclusions, and are also further checked, as considered 
+appropriate, through interviews with key personnel. 
+A. Green Bond Framework  
+B. Draft Prospectus on the Bond Issue 
+C. Project Information: 
+C.1.1. Questionnaire filled in on Project #1 (15 MW WPP Jasil Jel Energy in Akmola Region) 
+C.1.2. Conclusion of the government (state) environmental assessment as of  07.06.2023 
+on project “Construction of WPP Jasil Jel Energy in Arshaly district, Akmola Region” (for 
+wind farm equipment, inc. wind generator, with a total capacity of 10 MW) 
+C.1.3. Conclusion of the government (state) environmental assessment as of  07.06.2023 
+on project “Construction of WPP Jasil Jel Energy in Arshaly district, Akmola Region” (for 
+wind farm equipment, inc. wind generator, with a total capacity of 5 MW) 
+C.1.4. Credit Committee decision on inclusion of the project # 1 to the pool of green 
+projects and recommendation for Credit Committee for nomination 
+С.1.5. Environmental assessments (including ESIA on other related projects within the 
+larger 221 MW project (Conclusion of the government (state) environmental assessment 
+on project “Construction of 50 MW WPP Energo Trust”, 15 MW Arkalyk WPP and 40 MW 
+Sofiyevskaya WPP, ESIA for Borey 100 MW WPP) 
+C.2.1. Questionnaire filled in on Project #2 (153 MW WPP Khromtau, Aktobe Region) 
+C.2.2. Preliminary ESIA and Feasibility study for project: «Wind Farm Construction (WFP)”, 
+including 154 WPP in Khromtau, date of approval 17.05.2021 
+C.2.3. SPO issued earlier by GFC on 13 June, 2022, re: the compliance of a green loan to be 
+obtained by the parent company of DBK’s borrower re: the Khromtau WPP project), which 
+includes project assessment for compliance with Kazakhstan’s Green Taxonomy 
+C.2.4. Positive conclusion of an independent examination No. KAREXP-0023/23 dated 
+September 18, 2023 for the project: Construction of a wind power plant (WPP) Khromtau. 
+Service and production complex (SPC) of wind farms, technological passages, installation 
+sites” 
+C.2.5. Credit Committee decision on inclusion of the project # 2 to the pool of green 
+projects and recommendation for Credit Committee for nomination 
+C.3.1. Questionnaire filled in on Project #3  
+C.3.2. ESIA for Balkhash SPP 100MW (stage 1 (50MW) and 2 (50MW) 
+C.3.3. Conclusion on comprehensive non-departmental examination for Balkhash SPP 
+100MW project as of 12.10.2020. 
+D. DBK’s Criteria for assessing investment project applicants for compliance with 
+environmental, social and corporate governance (ESG) principles as approved by the 
+Credit Committee of Development Bank of Kazakhstan JSC in January 2023 
+E. Working spreadsheets on the tracking of DBK’s sustainable bond issues and allocation to 
+green projects (excel file) 
+F. Bank’s Development Strategy for 2014–2023 
+G. Development Strategy for 2024–2033 
+H. Sustainable Development Policy 
+I. Memorandum on Credit Policy 
+J. Corporate Governance Code 
+K. Annual reports of DBK for 2022 and 2021 
+L. Draft Roadmap for the implementation of ESG in its activities 
+M. Risk management policy of Development Bank of Kazakhstan JSC 
+N. Information on the risk management and internal control system 
+O. Corporate social responsibility strategy 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+19  
+P. Principles of corporate social responsibility of DBK 
+Q. Information disclosure rules of DBK 
+R. Organizational structure 
+ 
+Background documents related to the Green Bond: 
+1. Climate Bond Standard version 4.0, April 2023. 
+2. Climate Bonds Initiative Wind Sector Eligibility Criteria (Rev. 1.3 as of 13 April 2023. 
+ 
+Interviews with and Informa琀椀on Collected from Bond issuer stakeholders 
+GFC primarily communicated with DBK’s team of Funding and Interna琀椀onal Rela琀椀ons Department to gather 
+informa琀椀on about the Bond and collected informa琀椀on from the issuer. 
+The following key persons were involved in these communications. 
+1. Adina Berikkyzy, Director, Funding and International Relations, DBK 
+2. Anna Zagoskina, Funding and Investor Relations, DBK 
+3. Malika Rakhymzhanova, Specialist, Funding and International Relations, DBK 
+ 
+Appendix III. Assurance Procedures and Findings  
+ 
+Resolution of issues raised 
+The objective of this phase of the verification is to resolv e any outstanding issues, which need be clarified 
+prior to GFC’s conclusion on the Bond. No corrective action issues, where DBK m ight have deficient 
+processes and procedures that will influence its ability to meet the  requirements of the Climate Bond 
+Standard were raised. A clarification issue was raised where information was insufficient or not clear enough 
+to determine whether the applicable Climate Bond Standard requirements have been met (see below). No 
+material follow-up control issues were raised during verification to h ighlight issues related to the Bond 
+issuer’s implementation of the requirements of the Climate Bond Standard that  require review during a 
+subsequent verification. 
+Corrective action issues raised 
+ 
+ 
+No. 
+Corrective action issue 
+raised 
+Action taken by Bond 
+issuer 
+GFC’s assessment of action taken 
+by Bond issuer 
+1 None raised   
+ 
+Clarification issues raised 
+ 
+ 
+No. 
+Clarification issue raised Action taken by Bond 
+issuer 
+GFC’s assessment of action taken 
+by Bond issuer 
+1 Possible lack of internal 
+expertise during the 
+identification and selection 
+of eligible projects and 
+related E&S risk assessment. 
+Bank adopted Criteria for 
+assessing investment 
+project applicants for 
+compliance with 
+environmental, social and 
+corporate governance (ESG) 
+In its GBF, Bank states 
+that, if necessary, the 
+Bank may engage 
+external consultants for 
+the selection and 
+evaluation of green 
+projects. 
+GFC confirmed with 
+Client that the Bank 
+plans on assigning 
+appropriate 
+Action sufficient. GFC confirmed with 
+Client that the Bank has conducted its 
+assessment re: projects to be financed 
+against its Criteria for assessing 
+investment project applicants for 
+compliance with environmental, social 
+and corporate governance (ESG) 
+principles, that have been carried out 
+by dedicated internal staff for E&S risk 
+assessment procedures. 
+ 
+Verification report for pre-issuance certification 
+Green Bond of Development Bank of Kazakhstan 
+ 
+20  
+principles, and is planning 
+on implementing in mid-
+term the Financial 
+Regulator’s (ARDFM) 
+Guidance on ESMS. Given 
+that the Bank is at the start 
+of its journey to fully 
+implement ESMS 
+procedures, the Bank may 
+not have the necessary 
+resources to conduct in-
+depth Due Diligence and 
+follow-up and monitor 
+thoroughly the 
+implementation of any 
+project-related mitigation 
+plans. 
+responsibilities to 
+dedicated internal staff 
+for E&S risk assessment 
+procedures and follow-
+up monitoring 
+(Appointment of internal 
+ESG officer with primary 
+responsibility of E&S risk 
+assessment of projects) 
+ 
+Follow-up control issues raised 
+ 
+ 
+No. 
+Follow-up control issue 
+raised 
+Action taken by Bond 
+issuer 
+GFC’s assessment of action taken 
+by Bond issuer 
+1 None Raised   
+ 
+ 
+Climate Bonds Initiative Disclaimer 
+ 
+The information contained in this document does not constitute investment ad vice in any form or any invitation or 
+inducement to engage in investment activity and the Climate Bonds In itiative is not an investment adviser. Any 
+reference to a financial organisation or debt instrument or investment product is for information purposes only. Links 
+to external websites are for information purposes only. The Climate Bonds Initiative accepts no responsibility for any 
+content on any external website. Certification under the Climate Bonds Standard relates exclusively to the conformity 
+of one or more designated debt instruments, designated assets and/or designated entities with the applicable Climate 
+Bonds Standard at the time of certification. Certification under the Climate Bonds Standard carries no implication (and 
+should not be understood as carrying any implication) as to any othe r aspect of any debt instrument or investment 
+product or any collection of debt instruments or investment products or any asset or entity or group of assets or entities 
+or as to continuing conformity at any time after the time of certification.  Such certification carries no implication (and 
+should not be understood as carrying any implication) that any stated target has been or will at any time be met or 
+that any particular legal or regulatory requirement has been or w ill be satisfied. The Climate Bonds Initiative is not 
+endorsing, recommending or advising on the financial merits or (subject to the previous paragraph) any other aspect 
+of any debt instrument or investment product or any collection of debt  instruments or investment products or any 
+asset or entity or group of assets or entities and no information within this document should be taken as such, nor 
+should any information in this document be relied upon in making an y investment decision. The decision to invest in 
+anything is solely yours. The Climate Bonds Initiative accepts no l iability of any kind, for any investment made by an 
+individual or organisation, nor for any investment made by third par ties on behalf of an individual or organisation, 
+based in whole or in part on any information contained within this, or any other Climate Bonds Initiative document.

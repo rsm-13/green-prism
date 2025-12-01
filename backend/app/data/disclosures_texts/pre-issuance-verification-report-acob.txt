@@ -1,0 +1,873 @@
+ACOB LIGHTING TECHNOLOGY LIMITED’S 
+ ₦1.51 BILLION GREEN DEBT ISSUANCE 
+ 
+2023 PRE-ISSUANCE VERIFICATION FINAL REPORT 
+30 December 2023 
+ 
+
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      2 
+ 
+ 
+ 
+Table of Content 
+ 
+1.0 INTRODUCTION ............................................................................................................................................ 3 
+2.0 BACKGROUND .............................................................................................................................................. 3 
+3.0 SCOPE OF ASSURANCE ENGAGEMENT ................................................................................................. 5 
+4.0 OUR APPROACH ........................................................................................................................................... 5 
+5.0 LIMITATIONS ................................................................................................................................................ 6 
+6.0 MANAGEMENT’S RESPONSIBILITY ........................................................................................................ 6 
+7.0 VERIFIER’S RESPONSIBILITY ................................................................................................................... 6 
+8.0 INDEPENDENCE AND QUALITY CONTROL .......................................................................................... 6 
+9.0 CONCLUSION................................................................................................................................................. 7 
+10.0 APPENDIX .................................................................................................................................................. 8 
+Appendix A: List of Nominated Projects & Assets..................................................................................... 8 
+Appendix B – List of Documents Reviewed ................................................................................................. 8 
+Appendix C: Climate Bonds Standard Version 4.0 Pre-Issuance Certification Checklist .............. 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      3 
+ 
+PRE-ISSUANCE VERIFICATION REPORT 
+ 
+1.0 INTRODUCTION  
+ACOB Lighting Technology Limited (“ACOB”, “the Company” or “the Sponsor) engaged Agusto & Co. Limited 
+(“Verifier” or “Agusto  & Co ”) to provide an independent Pre-issuance Verification report on the ACOB 
+Lighting Technology Limited’s Green Bond Framework ( “the Framework”), the eligibility and readiness of 
+projects and assets being financed to meet the Climate Bonds Standard Version 4.0 and Solar Sector 
+Criteria Version 2.3 for the proposed green debt issuance. 
+ 
+This is an independent pre -issuance assurance report of the ₦1.51 billion Green Debt Issuance by ACOB 
+Solar Hybrid Mini Grids 1 Ltd  (“Project SPV” or “the Issuer”) sponsored by ACOB Lighting Technology 
+Limited and guaranteed by Infrastructure Credit Guarantee Company Limited (“InfraCredit” or Guarantor”) 
+in accordance with the pre -issuance requirements of Limited Assurance under Climate Bonds Standard 
+Version 4.0. 
+ 
+We have not performed any work, and do not express any conclusion, over the performance of the Green Bond 
+outside the scope outlined in this document. 
+ 
+2.0 BACKGROUND 
+ACOB Lighting Technology Limited is a renewable energy company founded in 2016 to provide sustainable 
+electricity to underserved and unserved communities. The Company offers Engineering, Procurement and 
+Construction (EPC) services for high -density energy -efficient LED streetlights & electrification 
+infrastructure, solar mini-grids solutions and solar home systems.  The Company has been involved in the 
+construction of 13 mini -grid projects, nine of which were done as an EPC contractor under the Rural 
+Electrification Fund Program with a total solar PV capacity of 910 kWp.  ACOB plans to deploy 
+approximately 57 mini-grids over the next five years in different phases. This will increase the Company's 
+mini-grid (isolated and interconnected) projects to 70. The Company has identified the various sites for its 
+expansion and commenced key stakeholders' engagement. 
+ 
+ACOB Lighting Technology Limited p lans to develop, operate and maintain seven hybrid solar mini-grids 
+in selected communities in Edo and Ondo States (the ‘Project”). ACOB has established a special purpose 
+vehicle as the Issuer , ACOB Solar Hybrid Mini Grids 1 Ltd  (“Project SPV”), to ringfence the Project from 
+existing operations and for ease of capital raise. The seven hybrid solar mini-grid projects will have a total 
+solar PV capacity of 335 kilowatts (KW)  and are expected to serve circa 3,597 households and businesses 
+in off-grid communities in Edo and Ondo states in Nigeria. 
+ 
+The Project SPV shall as co -obligor, issue the debt instruments having an aggregate nominal value of 
+₦1,510,000,000 (One Billion, Five Hundred and Ten Million Naira) (the “Debt Issue”) under the Guarantor’s 
+Clean Energy Funding Programme which aims to catalyse private and public sector investment to support 
+Nigeria’s clean energy goals and increase energy access for unserved and underserved population . 
+ 
+InfraFunding SPV Limited (“ InfraFunding”) is a special purpose vehicle established to constitute a multi -
+issuer debt issuance program under which certain private debt instruments of a nominal aggregate amount 
+not exceeding ₦200,000,000,000 (Two Hundred Billion Naira) may be issued to domestic institutional 
+investors from time to time by the Issuer, for the benefit of eligible underlying beneficiary entities/co -
+obligors, in such tranches and/or series, by way of private placem ent, and in such proportions, on  such 
+dates and time and on such terms and conditions including without limitation, coupon rates and maturities 
+as may be determined by the Issuer (the “Programme”). 
+ 
+To enhance the credit rating of the Debt Instruments and facilitate the full subscription of 50% of the 
+Bonds by institutional investors, the Guarantor (Infra Credit) has agreed to provide an irrevocable and 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      4 
+ 
+unconditional guarantee of up to ₦755,000,000 (Seven Hundred and Fifty-Five Million Naira) of the Bonds 
+(“Guaranteed Bonds”) constituting parts of the Debt Issue to guarantee the obligations under a deed of 
+guarantee (the “Guarantee”).  The remaining 50% of the Debt Issue is being supported by the Climate 
+Finance Blending Facility (the “Facility”), a catalytic first loss multi -donor facility seeded with £10 million 
+concessional funding by the UK Foreign, Commonwealth & Development Office (“FCDO”) to co -finance 
+clean energy investments on a 50:50 basis alongside InfraCredit’s local currency guarantees in  Nigeria. 
+ 
+The Facility will help de-risk, reduce the capital cost and catalyse domestic institutional investment from 
+insurance companies, local pension funds, and other asset managers including low-carbon energy-focused 
+funds, to scale up private sector financing of affordable local currency capital for eligible off -grid clean 
+energy infrastructure for unserved and underserved markets by providing returnable blended lower -
+interest rate subordinated debt capital.  The Climate Finance Blending Facility will provide cou nterpart 
+funding by subscribing to  Loan Notes of a principal amount of ₦755,000,000 (Seven Hundred and Fifty -
+Five Million Naira) in equivalent value with the Guaranteed Bonds. 
+ 
+The SPV intends to issue up to ₦1.51 billion as a Green Debt Issuance consisting of two tranches (Tranche 
+A - ₦755 million 7-Year Guaranteed Fixed Rate Senior Infrastructure Bonds Due 20 30 and Tranche B - 
+₦755 million 7-Year Fixed Rate Subordinated Loan Due 2030 to be subscribed by the Climate Finance 
+Blending Facility) . The proceeds will be passed through to ACOB Lighting Technology Limited  to 
+implement the seven hybrid solar mini-grid projects in the selected states in Nigeria. 
+ 
+The proceeds of the Green Debt will be applied towards the procurement of equipment, construction, 
+installation and commissioning of seven (7) solar -hybrid mini-grids across Edo and Ondo state s. Out of 
+the total amount earmarked for the project ( ₦1.88 billion), the Sponsor will be providing an equity 
+contribution of ₦376.5 million, leaving the actual debt financing at ₦1.51 billion.  
+ 
+Table 1 below details the schedule of use of proceeds. 
+ 
+Table 1: Detailed Use of Proceeds 
+Uses of funds  Amount ₦  % 
+Generation capex 630,027,035 41.7% 
+Distribution capex 534,147,000 35.4% 
+Customer connections 183,812,500 12.2% 
+General & capex Contingency 37,438,465 2.5% 
+Reserve account funding  124,575,000 8.3% 
+Total Green Debt Issuance 1,510,000,000 100.0% 
+Source: ACOB Lighting Technology Limited 
+ 
+The Company  envisions that the hybrid solar mini -grid projects will directly contribute to the United 
+Nations Sustainable Development Goals (SDGs): SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, 
+Innovation and Infrastructure), and SDG 11 (Sustainable Cities and Communities), while also indirectly 
+contributing to other SDGs such as: 
+• SDG 3: Ensure healthy lives and promote well-being for all at all ages 
+• SDG 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities 
+for all 
+• SDG 5: Achieve gender equality and empower all women and girls 
+• SDG 6: Ensure availability and sustainable management of water and sanitation for all  
+• SDG 8: Promote sustained, inclusive and sustainable economic growth, full and productive 
+employment and decent work for all 
+• SDG 12: Ensure sustainable consumption and production patterns 
+• SDG 13: Take urgent action to combat climate change and its impacts 
+• SDG 17: Strengthen the means of implementation and revitalize the global partnership for sustainable 
+development 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      5 
+ 
+3.0 SCOPE OF ASSURANCE ENGAGEMENT 
+The objective of this assurance engagement is to obtain a Limited Assurance of the verification and 
+conformance of the internal procedures of ACOB Lighting Technology Limited to comply with the material 
+requirements of the Green Bonds Principles published by the International Capital Market Association, the 
+Climate Bonds Standard Version 4.0 and the Solar Sector Criteria (version 2.3) published by Climate Bonds 
+Initiative. The following have been assessed in this engagement:  
+• Use of Proceeds 
+• Process for Project & Assets Evaluation and Selection 
+• Management of Proceeds 
+• Reporting 
+ 
+4.0 OUR APPROACH  
+Agusto & Co.  undertook necessary activities to collect sufficient evidence to present factual findings in 
+line with the scope outlined above. Our work constituted a high-level review of the available information, 
+based on the understanding that this information was provided to us by ACOB and its partners in good 
+faith. We have not performed an audit to check the veracity of the information provided to us. The Verifier’s 
+review covered an examination of relevant procedures, policies and processes, as well as verificatio n of 
+data provided by the Sponsor through various sampling techniques  and based on our professional 
+judgment. Our assurance procedures performed included, but were not limited to : 
+ 
+• Assessed ACOB Lighting Technology Limited’s  Green Bond Framework (Framework) against the 
+CBI Climate Bonds Standard Version 4.0  
+• Assessed the Company’s p roposed eligible assets using the verification pre -issuance 
+requirements of the CBI’s Climate Bonds Standard and the CBI’s Solar criteria  (version 2.3) 
+• Assessed the valuation of projects against the proposed size of the Green Debt 
+• Reviewed the Issuer’s Framework including processes, systems, internal procedures and controls 
+in place for the management of bond proceeds, investment areas for Green Bond proceeds and 
+intended types of temporary investment instruments for the management of unallocated 
+proceeds  
+• Checked the list of projects, which are proposed to be associated with the Green Bond and their 
+conformance with eligibility requirements specified in Part C of the Climate Bonds Standard  
+• Evaluated the procedures performed by the Sponsor regarding the organisation,  its 
+environmental objectives, intended use of bond proceeds, details of the process and procedure 
+for identifying nominated eligible assets and projects and details of the process and procedure 
+for the management of proceeds 
+• Reviewed the response to the questionnaire completed by the Sponsor that covers all criteria of 
+the Climate Bonds Standard Version 4.0 
+• Assessed background and supporting documents that elaborate further on the information 
+mentioned in the questionnaire. 
+• Conducted interviews with key staff of ACOB Lighting Technology Limited on 18 December 2023 
+responsible for the Green Bond Issuance. 
+• Obtained management responsibility letter dated 12 December 2023 confirming management’s 
+representation of alignment with the relevant CBI criteria and key assertions made in the 
+Framework. 
+ 
+ 
+ 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      6 
+ 
+5.0 LIMITATIONS 
+There are inherent limitations in performing any assurance engagement – for example, assurance 
+engagements are based on selective testing of the information being examined – and fraud, error, or non-
+compliance may occur and not be detected. There are addit ional inherent risks associated with assurance 
+over non -financial information including reporting against standards which require information to be 
+assured against source data compiled using definitions and estimation methods that are developed by the 
+reporting entity. Our assurance was limited to the Pre-issuance verification of ACOB’s Green Bond 
+Framework and relevant information.  Therefore, our assurance procedures did not constitute an 
+examination or evaluation of the following: 
+• Credit rating and financial performance of the prospective Issuer or Sponsor  
+• Environmental, social, or governance impact of the proposed projects, except to the extent 
+required for compliance with Climate Bonds Initiative Version 4.0. 
+• Any information beyond the defined reporting boundary and period 
+ 
+6.0 MANAGEMENT’S RESPONSIBILITY 
+ACOB Lighting Technology Limited, as the Sponsor of the project, was responsible for preparing the 
+Green Bond Framework and providing information in relation to the following: 
+• The selection process for the nominated projects. 
+• The details of the nominated projects and methodology applied. 
+• The intended use of the Bond proceeds 
+• The management systems for internal processes and controls for nominated projects.  
+• The details of commitments for reporting p re and post -issuance, including investment areas, 
+management of unallocated proceeds and frequency of periodic reporting. 
+• Representations regarding conformity with the CBI Solar Criteria (Version 2.3) and the Climate 
+Bond Standard Version 4.0. requirements. 
+ 
+7.0 VERIFIER’S RESPONSIBILITY 
+The tasks undertaken by Agusto & Co. as part of this Limited Assurance Engagement of ACOB’s Framework 
+and the eligibility of projects and assets being financed to meet the Climate Bonds Standard Solar Sector 
+Criteria (Version 2.3) for the proposed green bond issuance included the assessment of the following: 
+• Conformance of ACOB’s Framework with the Climate Bonds Standard Version 4.0. 
+• Conformance with the Solar Eligibility Criteria (Version 2.3) 
+• Conformance of intended use of proceeds and management thereof with the Climate Bonds 
+Standard requirements 
+• Conformance with the Internal Processes & Controls requirements. 
+• Conformance with Reporting Prior to Issuance requirements. 
+ 
+8.0 INDEPENDENCE AND QUALITY CONTROL 
+• As an approved verifier by the Climate Bonds Initiative, Agusto & Co. ensures that the results of 
+the independent Pre -Issuance Verification Report are of the highest quality and reflect an 
+impartial review process of Climate Bonds Standards Version 4.0. 
+• Agusto & Co carried out Limited Assurance procedures in accordance with the International 
+Standard on Assurance Engagements [ISAE 3000 (Revised), Assurance Engagements Other than 
+Audits or Reviews of Historical Financial Information] established by the International Auditing 
+and Assurance Board (IAASB) of the International Federation of Accountants (IFAC).  
+• Agusto & Co. nor any member of the verifier team is involved in any way in the issuance or 
+management of Green Bonds. Agusto & Co. has applied internal procedures to confirm no 
+conflicts of interest for this verification engagement. 
+ 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      7 
+ 
+9.0 CONCLUSION 
+Based on the limited assurance procedures conducted and evidence obtained, Agusto & Co. notes 
+that nothing has come to our attention that causes us to believe that, in all material respects the 
+ACOB’s Green Debt is not in conformance with The Green Bond Principles, the Climate Bonds Standard 
+Version 4.0, the Solar Sector Eligibility Criteria (Version 2.3) published by Climate Bonds Initiative and 
+the Climate Bonds Standard’s Pre-Issuance Checklist Requirements. 
+ 
+ 
+For Agusto & Co: 
+ 
+ 
+ 
+Ikechukwu Iheagwam           Oritsejimi Ogbobine 
+Associate Director           Associate Director & Head, Consulting 
+30 December 2023          30 December 2023 
+ 
+ 
+ 
+ 
+© Agusto&Co. 
+UBA House (5th Floor) 
+57 Marina Lagos 
+Nigeria. 
+P.O Box 56136 Ikoyi 
++234 (1) 2707222-4 
++234 (1) 2713808 
+Email: info@agusto.com 
+www.agusto.com 
+ 
+Disclaimer 
+This Pre-Issuance verification report (“Report”) is given by Agusto & Co and is addressed solely to the Company per the terms of the l etter of engagement. We 
+have not considered the interest of any other party in the Report. To the fullest extent permitted by law, we accept no responsibility and deny any liability to 
+any other party for our work, for this statement or for the conclusions we have reached. Agusto & Co. will not accept any for m of liability for the substance of 
+the Report and/or any liability for damage arising from the use of the Report and/or the information provided in it. As the R eport is based on information made 
+available by the Company, Agusto & Co. does not warrant that the information  presented in this Report is complete, accurate or up to date. Nothing contained 
+in this Report shall be construed as to make a representation or warranty, express or implied, regarding the advisability of investing in any securities or any 
+asset whose value is derived from any securities. Any person other than the Company who obtains access to the Report or a copy thereof and chooses to rely on 
+it will do so at its own risk. Furthermore, this Report shall in no event be interpreted and construed as an asse ssment of the financial performance and 
+creditworthiness of the Issuer, Company or the Bond. The issuance and the performance of the Company and the Bond are outside the scope of this engagement. 
+We have consented to the inclusion of the Report on the Clim ate Bonds Initiatives (CBI) website or in such other manner as CBI shall from time to time use for 
+making verification reports publicly available in respect of applications for certification to the Climate Bonds Standard.  
+ 
+  
+
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      8 
+ 
+10.0 APPENDIX 
+ 
+Appendix A: List of Nominated Projects & Assets 
+S/N Location State PV Size 
+(kWp) 
+Battery 
+Size(kW) 
+Mini Grid Type Number of 
+Connections 
+1 Cluster of Sule, Abapanu and 
+Bondu communities 
+Edo 60 192 Isolated 762 
+2 Ajegunle Edo 30 192 Isolated 456 
+3 Mile 13 (Cluster) Ondo 55 192 Isolated 520 
+4 Otu Costain Ondo 70 192 Isolated 750 
+5 Adaja Ondo 40 126 Isolated 397 
+6 Orotedo Ondo 40 126 Isolated 344 
+7 Bolorunduro Adewole Ondo 40 126 Isolated 368 
+ Total  335 1,146  3,597 
+ 
+ 
+Appendix B – List of Documents Reviewed  
+1. ACOB Lighting Technology Limited’s Green Bond Framework (24 May 2023) 
+2. ACOB Lighting Technology Limited’s Certificate of Incorporation, MEMART and Form CAC 2 & 7 
+3. ACOB Solar Hybrid Mini Grids 1 Ltd’s Certificate of Incorporation, MEMART and Status Report 
+4. Environmental and Social Management Plan (ESMP) for the proposed Mini -grid Pipeline at Odigbo, 
+Ondo West, Akure North, Ile-Oluji/Okeigbo and Ose LGA, Ondo State. Final Report (May 2023). 
+5. Environmental and Social Management Plan (ESMP) for the proposed 100KPW Mini-grid Solar Power 
+Project in Olooji Community Ijebu East LGA Ogun State , prepared by Environmental Accord Limited 
+(November 2020). 
+6. Federal Ministry of Environment of Nigeria Approval Letter for the Environmental and Social 
+Management Plan (ESMP) Approval for the Proposed 60KWP and 30KWP Solar Hybrid Mini Grid Power 
+Projects at Ovia South West Local Government Area of Edo State (11 November 2021)  
+7. Federal Ministry of Environment of Nigeria, Environmental Impact Assessment Certificate for Solar 
+Hybrid Mini-Grid (3 Sites) issued to ACOB Lighting Technology Limited (11 November 2021)  
+8. Preliminary Environmental and Social Review for ACOB Lighting Technology Limited , prepared by 
+EBS Advisory (Pty) Limited (February 2022) 
+9. Development Impact Assessment Report on ACOB Lighting Technology Limited 
+10. Completed response to Agusto & Co.’s Green Bond Pre-Issuance Verification Questionnaire 
+11. ACOB Project Cost Estimates and Bill of Quantities 
+12. ACOB Lighting Technology Limited’s Management Responsibility Letter (12 December 2023) 
+13. Executed Power Purchase Agreements for the nominated solar-hybrid mini-grid projects 
+14. The Nigerian Electricity Regulatory Commission’s registration of ACOB Lighting Technology Limited  
+as a Mini-grid Developer and approval for various mini-grid developments in Nigeria 
+15. ACOB Green Debt Asset Register and Tracker 
+16. Draft Applicable Private Placement Memorandum (May 2023) 
+17. Draft PCB Multi-issuer Programme Trust Deed (May 2023) 
+ 
+  
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      9 
+ 
+Appendix C: Climate Bonds Standard Version 4.0 Pre-Issuance Certification Checklist 
+ 
+1. Use of Proceeds  
+ 
+Climate Bonds Standard Requirement  Findings  Requirement 
+Met 
+ 1.1 The Issuer shall document the Nominated Projects & Assets 
+which are proposed to be associated with the Bond and which have 
+been assessed as likely to be Eligible Projects & Assets. The Issuer 
+shall establish a list of Nominated Projects & Assets which can be 
+kept up to Date during the term of the Bond. 
+Agusto & Co. has reviewed the Green Bond 
+Framework and the list of nominated projects to 
+be associated with the Bond. The nominated 
+projects are 7 solar-hybrid mini-grids with a total 
+PV size of 335 KW and a Battery size of 1 ,146 
+kWh expected to have 3,597 connections in two 
+states (Edo and Ondo) in Nigeria. Based on the 
+Framework, the net proceeds of the ₦1.51 billion 
+bond will be applied toward the construction, 
+installation and commissioning of s even solar-
+hybrid mini-grids. 
+The Nominated Projects & Assets conform to the 
+Climate Bonds Standard Solar Sector Criteria. 
+YES 
+1.2. The expected Net Proceeds of the Bond shall be no greater than 
+the Issuer’s total investment exposure to the proposed Nominated 
+Projects & Assets, or the relevant proportion of the total Market 
+Value of the proposed Nominated Projects & Assets which are 
+owned or funded by the Issuer. 
+ACOB Lighting Technology Limited confirmed 
+that the net debt proceeds (after deducting 
+transaction cost and debt service reserve 
+provision) will be fully utilized for the proposed 
+projects and Nominated Assets. In addition, the 
+Issuer has pledged to provide any additional 
+funds as equity over and above the bond 
+proceeds required to operationalise the assets as 
+shown in the table below. 
+Uses of funds  Amount ₦  % 
+Generation capex 630,027,035.00 41.7% 
+Distribution capex 534,147,000.00 35.4% 
+Customer connections 183,812,500.00 12.2% 
+General & capex 
+Contingency 
+37,438,465.00 2.5% 
+Reserve account funding  124,575,000.00 8.3% 
+ Total Green Debt Issuance 1,510,000,000.00 100% 
+ 
+YES 
+1.3 Nominated Projects & Assets shall not be nominated to other 
+Certified Climate Bonds, Certified Climate Loans, Certified Climate 
+Debt Instruments, green bonds, green loans or other labelled 
+instruments (such as social bonds or SDG bonds) unless it is 
+demonstrated by the Issuer that: 
+The Company ’s Framework and Management  
+confirmed that the seven solar-hybrid mini-grid 
+projects ha ve not been nominated for other 
+climate finance tools: certificates, climate loans, 
+certified climate debt instruments, green bonds, 
+green loans, or other labe lled instruments (such 
+as social bonds or SDG bonds). 
+ 
+YES 
+1.3.1 Distinct portions of the Nominated Projects & Assets are 
+being funded by different Certified Climate Bonds, Certified 
+Climate Loans, Certified Climate Debt Instruments, green 
+bonds, green loans or other labelled instruments or;  
+1.3.2 The existing Certified Climate Bond, Certified Climate 
+Loan or Certified Climate Debt Instrument is being refinanced 
+via another Certified Climate Bond, Certified Climate Loan or 
+Certified Climate Debt Instrument. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      10 
+ 
+2. Process for Evaluation and Selection of Projects and Assets  
+ 
+Climate Bonds Standard Requirement Findings  Requirement 
+Met  
+2.1. The Issuer shall establish, document and maintain a decision-
+making process which it uses to determine the eligibility of the 
+Nominated Projects & Assets. The decision-making process shall 
+include, without limitation: 
+ACOB has established a documented process 
+to nominate eligible projects and assets 
+associated with this Bond issue based on 
+environmental objectives and criteria, and 
+compliant with the Solar sector eligibility 
+criteria of the Climate Bond Standards. 
+YES 
+2.1.1. A statement on the climate-related objectives of the Bond. ACOB has a strong commitment to enabling 
+clean, affordable, and reliable energy access 
+and this is underpinned by the Company’s 
+strategic ambition of supporting Nigeria’s 
+transition to a low -carbon and climate -
+resilient economy and achieving the 
+Sustainable Development Goals . ACOB  
+believes that issuing a Green Bond 
+demonstrates its commitment to support the 
+transition to a net -zero economy and 
+promote beneficial environmental outcomes. 
+The proposed Green Bond issuance will have 
+a direct impact on SDGs 7, 9  and 11 while 
+having an indirect impact on SDGs 3, 4, 5, 6, 
+8, 12, 13 and 17 as identified in the Green 
+Bond Framework. 
+YES 
+2.1.2 How the climate-related objectives of the Bond are 
+positioned within the context of the Issuer’s overarching 
+objectives, strategy, policy and/or processes relating to 
+environmental sustainability. 
+ACOB Lighting Technology Limited’s solar-
+hybrid mini-grid which uses renewable solar 
+energy is strategically aligned with the 
+Federal Government of Nigeria’s goals to 
+increase access to electricity for 90% of the 
+population which contributes towards 
+achieving Nigeria's Nationally Determined  
+Contributions. Deployment of Mini-grids 
+solutions are  cost-effective alternative s to 
+the grid in achieving this goal given that the 
+majority of the population without access to 
+electricity are domiciled in rural areas. 
+YES 
+2.1.3 Issuer’s rationale for issuing the Bond.  ACOB believes that issuing a Green Bond 
+demonstrates commitment and transparency 
+to developing sustainable projects that 
+support the transition to a net-zero economy 
+and promote beneficial environmental 
+outcomes as the net proceeds of the bond 
+will be fully applied towards the 
+construction, installation and commissioning 
+of seven solar-hybrid mini-grids in two states 
+in Nigeria. 
+YES 
+2.1.4 A process to determine whether the Nominated Projects & 
+Assets meet the eligibility requirements specified in Part C of the 
+Climate Bonds Standard. 
+ACOB through the Management Letter 
+confirmed that the eligible projects & assets 
+shall have a minimum of 85% of electricity 
+generated from solar energy resources. Also, 
+all the eligible activities relating to solar 
+energy generation are projects or assets that 
+operate in one or more of the eligible 
+activities as noted in the Solar sector criteria 
+Version 2.3 section 1.3 and section 2 Table 1.  
+The Issuer has met the eligibility and 
+technical criteria requirements for the Solar 
+sector criteria (version 2. 3) in line with Part 
+A of the Climate Bond Standard Version 4.0. 
+YES 
+2.2 Issuer should include under Clause 2.1 further aspects of the 
+decision-making process, including: 
+The decision-making process is described in 
+2.21, 2.2.2 and 2.23 below 
+YES 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      11 
+ 
+2. Process for Evaluation and Selection of Projects and Assets  
+ 
+Climate Bonds Standard Requirement Findings  Requirement 
+Met  
+2.2.1 Related eligibility criteria, including, if applicable, exclusion 
+criteria or any other process, applied to identify and manage 
+potentially material environmental, social or governance risks 
+associated with the Nominated Projects & Assets. 
+The Selection and Exclusion criteria are 
+detailed in the Green Bond Framework. The 
+Green Bond Committee (GBC) whose 
+members consist of representatives from 
+Transaction Sponsor, ACOB Lighting 
+Technology Limited Management Team and 
+Guarantor representatives, will be 
+responsible for defining the decision-making 
+process for determining a project’s eligibility 
+with regards to the following tasks. 
+o Review and validate the selection of 
+eligible green projects, twice a year; 
+o Monitor resource allocation to eligible 
+green projects and ensure compliance 
+with the Use of Proceeds requirements; 
+o Manage any future updates of the Green 
+Bond Framework;  
+o Coordinate the preparation of reports as 
+described in this Framework; and 
+o Prepare audit trails and collect the 
+necessary evidence to facilitate external 
+auditor verification. 
+YES 
+2.2.2 Green standards or certifications referenced in the selection 
+of Nominated Projects & Assets. 
+ACOB complies with the ICMA Green Bond 
+Principles (2021) and plans to obtain 
+certification under the Climate Bond 
+Standards 
+YES 
+2.2.3 The issuer shall assess that all proposed Nominated Projects & 
+Assets to be associated with the Bond meet the documented 
+objectives as stated under Clause 2.1.1 and are likely to conform to 
+the relevant eligibility requirements under Part C of the Climate 
+Bonds Standard. 
+The Company provided a list of eligible solar 
+energy projects that it had assessed as 
+eligible and meet the documented objectives 
+as stated under Clause 2.1.1 and are likely to 
+conform to the relevant eligibility 
+requirements under Part A of the Climate 
+Bonds Standard Version 4.0.  
+The portfolio of 7 hybrid-solar mini -grid 
+projects w as assessed by the Verifier for 
+conformance with the eligibility criteria with 
+no discrepancies identified. 
+YES 
+ 
+ 
+  
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      12 
+ 
+ 
+3. Management of Proceeds  
+ 
+Climate Bonds Standard Requirement Findings  Requirement 
+Met  
+3.1 The systems, policies and processes to be used for management 
+of the Net Proceeds shall be documented by the Issuer and disclosed 
+to the Verifier, and shall include arrangements for the following 
+activities: 
+The Company has a documented process 
+which has been disclosed to the Verifier 
+including the governance charter of the GBC, 
+sample Green Asset Register and Tracker 
+YES 
+3.1.1 The Net Proceeds of the Bond can be credited to a sub-
+account, moved to a sub -portfolio, or otherwise tracked by the 
+Issuer in an appropriate manner and documented. 
+The Net proceeds will be appropriately tracked 
+by ACOB’s Finance Manager and documented 
+with the use of the Green Bond Register. This 
+activity will be supervised by the Guarantor ’s 
+Environmental and Social Manager and 
+Portfolio Risk Manager to ensure transparency 
+and accountability for the management of 
+proceeds. 
+YES 
+3.1.2 The balance of unallocated Net Proceeds can be managed 
+as per the requirements in Clause 7.3. 
+As noted in the GBF, unallocated net proceeds 
+will be held in any form of cash, bank deposit 
+or other form s of authorised investments per 
+its investment management policy. The 
+unallocated Net Proceeds will be managed in 
+compliance with the requirements of CBI 
+standards. 
+YES 
+3.1.3 The earmarking process can be used to manage and 
+account for funding to the Nominated Projects & Assets and 
+enables estimation of the share of the Net Proceeds being used 
+for financing and refinancing. 
+ACOB Lighting Technology Limited  has a 
+detailed earmarking process in the Framework, 
+which will be reflected periodically in the 
+Green Bond Register and complemented with 
+an annual Allocation Reporting during the 
+period when the bond proceeds are yet to be 
+allocated in full. In addition, the post-issuance 
+verification report will be completed within 24 
+months of the issuance of the bond, while 
+annual reporting is required every year (after 
+the post-issuance report) until the maturity of 
+the bond in line with CBI requirements. 
+In line with the Green Bond Framework, the 
+Company intends to allocate the proceeds of a 
+given Green Debt issuance within two years  
+from the issue date of each Green Bond 
+issuance. The proceeds will only be used for 
+financing the nominated 7 hybrid -solar mini-
+grid projects. 
+YES 
+ 
+  
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      13 
+ 
+4. Reporting Prior To Issuance  
+Climate Bonds Standard Requirement Findings  Requirement 
+Met  
+4.1 The Issuer shall prepare a Green Bond Framework and 
+make it publicly available prior to Issuance or at the time of 
+Issuance. The Green Bond Framework shall include, without 
+limitation: 
+ACOB Lighting Technology Limited will make the Green 
+Bond Framework and pre -issuance verification report 
+available on its website www.acoblighting.com  
+YES 
+4.1.1 Confirmation that the Bonds issued under the 
+Green Bond Framework are aligned with the Climate 
+Bonds Standard. This may include statements of 
+alignment with other applicable standards, such as the 
+EU Green Bond Standard, the ASEAN Green Bond 
+Standard, Chinese domestic regulations, Japanese Green 
+Bond Guidelines, etc. 
+The Company has based the preparation of the Green 
+Bond Framework for the issue on the ICMA Green Bond 
+Principles and the Climate Bonds Standard version 4.0. 
+YES 
+4.1.2 A summary of the expected use of proceeds, as 
+defined under Clause 1.1, and the expected contribution 
+of the relevant sectors or sub-sectors to the rapid 
+transition required to achieve the goals of the Paris 
+Climate Agreement. 
+Agusto & Co. confirms that ACOB’s G reen Bond 
+Framework includes a summary of the expected use of 
+proceeds’ contribution to achiev ing the goals of the 
+Paris Agreement as noted in Clause 1.1. 
+YES 
+4.1.3 A description of the decision-making process, as 
+defined under Clause 2.1, with particular reference to 
+the requirements in Clause 2.1.2. 
+Agusto & Co. confirms that the Company’s Green Bond 
+Framework includes a descripti on of the  decision-
+making process to ensure a rigorous project evaluation 
+and selection as defined under Clause 2.1. 
+YES 
+4.1.4 on the methodology and assumptions to be used 
+for: confirming, where required by relevant Sector 
+Eligibility Criteria, the characteristics or performance of 
+Nominated Projects & Assets required to conform to 
+the relevant eligibility requirements under Part C of the 
+Climate Bonds Standard; and any other additional 
+impact metrics that the issuer will define.  
+Agusto & Co. confirms that the Green Bond Framework 
+includes a description of the relevant Sector Eligibility 
+Criteria, as well as relevant impact metrics, on which 
+ACOB intends to report. The metrics are detailed below: 
+Eligible Project Impact Indicators 
+Renewable Energy 
+Impact indicators for 
+Renewable Energy Eligible 
+Green Projects will be 
+provided per technology and 
+geographic zone 
+• Installed capacity in MW. 
+• Annual renewable energy 
+production in MWh  
+• Annual GHG emissions avoided in 
+tons of CO2 equivalent 
+Energy Efficiency 
+Impact indicators for Energy 
+Efficiency Eligible Green 
+Projects will be provided per 
+geographic zone 
+• Annual reduction of energy 
+consumption in % or MWh.  
+• kWh of annual energy saving 
+• Annual GHG emissions are 
+reduced in tons of CO2 
+equivalent. 
+ 
+YES 
+4.1.5 A summary of the approach to the management of 
+unallocated Net Proceeds in accordance with Clause 3.1. 
+Agusto & Co. confirms that ACOB Lighting Technology 
+Limited’s Framework clearly states the approach that 
+will be used to manage the unallocated net proceeds 
+and reporting thereof (see clause 3.1). 
+YES 
+4.1.6 The intended approach to providing Update 
+Reports to reaffirm conformance with the Climate Bonds 
+Standard while the Bond remains outstanding. 
+ACOB will prepare an Allocation Report to show how 
+proceeds are being utilized and assets they are 
+deployed to until full allocation ; an Impact Report to 
+show the expected impact of the project and measuring 
+quantitative and qualitative performance indicators ; 
+and an Annual Assurance Report post full allocation to 
+show compliance to a set of sustainability indicators to 
+inform about the project’s contributions to 
+environmental development. 
+YES 
+4.1.7 The list of proposed Nominated Projects & Assets 
+associated with the Bond and the investment areas, as 
+provided in Clause 9.1, into which the Nominated Projects 
+& Assets fall. Where there are limits on the amount of 
+detail that can be made available about specific 
+Nominated Projects & Assets, information shall be 
+presented on the investment areas which the Nominated 
+Projects & Assets fall into, provided in Clause 9.1, and the 
+Issuer shall provide an explanation of why details on 
+Nominated Projects & Assets is limited. 
+The list of nominated projects ha s been identified in 
+the Framework and they fall under the Solar Criteria of 
+the Climate Bond Standard.  
+YES 
+ 
+                                                                                                                                   
+ACOB Lighting Technology Limited’s ₦1.51 Billion Green Debt Issuance 
+ Pre-Issuance Verification Assurance Report      14 
+ 
+4. Reporting Prior To Issuance  
+Climate Bonds Standard Requirement Findings  Requirement 
+Met  
+4.1.8 Where a proportion of the Net Proceeds are used 
+for refinancing, an estimate of the share of the Net 
+Proceeds used for financing and refinancing, and the 
+relevant Nominated Projects & Assets or investment 
+areas which may be refinanced. This may also include 
+the expected look-back period for refinanced 
+Nominated Projects & Assets. 
+The net proceeds will be fully deployed for financing 
+seven new solar-hybrid mini-grids and will not be used 
+for refinancing existing projects or assets as there is no 
+look-back period. 
+Uses of funds  Amount ₦  % 
+Generation capex 630,027,035 41.7% 
+Distribution capex 534,147,000 35.4% 
+Customer connections 183,812,500 12.2% 
+General & capex 
+Contingency 
+37,438,465 2.5% 
+Reserve account funding  124,575,000 8.3% 
+ Total Green Debt Issuance 1,510,000,000 100% 
+ 
+YES 
+4.2 The Issuer shall include in the Disclosure 
+Documentation: 
+  
+4.2.1 The investment areas, as provided in Clause 9.1, 
+into which the Nominated Projects & Assets fall. 
+The selected Projects fall in the “Solar  Energy” 
+classification of Climate Bonds Taxonomy  and are 
+guided by Solar Sector Criteria Version 2.3. 
+YES 
+4.2.2 The intended types of temporary investment 
+instruments for the management of unallocated Net 
+Proceeds in accordance with Clause 7.3. 
+The unallocated proceeds will be held in investment 
+instruments including treasury bills issued by the 
+Federal Republic of Nigeria;  demand or time deposits; 
+and such other investments or managed in accordance 
+with ACOBs’ investment management policy.  
+YES 
+4.2.3 The Verifier engaged by the Issuer for the 
+mandatory verification engagements. 
+The Issuer has commissioned Agusto & Co. as an 
+independent Verifier approved by the Climate Bonds 
+Standards Board to perform the Pre-Issuance and Post-
+Issuance Verification of the Green Bond. 
+YES 
+4.2.4 The intended approach to providing Update 
+Reports to reaffirm conformance with the Climate 
+Bonds Standard while the Bond remains outstanding, 
+including the location of the published documents. 
+ACOB intends to reaffirm conformance with the Climate 
+Bonds Standard while the Green Bond remains 
+outstanding through the  provision of  three reports 
+(Allocation Report until full allocation , Impact Report  
+on expected impact and indicators  and Assurance 
+Report after full allocation) that would be available on 
+the Company’s website. 
+YES 
+4.2.5 The CBI Disclaimer provided in the Certification  
+Agreement.  
+The Company states that it will abide by and provide 
+the CBI’s disclaimer in the certification agreement. 
+YES 
+ 
+ 
+Disclaimer 
+This Pre-Issuance verification report (“Report”) is given by Agusto & Co and is addressed solely to the Company per the terms of the letter of engagement. We have not considered 
+the interest of any other party in the Report. To the fullest extent permitted by law, we accept no responsibility and deny a ny liability to any other party for our work, for this 
+statement or for the conclusions we have reached. Agusto & Co. wi ll not accept any form of liability for the substance of the Report and/or any liability for damage arising from 
+the use of the Report and/or the information provided in it. As the Report is based on information made available by the Comp any, Agusto & Co. does not warrant that the 
+information presented in this Report is complete, accurate or up to date. Nothing contained in this Report shall be construed  as to make a representation or warranty, express or 
+implied, regarding the advisability of investing in any securities or any asset whose value is derived from any securities. Any person other than the Company who obtains access 
+to the Report or a copy thereof and chooses to rely on it will do so at its own risk. Furthermore, this Report shall in no ev ent be interpreted and construed as an assessment of 
+the financial performance and creditworthiness of the Issuer, Company or the Bond. The issuance and the performance of the Company and the Bond are outside the scope of this 
+engagement. We have consented to th e inclusion of the Report on the Climate Bonds Initiatives (CBI) website or in such other manner as CBI shall from time to ti me use for 
+making verification reports publicly available in respect of applications for certification to the Climate Bonds Standar d.

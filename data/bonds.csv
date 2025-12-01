@@ -1,5 +1,0 @@
-bond_id,issuer_name,currency,use_of_proceeds,external_review,reporting_practices,kpi_specificity,certification,claimed_impact_co2_tons
-sample-1,Sample Green Issuer,USD,"Solar energy generation and wind transition projects",1,annual,,1,50000
-sample-2,Climate Transport Corp,EUR,"Expansion of low-carbon transit rails and e-bus conversion",0,none,,0,75000
-sample-3,Green City Water,GBP,"Reduce wastewater energy and capture methane",1,semi-annual,,0,40000
-sample-4,Blue Marine Energy,USD,"Offshore floating wind turbine technology for clean power capacity",1,annual,,1,95000
