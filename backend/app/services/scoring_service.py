@@ -19,6 +19,7 @@ from app.ml.transparency_model_ml import (
 def score_disclosure(
     text: str,
     claimed_impact_co2_tons: Optional[float] = None,
+    amount_issued_usd: Optional[float] = None,
     mode: str = "rule",  # "rule" | "ml" | "blend"
 ) -> Dict[str, Any]:
     cleaned = clean_text(text)
@@ -44,8 +45,9 @@ def score_disclosure(
         transparency_score = rule_score
         source = "rule"
 
-    # Dummy impact model (what you already had)
-    impact_result = predict_impact_gap(claimed_impact_co2_tons)
+    # Impact model: pass amount through so a rule-based fallback can estimate
+    # predicted impact when no claimed value is provided.
+    impact_result = predict_impact_gap(claimed_impact_co2_tons, amount_issued_usd)
 
     # naive greenwashing risk placeholder
     greenwashing_risk = "medium"

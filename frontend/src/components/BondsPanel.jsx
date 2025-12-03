@@ -17,7 +17,7 @@ export default function BondsPanel({
 }) {
     return (
     <div>
-        <h2>Sample Bonds</h2>
+        <h2>BONDS</h2>
         <div style={{ marginBottom: "0.5rem" }}>
         <label style={{ display: "block", marginBottom: 6 }}>
             <small>Search bonds (issuer, bond id, ISIN):</small>
@@ -158,37 +158,45 @@ export default function BondsPanel({
             <span>Impact</span>
             <span style={{ fontSize: 12 }}>
                 Mode: {" "}
-                   <button
-                       type="button"
-                       onClick={() => setImpactMode("rule")}
-                       style={{
-                           marginRight: 4,
-                           padding: "2px 6px",
-                           borderRadius: 999,
-                           border: impactMode === "rule" ? "1px solid #2962FF" : "1px solid #ccc",
-                           background: impactMode === "rule" ? "#e3f2fd" : "#f9fafb",
-                           color: impactMode === "rule" ? "#000" : textColor,
-                           fontSize: 11,
-                           cursor: "pointer",
-                       }}
-                   >
-                   Rule
-                   </button>
-                    <button
-                        type="button"
-                        onClick={() => setImpactMode("ml")}
-                        style={{
-                            padding: "2px 6px",
-                            borderRadius: 999,
-                            border: impactMode === "ml" ? "1px solid #2962FF" : "1px solid #ccc",
-                            background: impactMode === "ml" ? "#e3f2fd" : "#f9fafb",
-                            color: impactMode === "ml" ? "#000" : textColor,
-                            fontSize: 11,
-                            cursor: "pointer",
-                        }}
-                    >
-                    ML
-                    </button>
+                    {(() => {
+                        const inactiveBg = theme === "dark" ? "#0b1120" : "#f9fafb";
+                        const activeBg = theme === "dark" ? "#f3f4f6" : "#e3f2fd";
+                        return (
+                            <>
+                            <button
+                                type="button"
+                                onClick={() => setImpactMode("rule")}
+                                style={{
+                                    marginRight: 4,
+                                    padding: "2px 6px",
+                                    borderRadius: 999,
+                                    border: impactMode === "rule" ? "1px solid #2962FF" : `1px solid ${cardBorder}`,
+                                    background: impactMode === "rule" ? activeBg : inactiveBg,
+                                    color: impactMode === "rule" ? "#000" : textColor,
+                                    fontSize: 11,
+                                    cursor: "pointer",
+                                }}
+                            >
+                            Rule
+                            </button>
+                            <button
+                                type="button"
+                                onClick={() => setImpactMode("ml")}
+                                style={{
+                                    padding: "2px 6px",
+                                    borderRadius: 999,
+                                    border: impactMode === "ml" ? "1px solid #2962FF" : `1px solid ${cardBorder}`,
+                                    background: impactMode === "ml" ? activeBg : inactiveBg,
+                                    color: impactMode === "ml" ? "#000" : textColor,
+                                    fontSize: 11,
+                                    cursor: "pointer",
+                                }}
+                            >
+                            ML
+                            </button>
+                            </>
+                        );
+                    })()}
             </span>
             </h4>
 
@@ -203,16 +211,16 @@ export default function BondsPanel({
                 <p>
                 {impact.claimed != null && (
                     <>
-                    Claims {impact.claimed} tons CO₂ <br />
+                    Claims {typeof impact.claimed === 'number' ? impact.claimed.toFixed(2) : impact.claimed} tons CO₂ <br />
                     </>
                 )}
-                Predicted {impact.predicted?.toFixed ? impact.predicted.toFixed(0) : impact.predicted} tons CO₂/year
+                Predicted {typeof impact.predicted === 'number' ? impact.predicted.toFixed(2) : impact.predicted} tons CO₂/year
                 {impact.uncertainty != null && (
                     <>
-                    {" "}± {impact.uncertainty?.toFixed ? impact.uncertainty.toFixed(0) : impact.uncertainty}
+                    {" "}± {typeof impact.uncertainty === 'number' ? impact.uncertainty.toFixed(2) : impact.uncertainty}
                     </>
                 )}
-                {impact.source === "ml" && (
+                {(impact.source === "ml" || impact.source === "ml_fallback") && (
                     <span style={{ fontSize: 11, color: "#6b7280", display: "block" }}>
                     (ML intensity model)
                     </span>

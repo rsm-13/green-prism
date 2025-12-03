@@ -4,6 +4,7 @@ from fastapi import APIRouter, HTTPException
 from app.data.load_bonds import list_bonds, get_bond
 from app.services.scoring_service import score_disclosure
 from app.services.impact_ml_service import predict_ml_impact_for_bond
+from app.ml.impact_gap_model import predict_impact_gap
 
 router = APIRouter()
 
@@ -28,6 +29,7 @@ def get_bond_detail(bond_id: str):
     scores = score_disclosure(
         text=disclosure_text,
         claimed_impact_co2_tons=claimed,
+        amount_issued_usd=bond.get("amount_issued_usd"),
     )
 
     ml_impact = predict_ml_impact_for_bond(
@@ -47,11 +49,44 @@ def get_bond_detail(bond_id: str):
         }
         scores["impact_prediction_ml"] = ml_mapped
 
+        # If the rule-based prediction is missing (no claimed value and no
+        # amount-based fallback), make the ML prediction available under
+        # `impact_prediction` as a fallback so the UI shows a prediction when
+        # the user selects the Rule button.
+        try:
+            rule_pred = scores.get("impact_prediction", {}).get("predicted")
+        except Exception:
+            rule_pred = None
+
+        if rule_pred in (None, 0) and ml_mapped.get("predicted") is not None:
+            # copy ML output into the rule slot as a fallback
+            scores["impact_prediction"] = {**ml_mapped, "source": "ml_fallback"}
+
 
     return {
         "bond": bond,
         "scores": scores,
     }
+
+
+@router.get("/bonds/{bond_id}/compute_rule", response_model=Dict[str, Any])
+def compute_rule_estimate(bond_id: str):
+    """Run the rule-based impact estimator for a bond and return its output.
+
+    This endpoint is used by the frontend to explicitly run the rule estimator
+    on-demand (for example when the user selects Rule mode) and return a
+    numeric prediction even if the initial fetch used ML or had no claim.
+    """
+    bond = get_bond(bond_id)
+    if not bond:
+        raise HTTPException(status_code=404, detail="Bond not found")
+
+    claimed = bond.get("claimed_impact_co2_tons")
+    amount = bond.get("amount_issued_usd")
+
+    result = predict_impact_gap(claimed, amount, bond.get("project_category"))
+
+    return {"impact_prediction_rule": result}
 
 # -------------------
 

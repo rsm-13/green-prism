@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { analyzeText, fetchBonds, fetchBondDetail } from "./api";
 import { useTheme } from "./ThemeContext";
 import Header from "./components/Header";
+import Instructions from "./pages/Instructions";
 import BondsPanel from "./components/BondsPanel";
 import Analyzer from "./components/Analyzer";
 import MarketView from "./components/MarketView";
@@ -24,6 +25,8 @@ const ETF_OPTIONS = [
 
 export default function App() {
   const { theme, toggleTheme } = useTheme();
+
+  const [page, setPage] = useState("home");
 
   const [bonds, setBonds] = useState([]);
   const [selectedBondId, setSelectedBondId] = useState(null);
@@ -78,6 +81,36 @@ export default function App() {
       .then(setBondDetail)
       .catch(console.error);
   }, [selectedBondId]);
+
+  // When the user switches to Rule impact mode, explicitly request a
+  // rule-based estimate for the currently selected bond so the UI can show
+  // the numeric rule prediction (even if earlier the ML result was shown).
+  useEffect(() => {
+    if (impactMode !== "rule" || !selectedBondId) return;
+    // call backend endpoint that runs the rule estimator for this bond
+    fetch(`http://127.0.0.1:8000/api/bonds/${encodeURIComponent(selectedBondId)}/compute_rule`)
+      .then((res) => {
+        if (!res.ok) throw new Error("rule compute failed");
+        return res.json();
+      })
+      .then((data) => {
+        const rule = data.impact_prediction_rule;
+        if (!rule) return;
+        setBondDetail((prev) => {
+          if (!prev) return prev;
+          return {
+            ...prev,
+            scores: {
+              ...prev.scores,
+              impact_prediction: rule,
+            },
+          };
+        });
+      })
+      .catch((err) => {
+        console.debug("Could not compute rule estimate:", err);
+      });
+  }, [impactMode, selectedBondId]);
 
   // Load market prices whenever ETF or range changes
   useEffect(() => {
@@ -159,11 +192,29 @@ export default function App() {
   }
 
   function chooseImpact(ruleObj, mlObj) {
+    // If the user explicitly selected ML mode, show ML when available.
     if (impactMode === "ml" && mlObj) {
       return { ...mlObj, source: "ml" };
     }
-    if (ruleObj) {
+
+    // If Rule mode is selected prefer the rule-based prediction — but
+    // if it doesn't include a usable `predicted` value, fall back to ML.
+    if (impactMode === "rule") {
+      if (ruleObj && ruleObj.predicted != null) {
+        return { ...ruleObj, source: "rule" };
+      }
+      if (mlObj) {
+        return { ...mlObj, source: "ml_fallback" };
+      }
+      return null;
+    }
+
+    // For blend or other modes prefer rule if present, otherwise ML
+    if (ruleObj && ruleObj.predicted != null) {
       return { ...ruleObj, source: "rule" };
+    }
+    if (mlObj) {
+      return { ...mlObj, source: "ml" };
     }
     return null;
   }
@@ -176,7 +227,6 @@ export default function App() {
   return (
     <div
       style={{
-        fontFamily: "system-ui, sans-serif",
         padding: "1.5rem",
         maxWidth: 1200,
         margin: "0 auto",
@@ -186,61 +236,67 @@ export default function App() {
         transition: "background-color 0.25s ease, color 0.25s ease",
       }}
     >
-      <Header theme={theme} toggleTheme={toggleTheme} />
+      <Header theme={theme} toggleTheme={toggleTheme} currentPage={page} setPage={setPage} />
 
-      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.5rem", marginTop: "1.5rem" }}>
-        <div>
-          <BondsPanel
-            filteredBonds={filteredBonds}
-            bondFilter={bondFilter}
-            setBondFilter={setBondFilter}
-            selectedBondId={selectedBondId}
-            setSelectedBondId={setSelectedBondId}
-            bondDetail={bondDetail}
+      {page === "home" ? (
+        <>
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.5rem", marginTop: "1.5rem" }}>
+            <div>
+              <BondsPanel
+                filteredBonds={filteredBonds}
+                bondFilter={bondFilter}
+                setBondFilter={setBondFilter}
+                selectedBondId={selectedBondId}
+                setSelectedBondId={setSelectedBondId}
+                bondDetail={bondDetail}
+                theme={theme}
+                cardBorder={cardBorder}
+                cardBg={cardBg}
+                textColor={textColor}
+                impactMode={impactMode}
+                setImpactMode={setImpactMode}
+                chooseImpact={chooseImpact}
+              />
+            </div>
+
+            <div>
+              <Analyzer
+                text={text}
+                setText={setText}
+                claimed={claimed}
+                setClaimed={setClaimed}
+                mode={mode}
+                setMode={setMode}
+                handleAnalyze={handleAnalyze}
+                loading={loading}
+                analysis={analysis}
+                theme={theme}
+                cardBorder={cardBorder}
+                cardBg={cardBg}
+                textColor={textColor}
+              />
+            </div>
+          </div>
+
+          <MarketView
+            ETF_OPTIONS={ETF_OPTIONS}
+            RANGE_LABELS={RANGE_LABELS}
+            selectedEtf={selectedEtf}
+            setSelectedEtf={setSelectedEtf}
+            selectedRange={selectedRange}
+            setSelectedRange={setSelectedRange}
+            prices={prices}
+            periodReturn={periodReturn}
+            annualizedReturn={annualizedReturn}
+            yieldInfo={yieldInfo}
             theme={theme}
             cardBorder={cardBorder}
-            cardBg={cardBg}
-            textColor={textColor}
-            impactMode={impactMode}
-            setImpactMode={setImpactMode}
-            chooseImpact={chooseImpact}
-          />
-        </div>
-
-        <div>
-          <Analyzer
-            text={text}
-            setText={setText}
-            claimed={claimed}
-            setClaimed={setClaimed}
-            mode={mode}
-            setMode={setMode}
-            handleAnalyze={handleAnalyze}
-            loading={loading}
-            analysis={analysis}
-            theme={theme}
-            cardBorder={cardBorder}
-            cardBg={cardBg}
             textColor={textColor}
           />
-        </div>
-      </div>
-
-      <MarketView
-        ETF_OPTIONS={ETF_OPTIONS}
-        RANGE_LABELS={RANGE_LABELS}
-        selectedEtf={selectedEtf}
-        setSelectedEtf={setSelectedEtf}
-        selectedRange={selectedRange}
-        setSelectedRange={setSelectedRange}
-        prices={prices}
-        periodReturn={periodReturn}
-        annualizedReturn={annualizedReturn}
-        yieldInfo={yieldInfo}
-        theme={theme}
-        cardBorder={cardBorder}
-        textColor={textColor}
-      />
+        </>
+      ) : (
+        <Instructions theme={theme} textColor={textColor} cardBg={cardBg} cardBorder={cardBorder} />
+      )}
     </div>
   );
 }
