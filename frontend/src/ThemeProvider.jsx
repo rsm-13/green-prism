@@ -15,6 +15,13 @@ export function ThemeProvider({ children }) {
 
   useEffect(() => {
     document.documentElement.classList.toggle("dark", theme === "dark");
+    // ensure the page background and body margin match the app container
+    const bg = theme === "dark" ? "#020617" : "#ffffff";
+    const text = theme === "dark" ? "#e5e7eb" : "#111827";
+    document.body.style.backgroundColor = bg;
+    document.body.style.color = text;
+    // remove default body margin so the app can occupy full viewport without a light border
+    document.body.style.margin = "0";
     localStorage.setItem("theme", theme);
   }, [theme]);
 

@@ -3,6 +3,7 @@ from fastapi import APIRouter, HTTPException
 
 from app.data.load_bonds import list_bonds, get_bond
 from app.services.scoring_service import score_disclosure
+from app.services.impact_ml_service import predict_ml_impact_for_bond
 
 router = APIRouter()
 
@@ -28,6 +29,23 @@ def get_bond_detail(bond_id: str):
         text=disclosure_text,
         claimed_impact_co2_tons=claimed,
     )
+
+    ml_impact = predict_ml_impact_for_bond(
+        text=str(bond.get("disclosure_text") or bond.get("use_of_proceeds") or ""),
+        amount_issued_usd=bond.get("amount_issued_usd"),
+        project_category=bond.get("project_category"),
+    )
+
+    # Map ML impact output to the UI-friendly shape expected by frontend
+    if ml_impact is not None:
+        ml_mapped = {
+            "claimed": claimed,
+            "predicted": ml_impact.get("predicted_impact_mean"),
+            "uncertainty": ml_impact.get("predicted_impact_std"),
+            # keep original intensity if the UI or downstream needs it
+            "predicted_intensity_tco2_per_musd": ml_impact.get("predicted_intensity_tco2_per_musd"),
+        }
+        scores["impact_prediction_ml"] = ml_mapped
 
 
     return {

@@ -2,54 +2,54 @@
 import React, { useEffect, useRef } from "react";
 import { createChart, LineSeries } from "lightweight-charts";
 
-const Chart = ({ data, height = 400 }) => {
+const Chart = ({ data, height = 400, theme }) => {
   const chartContainerRef = useRef(null);
   const chartRef = useRef(null);
   const seriesRef = useRef(null);
 
-  // Initialize chart once
+  // Initialize chart (recreate when height or theme changes)
   useEffect(() => {
     const container = chartContainerRef.current;
     if (!container) return;
 
+    const isDark = theme === "dark" || document.documentElement.classList.contains("dark");
     const chart = createChart(container, {
       width: container.clientWidth,
       height,
       layout: {
-        background: { type: "solid", color: "#ffffff" },
-        textColor: "#333333",
+        background: { type: "solid", color: isDark ? "#0b1120" : "#ffffff" },
+        textColor: isDark ? "#e5e7eb" : "#333333",
       },
       grid: {
-        vertLines: { color: "#eeeeee" },
-        horzLines: { color: "#eeeeee" },
+        vertLines: { color: isDark ? "#0f1724" : "#eeeeee" },
+        horzLines: { color: isDark ? "#0f1724" : "#eeeeee" },
       },
       rightPriceScale: {
-        borderColor: "#cccccc",
+        borderColor: isDark ? "#1f2937" : "#cccccc",
+        visible: true,
       },
       timeScale: {
-        borderColor: "#cccccc",
+        borderColor: isDark ? "#1f2937" : "#cccccc",
       },
+      crosshair: { mode: 1 },
     });
-
-    chartRef.current = chart;
 
     const lineSeries = chart.addSeries(LineSeries, {
       lineWidth: 2,
-      lineColor: "#2962FF",
+      lineColor: isDark ? "#60a5fa" : "#2962FF",
     });
+
+    chartRef.current = chart;
     seriesRef.current = lineSeries;
 
-    // Initial data
     if (data && data.length > 0) {
-      lineSeries.setData(data);
+      seriesRef.current.setData(data);
       chart.timeScale().fitContent();
     }
 
     const handleResize = () => {
       if (!chartRef.current || !chartContainerRef.current) return;
-      chartRef.current.applyOptions({
-        width: chartContainerRef.current.clientWidth,
-      });
+      chartRef.current.applyOptions({ width: chartContainerRef.current.clientWidth });
     };
 
     window.addEventListener("resize", handleResize);
@@ -62,7 +62,7 @@ const Chart = ({ data, height = 400 }) => {
         seriesRef.current = null;
       }
     };
-  }, [height]); // height affects chart init
+  }, [height, theme]); // re-init chart when height or theme changes
 
   // Update data when `data` changes
   useEffect(() => {
