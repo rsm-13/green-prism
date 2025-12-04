@@ -1,6 +1,7 @@
 import React from "react";
 import Chart from "./Chart";
 
+// market view: ETF selection, range selector, simple return metrics and chart
 export default function MarketView({
     ETF_OPTIONS,
     RANGE_LABELS,
@@ -32,6 +33,7 @@ export default function MarketView({
             >
             <div>
                 <strong>ETF:</strong>{" "}
+                {/* etf selection buttons: choose which index/etf to view */}
                 {ETF_OPTIONS.map((etf) => (
                 <button
                     key={etf.id}
@@ -62,6 +64,7 @@ export default function MarketView({
 
         <div>
             <strong>Range:</strong>{" "}
+            {/* range buttons: select the time window used to fetch market data */}
             {RANGE_LABELS.map((label) => (
                 <button
                     key={label}
@@ -129,6 +132,7 @@ export default function MarketView({
 
     {prices.length > 0 ? (
     <div style={{ marginTop: "1rem" }}>
+        {/* render chart with fetched price series */}
         <Chart data={prices} height={420} theme={theme} />
     </div>
     ) : (

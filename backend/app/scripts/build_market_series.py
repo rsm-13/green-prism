@@ -2,7 +2,7 @@
 """
 Build a unified market_series.csv from green bond index / ETF time series.
 
-Usage (example):
+usage (example):
 
 cd green-prism/backend
     python app/scripts/build_market_series.py \
@@ -10,7 +10,7 @@ cd green-prism/backend
         --ishares app/data/iShares_Green_Bond_Index_Fund_IE.csv \
         --output app/data/market_series.csv
 
-The output schema is:
+the output schema is:
 
     symbol, date, price, yield_to_maturity, yield_to_worst, nav
 """
@@ -39,12 +39,13 @@ COMMON_COLS = [
 
 def parse_percent(s: str) -> Optional[float]:
     """
-    Convert strings like '2.29%' -> 2.29 (float).
-    Returns None if parsing fails.
+    convert strings like '2.29%' -> 2.29 (float).
+    returns None if parsing fails.
     """
     if pd.isna(s):
         return None
     try:
+        # remove percent sign and convert to float
         s_str = str(s).strip().replace("%", "")
         if s_str == "":
             return None
@@ -61,7 +62,7 @@ def normalize_sp_index(path: Path) -> pd.DataFrame:
     """
     Normalize 'Green Bond Data.csv' to the common schema.
 
-    Expected columns:
+    expected columns:
         'Effective date '
         'S&P Green Bond Index'
         'Yield To Maturity'
@@ -121,7 +122,7 @@ def normalize_ishares(path: Path) -> pd.DataFrame:
     """
     Normalize 'iShares Green Bond Index Fund (IE).csv' to the common schema.
 
-    Expected columns:
+    expected columns:
         'As Of'
         'NAV'
         'Daily NAV Change'

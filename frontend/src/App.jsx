@@ -7,6 +7,8 @@ import BondsPanel from "./components/BondsPanel";
 import Analyzer from "./components/Analyzer";
 import MarketView from "./components/MarketView";
 
+// app root: coordinates page state, loads sample data, and wires components
+// uses `useTheme` provided by ThemeProvider to toggle colors
 // Time range options (label -> days)
 const RANGE_LABELS = ["3M", "6M", "1Y", "3Y"];
 const RANGE_DAYS = {
@@ -26,12 +28,15 @@ const ETF_OPTIONS = [
 export default function App() {
   const { theme, toggleTheme } = useTheme();
 
+  // ui page state: 'home' or 'instructions'
   const [page, setPage] = useState("home");
 
+  // loaded bond list and selection state
   const [bonds, setBonds] = useState([]);
   const [selectedBondId, setSelectedBondId] = useState(null);
   const [bondDetail, setBondDetail] = useState(null);
 
+  // analyzer inputs and results
   const [text, setText] = useState("");
   const [claimed, setClaimed] = useState("");
   const [analysis, setAnalysis] = useState(null);
@@ -40,16 +45,16 @@ export default function App() {
   // transparency scoring mode: "rule" | "ml" | "blend"
   const [mode, setMode] = useState("rule");
 
-  // impact scoring mode:
+  // impact estimation selection: prefer 'ml' or 'rule' when displaying
   const [impactMode, setImpactMode] = useState("ml");
 
-  // market-related state
+  // market UI state: selected ETF and timeframe for price fetches
   const [selectedEtf, setSelectedEtf] = useState("grnb");
   const [selectedRange, setSelectedRange] = useState("1Y");
   const [prices, setPrices] = useState([]);
   const [yieldInfo, setYieldInfo] = useState(null);
 
-  // UI state for searchable bond selection (large CSV)
+  // UI state for searchable bond selection (client-side filter)
   const [bondFilter, setBondFilter] = useState("");
   const filteredBonds = React.useMemo(() => {
     if (!bondFilter) return bonds || [];
@@ -66,8 +71,8 @@ export default function App() {
 
   // Load sample bonds on mount
   useEffect(() => {
-    // Request a larger limit so the searchable dropdown can find across the
-    // full dataset instead of defaulting to 20 rows.
+    // load a larger number of bonds on mount so the search dropdown has
+    // a wide client-side dataset (UI is optimized to show the first 200)
     fetchBonds(5000)
       .then(setBonds)
       .catch(console.error);
@@ -154,6 +159,7 @@ export default function App() {
 
 
   async function handleAnalyze() {
+    // run analysis: prepare payload, call API helper, and capture result
     setLoading(true);
     setAnalysis(null);
     try {

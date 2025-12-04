@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../assets/green_prism_logo.png";
 
+// header: top-level navigation, logo and theme toggle
 export default function Header({ theme, toggleTheme, currentPage, setPage }) {
     const textColor = theme === "dark" ? "#e5e7eb" : "#111827";
     const inactive = theme === "dark" ? "#0b1120" : "transparent";
@@ -15,6 +16,7 @@ export default function Header({ theme, toggleTheme, currentPage, setPage }) {
         }}
         >
         <div style={{ display: "flex", alignItems: "center", gap: 40 }}>
+            {/* logo: brand image for the app header */}
             <img
             src={logo}
             alt="Green Prism logo"
@@ -27,6 +29,7 @@ export default function Header({ theme, toggleTheme, currentPage, setPage }) {
             }}
             />
             <div style={{ display: "flex", flexDirection: "column" }}>
+            {/* app title and short description */}
             <h1 style={{ marginTop: 50, marginBottom: 4 }}>GREEN PRISM: <i>Fixed Insight</i></h1>
             <p style={{ maxWidth: 700, marginTop: 0 }}>
                 Green bond transparency &amp; impact predictor — select a sample
@@ -34,6 +37,7 @@ export default function Header({ theme, toggleTheme, currentPage, setPage }) {
                 bond ETF performance over various time horizons.
             </p>
             <div style={{ marginTop: 8, display: "flex", gap: 8 }}>
+            {/* navigation buttons: set page state when clicked */}
             <button
                 onClick={() => setPage && setPage("home")}
                 style={{

@@ -18,18 +18,23 @@ def predict_impact_gap(
     intensity (tons CO2 per $1M). Otherwise return all None.
     """
 
-    # Prefer an amount-based estimate when an issuance amount is available.
-    # This uses a simple intensity heuristic (tCO2 per $1M) and is the
-    # rule-of-thumb the UI should surface when the user selects Rule mode.
+    # prefer an amount-based estimate when an issuance amount is available
+    # use a simple intensity heuristic (tCO2 per $1M) as a rule-of-thumb
     if amount_issued_usd is not None and amount_issued_usd > 0:
+        # convert amount in USD to $million units for intensity multiplication
         amount_musd = float(amount_issued_usd) / 1_000_000.0
-        # Default intensity (tCO2 per $1M) — placeholder that can be tuned later
+        # default intensity (tCO2 per $1M) — tunable placeholder
         default_intensity_tco2_per_musd = 5.0
+        # predicted total tons = intensity * amount (in $1M)
         predicted = default_intensity_tco2_per_musd * amount_musd
-        # If a claimed value exists, keep it for display; gap can be computed
-        # as claimed - predicted (useful information), otherwise gap is None.
-        claimed = float(claimed_impact_co2_tons) if claimed_impact_co2_tons is not None else None
+        # if a claim exists, keep it and compute gap = claimed - predicted
+        claimed = (
+            float(claimed_impact_co2_tons)
+            if claimed_impact_co2_tons is not None
+            else None
+        )
         gap = (claimed - predicted) if claimed is not None else None
+        # uncertainty: simple floor of 1.0 or 10% of predicted
         return {
             "claimed": claimed,
             "predicted": predicted,
@@ -37,12 +42,13 @@ def predict_impact_gap(
             "gap": gap,
         }
 
-    # If no amount is available, fall back to using the claim (if present)
-    # and compute a conservative realized fraction.
+    # fallback: if only a claimed value is present, estimate realized fraction
     if claimed_impact_co2_tons is not None:
         claimed = float(claimed_impact_co2_tons)
+        # assume conservative realized fraction ~65% (placeholder)
         predicted = 0.65 * claimed
         gap = claimed - predicted
+        # uncertainty as 15% of the claimed amount
         return {
             "claimed": claimed,
             "predicted": predicted,

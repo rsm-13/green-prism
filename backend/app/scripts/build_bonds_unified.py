@@ -2,7 +2,7 @@
 """
 Build a unified bonds.csv from multiple green bond datasets.
 
-Usage (run in backend dir):
+usage (run in backend dir):
 
 cd green-prism/backend
 
@@ -14,7 +14,7 @@ cd green-prism/backend
         --output app/data/bonds.csv
 
 
-You can run it with any subset of the inputs; only provided files will be used.
+Can run it with any subset of the inputs; only provided files will be used.
 """
 
 import argparse
@@ -59,20 +59,21 @@ def safe_parse_date(val: str) -> Optional[pd.Timestamp]:
 
 
 # ------------------------------
-# WORLD BANK GREEN BONDS
+# world bank green bonds
 # ------------------------------
 
 def normalize_world_bank(path: Path) -> pd.DataFrame:
     """
     Normalize World Bank 'Green Bonds since 2008' CSV to common schema.
     Expected columns:
-      type, maturity, denominated_currency, volume, coupon,
-      settlement_date, maturity_date, usd_equivalent, isin,
-      final_terms, institution
+        type, maturity, denominated_currency, volume, coupon,
+        settlement_date, maturity_date, usd_equivalent, isin,
+        final_terms, institution
     """
     df = pd.read_csv(path)
 
     # base frame
+    # build base output frame with mapped columns
     out = pd.DataFrame()
     out["source_dataset"] = "world_bank"
     out["isin"] = df.get("isin")
@@ -103,6 +104,7 @@ def normalize_world_bank(path: Path) -> pd.DataFrame:
     out["impact_source"] = None
 
     # bond_id: prefer ISIN if available
+    # bond_id: prefer ISIN if available, otherwise fall back to index
     def mk_id(row):
         isin = str(row.get("isin", "")).strip()
         if isin and isin != "nan":
@@ -121,21 +123,22 @@ def normalize_world_bank(path: Path) -> pd.DataFrame:
 
 
 # ------------------------------
-# KAPSARC GREEN BOND ISSUANCES
+# kapsarc green bond issuances
 # ------------------------------
 
 def normalize_kapsarc(path: Path) -> pd.DataFrame:
     """
     Normalize KAPSARC 'green-bond-issuances.csv' to common schema.
     Expected columns (semicolon separated):
-      Year, Country, Indicator, Bond_Type, Type_of_Issuer,
-      Use_of_Proceed, Principal_Currency, Unit, Value
+        Year, Country, Indicator, Bond_Type, Type_of_Issuer,
+        Use_of_Proceed, Principal_Currency, Unit, Value
 
     NOTE: This dataset is *issuance aggregates*, not single bonds.
     We'll treat each row as a 'synthetic bond bucket' for now.
     """
     df = pd.read_csv(path, sep=";")
 
+    # create output frame mapping kapsarc columns -> common schema
     out = pd.DataFrame()
     out["source_dataset"] = "kapsarc"
     out["isin"] = None  # not provided
@@ -150,6 +153,7 @@ def normalize_kapsarc(path: Path) -> pd.DataFrame:
     unit = df["Unit"].fillna("")
     value = df["Value"]
     amount_usd = []
+    # convert unit strings (Million/Billion) to numeric USD
     for u, v in zip(unit, value):
         if pd.isna(v):
             amount_usd.append(np.nan)
@@ -166,7 +170,7 @@ def normalize_kapsarc(path: Path) -> pd.DataFrame:
 
     out["issue_year"] = df["Year"]
     out["issue_date"] = pd.to_datetime(df["Year"].astype(str) + "-01-01",
-                                       errors="coerce")
+                                        errors="coerce")
 
     out["maturity_date"] = pd.NaT
     out["maturity_year"] = np.nan
@@ -196,20 +200,21 @@ def normalize_kapsarc(path: Path) -> pd.DataFrame:
 
 
 # ------------------------------
-# CLIMATE BONDS INITIATIVE EXPORT
+# climate bonds initiative export
 # ------------------------------
 
 def normalize_cbi(path: Path) -> pd.DataFrame:
     """
-    Normalize Climate Bonds Initiative 'bonds_export.csv' to common schema.
-    Expected columns (subset):
-      'Issuer / Applicant', 'Issue date',
-      'Size (in issuance currency)', 'Size (USD equivalent)',
-      'Term', 'Issuer Country', 'Sector Criteria',
-      'Approved Verifier', 'Status', 'Certification type', 'Description'
+    normalize climate bonds initiative 'bonds_export.csv' to common schema.
+    expected columns (subset):
+        'Issuer / Applicant', 'Issue date',
+        'Size (in issuance currency)', 'Size (USD equivalent)',
+        'Term', 'Issuer Country', 'Sector Criteria',
+        'Approved Verifier', 'Status', 'Certification type', 'Description'
     """
     df = pd.read_csv(path)
 
+    # map cbi export fields into common schema
     out = pd.DataFrame()
     out["source_dataset"] = "cbi"
     out["isin"] = None  # not present in export (unless in another column)
@@ -220,6 +225,7 @@ def normalize_cbi(path: Path) -> pd.DataFrame:
 
     out["currency"] = None  # 'Size (in issuance currency)' is a text field
 
+    # parse 'Size (in issuance currency)' text like 'USD 18.884m'
     def parse_size_local(val: str) -> Optional[float]:
         if pd.isna(val):
             return None
@@ -275,7 +281,7 @@ def normalize_cbi(path: Path) -> pd.DataFrame:
 
 
 # ------------------------------
-# KAGGLE
+# kaggle
 # ------------------------------
 
 def normalize_kaggle(path: Path) -> pd.DataFrame:
@@ -283,10 +289,10 @@ def normalize_kaggle(path: Path) -> pd.DataFrame:
     Normalize Kaggle 'Global Sustainable Bonds Data.csv' to common schema.
 
     Expected columns:
-      'Issuer Name', 'Issuer location', 'Issuer sector',
-      'Bond type', 'Bonds per type', 'Amount issued (USD bn.)',
-      'Lastest External Review Form', 'External  Reviewer\\n',
-      'Latest External Review Report'
+        'Issuer Name', 'Issuer location', 'Issuer sector',
+        'Bond type', 'Bonds per type', 'Amount issued (USD bn.)',
+        'Lastest External Review Form', 'External  Reviewer\\n',
+        'Latest External Review Report'
 
     If another Kaggle file is passed that does not match this schema
     (e.g. index or ETF NAV), we currently skip it for bonds.csv.
@@ -301,6 +307,7 @@ def normalize_kaggle(path: Path) -> pd.DataFrame:
         )
         return pd.DataFrame(columns=COMMON_COLS)
 
+    # map kaggle global dataset fields into common schema
     out = pd.DataFrame()
     out["source_dataset"] = "kaggle_global_sustainable"
 
@@ -312,6 +319,7 @@ def normalize_kaggle(path: Path) -> pd.DataFrame:
     out["use_of_proceeds"] = df["Bond type"]
 
     # Amount issued in USD
+    # parse 'Amount issued (USD bn.)' strings into numeric dollars
     def parse_amount_usd(val: str) -> Optional[float]:
         """
         Convert strings like '0.57bn' to numeric USD amount (0.57 * 1e9).
@@ -374,6 +382,7 @@ def normalize_kaggle(path: Path) -> pd.DataFrame:
     out["isin"] = None
 
     # bond_id synthetic: issuer + row index
+    # synthethic bond id for kaggle rows
     def mk_id(row):
         issuer = str(row["issuer_name"]).strip().replace(" ", "_")[:30]
         idx = row.name
@@ -390,7 +399,7 @@ def normalize_kaggle(path: Path) -> pd.DataFrame:
 
 
 # ------------------------------
-# ADB PLACEHOLDER
+# adb placeholder
 # ------------------------------
 
 def normalize_adb(path: Path) -> pd.DataFrame:
@@ -399,9 +408,9 @@ def normalize_adb(path: Path) -> pd.DataFrame:
     The Excel layout is complex (multiple sections / headings).
 
     For now, returns an empty frame. Later will:
-      - Identify project rows
-      - Aggregate to bond-level (if there's a bond identifier)
-      - Map CO2/MWh metrics into claimed/actual impact.
+        - Identify project rows
+        - Aggregate to bond-level (if there's a bond identifier)
+        - Map CO2/MWh metrics into claimed/actual impact.
     """
     _ = pd.read_excel(path)
     # TODO: parse actual impact metrics and map to bonds
@@ -409,7 +418,7 @@ def normalize_adb(path: Path) -> pd.DataFrame:
 
 
 # ------------------------------
-# MAIN
+# main
 # ------------------------------
 
 def main():

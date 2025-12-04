@@ -4,6 +4,8 @@ import re
 from dataclasses import dataclass
 from typing import Dict
 
+# text feature extraction utils (keyword counts, simple density scores)
+
 
 @dataclass
 class TextFeatures:
@@ -85,12 +87,13 @@ def _count_occurrences(text: str, keywords: list[str]) -> int:
 
 def extract_text_features(text: str) -> TextFeatures:
     """
-    Very simple feature extraction. This is intentionally lightweight,
-    so later you can replace/augment with embeddings, BERT outputs, etc.
+    very simple feature extraction. this is intentionally lightweight,
+    so later you can replace/augment with embeddings, bert outputs, etc.
     """
     if not text:
         text = ""
 
+    # basic size metrics
     length_chars = len(text)
     words = re.findall(r"\w+", text)
     length_words = len(words)
@@ -98,6 +101,7 @@ def extract_text_features(text: str) -> TextFeatures:
     # numbers ~ potential quantitative KPIs or impact claims
     num_numbers = len(re.findall(r"\d+(?:\.\d+)?", text))
 
+    # keyword hits for various categories
     use_of_proceeds_hits = _count_occurrences(text, USE_OF_PROCEEDS_KEYWORDS)
     reporting_hits = _count_occurrences(text, REPORTING_KEYWORDS)
     verification_hits = _count_occurrences(text, VERIFICATION_KEYWORDS)
@@ -121,17 +125,3 @@ def extract_text_features(text: str) -> TextFeatures:
         environmental_focus_score=environmental_focus_score,
         kpi_density=kpi_density,
     )
-
-
-def features_as_dict(feats: TextFeatures) -> Dict[str, float | int | bool]:
-    return {
-        "length_chars": feats.length_chars,
-        "length_words": feats.length_words,
-        "num_numbers": feats.num_numbers,
-        "has_use_of_proceeds": feats.has_use_of_proceeds,
-        "has_reporting": feats.has_reporting,
-        "has_verification": feats.has_verification,
-        "has_kpi": feats.has_kpi,
-        "environmental_focus_score": feats.environmental_focus_score,
-        "kpi_density": feats.kpi_density,
-    }

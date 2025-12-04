@@ -24,16 +24,17 @@ def score_disclosure(
 ) -> Dict[str, Any]:
     cleaned = clean_text(text)
 
-    # Rule-based teacher
+    # clean input text and prepare features
+    # rule-based teacher
     transparency_components = score_transparency(cleaned)
     rule_score = round(transparency_components.overall, 1)
 
-    # Optional ML score
+    # optional ml score: compute if mode requests it and artifact exists
     ml_score: Optional[float] = None
     if mode in ("ml", "blend") and ml_model_available():
         ml_score = predict_transparency_score_ml(cleaned)
 
-    # Decide final transparency_score
+    # decide final transparency_score using selected mode
     if mode == "ml" and ml_score is not None:
         transparency_score = round(ml_score, 1)
         source = "ml"
@@ -45,16 +46,14 @@ def score_disclosure(
         transparency_score = rule_score
         source = "rule"
 
-    # Impact model: pass amount through so a rule-based fallback can estimate
-    # predicted impact when no claimed value is provided.
+    # impact model: compute predicted impact (rule-based fallback uses amount)
     impact_result = predict_impact_gap(claimed_impact_co2_tons, amount_issued_usd)
 
     # naive greenwashing risk placeholder
     greenwashing_risk = "medium"
 
-    explanations = build_explanations(
-        cleaned, transparency_components, impact_result
-    )
+    # build human-readable explanations from model outputs
+    explanations = build_explanations(cleaned, transparency_components, impact_result)
 
     return {
         "mode": source,

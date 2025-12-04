@@ -1,4 +1,5 @@
 # backend/app/services/bonds_service.py
+# simple csv-backed bond loader used by the api
 from pathlib import Path
 from typing import List, Dict, Optional
 import csv
@@ -8,7 +9,7 @@ DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "app" / "bonds.csv"
 
 def load_bonds(limit: Optional[int] = None) -> List[Dict]:
     if not DATA_PATH.exists():
-        # Make this loud so you see it in the FastAPI logs if wrong path
+        # make this loud so i see it in the fastapi logs if wrong path
         raise RuntimeError(f"bonds.csv not found at {DATA_PATH}")
 
     bonds: List[Dict] = []

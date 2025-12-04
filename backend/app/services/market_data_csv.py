@@ -11,8 +11,8 @@ DATA_PATH = Path(__file__).resolve().parents[2] / "app" / "data" / "market_serie
 @lru_cache(maxsize=1)
 def _load_market_df() -> pd.DataFrame:
     """
-    Load market_series.csv once and cache it in memory.
-    Expected columns:
+    load market_series.csv once and cache it in memory.
+    expected columns:
         symbol, date, price, yield_to_maturity, yield_to_worst, nav
     """
     if not DATA_PATH.exists():
@@ -25,11 +25,12 @@ def _load_market_df() -> pd.DataFrame:
 
 def get_price_series(symbol: str, days: Optional[int] = None) -> List[Dict]:
     """
-    Return price series for a given symbol in lightweight-charts format:
+    return price series for a given symbol in lightweight-charts format:
         [{ time: unix_timestamp, value: price }, ...]
-    Uses 'price' if available, otherwise 'nav'.
+    uses 'price' if available, otherwise 'nav'
     """
     df = _load_market_df()
+    # filter by requested symbol and sort by date
     df = df[df["symbol"] == symbol].copy()
     df = df.sort_values("date")
 
@@ -42,6 +43,7 @@ def get_price_series(symbol: str, days: Optional[int] = None) -> List[Dict]:
         df = df[df["date"] >= cutoff]
 
     records: List[Dict] = []
+    # convert rows to frontend-friendly series
     for _, row in df.iterrows():
         date = row["date"]
         if pd.isna(date):
@@ -53,6 +55,7 @@ def get_price_series(symbol: str, days: Optional[int] = None) -> List[Dict]:
         if pd.isna(price):
             continue
 
+        # date -> unix timestamp in seconds
         ts = int(date.timestamp())
         records.append({"time": ts, "value": float(price)})
 
@@ -61,7 +64,7 @@ def get_price_series(symbol: str, days: Optional[int] = None) -> List[Dict]:
 
 def get_series_summary(symbol: str, days: Optional[int] = None) -> Dict:
     """
-    Return a small summary with the latest price and yields:
+    return a small summary with the latest price and yields:
 
     {
         "symbol": "...",
@@ -75,6 +78,7 @@ def get_series_summary(symbol: str, days: Optional[int] = None) -> Dict:
     }
     """
     df = _load_market_df()
+    # narrow to symbol and order by date
     df = df[df["symbol"] == symbol].copy()
     df = df.sort_values("date")
 
@@ -89,6 +93,7 @@ def get_series_summary(symbol: str, days: Optional[int] = None) -> Dict:
     if df.empty:
         return {"symbol": symbol, "days": days, "latest": None}
 
+    # pick latest available row in the filtered timeframe
     latest = df.iloc[-1]
 
     # price or nav
@@ -105,6 +110,7 @@ def get_series_summary(symbol: str, days: Optional[int] = None) -> Dict:
         "yield_to_worst": None,
     }
 
+    # copy yield fields if present and numeric
     for col in ["yield_to_maturity", "yield_to_worst"]:
         if col in latest and not pd.isna(latest[col]):
             latest_dict[col] = float(latest[col])

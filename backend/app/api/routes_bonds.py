@@ -8,6 +8,7 @@ from app.ml.impact_gap_model import predict_impact_gap
 
 router = APIRouter()
 
+# bonds endpoints: list and detail, with computed scores and predictions
 
 @router.get("/bonds", response_model=List[Dict[str, Any]])
 def get_bonds(limit: int = 100):
@@ -20,12 +21,12 @@ def get_bond_detail(bond_id: str):
     if not bond:
         raise HTTPException(status_code=404, detail="Bond not found")
 
-    # For Phase 1, just use the use_of_proceeds text as the "disclosure"
+    # for phase 1, just use the use_of_proceeds text as the "disclosure"
     disclosure_text = str(bond.get("use_of_proceeds") or "")
     claimed = bond.get("claimed_impact_co2_tons")
 
     # score_disclosure currently accepts: text, claimed_impact_co2_tons, mode
-    # Pass only supported args to avoid unexpected keyword errors.
+    # pass only supported args to avoid unexpected keyword errors
     scores = score_disclosure(
         text=disclosure_text,
         claimed_impact_co2_tons=claimed,
@@ -38,7 +39,7 @@ def get_bond_detail(bond_id: str):
         project_category=bond.get("project_category"),
     )
 
-    # Map ML impact output to the UI-friendly shape expected by frontend
+    # map ML impact output to the UI-friendly shape expected by frontend
     if ml_impact is not None:
         ml_mapped = {
             "claimed": claimed,
@@ -49,10 +50,10 @@ def get_bond_detail(bond_id: str):
         }
         scores["impact_prediction_ml"] = ml_mapped
 
-        # If the rule-based prediction is missing (no claimed value and no
+        # if the rule-based prediction is missing (no claimed value and no
         # amount-based fallback), make the ML prediction available under
         # `impact_prediction` as a fallback so the UI shows a prediction when
-        # the user selects the Rule button.
+        # the user selects the rule button
         try:
             rule_pred = scores.get("impact_prediction", {}).get("predicted")
         except Exception:
@@ -71,11 +72,11 @@ def get_bond_detail(bond_id: str):
 
 @router.get("/bonds/{bond_id}/compute_rule", response_model=Dict[str, Any])
 def compute_rule_estimate(bond_id: str):
-    """Run the rule-based impact estimator for a bond and return its output.
+    """run the rule-based impact estimator for a bond and return its output.
 
-    This endpoint is used by the frontend to explicitly run the rule estimator
-    on-demand (for example when the user selects Rule mode) and return a
-    numeric prediction even if the initial fetch used ML or had no claim.
+    this endpoint is used by the frontend to explicitly run the rule estimator
+    on-demand (for example when the user selects rule mode) and return a
+    numeric prediction even if the initial fetch used ml or had no claim.
     """
     bond = get_bond(bond_id)
     if not bond:

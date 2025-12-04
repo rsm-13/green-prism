@@ -1,5 +1,5 @@
 """
-Functions to load and query bond metadata (from CSV or DB).
+functions to load and query bond metadata (from csv or db).
 """
 
 from pathlib import Path
@@ -15,25 +15,28 @@ BONDS_CSV = DATA_DIR / "bonds.csv"
 
 def load_bonds() -> pd.DataFrame:
     """Load bonds.csv into a pandas DataFrame."""
+    # read csv from app/data; return empty DataFrame when missing
     if not BONDS_CSV.exists():
         return pd.DataFrame()
     return pd.read_csv(BONDS_CSV)
 
 
 def list_bonds(limit: int = 20) -> List[Dict[str, Any]]:
-    """Return a list of bonds for the API."""
+    """return a list of bonds for the api."""
     df = load_bonds()
     if df.empty:
         return []
+    # return head(limit) as list of dicts for JSON serialization
     return df.head(limit).to_dict(orient="records")
 
 
 def get_bond(bond_id: str) -> Dict[str, Any] | None:
-    """Return a single bond by id."""
+    """return a single bond by id."""
     df = load_bonds()
     if df.empty or "bond_id" not in df.columns:
         return None
     match = df[df["bond_id"] == bond_id]
     if match.empty:
         return None
+    # return first matching row as dict
     return match.iloc[0].to_dict()

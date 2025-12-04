@@ -1,5 +1,7 @@
 import React from "react";
 
+// analyzer form: UI for pasting disclosure text and running transparency/impact analysis
+
 export default function Analyzer({
     text,
     setText,
@@ -18,6 +20,7 @@ export default function Analyzer({
     return (
         <div>
             <h2>ANALYZE DISCLOSURE TEXT</h2>
+            {/* main input area for disclosure text */}
             <textarea
                 style={{
                     width: "100%",
@@ -33,6 +36,7 @@ export default function Analyzer({
                 onChange={(e) => setText(e.target.value)}
             />
 
+        {/* controls row: mode selector, optional claimed input, and run button */}
         <div
             style={{
             marginTop: "0.5rem",
@@ -64,6 +68,7 @@ export default function Analyzer({
             </div>
 
             <label style={{ display: "flex", alignItems: "center", gap: 8, flex: "1 1 auto" }}>
+            {/* optional claimed impact input used to compare against predicted impact */}
             Claimed CO₂ avoided (tons):{" "}
             <input
                 type="number"
@@ -80,6 +85,7 @@ export default function Analyzer({
             />
             </label>
 
+            {/* run analysis button: calls `handleAnalyze` and shows loading state */}
             <button
                 onClick={handleAnalyze}
                 disabled={loading || !text}

@@ -1,5 +1,5 @@
 # backend/app/ml/transparency_model_ml.py
-
+# ml transparency regressor wrapper: lazy-load artifact + encoder
 from __future__ import annotations
 
 from functools import lru_cache
@@ -115,6 +115,7 @@ def _embed_texts(texts: List[str]) -> np.ndarray:
     device = next(model.parameters()).device
     all_embs = []
 
+    # embed texts in small batches to avoid OOM on GPU/CPU
     for i in range(0, len(texts), 4):
         batch = texts[i : i + 4]
         enc = tokenizer(
@@ -124,8 +125,10 @@ def _embed_texts(texts: List[str]) -> np.ndarray:
             max_length=256,
             return_tensors="pt",
         )
+        # move tensors to encoder device
         enc = {k: v.to(device) for k, v in enc.items()}
         outputs = model(**enc)
+        # use CLS token embedding as sentence representation
         cls_emb = outputs.last_hidden_state[:, 0, :]
         all_embs.append(cls_emb.cpu().numpy())
 
@@ -142,7 +145,7 @@ def predict_transparency_score_ml(text: str) -> Optional[float]:
         return None
 
     cleaned = clean_text(text)
-    emb = _embed_texts([cleaned])              # (1, hidden)
+    emb = _embed_texts([cleaned])                             # (1, hidden)
     hand = np.stack([handcrafted_features(cleaned)], axis=0)  # (1, H)
     feats = np.concatenate([emb, hand], axis=1)               # (1, D)
 

@@ -1,4 +1,5 @@
 # backend/app/services/impact_ml_service.py
+# ml-backed impact estimator: load artifact + encoder, predict intensity
 from __future__ import annotations
 
 from pathlib import Path
@@ -35,7 +36,7 @@ def _encode_metadata(row: Dict[str, Any], artifact: Dict[str, Any]) -> np.ndarra
 
     feats = []
 
-    # numeric
+    # numeric: convert configured numeric cols to floats
     for col in num_cols:
         val = row.get(col, 0.0)
         try:
@@ -44,7 +45,7 @@ def _encode_metadata(row: Dict[str, Any], artifact: Dict[str, Any]) -> np.ndarra
             v = 0.0
         feats.append(v)
 
-    # categorical as label indices
+    # categorical as label indices: map category -> label index used by model
     for col in cat_cols:
         mapping = cat_maps[col]
         raw_val = str(row.get(col, "UNKNOWN"))
@@ -58,40 +59,44 @@ def predict_ml_impact_for_bond(
     *, text: str, amount_issued_usd: Optional[float], project_category: Optional[str]
 ) -> Optional[Dict[str, Any]]:
     """
-    Run the ML intensity model for a single bond.
+    run the ml intensity model for a single bond.
 
-    Returns dict with:
+    returns dict with:
         - predicted_impact_mean (tons/year)
         - predicted_impact_std  (tons/year)
         - predicted_intensity_tco2_per_musd
-    or None if something is missing.
+    or None if something is missing
     """
+    # require amount to convert intensity -> total tons; return None if missing
     if amount_issued_usd is None or amount_issued_usd <= 0:
         # intensity model needs an amount to turn intensity -> total tons
         return None
 
     artifact, encoder = _load_artifact()
 
+    # clean and embed text using sentence-transformers encoder
     cleaned = clean_text(text)
     emb = encoder.encode([cleaned])
     emb = np.asarray(emb, dtype=np.float32)  # (1, H)
 
     # build meta row
-    meta = {
-        "amount_issued_usd": amount_issued_usd,
-    }
+    # build metadata vector expected by the saved artifact
+    meta = {"amount_issued_usd": amount_issued_usd}
     if project_category is not None:
         meta["project_category"] = project_category
 
     meta_vec = _encode_metadata(meta, artifact)  # (1, M)
+    # final feature array = [text_embedding, numeric/categorical meta]
     feats = np.concatenate([emb, meta_vec], axis=1)  # (1, H+M)
 
     model = artifact["model"]
     pred_log_intensity = float(model.predict(feats)[0])
 
+    # model predicts log1p(intensity); convert back to intensity (tCO2 per $1M)
     pred_intensity = float(np.expm1(pred_log_intensity))  # tCO2 per $1M
     amount_musd = amount_issued_usd / 1_000_000.0
     pred_tons = pred_intensity * amount_musd
+    # simple uncertainty heuristic (15% of predicted tons)
     pred_std_tons = float(abs(pred_tons) * 0.15)
 
     return {

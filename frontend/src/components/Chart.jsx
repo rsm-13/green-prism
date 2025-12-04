@@ -1,4 +1,5 @@
-// Chart.jsx
+// chart component: wraps lightweight-charts to render a time series
+// note: re-initializes chart when `height` or `theme` changes
 import React, { useEffect, useRef } from "react";
 import { createChart, LineSeries } from "lightweight-charts";
 

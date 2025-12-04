@@ -1,5 +1,7 @@
 import React from "react";
 
+// bonds panel: searchable list of bonds and selected bond details
+// displays metadata and impact/transparency results for a selected bond
 export default function BondsPanel({
     filteredBonds,
     bondFilter,
@@ -18,6 +20,7 @@ export default function BondsPanel({
     return (
     <div>
         <h2>BONDS</h2>
+        {/* search input: filters the client-side bond list by issuer, bond id, or isin */}
         <div style={{ marginBottom: "0.5rem" }}>
         <label style={{ display: "block", marginBottom: 6 }}>
             <small>Search bonds (issuer, bond id, ISIN):</small>
@@ -71,9 +74,11 @@ export default function BondsPanel({
             <div style={{ flex: 2 }}>Amount</div>
             </div>
 
+            {/* list of matching bonds (first 200 shown for performance) */}
             <div style={{ maxHeight: 300, overflow: "auto" }}>
             {filteredBonds.slice(0, 200).map((b) => {
                 const isSelected = selectedBondId === b.bond_id;
+                // each row is clickable to select the bond and load details
                 return (
                 <div
                     key={b.bond_id}
@@ -114,6 +119,7 @@ export default function BondsPanel({
         </div>
         </div>
 
+        {/* detail panel: shown when a bond is selected, includes scores and metadata */}
         {bondDetail && (
         <div
             style={{

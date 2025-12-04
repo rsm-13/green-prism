@@ -13,7 +13,7 @@ app = FastAPI(title="Green Prism API", debug=True)
 
 app.include_router(market_router, prefix="/api")
 
-# CORS for local dev (React on Vite)
+# cors for local dev (react on vite)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],

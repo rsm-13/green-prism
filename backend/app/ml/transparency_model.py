@@ -1,4 +1,5 @@
 # backend/app/ml/transparency_model.py
+# transparency scoring model: small rule-based component extractor
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -25,6 +26,7 @@ class TransparencyComponents:
 
 
 def _score_use_of_proceeds(feats: TextFeatures) -> float:
+    # score clarity of use-of-proceeds and quantitative detail
     base = 20.0
     if feats.has_use_of_proceeds:
         base += 40.0
@@ -34,6 +36,7 @@ def _score_use_of_proceeds(feats: TextFeatures) -> float:
 
 
 def _score_reporting(feats: TextFeatures) -> float:
+    # score reporting practices and presence of kpis
     base = 10.0
     if feats.has_reporting:
         base += 50.0
@@ -44,6 +47,7 @@ def _score_reporting(feats: TextFeatures) -> float:
 
 
 def _score_verification(feats: TextFeatures) -> float:
+    # score strength of external verification / third-party review
     base = 10.0
     if feats.has_verification:
         base += 60.0
