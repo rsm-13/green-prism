@@ -3,8 +3,21 @@
 
 ## Project Overview
 
-- **what**: Green Prism is a small end-to-end prototype that analyzes green-bond disclosures for transparency and estimates impact (tons of CO₂). it combines a python/FastAPI backend with a React + Vite frontend for exploration and visualization.
-- **purpose**: provide reviewers with a reproducible service that (a) lists sample bonds and metadata, (b) scores disclosure transparency (rule-based and optional ML), and (c) predicts/estimates impact using a rule-of-thumb fallback plus an optional ML intensity model.
+### What?
+In essence, Green Prism is a sustainable fixed income procurement intelligence tool integrating transparency and real impact metrics for ESG compliance. Green Prism is a small end-to-end prototype that analyzes green-bond disclosures for transparency and estimates impact (tons of CO₂). It combines a python/FastAPI backend with a React + Vite frontend for exploration and visualization.
+
+### Purpose
+Provide reviewers with a reproducible service that (a) lists sample bonds and metadata, (b) scores disclosure transparency (rule-based and optional ML), and (c) predicts/estimates impact using a rule-of-thumb fallback plus an optional ML intensity model.
+
+### Why?
+- The green bond industry has surpassed $1T, yet greenwashing risk is still up by 70% year-over-year. Today, green bond investors face massive variability in labeled emissions and transparency, yet still purchase based on sticker price alone.
+- Climate Bonds highlights that impact reporting is still “highly unstandardised”, with big differences in clarity, granularity, and methodologies between issuers, making impacts hard to compare.
+- Only ~⅓ of issuers explicitly reference a taxonomy or a harmonized impact-reporting framework such as ICMA’s Handbook, further contributing to disparity in metrics.
+- Asset managers, institutional investors, sovereigns, and issuers spend billions in climate-linked fixed income, but they are mandated to decarbonize & finance the clean energy transition by regulatory and corporate scope 3 ESG pressures. They risk greenwashing exposure, and their issue is that they lack a tool providing audit-grade scoring, optimized ratings, and transparent impact metrics.
+- Green Prism verifies what’s real, protecting portfolios from greenwashing. Our platform gives investment teams a unified view of cost + environmental impact, helping them identify and avoid low-impact suppliers and reduce total emissions without increasing cost. 
+
+
+
 
 ### Detailed Backend Details in:
 `green-prism/backend/README_backend.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/backend/README_backend.md)
