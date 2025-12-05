@@ -3,6 +3,9 @@
 - **what**: Green Prism is a small end-to-end prototype that analyzes green-bond disclosures for transparency and estimates impact (tons of CO₂). it combines a python/FastAPI backend with a React + Vite frontend for exploration and visualization.
 - **purpose**: provide reviewers with a reproducible service that (a) lists sample bonds and metadata, (b) scores disclosure transparency (rule-based and optional ML), and (c) predicts/estimates impact using a rule-of-thumb fallback plus an optional ML intensity model.
 
+**Pitch Video**
+https://www.youtube.com/watch?v=HO3zVZAcv1M
+
 **Repository layout (quick)**
 
 - `backend/` — FastAPI application, data loaders, ML wrappers, and data-prep scripts
