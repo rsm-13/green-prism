@@ -9,14 +9,18 @@
 ## Pitch Video
 https://www.youtube.com/watch?v=HO3zVZAcv1M
 
-**Repository layout (quick)**
+
+## Architecture
+
+### Repository layout (quick)
 
 - `backend/` — FastAPI application, data loaders, ML wrappers, and data-prep scripts
 - `frontend/` — React + Vite single-page application
 - `LICENSE` — project license
 
 this file is the user manual: follow the steps below to install, run, and evaluate the project locally. if you need more implementation detail, consult `backend/README.md` and `frontend/README.md`.
-**system requirements (tested)**
+
+### system requirements (tested)
 
 - macOS (zsh) — steps assume `zsh` and macOS, but Linux is similar
 - python 3.10+ (3.11 recommended) for backend
@@ -24,7 +28,7 @@ this file is the user manual: follow the steps below to install, run, and evalua
 
 ---
 
-**step-by-step: run the full stack locally**
+## Step-by-Step: Run the full stack locally
 
 these exact commands will get the backend and frontend running on a macOS developer machine.
 
@@ -58,7 +62,7 @@ npm run dev
 
 ---
 
-**Makefile (quick dev targets)**
+### Makefile (quick dev targets)
 
 - `make backend-install` — create backend venv and install requirements
 - `make backend-dev` — start backend uvicorn (dev)
@@ -86,7 +90,7 @@ make smoke
 ```
 
 
-**api reference & examples**
+## API reference & examples
 
 - `GET /api/bonds?limit={n}` — list bonds (json)
 - `GET /api/bonds/{bond_id}` — bond detail (metadata + scores)
@@ -126,7 +130,7 @@ expected response shape (abridged):
 
 ---
 
-**data & model artifacts**
+### Data & model artifacts
 
 - canonical datasets live in `backend/app/data/`, including `bonds.csv` and `market_series.csv`.
 - ML artifacts (optional) live in `backend/app/models/`:
@@ -139,7 +143,7 @@ notes:
 
 ---
 
-**scripts (data preparation)**
+### Scripts (data preparation)
 
 - build unified bonds CSV from multiple source CSVs:
 
@@ -168,13 +172,13 @@ python app/scripts/extract_disclosure_text.py
 
 ---
 
-**notebooks & model development**
+### Notebooks & model development
 
 - notebooks are located under `backend/app/ml/notebooks/`. they document exploratory work and model training steps. notebooks are not required to run the service.
 
 ---
 
-**recommended manual checks**
+### Recommended manual checks
 
 ```bash
 # backend smoke import
@@ -193,7 +197,7 @@ note: `vulture` can generate false positives for code used only in notebooks or 
 
 ---
 
-**troubleshooting**
+## Troubleshooting
 
 - backend import errors: ensure .venv is activated and `requirements.txt` installed.
 - frontend cannot reach backend: make sure backend is running on `127.0.0.1:8000` or update `frontend/src/api.ts::API_BASE` to the running host. also check browser console and backend logs for CORS/connection errors.
@@ -201,7 +205,7 @@ note: `vulture` can generate false positives for code used only in notebooks or 
 
 ---
 
-**submission checklist for reviewers**
+### Submission checklist for reviewers
 
 1. ensure python and node are installed
 2. run backend steps in `backend/` folder (venv, pip install, uvicorn)
