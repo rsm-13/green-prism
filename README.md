@@ -6,6 +6,15 @@
 - **what**: Green Prism is a small end-to-end prototype that analyzes green-bond disclosures for transparency and estimates impact (tons of CO₂). it combines a python/FastAPI backend with a React + Vite frontend for exploration and visualization.
 - **purpose**: provide reviewers with a reproducible service that (a) lists sample bonds and metadata, (b) scores disclosure transparency (rule-based and optional ML), and (c) predicts/estimates impact using a rule-of-thumb fallback plus an optional ML intensity model.
 
+### Detailed Backend Details in:
+`green-prism/backend/README_backend.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/backend/README_backend.md)
+
+### Detailed Frontend Details in:
+`green-prism/frontend/README_frontend.md` or or [click here](https://github.com/rsm-13/green-prism/blob/main/frontend/README_frontend.md)
+
+### Detailed Design Details in:
+`green-prism/DESIGN.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/DESIGN.md)
+
 ## Pitch Video
 https://www.youtube.com/watch?v=HO3zVZAcv1M
 
@@ -205,7 +214,7 @@ note: `vulture` can generate false positives for code used only in notebooks or 
 
 ---
 
-### Submission checklist for reviewers
+### Checklist for users
 
 1. ensure python and node are installed
 2. run backend steps in `backend/` folder (venv, pip install, uvicorn)
