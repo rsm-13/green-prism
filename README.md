@@ -10,13 +10,13 @@
 `green-prism/backend/README_backend.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/backend/README_backend.md)
 
 ### Detailed Frontend Details in:
-`green-prism/frontend/README_frontend.md` or or [click here](https://github.com/rsm-13/green-prism/blob/main/frontend/README_frontend.md)
+`green-prism/frontend/README_frontend.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/frontend/README_frontend.md)
 
 ### Detailed Design Details in:
 `green-prism/DESIGN.md` or [click here](https://github.com/rsm-13/green-prism/blob/main/DESIGN.md)
 
 ## Pitch Video
-https://www.youtube.com/watch?v=HO3zVZAcv1M
+https://youtu.be/zDrwmIQGCdc
 
 
 ## Architecture
