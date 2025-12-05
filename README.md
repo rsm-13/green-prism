@@ -14,9 +14,7 @@ Provide reviewers with a reproducible service that (a) lists sample bonds and me
 - Climate Bonds highlights that impact reporting is still “highly unstandardised”, with big differences in clarity, granularity, and methodologies between issuers, making impacts hard to compare.
 - Only ~⅓ of issuers explicitly reference a taxonomy or a harmonized impact-reporting framework such as ICMA’s Handbook, further contributing to disparity in metrics.
 - Asset managers, institutional investors, sovereigns, and issuers spend billions in climate-linked fixed income, but they are mandated to decarbonize & finance the clean energy transition by regulatory and corporate scope 3 ESG pressures. They risk greenwashing exposure, and their issue is that they lack a tool providing audit-grade scoring, optimized ratings, and transparent impact metrics.
-- Green Prism verifies what’s real, protecting portfolios from greenwashing. Our platform gives investment teams a unified view of cost + environmental impact, helping them identify and avoid low-impact suppliers and reduce total emissions without increasing cost. 
-
-
+- Green Prism verifies what’s real, protecting portfolios from greenwashing. Our platform gives investment teams a unified view of cost + environmental impact, helping them identify and avoid low-impact suppliers and reduce total emissions without increasing cost.
 
 
 ### Detailed Backend Details in:
