@@ -44,7 +44,6 @@ The API is intentionally small and synchronous, implemented with FastAPI and dri
 
 - The frontend is built with React and Vite. Vite provides a fast dev experience and simple production builds. the frontend focuses on a few core components (`src/components`) and a tiny data access layer in `src/api.ts` that centralizes the backend base URL and fetch wrappers. this low-friction approach was chosen to keep the UI easy to read and modify for reviewers while providing sufficient interactivity (charts, panels, and the analyze workflow).
 - I also chose to use JavaScript react due to familiarity and greater customizability for design and compatibility with css.
-- TODO!
 
 ## local development
 
