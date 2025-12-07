@@ -6,7 +6,7 @@ This document describes the technical design and implementation decisions behind
 
 Green Prism is a two-tier web prototype composed of a Python FastAPI backend and a React (Vite) frontend. the backend exposes a small set of REST endpoints under `/api` for listing bonds, returning bond details, running text analysis, and computing rule-based or ML-assisted impact estimates. the frontend is a single page app that consumes the backend endpoints to provide exploratory UI and visualizations.
 
-why this split: using a lightweight HTTP backend (FastAPI) plus a separate single page app keeps concerns separated: data ingestion, preprocessing, and ML logic live in the Python layer (where pandas, scikit-learn/xgboost, and joblib fit naturally), while interactivity and visualization live in the frontend. this separation simplifies local development (start two dev servers) and allows the backend to be used independently (e.g., for batch processing scripts or notebook experiments under `backend/app/ml/notebooks`).
+Why this split: using a lightweight HTTP backend (FastAPI) plus a separate single page app keeps concerns separated: data ingestion, preprocessing, and ML logic live in the Python layer (where pandas, scikit-learn/xgboost, and joblib fit naturally), while interactivity and visualization live in the frontend. this separation simplifies local development (start two dev servers) and allows the backend to be used independently (e.g., for batch processing scripts or notebook experiments under `backend/app/ml/notebooks`).
 
 ## backend structure and responsibilities
 
@@ -29,11 +29,12 @@ key ML design choices:
 - lazy loading: ML artifacts and encoder models are loaded on demand rather than at process startup to avoid long cold-start times and reduce memory usage for lightweight dev runs. the loader caches artifacts so repeated calls are inexpensive.
 - small, explainable fallback rules: when an ML model is absent, rule-based estimators provide a reasonable baseline. these rules also act as a fallback for unit tests and reviewers running the prototype without CUDA or large encoder models.
 - separation of preprocessing: feature extraction is implemented in `ml/features.py` and `ml/preprocessing.py`, separate from model wrappers (`transparency_model.py`, `impact_gap_model.py`). this keeps feature logic testable and decoupled from specific model file formats.
-- TODO (tinyml, xgboost)
+- When considering ML models to use for the impact realization model, I considered various options for both the text embedding and training model. For the text embedding, I saw using sentence-transformers with MiniLM advantageous because it is fast and doesn't require GPU. FinBERT embeddings, on the other hand, would be good due to its training on financial-domain data, but seemed unnecessary and infeasibly due to being a significantly heavier model, and my computer lacks in GPU (for the small amount of GPU training I did in this project, I had to use Google Colab for its TPU4 GPU). For the actual model selection, I considered using a basic GradientBoostingRegressor, which would output only a mean, a RandomForest classifier with standard deviation, which would output mean and uncertainty, and XGBoost, which has more powerful parallel gradient boosting trees compared to RandomForest and generally has better performance. Due to my prior experience with XGBoost, I chose to use this model over the others despite the slightly additional setup it requires.
+- MiniLM and XGBoost were used for the transparency model by similar logic to that described above.
 
 ## API design and operational choices
 
-the API is intentionally small and synchronous, implemented with FastAPI and driven by `uvicorn` in development. endpoints accept JSON payloads and return JSON. key design considerations:
+The API is intentionally small and synchronous, implemented with FastAPI and driven by `uvicorn` in development. endpoints accept JSON payloads and return JSON. key design considerations:
 
 - explicit validation: route-level Pydantic models validate incoming requests, preventing invalid inputs from propagating into the services layer.
 - single responsibility: routes are small and delegate heavy lifting to `services`, improving testability and maintainability.
@@ -41,7 +42,7 @@ the API is intentionally small and synchronous, implemented with FastAPI and dri
 
 ## frontend choices
 
-- the frontend is built with React and Vite. Vite provides a fast dev experience and simple production builds. the frontend focuses on a few core components (`src/components`) and a tiny data access layer in `src/api.ts` that centralizes the backend base URL and fetch wrappers. this low-friction approach was chosen to keep the UI easy to read and modify for reviewers while providing sufficient interactivity (charts, panels, and the analyze workflow).
+- The frontend is built with React and Vite. Vite provides a fast dev experience and simple production builds. the frontend focuses on a few core components (`src/components`) and a tiny data access layer in `src/api.ts` that centralizes the backend base URL and fetch wrappers. this low-friction approach was chosen to keep the UI easy to read and modify for reviewers while providing sufficient interactivity (charts, panels, and the analyze workflow).
 - I also chose to use JavaScript react due to familiarity and greater customizability for design and compatibility with css.
 - TODO!
 
@@ -65,7 +66,8 @@ the current prototype is not production-ready. if this project were to be harden
 - On the backend, I decided to use FastAPI instead of Flask (which I initially proposed) and created the core folder structure (api, data, ml, services) along with placeholder routes for analyzing disclosure text and returning sample bond data. Choosing between Flask and FastAPI took some consideration, but I ultimately switched to FastAPI to get better typing, built-in validation, and automatic docs for the API.
 - I ran into difficulty identifying consistent, well-structured green bond datasets that include both disclosure-style text and quantitative impact metrics, which is crucial for training the models. As a result, I also created a simple rule-based transparency/impact scoring service that accepts text input and returns a transparency score, an impact prediction stub, and basic “greenwashing risk” categories as an additional mode of computation of transparency and impact score. This way, the user can decide whether they want to use the predicition model or not, and given the extreme lack of available data, at the moment, the ML prediction will have a very skewed prediction. It had also been necessary to simplify the first version of the models to rule-based placeholders so that I could get the end-to-end pipeline working before I committing to heavier NLP and real regression/classification training.
 - On the frontend side, I scaffolded a React app that can call these endpoints, display a list of sample bonds from a CSV, and show the placeholder scores and explanations for a selected bond or pasted disclosure text as a proof of concept (more on this in the "future work section").
-- using `joblib`-serialized artifacts allows model portability without requiring full retraining or complex model registries for a prototype.
+- For information about ML embedding and training model design decisions, see the above section on "ML integration, artifacts, and fallbacks."
+- Additionally, I decided that using `joblib`-serialized artifacts would be good as it allows model portability without requiring full retraining or complex model registries for a prototype.
 
 ## future work
 
@@ -78,5 +80,5 @@ areas that would benefit from further engineering:
 
 ## closing notes
 
-- the goal was to make the prototype easy to run, inspect, and extend. code is organized to minimize surprises for reviewers: data loading and transformation logic lives in `backend/app/data` and `backend/app/ml`, the scoring logic in `backend/app/services`, and the UI in `frontend/src`.
-- TODO!
+- The goal was to make the prototype easy to run, inspect, and extend: data loading and transformation logic lives in `backend/app/data` and `backend/app/ml`, the scoring logic in `backend/app/services`, and the UI in `frontend/src`.
+- Due to the lack of data, there is clearly great room for improvement on the model performance and score outputs, but GreenPrism's frontend and functionality both demonstrate the viability and utility of such a project on green bond transparency for investors as a proof of concept.
