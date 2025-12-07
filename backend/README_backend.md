@@ -153,6 +153,3 @@ python -c "import app; print('ok')"
 - run static checks (ruff/flake8/mypy) and smoke import (`python -c "import app"`).
 - reconcile duplicates (`app/services/bonds_service.py`) and confirm `app/data/load_bonds.py` is canonical.
 - update `app/ml/explanations.py` to produce more informative human explanations if required by reviewers.
-
-**Where to look next / suggested improvements**
-- TODO
